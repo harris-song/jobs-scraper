@@ -163,8 +163,23 @@ jobs:
             find "$artifact_dir" -name "*.json" -exec mv {} jobs/ \;
           fi
         done
-         echo "Final jobs directory contents:"
+        
+        echo "Final jobs directory contents:"
         ls -la jobs/
+        
+        # Add scraping metadata to each file for debugging
+        echo "=== Adding scraping metadata ==="
+        for file in jobs/*.json; do
+          if [ -f "$file" ]; then
+            # Add a comment with scraping timestamp (this will cause git to detect changes)
+            echo "Adding metadata to $file"
+            temp_file=$(mktemp)
+            jq --arg timestamp "$(date -u +'%Y-%m-%d %H:%M:%S UTC')" \
+               --arg run_id "${{ github.run_id }}" \
+               '. + {"_scraping_metadata": {"last_scraped": $timestamp, "github_run_id": $run_id}}' \
+               "$file" > "$temp_file" && mv "$temp_file" "$file"
+          fi
+        done
         
         # Clean up temporary artifacts directory
         rm -rf temp-artifacts/
@@ -202,14 +217,30 @@ jobs:
     - name: Check for changes
       id: changes
       run: |
+        echo "=== Checking for changes ==="
+        echo "Files in jobs directory:"
+        ls -la jobs/
+        
+        echo "=== File checksums before staging ==="
+        find jobs/ -name "*.json" -exec sh -c 'echo "$1: $(md5sum "$1")"' _ {} \;
+        
         git add jobs/
+        
+        echo "=== Git status after staging ==="
+        git status
+        
+        echo "=== Files staged for commit ==="
+        git diff --cached --name-only
+        
+        echo "=== Detailed diff ==="
+        git diff --cached --stat
+        
         if git diff --cached --quiet; then
           echo "no_changes=true" >> $GITHUB_OUTPUT
-          echo "No changes detected in job files"
+          echo "❌ No changes detected in job files"
         else
           echo "no_changes=false" >> $GITHUB_OUTPUT
-          echo "Changes detected in job files"
-          git diff --cached --name-only
+          echo "✅ Changes detected in job files"
         fi
         
     - name: Commit and push changes
