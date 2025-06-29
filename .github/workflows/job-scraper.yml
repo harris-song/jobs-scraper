@@ -11,8 +11,31 @@ on:
     branches: [ main ]
 
 jobs:
-  scrape-jobs:
+  # Setup job to determine which scrapers to run
+  setup:
     runs-on: ubuntu-latest
+    outputs:
+      scrapers: ${{ steps.set-scrapers.outputs.scrapers }}
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: List scrapers
+      id: set-scrapers
+      run: |
+        SCRAPERS=$(ls scripts/*_jobs_scraper.py | jq -R -s -c 'split("\n")[:-1]')
+        echo "scrapers=$SCRAPERS" >> $GITHUB_OUTPUT
+        echo "Found scrapers: $SCRAPERS"
+  
+  # Individual scraper jobs running in parallel
+  scrape-jobs:
+    needs: setup
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        scraper: ${{ fromJson(needs.setup.outputs.scrapers) }}
+      fail-fast: false
     
     steps:
     - name: Checkout repository
@@ -35,10 +58,13 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+        
     - name: Install Playwright browsers
       run: python -m playwright install --with-deps
+      
     - name: Install xvfb
       run: sudo apt-get update && sudo apt-get install -y xvfb
+      
     - name: Start Xvfb manually
       run: |
         export DISPLAY=:99
@@ -48,15 +74,36 @@ jobs:
     - name: Create jobs directory
       run: mkdir -p jobs
 
-    - name: Run all job scrapers in scripts/
+    - name: Run scraper
       env:
         DISPLAY: :99
       run: |
-        for scraper in scripts/*_jobs_scraper.py; do
-          echo "Running $scraper..."
-          python "$scraper" || echo "[!] $scraper failed"
-        done
+        echo "Running ${{ matrix.scraper }}..."
+        python "${{ matrix.scraper }}" || echo "[!] ${{ matrix.scraper }} failed"
       
+    - name: Upload individual job data
+      uses: actions/upload-artifact@v4
+      with:
+        name: job-data-${{ github.run_id }}-${{ matrix.scraper }}
+        path: jobs/
+        retention-days: 7
+
+  # Job to process results and commit changes
+  process-results:
+    needs: scrape-jobs
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Download all artifacts
+      uses: actions/download-artifact@v4
+      with:
+        pattern: job-data-${{ github.run_id }}-*
+        merge-multiple: true
+        path: jobs/
+    
     - name: Check for changes
       id: changes
       run: |
@@ -106,28 +153,25 @@ jobs:
           echo "ℹ️ **No new changes detected**" >> $GITHUB_STEP_SUMMARY
         fi
         
-    - name: Upload job data as artifacts
+    - name: Upload combined job data
       uses: actions/upload-artifact@v4
       with:
-        name: job-data-${{ github.run_id }}
+        name: job-data-${{ github.run_id }}-combined
         path: jobs/
         retention-days: 7
         
   notify:
-    needs: scrape-jobs
+    needs: process-results
     runs-on: ubuntu-latest
     if: always()
     
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      
     - name: Generate notification
       run: |
-        if [ "${{ needs.scrape-jobs.result }}" == "success" ]; then
+        if [ "${{ needs.process-results.result }}" == "success" ]; then
           echo "🎉 Job scraping completed successfully!"
           echo "📊 Check the summary above for job counts."
         else
           echo "❌ Job scraping failed!"
           echo "🔍 Check the logs for more details."
-        fi 
+        fi

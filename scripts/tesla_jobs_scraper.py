@@ -4,9 +4,9 @@ import os
 import time
 
 def process_jobs_data(json_data, output_file="../jobs/tesla_jobs_processed.json"):
+    """Process the raw Tesla jobs JSON data and save as structured JSON file, sorted by job ID in descending order."""
     # Ensure the jobs directory exists
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    """Process the raw Tesla jobs JSON data and save as structured JSON file, sorted by job ID in descending order."""
     # Extract the job listings
     listings = json_data.get("listings", [])
     print(f"Found {len(listings)} job listings.")
@@ -101,9 +101,9 @@ def process_jobs_data(json_data, output_file="../jobs/tesla_jobs_processed.json"
 
 def main():
     raw_json_file = "../jobs/tesla_jobs_playwright.json"
+    processed_json_file = "../jobs/tesla_jobs_processed.json"
     # Ensure the jobs directory exists
     os.makedirs(os.path.dirname(raw_json_file), exist_ok=True)
-    processed_json_file = "tesla_jobs_processed.json"
     
     print(f"=== Tesla Jobs Scraper ({time.strftime('%Y-%m-%d %H:%M:%S')}) ===")
     
