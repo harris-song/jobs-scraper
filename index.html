@@ -3,16 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jobs Scraper</title>
     <meta name="description" content="Browse job listings from top tech companies like Apple, Meta, NVIDIA, Salesforce, Tesla, and Accenture.">
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Academic style fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <!-- Material Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    <!-- jQuery (required for DataTables) -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <!-- DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
 </head>
 <body>
     <div class="theme-container">
@@ -21,8 +29,8 @@
                 <div class="navbar-top">
                     <div class="logo-container">
                         <div class="logo">
-                            <span class="material-icons">work</span>
-                            <span>Jobs Scraper</span>
+                            <span class="subtitle material-icons">work</span>
+                            <span class="subtitle"><i>harris-song.github.io/jobs-scraper</i></span>
                         </div>
                         <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
                             <span class="material-icons sun-icon">light_mode</span>
@@ -120,20 +128,21 @@
         </div>
 
         <div class="content-wrapper">
-            <div class="jobs-container" id="jobs-container">
-                <!-- Jobs will be dynamically inserted here -->
-            </div>
-            
-            <div class="pagination">
-                <button id="prev-page" class="pagination-btn" disabled>
-                    <span class="material-icons">chevron_left</span>
-                    Previous
-                </button>
-                <span id="page-info" class="pagination-info">Page 1 of 1</span>
-                <button id="next-page" class="pagination-btn" disabled>
-                    Next
-                    <span class="material-icons">chevron_right</span>
-                </button>
+            <div class="table-container">
+                <table id="jobs-table" class="display responsive nowrap" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>Company</th>
+                            <th>Title</th>
+                            <th>Location</th>
+                            <th>Posted Date</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Jobs data will be dynamically inserted here -->
+                    </tbody>
+                </table>
             </div>
         </div>
     </main>
@@ -141,16 +150,16 @@
     <footer>
         <div class="container">
             <div class="footer-content">
-                <div class="footer-logo">
-                    <span class="material-icons">work</span>
-                    <span>TechJobsHub</span>
+                <div class="footer-logo-small">
+                    <span class="material-icons footer-icon-small">work</span>
+                    <span class="footer-text-small"><em>harris-song.github.io</em></span>
                 </div>
                 <div class="footer-text">
-                    <p>&copy; 2025 Job Listings Dashboard | Data scraped from company career pages</p>
+                    
                     <p>Last updated: <span id="footer-last-updated">Loading...</span></p>
                 </div>
                 <div class="footer-links">
-                    <a href="https://github.com/" target="_blank" class="footer-link">
+                    <a href="https://github.com/harris-song/jobs-scraper" target="_blank" class="footer-link">
                         <span class="material-icons">code</span>
                     </a>
                 </div>
@@ -159,35 +168,5 @@
     </footer>
 
     <script src="app.js"></script>
-    
-    <!-- Template for job line items - will be cloned in JavaScript -->
-    <template id="job-line-template">
-        <div class="job-line">
-            <div class="job-line-content">
-                <div class="job-line-main">
-                    <div class="job-line-header">
-                        <img src="" alt="" class="company-logo">
-                        <div class="job-info">
-                            <h3 class="job-title"></h3>
-                            <div class="job-meta">
-                                <span class="company-name"></span>
-                                <span class="job-location">
-                                    <span class="material-icons">location_on</span>
-                                    <span></span>
-                                </span>
-                                <span class="job-date"></span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="job-line-actions">
-                        <a href="" target="_blank" class="btn-primary">
-                            <span class="material-icons">open_in_new</span>
-                            View
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </template>
 </body>
 </html>

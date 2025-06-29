@@ -1,15 +1,10 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Global variables
     let allJobs = [];
-    let filteredJobs = [];
     let uniqueLocations = new Set();
-    let currentPage = 1;
-    const jobsPerPage = 15;
-    let selectedCompany = 'all';
-    let selectedLocation = 'all';
+    let jobsTable; // DataTables instance
     
     // Get DOM elements
-    const jobsContainer = document.getElementById('jobs-container');
     const searchInput = document.getElementById('search-input');
     const companyDropdownBtn = document.getElementById('company-dropdown-btn');
     const locationDropdownBtn = document.getElementById('location-dropdown-btn');
@@ -20,25 +15,29 @@ document.addEventListener('DOMContentLoaded', function() {
     const locationsCountEl = document.querySelector('#locations-count .stat-card-value');
     const lastUpdatedEl = document.querySelector('#last-updated .stat-card-date');
     const footerLastUpdatedEl = document.getElementById('footer-last-updated');
-    const prevPageBtn = document.getElementById('prev-page');
-    const nextPageBtn = document.getElementById('next-page');
-    const pageInfoEl = document.getElementById('page-info');
     const loadingSpinner = document.getElementById('loading-spinner');
     const themeToggle = document.getElementById('theme-toggle');
     
     // Initialize theme from localStorage or system preference
     initTheme();
     
-    // Job line template
-    const jobLineTemplate = document.getElementById('job-line-template');
-    
     // Company logo URLs
-    const companyLogos = {
+    const companyLogosLight = {
         accenture: 'https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg',
         apple: 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg',
         meta: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg',
-        nvidia: 'https://upload.wikimedia.org/wikipedia/en/2/2f/Nvidia_logo.svg',
-        salesforce: 'https://upload.wikimedia.org/wikipedia/en/f/f9/Salesforce.com_logo.svg',
+        nvidia: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6E96zjEpu_8FhoCCl_myMlu86D49-g_b1MA&s',
+        salesforce: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-Pu_DrwbVA66DDPZ_HuVY2WztlN193pOxw&s',
+        tesla: 'https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png'
+    };
+    
+    // Company logo URLs for dark mode
+    const companyLogosDark = {
+        accenture: 'https://companieslogo.com/img/orig/ACN_BIG.D-871a76ce.png?t=1720244490', // This should be more visible in dark mode
+        apple: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apple_gray_logo.png/500px-Apple_gray_logo.png',
+        meta: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg',
+        nvidia: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6E96zjEpu_8FhoCCl_myMlu86D49-g_b1MA&s',
+        salesforce: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-Pu_DrwbVA66DDPZ_HuVY2WztlN193pOxw&s',
         tesla: 'https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png'
     };
     
@@ -92,47 +91,29 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             });
             
-            // Populate location filter
-            populateLocationFilter();
-            
             // Update stats
             updateStats();
             
-            // Set the initial filtered jobs
-            filteredJobs = [...allJobs];
+            // Initialize DataTable
+            initDataTable();
             
-            // Render the jobs
-            renderJobs();
+            // Setup custom filters for DataTables
+            setupCustomFilters();
             
             // Hide loading spinner
             loadingSpinner.style.display = 'none';
             
-            // Add event listeners
-            setupEventListeners();
+            // Add event listener for theme toggle
+            themeToggle.addEventListener('click', toggleTheme);
             
         } catch (error) {
             console.error('Error initializing app:', error);
-            jobsContainer.innerHTML = `<div class="error-message">
+            document.querySelector('.table-container').innerHTML = `<div class="error-message">
                 <h3>Failed to load job data</h3>
                 <p>${error.message}</p>
             </div>`;
             loadingSpinner.style.display = 'none';
         }
-    }
-    
-    function populateLocationFilter() {
-        // Sort locations alphabetically
-        const sortedLocations = Array.from(uniqueLocations).sort();
-        
-        // Add options to location dropdown
-        sortedLocations.forEach(location => {
-            const item = document.createElement('div');
-            item.className = 'dropdown-item';
-            item.dataset.value = location;
-            item.textContent = location;
-            item.addEventListener('click', () => selectLocation(location));
-            locationDropdown.appendChild(item);
-        });
     }
     
     function updateStats() {
@@ -159,16 +140,126 @@ document.addEventListener('DOMContentLoaded', function() {
         footerLastUpdatedEl.textContent = formattedDate;
     }
     
-    function setupEventListeners() {
-        // Search input event
-        searchInput.addEventListener('input', handleSearch);
+    function initDataTable() {
+        // Format jobs data for DataTable
+        const tableData = allJobs.map(job => {
+            // Select the appropriate logo based on theme
+            const isDarkMode = document.body.classList.contains('dark-theme');
+            const logoSrc = isDarkMode ? companyLogosDark[job.company] : companyLogosLight[job.company];
+            
+            // Create company logo cell
+            const companyLogo = `<img src="${logoSrc}" alt="${job.company} logo" class="company-logo">`;
+            
+            // Format company name with first letter capitalized
+            const companyName = job.company.charAt(0).toUpperCase() + job.company.slice(1);
+            
+            // Combine logo and company name
+            const company = `<div class="company-cell">${companyLogo} <span>${companyName}</span></div>`;
+            
+            // Format job title with "New" badge if recent
+            let title = job.Title || 'Unknown Title';
+            if (isRecentDate(job["Posted Date"])) {
+                title = `${title} <span class="new-badge">New</span>`;
+            }
+            
+            // Format location with icon
+            const location = `<span class="job-location"><span class="material-icons">location_on</span> ${job.Location || 'Remote/Various'}</span>`;
+            
+            // Format date
+            const date = job["Posted Date"] || 'Unknown date';
+            
+            // Format action button with academicpages style
+            const action = `<a href="${job["Job URL"] || '#'}" target="_blank" class="btn-primary">
+                <span class="material-icons" style="font-size: 0.9em; margin-right: 3px;">open_in_new</span> View
+            </a>`;
+            
+            return [company, title, location, date, action];
+        });
         
-        // Theme toggle
-        themeToggle.addEventListener('click', toggleTheme);
+        // Initialize DataTable
+        jobsTable = $('#jobs-table').DataTable({
+            data: tableData,
+            columnDefs: [
+                { className: "dt-center", targets: [0, 2, 3, 4] },
+                { className: "dt-body-left", targets: 1 },
+                // Adjust column widths for better spacing
+                { width: "15%", targets: 0 }, // Company column
+                { width: "35%", targets: 1 }, // Title column
+                { width: "20%", targets: 2 }, // Location column  
+                { width: "20%", targets: 3 }, // Date column
+                { width: "10%", targets: 4 }  // Actions column
+            ],
+            responsive: true,
+            pageLength: 20, // Show 20 rows per page as requested
+            dom: '<"top"if>rt<"bottom"lp><"clear">',
+            ordering: true,
+            stripeClasses: ['even-row', 'odd-row'],
+            hover: true,
+            language: {
+                search: "_INPUT_",
+                searchPlaceholder: "Search jobs...",
+                lengthMenu: "Show _MENU_ entries",
+                info: "Showing _START_ to _END_ of _TOTAL_ jobs",
+                infoEmpty: "Showing 0 to 0 of 0 jobs",
+                infoFiltered: "(filtered from _MAX_ total jobs)"
+            }
+        });
         
-        // Dropdown toggles
-        companyDropdownBtn.addEventListener('click', () => toggleDropdown('company'));
-        locationDropdownBtn.addEventListener('click', () => toggleDropdown('location'));
+        // Replace the default search input with our custom one
+        $('#jobs-table_filter').hide();
+        
+        // Connect our existing search box to DataTable search
+        $('#search-input').on('keyup', function() {
+            jobsTable.search(this.value).draw();
+        });
+        
+        // Setup custom filtering for DataTables
+        setupCustomFilters();
+    }
+    
+    // Setup custom filtering for DataTables
+    function setupCustomFilters() {
+        // Company filter
+        document.querySelectorAll('#company-dropdown .dropdown-item').forEach(item => {
+            item.addEventListener('click', function() {
+                const company = this.dataset.value;
+                
+                // Update dropdown button text
+                companyDropdownBtn.innerHTML = `
+                    <span class="material-icons">business</span>
+                    ${company === 'all' ? 'All Companies' : company.charAt(0).toUpperCase() + company.slice(1)}
+                    <span class="material-icons dropdown-arrow">expand_more</span>
+                `;
+                
+                // Update selected state in dropdown
+                document.querySelectorAll('#company-dropdown .dropdown-item').forEach(item => {
+                    item.classList.toggle('selected', item.dataset.value === company);
+                });
+                
+                // Apply filter to DataTable
+                if (company === 'all') {
+                    jobsTable.column(0).search('').draw();
+                } else {
+                    jobsTable.column(0).search(company, true, false).draw();
+                }
+                
+                // Close dropdown
+                document.getElementById('company-dropdown').parentElement.classList.remove('active');
+            });
+        });
+        
+        // Company dropdown toggle
+        companyDropdownBtn.addEventListener('click', function() {
+            toggleDropdown('company');
+        });
+        
+        // Populate location filter dropdown
+        populateLocationFilter();
+        
+        // Location dropdown toggle
+        locationDropdownBtn.addEventListener('click', function() {
+            toggleDropdown('location');
+        });
         
         // Close dropdowns when clicking outside
         document.addEventListener('click', (event) => {
@@ -178,28 +269,47 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
             }
         });
+    }
+    
+    function populateLocationFilter() {
+        // Sort locations alphabetically
+        const sortedLocations = Array.from(uniqueLocations).sort();
         
-        // Company dropdown items
-        document.querySelectorAll('#company-dropdown .dropdown-item').forEach(item => {
-            item.addEventListener('click', () => selectCompany(item.dataset.value));
-        });
-        
-        // Pagination events
-        prevPageBtn.addEventListener('click', () => {
-            if (currentPage > 1) {
-                currentPage--;
-                renderJobs();
-                window.scrollTo({top: 0, behavior: 'smooth'});
-            }
-        });
-        
-        nextPageBtn.addEventListener('click', () => {
-            const maxPages = Math.ceil(filteredJobs.length / jobsPerPage);
-            if (currentPage < maxPages) {
-                currentPage++;
-                renderJobs();
-                window.scrollTo({top: 0, behavior: 'smooth'});
-            }
+        // Add options to location dropdown
+        sortedLocations.forEach(location => {
+            const item = document.createElement('div');
+            item.className = 'dropdown-item';
+            item.dataset.value = location;
+            item.textContent = location;
+            
+            // Add click event for filtering
+            item.addEventListener('click', function() {
+                const location = this.dataset.value;
+                
+                // Update dropdown button text
+                locationDropdownBtn.innerHTML = `
+                    <span class="material-icons">location_on</span>
+                    ${location === 'all' ? 'All Locations' : location}
+                    <span class="material-icons dropdown-arrow">expand_more</span>
+                `;
+                
+                // Update selected state in dropdown
+                document.querySelectorAll('#location-dropdown .dropdown-item').forEach(item => {
+                    item.classList.toggle('selected', item.dataset.value === location);
+                });
+                
+                // Apply filter to DataTable
+                if (location === 'all') {
+                    jobsTable.column(2).search('').draw();
+                } else {
+                    jobsTable.column(2).search(location, true, false).draw();
+                }
+                
+                // Close dropdown
+                document.getElementById('location-dropdown').parentElement.classList.remove('active');
+            });
+            
+            locationDropdown.appendChild(item);
         });
     }
     
@@ -216,184 +326,18 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
     
-    function selectCompany(company) {
-        selectedCompany = company;
-        updateCompanyDropdownUI(company);
-        filterJobs();
-    }
-    
-    function selectLocation(location) {
-        selectedLocation = location;
-        updateLocationDropdownUI(location);
-        filterJobs();
-    }
-    
-    function updateCompanyDropdownUI(company) {
-        // Update button text
-        companyDropdownBtn.innerHTML = `
-            <span class="material-icons">business</span>
-            ${company === 'all' ? 'All Companies' : company.charAt(0).toUpperCase() + company.slice(1)}
-            <span class="material-icons dropdown-arrow">expand_more</span>
-        `;
-        
-        // Update selected state in dropdown
-        document.querySelectorAll('#company-dropdown .dropdown-item').forEach(item => {
-            if (item.dataset.value === company) {
-                item.classList.add('selected');
-            } else {
-                item.classList.remove('selected');
-            }
-        });
-        
-        // Close dropdown
-        document.getElementById('company-dropdown').parentElement.classList.remove('active');
-    }
-    
-    function updateLocationDropdownUI(location) {
-        // Update button text
-        locationDropdownBtn.innerHTML = `
-            <span class="material-icons">location_on</span>
-            ${location === 'all' ? 'All Locations' : location}
-            <span class="material-icons dropdown-arrow">expand_more</span>
-        `;
-        
-        // Update selected state in dropdown
-        document.querySelectorAll('#location-dropdown .dropdown-item').forEach(item => {
-            if (item.dataset.value === location) {
-                item.classList.add('selected');
-            } else {
-                item.classList.remove('selected');
-            }
-        });
-        
-        // Close dropdown
-        document.getElementById('location-dropdown').parentElement.classList.remove('active');
-    }
-    
-    function handleSearch() {
-        // Add a small delay to prevent excessive filtering
-        clearTimeout(window.searchTimeout);
-        window.searchTimeout = setTimeout(filterJobs, 300);
-    }
-    
-    function filterJobs() {
-        const searchTerm = searchInput.value.toLowerCase();
-        
-        // Reset to first page when filters change
-        currentPage = 1;
-        
-        // Apply filters
-        filteredJobs = allJobs.filter(job => {
-            // Company filter
-            if (selectedCompany !== 'all' && job.company !== selectedCompany) {
-                return false;
-            }
-            
-            // Location filter
-            if (selectedLocation !== 'all' && job.Location !== selectedLocation) {
-                return false;
-            }
-            
-            // Search term filter (check title and description)
-            if (searchTerm) {
-                const titleMatch = job.Title && job.Title.toLowerCase().includes(searchTerm);
-                const locationMatch = job.Location && job.Location.toLowerCase().includes(searchTerm);
-                const descriptionMatch = job["Bullet Fields"] && 
-                    job["Bullet Fields"].some(bullet => 
-                        bullet.toLowerCase().includes(searchTerm)
-                    );
-                const companyMatch = job.company && job.company.toLowerCase().includes(searchTerm);
-                    
-                if (!titleMatch && !locationMatch && !descriptionMatch && !companyMatch) {
-                    return false;
-                }
-            }
-            
-            return true;
-        });
-        
-        // Render the filtered jobs
-        renderJobs();
-    }
-    
     function toggleTheme() {
         const isDark = document.body.classList.toggle('dark-theme');
         localStorage.setItem('theme', isDark ? 'dark' : 'light');
-    }
-    
-    function renderJobs() {
-        // Calculate pagination
-        const startIndex = (currentPage - 1) * jobsPerPage;
-        const endIndex = startIndex + jobsPerPage;
-        const paginatedJobs = filteredJobs.slice(startIndex, endIndex);
-        const maxPages = Math.ceil(filteredJobs.length / jobsPerPage);
         
-        // Update pagination UI
-        prevPageBtn.disabled = currentPage === 1;
-        nextPageBtn.disabled = currentPage === maxPages || maxPages === 0;
-        pageInfoEl.textContent = `Page ${currentPage} of ${maxPages || 1}`;
-        
-        // Clear previous jobs
-        jobsContainer.innerHTML = '';
-        
-        // Display message if no jobs found
-        if (paginatedJobs.length === 0) {
-            jobsContainer.innerHTML = `
-                <div class="no-jobs-message">
-                    <h3>No jobs found</h3>
-                    <p>Try adjusting your filters or search terms.</p>
-                </div>
-            `;
-            return;
+        // Refresh DataTable with new logos based on theme
+        if (jobsTable) {
+            // Destroy the current table
+            jobsTable.destroy();
+            
+            // Reinitialize the table with the current theme
+            initDataTable();
         }
-        
-        // Render each job using template
-        paginatedJobs.forEach(job => {
-            // Clone the template
-            const jobLine = jobLineTemplate.content.cloneNode(true).querySelector('.job-line');
-            
-            // Set company specific attributes
-            jobLine.setAttribute('data-company', job.company);
-            
-            // Set logo
-            const logoImg = jobLine.querySelector('.company-logo');
-            logoImg.src = companyLogos[job.company];
-            logoImg.alt = `${job.company} logo`;
-            
-            // Set company name
-            jobLine.querySelector('.company-name').textContent = job.company.charAt(0).toUpperCase() + job.company.slice(1);
-            
-            // Set job title
-            const jobTitle = jobLine.querySelector('.job-title');
-            jobTitle.textContent = job.Title || 'Unknown Title';
-            
-            // Check if job was posted recently and add "New" badge
-            if (job["Posted Date"] && (
-                job["Posted Date"].includes("Today") || 
-                job["Posted Date"].includes("Yesterday") ||
-                job["Posted Date"].includes("hours ago") ||
-                job["Posted Date"].includes("Just posted")
-            )) {
-                const newBadge = document.createElement('span');
-                newBadge.className = 'new-badge';
-                newBadge.textContent = 'New';
-                jobTitle.appendChild(newBadge);
-            }
-            
-            // Set location
-            const locationSpan = jobLine.querySelector('.job-location span');
-            locationSpan.textContent = job.Location || 'Remote/Various';
-            
-            // Set date
-            jobLine.querySelector('.job-date').textContent = job["Posted Date"] || 'Unknown date';
-            
-            // Set job URL
-            const jobLink = jobLine.querySelector('.job-line-actions a');
-            jobLink.href = job["Job URL"] || '#';
-            
-            // Add to container
-            jobsContainer.appendChild(jobLine);
-        });
     }
     
     // Helper function to check if a string represents a recent date
