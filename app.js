@@ -353,40 +353,78 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
         
-        // Render each job
+        // Render each job using template
         paginatedJobs.forEach(job => {
-            const jobCard = document.createElement('div');
-            jobCard.className = `job-card ${job.company}`;
+            // Clone the template
+            const jobCard = jobCardTemplate.content.cloneNode(true).querySelector('.job-card');
+            
+            // Set company specific attributes
+            jobCard.setAttribute('data-company', job.company);
+            
+            // Set logo
+            const logoImg = jobCard.querySelector('.company-logo');
+            logoImg.src = companyLogos[job.company];
+            logoImg.alt = `${job.company} logo`;
+            
+            // Set company name
+            jobCard.querySelector('.company-name').textContent = job.company.charAt(0).toUpperCase() + job.company.slice(1);
+            
+            // Set job title
+            jobCard.querySelector('.job-title').textContent = job.Title || 'Unknown Title';
+            
+            // Set location
+            const locationSpan = jobCard.querySelector('.job-location span');
+            locationSpan.textContent = job.Location || 'Remote/Various';
+            
+            // Set date
+            jobCard.querySelector('.job-date').textContent = job["Posted Date"] || 'Unknown date';
+            
+            // Check if job was posted recently and add "New" badge
+            if (job["Posted Date"] && (
+                job["Posted Date"].includes("Today") || 
+                job["Posted Date"].includes("Yesterday") ||
+                job["Posted Date"].includes("hours ago") ||
+                job["Posted Date"].includes("Just posted")
+            )) {
+                const newBadge = document.createElement('span');
+                newBadge.className = 'new-badge';
+                newBadge.textContent = 'New';
+                jobCard.querySelector('.job-title').appendChild(newBadge);
+            }
             
             // Format bullet points if they exist
-            let bulletHTML = '';
+            const jobDetailsDiv = jobCard.querySelector('.job-details');
             if (job["Bullet Fields"] && Array.isArray(job["Bullet Fields"])) {
                 // Limit to first 3 bullet points
                 const limitedBullets = job["Bullet Fields"].slice(0, 3);
-                bulletHTML = limitedBullets.map(bullet => `<li>${bullet}</li>`).join('');
+                const bulletList = document.createElement('ul');
+                limitedBullets.forEach(bullet => {
+                    const li = document.createElement('li');
+                    li.textContent = bullet;
+                    bulletList.appendChild(li);
+                });
+                jobDetailsDiv.appendChild(bulletList);
+            } else {
+                jobDetailsDiv.remove();
             }
             
-            jobCard.innerHTML = `
-                <div class="job-company">
-                    <img src="${companyLogos[job.company]}" alt="${job.company} logo" class="company-logo">
-                    <span class="company-name">${job.company}</span>
-                </div>
-                <h3 class="job-title">${job.Title || 'Unknown Title'}</h3>
-                <div class="job-location">
-                    <i class="fas fa-map-marker-alt"></i>
-                    <span>${job.Location || 'Remote/Various'}</span>
-                </div>
-                <div class="job-date">
-                    <i class="fas fa-calendar-alt"></i>
-                    <span>${job["Posted Date"] || 'Unknown date'}</span>
-                </div>
-                ${bulletHTML ? `<div class="job-details"><ul>${bulletHTML}</ul></div>` : ''}
-                <div class="job-url">
-                    <a href="${job["Job URL"]}" target="_blank">View Job <i class="fas fa-external-link-alt"></i></a>
-                </div>
-            `;
+            // Set job URL
+            const jobLink = jobCard.querySelector('.job-card-footer a');
+            jobLink.href = job["Job URL"] || '#';
             
+            // Add to container
             jobsContainer.appendChild(jobCard);
         });
+    }
+    
+    // Helper function to check if a string represents a recent date
+    function isRecentDate(dateStr) {
+        if (!dateStr) return false;
+        
+        const lowerDateStr = dateStr.toLowerCase();
+        return lowerDateStr.includes('today') || 
+               lowerDateStr.includes('yesterday') ||
+               lowerDateStr.includes('hours ago') ||
+               lowerDateStr.includes('just posted');
     }
 });

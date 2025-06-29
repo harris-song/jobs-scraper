@@ -8,6 +8,28 @@ A comprehensive job scraping tool that automatically collects job listings from 
 2. Open `index.html` in your web browser to view the jobs dashboard
 3. For automated scraping, set up the GitHub Action workflow
 
+## 🌐 Deployment
+
+This project is set up for easy deployment to GitHub Pages:
+
+1. Push your code to GitHub
+2. Go to your repository settings
+3. Navigate to "Pages" in the left sidebar
+4. Under "Build and deployment", select:
+   - Source: "GitHub Actions"
+   - The workflow will run automatically on each push to the main branch
+
+Alternatively, if you want to deploy manually:
+
+```bash
+# For GitHub Pages
+git add .
+git commit -m "Updated job dashboard"
+git push origin main
+```
+
+The GitHub Action workflow will automatically deploy your site to GitHub Pages at `https://yourusername.github.io/your-repo-name/`
+
 ## 🏢 Supported Companies
 
 - **Apple** - Apple Careers
