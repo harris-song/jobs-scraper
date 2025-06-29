@@ -113,21 +113,36 @@ def main():
         # Check if we're in GitHub Actions environment
         in_github_actions = os.environ.get('GITHUB_ACTIONS') == 'true'
         
-        # Common browser arguments for stability
+        # Setup browser arguments with specific optimizations for different environments
         browser_args = [
             '--disable-dev-shm-usage',  # Overcome limited /dev/shm size in CI
             '--no-sandbox',             # Required for running as root in container
+            '--disable-setuid-sandbox',  # Additional sandbox security bypass for CI
+            '--disable-gpu'             # Helps with headless rendering issues
         ]
         
+        # Add additional arguments for GitHub Actions environment
         if in_github_actions:
-            print("[*] Running in GitHub Actions environment - using non-headless mode for API compatibility")
-            # Add any GitHub Actions specific args here if needed
+            print("[*] Running in GitHub Actions environment - using non-headless mode with special CI configuration")
+            browser_args.extend([
+                '--disable-web-security',  # Bypass CORS for API requests
+                '--disable-features=IsolateOrigins,site-per-process',  # Improve stability in CI
+                '--disable-site-isolation-trials',
+                '--mute-audio',  # Prevent audio issues in CI
+                '--window-size=1920,1080'  # Explicitly set window size
+            ])
         else:
             print("[*] Running in local environment")
         
+        # User agent that mimics a real browser for better API compatibility
+        user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+        
         # Launch browser in non-headless mode with consistent viewport
         browser = p.chromium.launch(headless=False, args=browser_args)
-        context = browser.new_context(viewport={"width": 1920, "height": 1080})
+        context = browser.new_context(
+            viewport={"width": 1920, "height": 1080},
+            user_agent=user_agent
+        )
             
         json_data = None
 
@@ -292,86 +307,17 @@ def main():
                     except Exception as e:
                         print(f"Error loading JSON from file: {e}")
             else:
-                # Try a direct approach to get Tesla job data as a fallback
-                try:
-                    print("\n[*] No API data captured. Trying fallback approach...")
-                    fallback_successful = False
-                    
-                    # Create a new browser context for the fallback approach
-                    print("[*] Starting fallback browser session...")
-                    with sync_playwright() as fallback_p:
-                        # Always use non-headless mode for API compatibility
-                        fallback_browser = fallback_p.chromium.launch(
-                            headless=False, 
-                            args=['--disable-dev-shm-usage', '--no-sandbox']
-                        )
-                        fallback_context = fallback_browser.new_context(
-                            viewport={"width": 1920, "height": 1080},
-                            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
-                        )
-                        fallback_page = fallback_context.new_page()
-                        
-                        # Try alternative URL or approach
-                        print("[*] Fallback: Trying alternative Tesla careers URL...")
-                        fallback_page.goto("https://www.tesla.com/careers/search", timeout=90000)
-                        fallback_page.wait_for_load_state("networkidle", timeout=30000)
-                        
-                        # Wait longer and try to trigger the API call
-                        print("[*] Fallback: Waiting for page to stabilize...")
-                        fallback_page.wait_for_timeout(10000)
-                        
-                        # Try clicking on filters or search to trigger API calls
-                        try:
-                            # Try to click on any filter or search button that might trigger API calls
-                            for selector in [
-                                'button:has-text("Filter")', 
-                                'button:has-text("Search")',
-                                '.search-button',
-                                '.filter-button',
-                                '.dropdown-toggle'
-                            ]:
-                                try:
-                                    if fallback_page.is_visible(selector):
-                                        print(f"[*] Fallback: Clicking on {selector}...")
-                                        fallback_page.click(selector)
-                                        fallback_page.wait_for_timeout(5000)
-                                except Exception:
-                                    continue
+                # Print diagnostic message and environment variables
+                print(f"\n[*] No job data captured and no existing {raw_json_file} file found.")
+                
+                # Print GitHub Actions environment variables for debugging if running in CI
+                if os.environ.get('GITHUB_ACTIONS') == 'true':
+                    print("\n[*] GitHub Actions Environment Variables:")
+                    for key in sorted(os.environ.keys()):
+                        if key.startswith('GITHUB_'):
+                            print(f"  {key}={os.environ[key]}")
                             
-                            # Scroll to trigger lazy loading
-                            print("[*] Fallback: Scrolling to trigger API calls...")
-                            fallback_page.evaluate("window.scrollTo(0, document.body.scrollHeight / 2)")
-                            fallback_page.wait_for_timeout(5000)
-                            fallback_page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                            fallback_page.wait_for_timeout(10000)
-                            
-                            # Try to extract job data from the page directly if API failed
-                            print("[*] Fallback: Attempting to extract job data from page...")
-                            
-                            # Take screenshot for debugging
-                            fallback_screenshots_dir = "../jobs/debug_screenshots"
-                            os.makedirs(fallback_screenshots_dir, exist_ok=True)
-                            fallback_screenshot_path = f"{fallback_screenshots_dir}/tesla_fallback_{time.strftime('%Y%m%d_%H%M%S')}.png"
-                            fallback_page.screenshot(path=fallback_screenshot_path)
-                            print(f"[*] Saved fallback screenshot to {fallback_screenshot_path}")
-                            
-                        except Exception as inner_e:
-                            print(f"[!] Fallback navigation error: {inner_e}")
-                        
-                        # Close the fallback browser
-                        fallback_browser.close()
-                    
-                    if not fallback_successful:
-                        print(f"❌ Fallback approach failed. No job data captured and no existing {raw_json_file} file found.")
-                        # Print environment info for debugging
-                        if os.environ.get('GITHUB_ACTIONS') == 'true':
-                            print("\n[*] GitHub Actions Environment Variables:")
-                            for key in sorted(os.environ.keys()):
-                                if key.startswith('GITHUB_'):
-                                    print(f"  {key}={os.environ[key]}")
-                except Exception as e:
-                    print(f"Fallback approach failed with error: {e}")
-                    print(f"❌ No job data captured and no existing {raw_json_file} file found.")
+                print(f"❌ No job data captured. No Tesla jobs will be updated.")
 
 
 if __name__ == "__main__":
