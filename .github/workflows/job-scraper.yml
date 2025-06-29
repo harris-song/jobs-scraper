@@ -169,17 +169,57 @@ jobs:
         
         # Add scraping metadata to each file for debugging
         echo "=== Adding scraping metadata ==="
+        echo "⚠️  Skipping JSON modification to preserve array structure for frontend compatibility"
+        echo "📝 Using alternative approach with timestamp file"
+        
+        # Count jobs in each file for reporting
         for file in jobs/*.json; do
           if [ -f "$file" ]; then
-            # Add a comment with scraping timestamp (this will cause git to detect changes)
-            echo "Adding metadata to $file"
-            temp_file=$(mktemp)
-            jq --arg timestamp "$(date -u +'%Y-%m-%d %H:%M:%S UTC')" \
-               --arg run_id "${{ github.run_id }}" \
-               '. + {"_scraping_metadata": {"last_scraped": $timestamp, "github_run_id": $run_id}}' \
-               "$file" > "$temp_file" && mv "$temp_file" "$file"
+            if jq empty "$file" 2>/dev/null; then
+              job_count=$(jq length "$file" 2>/dev/null || echo "unknown")
+              echo "📊 $file: $job_count jobs"
+            else
+              echo "❌ $file: invalid JSON"
+            fi
           fi
         done
+        
+        echo "=== Final file checksums after metadata addition ==="
+        find jobs/ -name "*.json" -exec sh -c 'echo "$1: $(md5sum "$1")"' _ {} \;
+        
+        # Fallback: Create a comprehensive timestamp file to ensure changes are detected
+        echo "=== Creating timestamp file as fallback ==="
+        timestamp_file="jobs/.last_updated"
+        
+        echo "# Job Scraper Run Information" > "$timestamp_file"
+        echo "Last updated: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> "$timestamp_file"
+        echo "GitHub Run ID: ${{ github.run_id }}" >> "$timestamp_file"
+        echo "Workflow: ${{ github.workflow }}" >> "$timestamp_file"
+        echo "Trigger: ${{ github.event_name }}" >> "$timestamp_file"
+        echo "Branch: ${{ github.ref_name }}" >> "$timestamp_file"
+        echo "" >> "$timestamp_file"
+        
+        echo "# Job Counts by Company:" >> "$timestamp_file"
+        total_jobs=0
+        for file in jobs/*.json; do
+          if [ -f "$file" ]; then
+            filename=$(basename "$file" _jobs_processed.json)
+            if jq empty "$file" 2>/dev/null; then
+              job_count=$(jq length "$file" 2>/dev/null || echo "0")
+              echo "$filename: $job_count jobs" >> "$timestamp_file"
+              total_jobs=$((total_jobs + job_count))
+            else
+              echo "$filename: invalid JSON" >> "$timestamp_file"
+            fi
+          fi
+        done
+        
+        echo "" >> "$timestamp_file"
+        echo "Total jobs across all companies: $total_jobs" >> "$timestamp_file"
+        
+        echo "✅ Created comprehensive timestamp file: $timestamp_file"
+        echo "📄 Timestamp file content:"
+        cat "$timestamp_file"
         
         # Clean up temporary artifacts directory
         rm -rf temp-artifacts/
@@ -224,6 +264,13 @@ jobs:
         echo "=== File checksums before staging ==="
         find jobs/ -name "*.json" -exec sh -c 'echo "$1: $(md5sum "$1")"' _ {} \;
         
+        # Also show the timestamp file if it exists
+        if [ -f "jobs/.last_updated" ]; then
+          echo "Timestamp file content:"
+          cat jobs/.last_updated
+        fi
+        
+        # Stage all files in jobs directory (including .last_updated)
         git add jobs/
         
         echo "=== Git status after staging ==="
@@ -235,12 +282,15 @@ jobs:
         echo "=== Detailed diff ==="
         git diff --cached --stat
         
+        # Check if there are any staged changes
         if git diff --cached --quiet; then
           echo "no_changes=true" >> $GITHUB_OUTPUT
           echo "❌ No changes detected in job files"
         else
           echo "no_changes=false" >> $GITHUB_OUTPUT
           echo "✅ Changes detected in job files"
+          echo "Files that changed:"
+          git diff --cached --name-only
         fi
         
     - name: Commit and push changes
