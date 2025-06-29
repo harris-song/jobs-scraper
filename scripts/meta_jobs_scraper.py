@@ -1,11 +1,16 @@
 import time
 import json
 import os
+import sys
+import pathlib
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
+# Add parent directory to path so we can execute this script from any directory
+sys.path.append(str(pathlib.Path(__file__).parent.parent))
 
 def setup_browser():
     """Set up a browser instance with Selenium."""
@@ -100,7 +105,9 @@ def scrape_meta_jobs():
         print(f"Found {len(job_elements)} job elements to process")
         
         # Capture page source for debugging before extraction
-        with open("meta_page_before_extraction.html", "w", encoding="utf-8") as f:
+        debug_dir = "../jobs"
+        os.makedirs(debug_dir, exist_ok=True)
+        with open(f"{debug_dir}/meta_page_before_extraction.html", "w", encoding="utf-8") as f:
             f.write(driver.page_source)
         print("Saved page source for debugging")
         
@@ -181,18 +188,19 @@ def scrape_meta_jobs():
         # Save the results
         if jobs:
             # Ensure the jobs directory exists
-            os.makedirs("jobs", exist_ok=True)
-            with open("jobs/meta_jobs_processed.json", "w", encoding="utf-8") as f:
+            output_file = "../jobs/meta_jobs_processed.json"
+            os.makedirs(os.path.dirname(output_file), exist_ok=True)
+            with open(output_file, "w", encoding="utf-8") as f:
                 json.dump(jobs, f, indent=2)
-            print(f"Saved {len(jobs)} jobs to meta_jobs_processed.json")
+            print(f"Saved {len(jobs)} jobs to {output_file}")
         else:
             print("No jobs were extracted")
             
         # Capture and save page HTML for debugging
         html = driver.page_source
-        with open("meta_page.html", "w", encoding="utf-8") as f:
+        with open(f"{debug_dir}/meta_page.html", "w", encoding="utf-8") as f:
             f.write(html)
-        print("Saved page HTML to meta_page.html for debugging")
+        print(f"Saved page HTML to {debug_dir}/meta_page.html for debugging")
         
     except Exception as e:
         print(f"An error occurred: {str(e)}")
@@ -206,7 +214,8 @@ def scrape_meta_jobs():
 
 def delete_debug_files():
     """Delete the intermediate HTML files used for debugging."""
-    debug_files = ["meta_page_before_extraction.html", "meta_page.html"]
+    debug_dir = "../jobs"
+    debug_files = [f"{debug_dir}/meta_page_before_extraction.html", f"{debug_dir}/meta_page.html"]
     for file in debug_files:
         try:
             if os.path.exists(file):

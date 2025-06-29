@@ -5,6 +5,11 @@ import time
 import re
 from datetime import datetime
 from bs4 import BeautifulSoup
+import sys
+import pathlib
+
+# Add parent directory to path so we can execute this script from any directory
+sys.path.append(str(pathlib.Path(__file__).parent.parent))
 
 def fetch_jobs_with_requests(limit=20, offset=0, sort="newest"):
     """Fetch jobs from Apple's careers page using requests."""
@@ -170,10 +175,11 @@ def try_api_endpoints():
     
     return None, None
 
-def process_jobs_data(jobs_data, output_file="jobs/apple_jobs_processed.json", raw_html_content=None):
+def process_jobs_data(jobs_data, output_file="../jobs/apple_jobs_processed.json", raw_html_content=None):
+    """Process the extracted jobs data and save as structured JSON file."""
+    
     # Ensure the jobs directory exists
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    """Process the extracted jobs data and save as structured JSON file."""
     
     if not jobs_data:
         print("No jobs data to process.")
@@ -203,7 +209,7 @@ def process_jobs_data(jobs_data, output_file="jobs/apple_jobs_processed.json", r
         
         # Save raw HTML content for debugging if provided
         if raw_html_content:
-            raw_file_path = "jobs/apple_jobs_raw.html"
+            raw_file_path = "../jobs/apple_jobs_raw.html"
             # Ensure the jobs directory exists
             os.makedirs(os.path.dirname(raw_file_path), exist_ok=True)
             with open(raw_file_path, "w", encoding="utf-8") as html_file:
@@ -231,7 +237,7 @@ def main():
         print(f"\n[+] Found API endpoint: {api_endpoint}")
         # Process API data if found
         if isinstance(api_data, dict):
-            process_jobs_data([api_data], "apple_jobs_api_processed.json", api_data.get("html_content"))
+            process_jobs_data([api_data], "../jobs/apple_jobs_api_processed.json", api_data.get("html_content"))
         else:
             print(f"[!] API data is not in expected format")
     
@@ -241,11 +247,11 @@ def main():
     
     if html_content:
         jobs_data = extract_jobs_from_html(html_content)
-        process_jobs_data(jobs_data, "apple_jobs_processed.json", html_content)
+        process_jobs_data(jobs_data, "../jobs/apple_jobs_processed.json", html_content)
         print("\n✅ Process complete!")
-        print("📄 JSON file: apple_jobs_processed.json")
+        print("📄 JSON file: ../jobs/apple_jobs_processed.json")
     else:
         print("❌ Failed to retrieve job data from Apple careers page.")
 
 if __name__ == "__main__":
-    main() 
+    main()

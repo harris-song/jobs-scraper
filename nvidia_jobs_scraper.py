@@ -70,8 +70,11 @@ def extract_job_id_from_path(external_path):
     
     return external_path
 
-def process_jobs_data(json_data, output_file="nvidia_jobs_processed.json"):
+def process_jobs_data(json_data, output_file="jobs/nvidia_jobs_processed.json"):
     """Process the raw NVIDIA jobs JSON data and save as structured JSON file."""
+    
+    # Ensure the jobs directory exists
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
     
     if not json_data:
         print("No JSON data to process.")
@@ -150,7 +153,7 @@ def process_jobs_data(json_data, output_file="nvidia_jobs_processed.json"):
         print(f"Successfully processed {len(job_data)} jobs to JSON: {output_file}")
         
         # Also save the raw response for debugging
-        with open("nvidia_jobs_raw.json", "w", encoding="utf-8") as raw_file:
+        with open("jobs/nvidia_jobs_raw.json", "w", encoding="utf-8") as raw_file:
             json.dump(json_data, raw_file, indent=2, ensure_ascii=False)
         print(f"Saved raw API response to: nvidia_jobs_raw.json")
         
@@ -280,7 +283,7 @@ def main():
         # Try to load from existing files if available
         if os.path.exists("nvidia_jobs_raw.json"):
             print("\n[*] Loading job data from existing nvidia_jobs_raw.json...")
-            with open("nvidia_jobs_raw.json", "r", encoding="utf-8") as f:
+            with open("jobs/nvidia_jobs_raw.json", "r", encoding="utf-8") as f:
                 try:
                     json_data = json.load(f)
                     process_jobs_data(json_data, "nvidia_jobs_processed.json")
