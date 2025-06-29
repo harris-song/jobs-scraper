@@ -170,7 +170,7 @@ def try_api_endpoints():
     
     return None, None
 
-def process_jobs_data(jobs_data, output_file="apple_jobs_processed.json"):
+def process_jobs_data(jobs_data, output_file="apple_jobs_processed.json", raw_html_content=None):
     """Process the extracted jobs data and save as structured JSON file."""
     
     if not jobs_data:
@@ -199,10 +199,19 @@ def process_jobs_data(jobs_data, output_file="apple_jobs_processed.json"):
         
         print(f"Successfully processed {len(jobs_sorted)} jobs to JSON: {output_file}")
         
-        # Also save the raw HTML for debugging
-        with open("apple_jobs_raw.html", "w", encoding="utf-8") as html_file:
-            html_file.write("<!-- Raw HTML content would be saved here -->")
-        print(f"Raw HTML content would be saved to: apple_jobs_raw.html")
+        # Save raw HTML content for debugging if provided
+        if raw_html_content:
+            raw_file_path = "apple_jobs_raw.html"
+            with open(raw_file_path, "w", encoding="utf-8") as html_file:
+                html_file.write(raw_html_content)
+            print(f"Saved raw HTML content to: {raw_file_path}")
+            
+            # Delete the raw file after saving
+            try:
+                os.remove(raw_file_path)
+                print(f"Deleted raw HTML file: {raw_file_path}")
+            except Exception as e:
+                print(f"[!] Could not delete raw HTML file: {e}")
         
     else:
         print("No job data found.")
@@ -218,7 +227,7 @@ def main():
         print(f"\n[+] Found API endpoint: {api_endpoint}")
         # Process API data if found
         if isinstance(api_data, dict):
-            process_jobs_data([api_data], "apple_jobs_api_processed.json")
+            process_jobs_data([api_data], "apple_jobs_api_processed.json", api_data.get("html_content"))
         else:
             print(f"[!] API data is not in expected format")
     
@@ -228,7 +237,7 @@ def main():
     
     if html_content:
         jobs_data = extract_jobs_from_html(html_content)
-        process_jobs_data(jobs_data, "apple_jobs_processed.json")
+        process_jobs_data(jobs_data, "apple_jobs_processed.json", html_content)
         print("\n✅ Process complete!")
         print("📄 JSON file: apple_jobs_processed.json")
     else:

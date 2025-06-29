@@ -43,10 +43,13 @@ def extract_job_id_from_path(external_path):
             return last_part.split('R')[-1]
     return external_path
 
-def process_jobs_data(json_data, output_file="accenture_jobs_processed.json"):
+def process_jobs_data(json_data, output_file="jobs/accenture_jobs_processed.json"):
     if not json_data:
         print("No JSON data to process.")
         return
+    
+    # Ensure the jobs directory exists
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
     print(f"=== Processing Accenture Jobs Data ===")
     print(f"Total jobs available: {json_data.get('total', 0)}")
     print(f"Jobs in this response: {len(json_data.get('jobPostings', []))}")
@@ -81,7 +84,9 @@ def process_jobs_data(json_data, output_file="accenture_jobs_processed.json"):
             json.dump(job_data, json_file, indent=2, ensure_ascii=False)
         print(f"Successfully processed {len(job_data)} jobs to JSON: {output_file}")
         # Save and then delete the raw API response
-        raw_file_path = "accenture_jobs_raw.json"
+        raw_file_path = "jobs/accenture_jobs_raw.json"
+        # Ensure the jobs directory exists
+        os.makedirs(os.path.dirname(raw_file_path), exist_ok=True)
         with open(raw_file_path, "w", encoding="utf-8") as raw_file:
             json.dump(json_data, raw_file, indent=2, ensure_ascii=False)
         print(f"Saved raw API response to: {raw_file_path}")
