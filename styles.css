@@ -304,15 +304,10 @@ input:hover, select:hover, textarea:hover {
     display: none;
     margin-top: var(--spacing-xs);
     width: 100%; /* Ensure full width */
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.2s ease, visibility 0.2s ease;
 }
 
 .dropdown.active .dropdown-content {
     display: block;
-    opacity: 1;
-    visibility: visible;
 }
 
 .dropdown-item {

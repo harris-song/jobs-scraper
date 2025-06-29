@@ -49,6 +49,61 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
     
+    // Set up dropdown toggle listeners immediately
+    function setupDropdownToggleListeners() {
+        const companyBtn = document.getElementById('company-dropdown-btn');
+        const locationBtn = document.getElementById('location-dropdown-btn');
+        
+        if (companyBtn) {
+            companyBtn.addEventListener('click', function(event) {
+                const dropdown = this.parentElement;
+                const isActive = dropdown.classList.contains('active');
+                
+                // Close all dropdowns first
+                document.querySelectorAll('.dropdown').forEach(d => {
+                    d.classList.remove('active');
+                });
+                
+                // If this dropdown wasn't active, open it
+                if (!isActive) {
+                    dropdown.classList.add('active');
+                }
+                
+                event.stopPropagation();
+            });
+        }
+        
+        if (locationBtn) {
+            locationBtn.addEventListener('click', function(event) {
+                const dropdown = this.parentElement;
+                const isActive = dropdown.classList.contains('active');
+                
+                // Close all dropdowns first
+                document.querySelectorAll('.dropdown').forEach(d => {
+                    d.classList.remove('active');
+                });
+                
+                // If this dropdown wasn't active, open it
+                if (!isActive) {
+                    dropdown.classList.add('active');
+                }
+                
+                event.stopPropagation();
+            });
+        }
+        
+        // Close dropdowns when clicking outside
+        document.addEventListener('click', () => {
+            document.querySelectorAll('.dropdown').forEach(dropdown => {
+                dropdown.classList.remove('active');
+            });
+        });
+    }
+    
+    // Initialize theme and dropdown listeners
+    initTheme();
+    setupDropdownToggleListeners();
+    
     // Initialize the app
     initApp();
     
@@ -253,40 +308,14 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         });
         
-        // Company dropdown toggle
-        companyDropdownBtn.addEventListener('click', function(event) {
-            event.preventDefault();
-            event.stopPropagation(); // Stop event from bubbling up
-            toggleDropdown('company');
-        });
-        
         // Populate location filter dropdown
         populateLocationFilter();
         
-        // Location dropdown toggle
-        locationDropdownBtn.addEventListener('click', function(event) {
-            event.preventDefault();
-            event.stopPropagation(); // Stop event from bubbling up
-            toggleDropdown('location');
-        });
-        
-        // Also prevent clicks on dropdown content from closing the dropdown
+        // Prevent dropdown menu clicks from closing the dropdown
         document.querySelectorAll('.dropdown-content').forEach(content => {
             content.addEventListener('click', function(event) {
-                // Only stop propagation if clicking on the dropdown content itself, not its children
-                if (event.target === this) {
-                    event.stopPropagation();
-                }
+                event.stopPropagation();
             });
-        });
-        
-        // Close dropdowns when clicking outside
-        document.addEventListener('click', (event) => {
-            if (!event.target.closest('.dropdown')) {
-                document.querySelectorAll('.dropdown').forEach(dropdown => {
-                    dropdown.classList.remove('active');
-                });
-            }
         });
     }
     
@@ -294,7 +323,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // First, ensure the "All Locations" option has the proper click event handler
         const allLocationsItem = document.querySelector('#location-dropdown .dropdown-item[data-value="all"]');
         if (allLocationsItem) {
-            allLocationsItem.addEventListener('click', function() {
+            allLocationsItem.addEventListener('click', function(event) {
                 // Update dropdown button text
                 locationDropdownBtn.innerHTML = `
                     <span class="material-icons">location_on</span>
@@ -312,6 +341,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 // Close dropdown
                 document.getElementById('location-dropdown').parentElement.classList.remove('active');
+                
+                // Stop propagation
+                event.stopPropagation();
             });
         }
         
@@ -326,7 +358,7 @@ document.addEventListener('DOMContentLoaded', function() {
             item.textContent = location;
             
             // Add click event for filtering
-            item.addEventListener('click', function() {
+            item.addEventListener('click', function(event) {
                 const location = this.dataset.value;
                 
                 // Update dropdown button text
@@ -346,43 +378,16 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 // Close dropdown
                 document.getElementById('location-dropdown').parentElement.classList.remove('active');
+                
+                // Stop propagation
+                event.stopPropagation();
             });
             
             locationDropdown.appendChild(item);
         });
     }
     
-    function toggleDropdown(type) {
-        const dropdown = document.getElementById(`${type}-dropdown`).parentElement;
-        const currentlyActive = dropdown.classList.contains('active');
-        
-        // First close all dropdowns
-        const allDropdowns = document.querySelectorAll('.dropdown');
-        allDropdowns.forEach(d => {
-            // If it's not the current dropdown or if we're toggling off the current dropdown
-            if (d !== dropdown || currentlyActive) {
-                d.classList.remove('active');
-                // Hide dropdown content
-                const dropdownId = d.querySelector('.dropdown-content').id;
-                const dropdownContent = document.getElementById(dropdownId);
-                dropdownContent.style.display = 'none';
-            }
-        });
-        
-        // Now toggle the current dropdown
-        if (!currentlyActive) {
-            // Open this dropdown
-            dropdown.classList.add('active');
-            console.log(`${type} dropdown opened`);
-            
-            // Make sure dropdown content is visible
-            const dropdownContent = document.getElementById(`${type}-dropdown`);
-            dropdownContent.style.display = 'block';
-        } else {
-            // Already closed by the code above
-            console.log(`${type} dropdown closed`);
-        }
-    }
+    // Function removed - dropdown functionality is now handled directly in the click event handlers
     
     function toggleTheme() {
         const isDark = document.body.classList.toggle('dark-theme');
