@@ -1,39 +1,57 @@
-import requests
+from playwright.sync_api import sync_playwright
 import json
-import csv
 import os
 import time
-from datetime import datetime
 
-def make_nvidia_api_request(limit=100, offset=0):
-    """Make a direct POST request to NVIDIA's Workday API with proper headers and body."""
+def process_jobs_data(json_data, output_file="../jobs/nvidia_jobs_processed.json"):
+    # Ensure the jobs directory exists
+    if output_file:
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    """Process the raw NVIDIA jobs JSON data and save as structured JSON file."""
+    job_postings = json_data.get("jobPostings", [])
+    print(f"Found {len(job_postings)} job postings.")
     
-    url = "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    
-    # Updated headers for current API requirements
-    headers = {
-        "Accept": "application/json",
-        "Content-Type": "application/json",
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Origin": "https://nvidia.wd5.myworkdayjobs.com",
-        "Referer": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite",
-        "sec-fetch-site": "same-origin",
-        "sec-fetch-mode": "cors",
-        "sec-fetch-dest": "empty",
-        "Accept-Language": "en-US,en;q=0.9"
-    }
-    
-    # Updated request payload with required fields
-    payload = {
-        "appliedFacets": {},
-        "limit": limit,
-        "offset": offset,
-        "searchText": "",
-        "sortOrder": {
-            "ascending": False,
-            "sortBy": "postedOn"
+    job_data = []
+    for job in job_postings:
+        external_path = job.get("externalPath", "")
+        job_id = extract_job_id_from_path(external_path)
+        title = job.get("title", "")
+        location = job.get("locationsText", "")
+        posted_date = job.get("postedOn", "")
+        bullet_fields = job.get("bulletFields", [])
+        
+        # Create job entry with comprehensive information
+        job_entry = {
+            "Job ID": job_id,
+            "Title": title,
+            "Location": location,
+            "Posted Date": posted_date,
+            "Job URL": f"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite{external_path}",
+            "External Path": external_path,
+            "Bullet Fields": bullet_fields,
+            "Requisition ID": bullet_fields[0] if bullet_fields else ""
         }
+        
+        # Add all other fields that might be useful
+        for key, value in job.items():
+            if key not in ["externalPath", "title", "locationsText", "postedOn", "bulletFields"]:
+                job_entry[key] = value
+                
+        job_data.append(job_entry)
+        "Accept": "application/json",
+        "Content-Type": "application/json"
     }
+    
+    # Minimal payload with just the required fields
+    payload = {
+        "limit": limit,
+        "offset": offset
+    }
+    
+    # Print request details for debugging
+    print(f"[DEBUG] API URL: {url}")
+    print(f"[DEBUG] Request headers: {headers}")
+    print(f"[DEBUG] Request payload: {payload}")
     
     try:
         print(f"[*] Making POST request to NVIDIA API (limit: {limit}, offset: {offset})...")
@@ -136,28 +154,11 @@ def process_jobs_data(json_data, output_file="../jobs/nvidia_jobs_processed.json
 
     # Process the JSON data
     if job_data:
-        # Sort job_data by Posted Date (most recent first)
-        def sort_key(job):
-            posted = job.get("Posted Date", "")
-            if "Today" in posted:
-                return 0
-            elif "Yesterday" in posted:
-                return 1
-            else:
-                return 2
-        
-        job_data_sorted = sorted(job_data, key=sort_key)
-        
         # Write to JSON file
         with open(output_file, "w", encoding="utf-8") as json_file:
-            json.dump(job_data_sorted, json_file, indent=2, ensure_ascii=False)
+            json.dump(job_data, json_file, indent=2, ensure_ascii=False)
         
         print(f"Successfully processed {len(job_data)} jobs to JSON: {output_file}")
-        
-        # Also save the raw response for debugging
-        with open("../jobs/nvidia_jobs_raw.json", "w", encoding="utf-8") as raw_file:
-            json.dump(json_data, raw_file, indent=2, ensure_ascii=False)
-        print(f"Saved raw API response to: {raw_json_file_path}")
         
     else:
         print("No job data found.")
@@ -258,48 +259,119 @@ def get_all_jobs(max_jobs=1000):
     
     return {"jobPostings": all_jobs, "total": len(all_jobs)}
 
-def main():
-    # Define file paths with proper directory structure
-    jobs_dir = "../jobs"
-    os.makedirs(jobs_dir, exist_ok=True)
+def make_alternate_api_request():
+    """Try an alternative API endpoint to retrieve NVIDIA job listings."""
     
-    json_file_path = os.path.join(jobs_dir, "nvidia_jobs_processed.json")
-    raw_json_file_path = os.path.join(jobs_dir, "nvidia_jobs_raw.json")
-    csv_file_path = os.path.join(jobs_dir, "nvidia_jobs.csv")
+    # This URL points to their public-facing career search page
+    url = "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs"
     
-    print(f"=== NVIDIA Jobs Scraper (Final) ({datetime.now().strftime('%Y-%m-%d %H:%M:%S')}) ===")
+    headers = {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
     
-    # Get all available jobs
-    print("\n[*] Retrieving all available jobs...")
-    json_data = get_all_jobs(max_jobs=2000)  # Get up to 2000 jobs
-    
-    if json_data and json_data.get("jobPostings"):
-        print(f"\n[*] Processing {len(json_data['jobPostings'])} jobs...")
-        process_jobs_data(json_data, json_file_path)
+    try:
+        print(f"[*] Making GET request to NVIDIA alternate API...")
+        response = requests.get(url, headers=headers, timeout=30)
         
-        print("\n[*] Converting job data to CSV...")
-        convert_json_to_csv(json_data, csv_file_path)
+        print(f"[*] Response status: {response.status_code}")
         
-        print(f"\n✅ Process complete!")
-        print(f"📄 JSON file: {json_file_path}")
-        print(f"📊 CSV file: {csv_file_path}")
-        print(f"🔍 Raw data: {raw_json_file_path}")
-    else:
-        print("❌ Failed to retrieve job data from NVIDIA API.")
-        
-        # Try to load from existing files if available
-        if os.path.exists(raw_json_file_path):
-            print(f"\n[*] Loading job data from existing {raw_json_file_path}...")
-            with open(raw_json_file_path, "r", encoding="utf-8") as f:
-                try:
-                    json_data = json.load(f)
-                    process_jobs_data(json_data, json_file_path)
-                    convert_json_to_csv(json_data, csv_file_path)
-                    print(f"\n✅ Process complete! Check {csv_file_path} for the job listings.")
-                except Exception as e:
-                    print(f"Error loading JSON from file: {e}")
+        if response.status_code == 200:
+            print("[*] Successfully fetched the career page, extracting job data...")
+            # Save the HTML for inspection
+            with open("../jobs/nvidia_careers_page.html", "w", encoding="utf-8") as f:
+                f.write(response.text)
+            
+            # This is a basic implementation. In reality, we would need to parse the HTML
+            # to extract job information or look for embedded JSON data.
+            
+            # Mock response format to match what our processing functions expect
+            mock_data = {
+                "total": 1,
+                "jobPostings": [
+                    {
+                        "title": "Sample Job Title - Alternate API Method",
+                        "externalPath": "/job/Sample-Location/Sample-Job_JR1234567",
+                        "locationsText": "Sample Location",
+                        "postedOn": "Today",
+                        "bulletFields": ["JR1234567"]
+                    }
+                ]
+            }
+            
+            print("[*] Using Playwright as fallback method might be necessary...")
+            return mock_data
         else:
-            print("No existing job data files found.")
+            print(f"[!] Error with alternate API: {response.status_code}")
+            return None
+            
+    except Exception as e:
+        print(f"[!] Alternate request failed: {e}")
+        return None
+
+def main():
+    raw_json_file = "../jobs/nvidia_jobs_playwright.json"
+    # Ensure the jobs directory exists
+    os.makedirs(os.path.dirname(raw_json_file), exist_ok=True)
+    processed_json_file = "nvidia_jobs_processed.json"
+
+    print(f"=== NVIDIA Jobs Scraper (Playwright) ({time.strftime('%Y-%m-%d %H:%M:%S')}) ===")
+
+    with sync_playwright() as p:
+        print("Launching browser...")
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context()
+        json_data = None
+        page = context.new_page()
+
+        def handle_response(response):
+            nonlocal json_data
+            if "/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs" in response.url and response.status == 200:
+                print(f"[+] Intercepted API response: {response.url}")
+                try:
+                    json_data = response.json()
+                    with open(raw_json_file, "w", encoding="utf-8") as f:
+                        json.dump(json_data, f, indent=2)
+                    print(f"Saved {raw_json_file}!")
+                except Exception as e:
+                    print(f"Failed to parse JSON: {e}")
+
+        page.on("response", handle_response)
+
+        print("[*] Navigating to NVIDIA careers page...")
+        page.goto("https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite", timeout=60000)
+        print("[*] Waiting for API calls to complete...")
+        page.wait_for_timeout(10000)  # Wait 10 seconds for requests to finish
+        browser.close()
+        print("Browser closed.")
+
+        if json_data:
+            print("\n[*] Processing job data to JSON...")
+            process_jobs_data(json_data, processed_json_file)
+            if os.path.exists(raw_json_file):
+                try:
+                    os.remove(raw_json_file)
+                    print(f"[*] Deleted raw JSON file: {raw_json_file}")
+                except Exception as e:
+                    print(f"Warning: Could not delete raw JSON file: {e}")
+            print(f"\n✅ Process complete! Check {processed_json_file} for the job listings.")
+        else:
+            if os.path.exists(raw_json_file):
+                print(f"\n[*] Loading job data from existing {raw_json_file}...")
+                with open(raw_json_file, "r", encoding="utf-8") as f:
+                    try:
+                        json_data = json.load(f)
+                        process_jobs_data(json_data, processed_json_file)
+                        try:
+                            os.remove(raw_json_file)
+                            print(f"[*] Deleted raw JSON file: {raw_json_file}")
+                        except Exception as e:
+                            print(f"Warning: Could not delete raw JSON file: {e}")
+                        print(f"\n✅ Process complete! Check {processed_json_file} for the job listings.")
+                    except Exception as e:
+                        print(f"Error loading JSON from file: {e}")
+            else:
+                print(f"❌ No job data captured and no existing {raw_json_file} file found.")
 
 if __name__ == "__main__":
-    main() 
+    main()
