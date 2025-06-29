@@ -79,13 +79,39 @@ jobs:
         DISPLAY: :99
       run: |
         echo "Running ${{ matrix.scraper }}..."
-        python "${{ matrix.scraper }}" || echo "[!] ${{ matrix.scraper }} failed"
+        echo "Current working directory: $(pwd)"
+        
+        # Make sure jobs directory exists in project root
+        mkdir -p jobs
+        
+        # Extract the scraper filename
+        scraper_file=$(basename "${{ matrix.scraper }}")
+        echo "Scraper file: $scraper_file"
+        
+        # Change to scripts directory since scrapers use ../jobs/ paths
+        cd scripts/
+        echo "Changed to scripts directory: $(pwd)"
+        
+        # Run the scraper from the scripts directory
+        echo "Executing: python $scraper_file"
+        python "$scraper_file" || echo "[!] $scraper_file failed"
+        
+        # Go back to project root to check results
+        cd ..
+        echo "Back to project root: $(pwd)"
+        echo "Jobs directory after scraper:"
+        ls -la jobs/
         
     - name: Verify scraper output
       run: |
+        echo "Verifying scraper output..."
+        
+        # Extract company name from scraper path
         scraper_name=$(basename "${{ matrix.scraper }}" .py)
         company_name=$(echo "$scraper_name" | sed 's/_jobs_scraper//')
         expected_file="jobs/${company_name}_jobs_processed.json"
+        
+        echo "Looking for: $expected_file"
         
         if [ -f "$expected_file" ]; then
           echo "✅ Output file created: $expected_file"
