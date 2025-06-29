@@ -78,58 +78,35 @@ jobs:
       env:
         DISPLAY: :99
       run: |
-        echo "Running ${{ matrix.scraper }}..."
-        echo "Current working directory: $(pwd)"
-        
         # Make sure jobs directory exists in project root
         mkdir -p jobs
         
-        # Extract the scraper filename
+        # Extract the scraper filename and change to scripts directory
         scraper_file=$(basename "${{ matrix.scraper }}")
-        echo "Scraper file: $scraper_file"
-        
-        # Change to scripts directory since scrapers use ../jobs/ paths
         cd scripts/
-        echo "Changed to scripts directory: $(pwd)"
         
         # Run the scraper from the scripts directory
-        echo "Executing: python $scraper_file"
+        echo "Running $scraper_file..."
         python "$scraper_file" || echo "[!] $scraper_file failed"
-        
-        # Go back to project root to check results
-        cd ..
-        echo "Back to project root: $(pwd)"
-        echo "Jobs directory after scraper:"
-        ls -la jobs/
         
     - name: Verify scraper output
       run: |
-        echo "Verifying scraper output..."
-        
         # Extract company name from scraper path
         scraper_name=$(basename "${{ matrix.scraper }}" .py)
         company_name=$(echo "$scraper_name" | sed 's/_jobs_scraper//')
         expected_file="jobs/${company_name}_jobs_processed.json"
         
-        echo "Looking for: $expected_file"
-        
         if [ -f "$expected_file" ]; then
-          echo "✅ Output file created: $expected_file"
-          echo "File size: $(du -h "$expected_file" | cut -f1)"
-          job_count=$(jq length "$expected_file" 2>/dev/null || echo "invalid")
-          echo "Job count: $job_count"
+          job_count=$(jq length "$expected_file" 2>/dev/null || echo "0")
+          echo "✅ $company_name: $job_count jobs"
           
           # Validate JSON structure
-          if jq empty "$expected_file" 2>/dev/null; then
-            echo "✅ JSON is valid"
-          else
-            echo "❌ JSON is invalid"
+          if ! jq empty "$expected_file" 2>/dev/null; then
+            echo "❌ Invalid JSON in $expected_file"
             exit 1
           fi
         else
           echo "❌ Expected output file not found: $expected_file"
-          echo "Available files in jobs/:"
-          ls -la jobs/ || echo "No jobs directory found"
           exit 1
         fi
       
@@ -178,43 +155,44 @@ jobs:
         
     - name: Organize downloaded files
       run: |
-        echo "Downloaded artifacts:"
-        ls -la temp-artifacts/
-        
         # Move all JSON files to jobs directory
         for artifact_dir in temp-artifacts/job-data-${{ github.run_id }}-*/; do
           if [ -d "$artifact_dir" ]; then
-            echo "Processing artifact directory: $artifact_dir"
-            # Move JSON files from artifact directory to jobs/
             find "$artifact_dir" -name "*.json" -exec mv {} jobs/ \;
           fi
         done
         
-        echo "Final jobs directory contents:"
-        ls -la jobs/
+        # Add job count summary for logging
+        echo "=== Job Summary ==="
+        for file in jobs/*.json; do
+          if [ -f "$file" ]; then
+            company=$(basename "$file" _jobs_processed.json)
+            job_count=$(jq length "$file" 2>/dev/null || echo "0")
+            echo "$company: $job_count jobs"
+          fi
+        done
         
         # Add scraping metadata to each file for debugging
-        echo "=== Adding scraping metadata ==="
-        echo "⚠️  Skipping JSON modification to preserve array structure for frontend compatibility"
-        echo "📝 Using alternative approach with timestamp file"
+        echo "=== Adding Timestamp Metadata ==="
+        echo "📝 Preserving JSON array structure for frontend compatibility"
         
         # Count jobs in each file for reporting
         for file in jobs/*.json; do
           if [ -f "$file" ]; then
             if jq empty "$file" 2>/dev/null; then
               job_count=$(jq length "$file" 2>/dev/null || echo "unknown")
-              echo "📊 $file: $job_count jobs"
+              echo "📊 $(basename "$file"): $job_count jobs"
             else
-              echo "❌ $file: invalid JSON"
+              echo "❌ $(basename "$file"): invalid JSON"
             fi
           fi
         done
         
         echo "=== Final file checksums after metadata addition ==="
-        find jobs/ -name "*.json" -exec sh -c 'echo "$1: $(md5sum "$1")"' _ {} \;
+        find jobs/ -name "*.json" -exec sh -c 'echo "$(basename "$1"): $(md5sum "$1" | cut -d" " -f1)"' _ {} \;
         
-        # Fallback: Create a comprehensive timestamp file to ensure changes are detected
-        echo "=== Creating timestamp file as fallback ==="
+        # Create timestamp file to ensure changes are detected
+        echo "=== Creating timestamp file ==="
         timestamp_file="jobs/.last_updated"
         
         echo "# Job Scraper Run Information" > "$timestamp_file"
@@ -243,38 +221,32 @@ jobs:
         echo "" >> "$timestamp_file"
         echo "Total jobs across all companies: $total_jobs" >> "$timestamp_file"
         
-        echo "✅ Created comprehensive timestamp file: $timestamp_file"
-        echo "📄 Timestamp file content:"
-        cat "$timestamp_file"
+        echo "✅ Created timestamp file with $total_jobs total jobs"
         
         # Clean up temporary artifacts directory
         rm -rf temp-artifacts/
         
     - name: List downloaded files
       run: |
-        echo "Final job files:"
-        ls -la jobs/
-        echo ""
-        echo "File sizes and job counts:"
+        echo "📁 Final job files:"
         for file in jobs/*.json; do
           if [ -f "$file" ]; then
             filename=$(basename "$file")
             file_size=$(du -h "$file" | cut -f1)
-            job_count=$(jq length "$file" 2>/dev/null || echo "invalid")
+            job_count=$(jq length "$file" 2>/dev/null || echo "0")
             echo "- $filename: $file_size ($job_count jobs)"
           fi
         done
         
     - name: Validate JSON files
       run: |
-        echo "Validating JSON files..."
+        echo "🔍 Validating JSON files..."
         for file in jobs/*.json; do
           if [ -f "$file" ]; then
-            echo "Validating $file..."
             if jq empty "$file" 2>/dev/null; then
-              echo "✅ $file is valid JSON"
+              echo "✅ $(basename "$file") is valid"
             else
-              echo "❌ $file is invalid JSON"
+              echo "❌ $(basename "$file") is invalid"
               exit 1
             fi
           fi
@@ -283,39 +255,15 @@ jobs:
     - name: Check for changes
       id: changes
       run: |
-        echo "=== Checking for changes ==="
-        echo "Files in jobs directory:"
-        ls -la jobs/
-        
-        echo "=== File checksums before staging ==="
-        find jobs/ -name "*.json" -exec sh -c 'echo "$1: $(md5sum "$1")"' _ {} \;
-        
-        # Also show the timestamp file if it exists
-        if [ -f "jobs/.last_updated" ]; then
-          echo "Timestamp file content:"
-          cat jobs/.last_updated
-        fi
-        
-        # Stage all files in jobs directory (including .last_updated)
+        # Stage all files in jobs directory
         git add jobs/
         
-        echo "=== Git status after staging ==="
-        git status
-        
-        echo "=== Files staged for commit ==="
-        git diff --cached --name-only
-        
-        echo "=== Detailed diff ==="
-        git diff --cached --stat
-        
-        # Check if there are any staged changes
         if git diff --cached --quiet; then
           echo "no_changes=true" >> $GITHUB_OUTPUT
-          echo "❌ No changes detected in job files"
+          echo "ℹ️ No changes detected"
         else
           echo "no_changes=false" >> $GITHUB_OUTPUT
-          echo "✅ Changes detected in job files"
-          echo "Files that changed:"
+          echo "✅ Changes detected in:"
           git diff --cached --name-only
         fi
         
@@ -326,18 +274,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git add jobs/
         git commit -m "🤖 Auto-update job listings - $(date +'%Y-%m-%d %H:%M:%S UTC')"
-        
-        # Try to push with error handling
-        if git push origin main; then
-          echo "✅ Successfully pushed changes to repository"
-        else
-          echo "❌ Failed to push changes to repository"
-          echo "Current git status:"
-          git status
-          echo "Recent commits:"
-          git log --oneline -5
-          exit 1
-        fi
+        git push origin main
         
     - name: Generate summary report
       run: |
