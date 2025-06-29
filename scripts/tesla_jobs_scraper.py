@@ -3,7 +3,7 @@ import json
 import os
 import time
 
-def process_jobs_data(json_data, output_file="jobs/tesla_jobs_processed.json"):
+def process_jobs_data(json_data, output_file="../jobs/tesla_jobs_processed.json"):
     # Ensure the jobs directory exists
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     """Process the raw Tesla jobs JSON data and save as structured JSON file, sorted by job ID in descending order."""
@@ -100,7 +100,7 @@ def process_jobs_data(json_data, output_file="jobs/tesla_jobs_processed.json"):
 
 
 def main():
-    raw_json_file = "jobs/tesla_jobs_playwright.json"
+    raw_json_file = "../jobs/tesla_jobs_playwright.json"
     # Ensure the jobs directory exists
     os.makedirs(os.path.dirname(raw_json_file), exist_ok=True)
     processed_json_file = "tesla_jobs_processed.json"
