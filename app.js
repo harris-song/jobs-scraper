@@ -29,8 +29,8 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initialize theme from localStorage or system preference
     initTheme();
     
-    // Job card template
-    const jobCardTemplate = document.getElementById('job-card-template');
+    // Job line template
+    const jobLineTemplate = document.getElementById('job-line-template');
     
     // Company logo URLs
     const companyLogos = {
@@ -205,14 +205,15 @@ document.addEventListener('DOMContentLoaded', function() {
     
     function toggleDropdown(type) {
         const dropdown = document.getElementById(`${type}-dropdown`).parentElement;
+        const isActive = dropdown.classList.contains('active');
         
-        // Close all other dropdowns
-        document.querySelectorAll('.dropdown').forEach(el => {
-            if (el !== dropdown) el.classList.remove('active');
-        });
+        // Close all dropdowns first
+        document.querySelectorAll('.dropdown').forEach(d => d.classList.remove('active'));
         
-        // Toggle this dropdown
-        dropdown.classList.toggle('active');
+        // Toggle the clicked dropdown
+        if (!isActive) {
+            dropdown.classList.add('active');
+        }
     }
     
     function selectCompany(company) {
@@ -230,14 +231,9 @@ document.addEventListener('DOMContentLoaded', function() {
     function updateCompanyDropdownUI(company) {
         // Update button text
         companyDropdownBtn.innerHTML = `
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
-                <path d="M19 21V5a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v16"></path>
-                <path d="M1 21h22"></path>
-                <path d="M9 9h6"></path>
-                <path d="M9 13h6"></path>
-                <path d="M9 17h6"></path>
-            </svg>
+            <span class="material-icons">business</span>
             ${company === 'all' ? 'All Companies' : company.charAt(0).toUpperCase() + company.slice(1)}
+            <span class="material-icons dropdown-arrow">expand_more</span>
         `;
         
         // Update selected state in dropdown
@@ -256,11 +252,9 @@ document.addEventListener('DOMContentLoaded', function() {
     function updateLocationDropdownUI(location) {
         // Update button text
         locationDropdownBtn.innerHTML = `
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
-                <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path>
-                <circle cx="12" cy="10" r="3"></circle>
-            </svg>
+            <span class="material-icons">location_on</span>
             ${location === 'all' ? 'All Locations' : location}
+            <span class="material-icons dropdown-arrow">expand_more</span>
         `;
         
         // Update selected state in dropdown
@@ -356,28 +350,22 @@ document.addEventListener('DOMContentLoaded', function() {
         // Render each job using template
         paginatedJobs.forEach(job => {
             // Clone the template
-            const jobCard = jobCardTemplate.content.cloneNode(true).querySelector('.job-card');
+            const jobLine = jobLineTemplate.content.cloneNode(true).querySelector('.job-line');
             
             // Set company specific attributes
-            jobCard.setAttribute('data-company', job.company);
+            jobLine.setAttribute('data-company', job.company);
             
             // Set logo
-            const logoImg = jobCard.querySelector('.company-logo');
+            const logoImg = jobLine.querySelector('.company-logo');
             logoImg.src = companyLogos[job.company];
             logoImg.alt = `${job.company} logo`;
             
             // Set company name
-            jobCard.querySelector('.company-name').textContent = job.company.charAt(0).toUpperCase() + job.company.slice(1);
+            jobLine.querySelector('.company-name').textContent = job.company.charAt(0).toUpperCase() + job.company.slice(1);
             
             // Set job title
-            jobCard.querySelector('.job-title').textContent = job.Title || 'Unknown Title';
-            
-            // Set location
-            const locationSpan = jobCard.querySelector('.job-location span');
-            locationSpan.textContent = job.Location || 'Remote/Various';
-            
-            // Set date
-            jobCard.querySelector('.job-date').textContent = job["Posted Date"] || 'Unknown date';
+            const jobTitle = jobLine.querySelector('.job-title');
+            jobTitle.textContent = job.Title || 'Unknown Title';
             
             // Check if job was posted recently and add "New" badge
             if (job["Posted Date"] && (
@@ -389,31 +377,22 @@ document.addEventListener('DOMContentLoaded', function() {
                 const newBadge = document.createElement('span');
                 newBadge.className = 'new-badge';
                 newBadge.textContent = 'New';
-                jobCard.querySelector('.job-title').appendChild(newBadge);
+                jobTitle.appendChild(newBadge);
             }
             
-            // Format bullet points if they exist
-            const jobDetailsDiv = jobCard.querySelector('.job-details');
-            if (job["Bullet Fields"] && Array.isArray(job["Bullet Fields"])) {
-                // Limit to first 2 bullet points for more compact display
-                const limitedBullets = job["Bullet Fields"].slice(0, 2);
-                const bulletList = document.createElement('ul');
-                limitedBullets.forEach(bullet => {
-                    const li = document.createElement('li');
-                    li.textContent = bullet;
-                    bulletList.appendChild(li);
-                });
-                jobDetailsDiv.appendChild(bulletList);
-            } else {
-                jobDetailsDiv.remove();
-            }
+            // Set location
+            const locationSpan = jobLine.querySelector('.job-location span');
+            locationSpan.textContent = job.Location || 'Remote/Various';
+            
+            // Set date
+            jobLine.querySelector('.job-date').textContent = job["Posted Date"] || 'Unknown date';
             
             // Set job URL
-            const jobLink = jobCard.querySelector('.job-card-footer a');
+            const jobLink = jobLine.querySelector('.job-line-actions a');
             jobLink.href = job["Job URL"] || '#';
             
             // Add to container
-            jobsContainer.appendChild(jobCard);
+            jobsContainer.appendChild(jobLine);
         });
     }
     
