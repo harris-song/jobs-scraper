@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const companyLogosDark = {
         accenture: 'https://companieslogo.com/img/orig/ACN_BIG.D-871a76ce.png?t=1720244490', // This should be more visible in dark mode
         apple: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apple_gray_logo.png/500px-Apple_gray_logo.png',
-        meta: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg',
+        meta: 'https://crystalpng.com/wp-content/uploads/2025/02/meta_logo.png',
         nvidia: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6E96zjEpu_8FhoCCl_myMlu86D49-g_b1MA&s',
         salesforce: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-Pu_DrwbVA66DDPZ_HuVY2WztlN193pOxw&s',
         tesla: 'https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png'
@@ -189,8 +189,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 { width: "20%", targets: 3 }, // Date column
                 { width: "10%", targets: 4 }  // Actions column
             ],
-            responsive: true,
-            pageLength: 20, // Show 20 rows per page as requested
+            responsive: {
+                details: false  // Disable the responsive details feature that hides columns
+            },
+            scrollX: false,     // Disable horizontal scrolling to prevent scroll wheels
+            pageLength: 25,     // Show 25 rows per page as requested
             dom: '<"top"if>rt<"bottom"lp><"clear">',
             ordering: true,
             stripeClasses: ['even-row', 'odd-row'],
@@ -198,7 +201,7 @@ document.addEventListener('DOMContentLoaded', function() {
             language: {
                 search: "_INPUT_",
                 searchPlaceholder: "Search jobs...",
-                lengthMenu: "Show _MENU_ entries",
+                lengthMenu: "_MENU_ per page",
                 info: "Showing _START_ to _END_ of _TOTAL_ jobs",
                 infoEmpty: "Showing 0 to 0 of 0 jobs",
                 infoFiltered: "(filtered from _MAX_ total jobs)"
@@ -236,10 +239,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     item.classList.toggle('selected', item.dataset.value === company);
                 });
                 
-                // Apply filter to DataTable
+                // Apply filter to DataTable - ensure all companies option works
                 if (company === 'all') {
                     jobsTable.column(0).search('').draw();
                 } else {
+                    // Use regex false for exact match with company name in cell
                     jobsTable.column(0).search(company, true, false).draw();
                 }
                 
@@ -272,6 +276,30 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     function populateLocationFilter() {
+        // First, ensure the "All Locations" option has the proper click event handler
+        const allLocationsItem = document.querySelector('#location-dropdown .dropdown-item[data-value="all"]');
+        if (allLocationsItem) {
+            allLocationsItem.addEventListener('click', function() {
+                // Update dropdown button text
+                locationDropdownBtn.innerHTML = `
+                    <span class="material-icons">location_on</span>
+                    All Locations
+                    <span class="material-icons dropdown-arrow">expand_more</span>
+                `;
+                
+                // Update selected state in dropdown
+                document.querySelectorAll('#location-dropdown .dropdown-item').forEach(item => {
+                    item.classList.toggle('selected', item.dataset.value === 'all');
+                });
+                
+                // Clear any location filter
+                jobsTable.column(2).search('').draw();
+                
+                // Close dropdown
+                document.getElementById('location-dropdown').parentElement.classList.remove('active');
+            });
+        }
+        
         // Sort locations alphabetically
         const sortedLocations = Array.from(uniqueLocations).sort();
         
@@ -289,7 +317,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Update dropdown button text
                 locationDropdownBtn.innerHTML = `
                     <span class="material-icons">location_on</span>
-                    ${location === 'all' ? 'All Locations' : location}
+                    ${location}
                     <span class="material-icons dropdown-arrow">expand_more</span>
                 `;
                 
@@ -299,11 +327,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
                 
                 // Apply filter to DataTable
-                if (location === 'all') {
-                    jobsTable.column(2).search('').draw();
-                } else {
-                    jobsTable.column(2).search(location, true, false).draw();
-                }
+                jobsTable.column(2).search(location, true, false).draw();
                 
                 // Close dropdown
                 document.getElementById('location-dropdown').parentElement.classList.remove('active');
@@ -323,6 +347,28 @@ document.addEventListener('DOMContentLoaded', function() {
         // Toggle the clicked dropdown
         if (!isActive) {
             dropdown.classList.add('active');
+            
+            // For debugging
+            console.log(`${type} dropdown opened`);
+            
+            // Make sure dropdown is positioned correctly
+            const dropdownContent = document.getElementById(`${type}-dropdown`);
+            dropdownContent.style.display = 'block';
+            
+            // Ensure event listeners are properly attached
+            if (type === 'company') {
+                // Check if all companies item has event listener
+                const allCompaniesItem = document.querySelector('#company-dropdown .dropdown-item[data-value="all"]');
+                if (allCompaniesItem) {
+                    console.log('All Companies item found');
+                }
+            } else if (type === 'location') {
+                // Check if all locations item has event listener
+                const allLocationsItem = document.querySelector('#location-dropdown .dropdown-item[data-value="all"]');
+                if (allLocationsItem) {
+                    console.log('All Locations item found');
+                }
+            }
         }
     }
     
