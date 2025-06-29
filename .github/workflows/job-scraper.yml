@@ -39,29 +39,12 @@ jobs:
     - name: Create jobs directory
       run: mkdir -p jobs
       
-    - name: Run Apple Jobs Scraper
-      run: python apple_jobs_scraper.py
-      continue-on-error: true
-      
-    - name: Run Meta Jobs Scraper
-      run: python meta_jobs_scraper.py
-      continue-on-error: true
-      
-    - name: Run NVIDIA Jobs Scraper
-      run: python nvidia_jobs_scraper.py
-      continue-on-error: true
-      
-    - name: Run Salesforce Jobs Scraper
-      run: python salesforce_jobs_scraper.py
-      continue-on-error: true
-      
-    - name: Run Tesla Jobs Scraper
-      run: python tesla_jobs_scraper.py
-      continue-on-error: true
-      
-    - name: Run Accenture Jobs Scraper
-      run: python accenture_jobs_scraper.py
-      continue-on-error: true
+    - name: Run all job scrapers in scripts/
+      run: |
+        for scraper in scripts/*_jobs_scraper.py; do
+          echo "Running $scraper..."
+          python "$scraper" || echo "[!] $scraper failed"
+        done
       
     - name: Check for changes
       id: changes
