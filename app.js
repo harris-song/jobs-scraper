@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let filteredJobs = [];
     let uniqueLocations = new Set();
     let currentPage = 1;
-    const jobsPerPage = 9;
+    const jobsPerPage = 15;
     let selectedCompany = 'all';
     let selectedLocation = 'all';
     
@@ -395,8 +395,8 @@ document.addEventListener('DOMContentLoaded', function() {
             // Format bullet points if they exist
             const jobDetailsDiv = jobCard.querySelector('.job-details');
             if (job["Bullet Fields"] && Array.isArray(job["Bullet Fields"])) {
-                // Limit to first 3 bullet points
-                const limitedBullets = job["Bullet Fields"].slice(0, 3);
+                // Limit to first 2 bullet points for more compact display
+                const limitedBullets = job["Bullet Fields"].slice(0, 2);
                 const bulletList = document.createElement('ul');
                 limitedBullets.forEach(bullet => {
                     const li = document.createElement('li');
