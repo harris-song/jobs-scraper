@@ -10,30 +10,29 @@ def make_nvidia_api_request(limit=100, offset=0):
     
     url = "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     
-    # Headers based on the network request
+    # Updated headers for current API requirements
     headers = {
-        "accept": "application/json",
-        "accept-encoding": "gzip, deflate, br, zstd",
-        "accept-language": "en-US",
-        "content-type": "application/json",
-        "origin": "https://nvidia.wd5.myworkdayjobs.com",
-        "referer": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite",
-        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-        "dnt": "1",
-        "sec-ch-ua": '"Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"',
-        "sec-ch-ua-mobile": "?0",
-        "sec-ch-ua-platform": '"macOS"',
-        "sec-fetch-dest": "empty",
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Origin": "https://nvidia.wd5.myworkdayjobs.com",
+        "Referer": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite",
+        "sec-fetch-site": "same-origin",
         "sec-fetch-mode": "cors",
-        "sec-fetch-site": "same-origin"
+        "sec-fetch-dest": "empty",
+        "Accept-Language": "en-US,en;q=0.9"
     }
     
-    # Request body with pagination support
+    # Updated request payload with required fields
     payload = {
         "appliedFacets": {},
         "limit": limit,
         "offset": offset,
-        "searchText": ""
+        "searchText": "",
+        "sortOrder": {
+            "ascending": False,
+            "sortBy": "postedOn"
+        }
     }
     
     try:
@@ -75,6 +74,9 @@ def process_jobs_data(json_data, output_file="../jobs/nvidia_jobs_processed.json
     
     # Ensure the jobs directory exists
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    
+    # Define raw JSON file path
+    raw_json_file_path = "../jobs/nvidia_jobs_raw.json"
     
     if not json_data:
         print("No JSON data to process.")
@@ -155,7 +157,7 @@ def process_jobs_data(json_data, output_file="../jobs/nvidia_jobs_processed.json
         # Also save the raw response for debugging
         with open("../jobs/nvidia_jobs_raw.json", "w", encoding="utf-8") as raw_file:
             json.dump(json_data, raw_file, indent=2, ensure_ascii=False)
-        print(f"Saved raw API response to: nvidia_jobs_raw.json")
+        print(f"Saved raw API response to: {raw_json_file_path}")
         
     else:
         print("No job data found.")
@@ -257,8 +259,13 @@ def get_all_jobs(max_jobs=1000):
     return {"jobPostings": all_jobs, "total": len(all_jobs)}
 
 def main():
-    json_file_name = "nvidia_jobs_playwright.json"
-    csv_file_name = "nvidia_jobs.csv"
+    # Define file paths with proper directory structure
+    jobs_dir = "../jobs"
+    os.makedirs(jobs_dir, exist_ok=True)
+    
+    json_file_path = os.path.join(jobs_dir, "nvidia_jobs_processed.json")
+    raw_json_file_path = os.path.join(jobs_dir, "nvidia_jobs_raw.json")
+    csv_file_path = os.path.join(jobs_dir, "nvidia_jobs.csv")
     
     print(f"=== NVIDIA Jobs Scraper (Final) ({datetime.now().strftime('%Y-%m-%d %H:%M:%S')}) ===")
     
@@ -268,27 +275,27 @@ def main():
     
     if json_data and json_data.get("jobPostings"):
         print(f"\n[*] Processing {len(json_data['jobPostings'])} jobs...")
-        process_jobs_data(json_data, "nvidia_jobs_processed.json")
+        process_jobs_data(json_data, json_file_path)
         
         print("\n[*] Converting job data to CSV...")
-        convert_json_to_csv(json_data, csv_file_name)
+        convert_json_to_csv(json_data, csv_file_path)
         
         print(f"\n✅ Process complete!")
-        print(f"📄 JSON file: nvidia_jobs_processed.json")
-        print(f"📊 CSV file: {csv_file_name}")
-        print(f"🔍 Raw data: nvidia_jobs_raw.json")
+        print(f"📄 JSON file: {json_file_path}")
+        print(f"📊 CSV file: {csv_file_path}")
+        print(f"🔍 Raw data: {raw_json_file_path}")
     else:
         print("❌ Failed to retrieve job data from NVIDIA API.")
         
         # Try to load from existing files if available
-        if os.path.exists("nvidia_jobs_raw.json"):
-            print("\n[*] Loading job data from existing nvidia_jobs_raw.json...")
-            with open("../jobs/nvidia_jobs_raw.json", "r", encoding="utf-8") as f:
+        if os.path.exists(raw_json_file_path):
+            print(f"\n[*] Loading job data from existing {raw_json_file_path}...")
+            with open(raw_json_file_path, "r", encoding="utf-8") as f:
                 try:
                     json_data = json.load(f)
-                    process_jobs_data(json_data, "nvidia_jobs_processed.json")
-                    convert_json_to_csv(json_data, csv_file_name)
-                    print(f"\n✅ Process complete! Check {csv_file_name} for the job listings.")
+                    process_jobs_data(json_data, json_file_path)
+                    convert_json_to_csv(json_data, csv_file_path)
+                    print(f"\n✅ Process complete! Check {csv_file_path} for the job listings.")
                 except Exception as e:
                     print(f"Error loading JSON from file: {e}")
         else:
