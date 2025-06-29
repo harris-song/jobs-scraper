@@ -1,6 +1,12 @@
-# Jobs Scraper
+# Jobs Scraper & Dashboard
 
-A comprehensive job scraping tool that automatically collects job listings from major tech companies and saves them as structured JSON data.
+A comprehensive job scraping tool that automatically collects job listings from major tech companies and saves them as structured JSON data, with a web dashboard to browse the listings.
+
+## 🚀 Quick Start
+
+1. Clone this repository
+2. Open `index.html` in your web browser to view the jobs dashboard
+3. For automated scraping, set up the GitHub Action workflow
 
 ## 🏢 Supported Companies
 
@@ -8,10 +14,27 @@ A comprehensive job scraping tool that automatically collects job listings from 
 - **Meta** - Meta Careers  
 - **NVIDIA** - NVIDIA Careers
 - **Salesforce** - Salesforce Careers
-- **Tesla** - Tesla Careers
 - **Accenture** - Accenture Careers
+- **Tesla** - Tesla Careers
 
-## 📁 Project Structure
+## �️ Jobs Dashboard
+
+The project includes a web-based dashboard to browse all scraped job listings:
+
+### Features
+- **Responsive Design**: Works on desktop and mobile devices
+- **Filtering**: Filter jobs by company and location
+- **Search**: Search across all job listings by keyword
+- **Pagination**: Easily navigate through large numbers of job listings
+- **Direct Links**: Apply directly by clicking through to the original job posting
+
+### How to Use
+1. Open `index.html` in your web browser
+2. Use the search box to find specific jobs
+3. Filter by company or location using the dropdown menus
+4. Click "View Job" to open the original job posting in a new tab
+
+## �📁 Project Structure
 
 ```
 jobs-scraper/
@@ -31,6 +54,10 @@ jobs-scraper/
 │   ├── salesforce_jobs_scraper.py   # Salesforce jobs scraper
 │   ├── tesla_jobs_scraper.py        # Tesla jobs scraper
 │   ├── accenture_jobs_scraper.py    # Accenture jobs scraper
+├── index.html                   # Jobs dashboard main page
+├── app.js                       # Dashboard JavaScript functionality
+├── styles.css                   # Dashboard styling
+├── images/                      # Images for the dashboard
 ├── requirements.txt             # Python dependencies
 └── README.md                    # This file
 ```

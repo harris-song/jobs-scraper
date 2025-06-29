@@ -84,7 +84,7 @@ jobs:
     - name: Upload individual job data
       uses: actions/upload-artifact@v4
       with:
-        name: job-data-${{ github.run_id }}-${{ matrix.scraper }}
+        name: job-data-${{ github.run_id }}-${{ matrix.scraper.split('/')[-1] }}
         path: jobs/
         retention-days: 7
 

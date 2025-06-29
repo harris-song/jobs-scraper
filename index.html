@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Company Job Listings</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="theme-container">
+        <header class="navbar">
+            <div class="container">
+                <div class="navbar-top">
+                    <div class="logo-container">
+                        <div class="logo">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+                                <rect width="7" height="7" x="3" y="3" rx="1"></rect>
+                                <rect width="7" height="7" x="14" y="3" rx="1"></rect>
+                                <rect width="7" height="7" x="14" y="14" rx="1"></rect>
+                                <rect width="7" height="7" x="3" y="14" rx="1"></rect>
+                            </svg>
+                            <span>TechJobsHub</span>
+                        </div>
+                        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon sun-icon">
+                                <circle cx="12" cy="12" r="4"></circle>
+                                <path d="M12 2v2"></path>
+                                <path d="M12 20v2"></path>
+                                <path d="m4.93 4.93 1.41 1.41"></path>
+                                <path d="m17.66 17.66 1.41 1.41"></path>
+                                <path d="M2 12h2"></path>
+                                <path d="M20 12h2"></path>
+                                <path d="m6.34 17.66-1.41 1.41"></path>
+                                <path d="m19.07 4.93-1.41 1.41"></path>
+                            </svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon moon-icon">
+                                <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            
+                <div class="search-container">
+                    <div class="search-wrapper">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <path d="m21 21-4.3-4.3"></path>
+                        </svg>
+                        <input type="text" id="search-input" placeholder="Search jobs by title, location, or keyword..." class="search-input">
+                    </div>
+                    
+                    <div class="filter-controls">
+                        <div class="dropdown">
+                            <button class="dropdown-btn" id="company-dropdown-btn">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+                                    <path d="M19 21V5a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v16"></path>
+                                    <path d="M1 21h22"></path>
+                                    <path d="M9 9h6"></path>
+                                    <path d="M9 13h6"></path>
+                                    <path d="M9 17h6"></path>
+                                </svg>
+                                All Companies
+                            </button>
+                            <div class="dropdown-content" id="company-dropdown">
+                                <div class="dropdown-item" data-value="all">All Companies</div>
+                                <div class="dropdown-item" data-value="accenture">Accenture</div>
+                                <div class="dropdown-item" data-value="apple">Apple</div>
+                                <div class="dropdown-item" data-value="meta">Meta</div>
+                                <div class="dropdown-item" data-value="nvidia">NVIDIA</div>
+                                <div class="dropdown-item" data-value="salesforce">Salesforce</div>
+                                <div class="dropdown-item" data-value="tesla">Tesla</div>
+                            </div>
+                        </div>
+                        
+                        <div class="dropdown">
+                            <button class="dropdown-btn" id="location-dropdown-btn">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+                                    <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path>
+                                    <circle cx="12" cy="10" r="3"></circle>
+                                </svg>
+                                All Locations
+                            </button>
+                            <div class="dropdown-content" id="location-dropdown">
+                                <div class="dropdown-item" data-value="all">All Locations</div>
+                                <!-- Will be populated dynamically -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+    <main class="container">
+        <div class="stats-bar">
+            <div id="total-count" class="stat">
+                <span class="stat-number">0</span>
+                <span class="stat-label">Total Jobs</span>
+            </div>
+            <div id="companies-count" class="stat">
+                <span class="stat-number">0</span>
+                <span class="stat-label">Companies</span>
+            </div>
+            <div id="locations-count" class="stat">
+                <span class="stat-number">0</span>
+                <span class="stat-label">Locations</span>
+            </div>
+            <div id="last-updated" class="stat">
+                <span class="stat-label">Last Updated</span>
+                <span class="stat-text">Loading...</span>
+            </div>
+        </div>
+
+        <div class="loading-spinner" id="loading-spinner">
+            <div class="spinner"></div>
+            <p>Loading job data...</p>
+        </div>
+
+        <div class="jobs-container" id="jobs-container">
+            <!-- Jobs will be dynamically inserted here -->
+        </div>
+
+        <div class="pagination">
+            <button id="prev-page" disabled><i class="fas fa-chevron-left"></i> Previous</button>
+            <span id="page-info">Page 1 of 1</span>
+            <button id="next-page" disabled>Next <i class="fas fa-chevron-right"></i></button>
+        </div>
+    </main>
+    
+    <footer class="container">
+        <p>&copy; 2025 Job Listings Dashboard | Data scraped from company career pages</p>
+        <p>Last updated: <span id="footer-last-updated">Loading...</span></p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
