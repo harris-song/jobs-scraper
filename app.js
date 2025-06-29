@@ -194,6 +194,7 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             scrollX: false,     // Disable horizontal scrolling to prevent scroll wheels
             pageLength: 25,     // Show 25 rows per page as requested
+            lengthMenu: [[10, 25, 50, 100, 500, 1000, -1], [10, 25, 50, 100, 500, 1000, "All"]], // Added 500, 1000, and All options
             dom: '<"top"if>rt<"bottom"lp><"clear">',
             ordering: true,
             stripeClasses: ['even-row', 'odd-row'],
@@ -201,7 +202,7 @@ document.addEventListener('DOMContentLoaded', function() {
             language: {
                 search: "_INPUT_",
                 searchPlaceholder: "Search jobs...",
-                lengthMenu: "_MENU_ per page",
+                lengthMenu: "_MENU_ entries",
                 info: "Showing _START_ to _END_ of _TOTAL_ jobs",
                 infoEmpty: "Showing 0 to 0 of 0 jobs",
                 infoFiltered: "(filtered from _MAX_ total jobs)"
@@ -253,7 +254,9 @@ document.addEventListener('DOMContentLoaded', function() {
         });
         
         // Company dropdown toggle
-        companyDropdownBtn.addEventListener('click', function() {
+        companyDropdownBtn.addEventListener('click', function(event) {
+            event.preventDefault();
+            event.stopPropagation(); // Stop event from bubbling up
             toggleDropdown('company');
         });
         
@@ -261,8 +264,20 @@ document.addEventListener('DOMContentLoaded', function() {
         populateLocationFilter();
         
         // Location dropdown toggle
-        locationDropdownBtn.addEventListener('click', function() {
+        locationDropdownBtn.addEventListener('click', function(event) {
+            event.preventDefault();
+            event.stopPropagation(); // Stop event from bubbling up
             toggleDropdown('location');
+        });
+        
+        // Also prevent clicks on dropdown content from closing the dropdown
+        document.querySelectorAll('.dropdown-content').forEach(content => {
+            content.addEventListener('click', function(event) {
+                // Only stop propagation if clicking on the dropdown content itself, not its children
+                if (event.target === this) {
+                    event.stopPropagation();
+                }
+            });
         });
         
         // Close dropdowns when clicking outside
@@ -339,36 +354,33 @@ document.addEventListener('DOMContentLoaded', function() {
     
     function toggleDropdown(type) {
         const dropdown = document.getElementById(`${type}-dropdown`).parentElement;
-        const isActive = dropdown.classList.contains('active');
+        const currentlyActive = dropdown.classList.contains('active');
         
-        // Close all dropdowns first
-        document.querySelectorAll('.dropdown').forEach(d => d.classList.remove('active'));
+        // First close all dropdowns
+        const allDropdowns = document.querySelectorAll('.dropdown');
+        allDropdowns.forEach(d => {
+            // If it's not the current dropdown or if we're toggling off the current dropdown
+            if (d !== dropdown || currentlyActive) {
+                d.classList.remove('active');
+                // Hide dropdown content
+                const dropdownId = d.querySelector('.dropdown-content').id;
+                const dropdownContent = document.getElementById(dropdownId);
+                dropdownContent.style.display = 'none';
+            }
+        });
         
-        // Toggle the clicked dropdown
-        if (!isActive) {
+        // Now toggle the current dropdown
+        if (!currentlyActive) {
+            // Open this dropdown
             dropdown.classList.add('active');
-            
-            // For debugging
             console.log(`${type} dropdown opened`);
             
-            // Make sure dropdown is positioned correctly
+            // Make sure dropdown content is visible
             const dropdownContent = document.getElementById(`${type}-dropdown`);
             dropdownContent.style.display = 'block';
-            
-            // Ensure event listeners are properly attached
-            if (type === 'company') {
-                // Check if all companies item has event listener
-                const allCompaniesItem = document.querySelector('#company-dropdown .dropdown-item[data-value="all"]');
-                if (allCompaniesItem) {
-                    console.log('All Companies item found');
-                }
-            } else if (type === 'location') {
-                // Check if all locations item has event listener
-                const allLocationsItem = document.querySelector('#location-dropdown .dropdown-item[data-value="all"]');
-                if (allLocationsItem) {
-                    console.log('All Locations item found');
-                }
-            }
+        } else {
+            // Already closed by the code above
+            console.log(`${type} dropdown closed`);
         }
     }
     

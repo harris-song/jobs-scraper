@@ -57,6 +57,7 @@
     --text-secondary: rgba(255, 255, 255, 0.6);
     --text-disabled: rgba(255, 255, 255, 0.38);
     --border-color: rgba(255, 255, 255, 0.12);
+    --success-color: #388e3c; /* Keep the same success color in dark theme */
 }
 
 body {
@@ -303,10 +304,15 @@ input:hover, select:hover, textarea:hover {
     display: none;
     margin-top: var(--spacing-xs);
     width: 100%; /* Ensure full width */
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease, visibility 0.2s ease;
 }
 
 .dropdown.active .dropdown-content {
     display: block;
+    opacity: 1;
+    visibility: visible;
 }
 
 .dropdown-item {
@@ -343,6 +349,7 @@ input:hover, select:hover, textarea:hover {
     display: flex;
     flex-wrap: wrap;
     gap: 15px;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 
@@ -524,14 +531,14 @@ input:hover, select:hover, textarea:hover {
     align-items: center;
     gap: var(--spacing-xs);
     padding: 0.5em 1em;
-    background-color: #7a8288;
-    color: white !important;
+    background-color: #c7d3dd;
+    color: black !important; /* Default to black for light theme */
     text-decoration: none;
     border-radius: 4px;
     font-size: 0.75em;
-    font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-    font-weight: bold;
-    transition: background-color 0.2s;
+    font-family: inherit; /* Inherit font from parent elements to match table text */
+    font-weight: normal;
+    transition: background-color 0.2s, color 0.2s;
     border: none !important;
     cursor: pointer;
     text-align: center;
@@ -543,6 +550,12 @@ input:hover, select:hover, textarea:hover {
     text-decoration: none;
 }
 
+/* Make View button text white in dark theme */
+.dark-theme .btn-primary {
+    color: white !important;
+    background-color: #45505a;
+}
+
 .btn-primary .material-icons {
     font-size: 14px;
     margin-right: 2px;
@@ -551,8 +564,8 @@ input:hover, select:hover, textarea:hover {
 /* New badge */
 .new-badge {
     display: inline-block;
-    background-color: var(--success-color);
-    color: var(--accent-text);
+    background-color: #388e3c; /* Use consistent green color from dark theme */
+    color: white; /* White text for better contrast */
     font-size: 0.6rem;
     padding: 1px 3px;
     border-radius: var(--border-radius-sm);
@@ -655,6 +668,21 @@ footer {
     font-weight: 300;
 }
 
+.footer-text-link {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    transition: var(--transition-normal);
+}
+
+.footer-text-link:hover {
+    opacity: 0.8;
+}
+
+.footer-text-link:active {
+    transform: scale(0.98);
+}
+
 .footer-text {
     color: var(--text-secondary);
     font-size: 0.875rem;
@@ -708,6 +736,7 @@ table.dataTable {
     font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
     font-size: 0.75em; /* academicpages uses 0.75em for tables */
     border: none;
+    table-layout: fixed;
 }
 
 table.dataTable thead th {
@@ -775,8 +804,49 @@ table.dataTable tbody td:last-child {
 
 /* Reduce size of the "Show x entries" dropdown */
 .dataTables_length {
-    font-size: 0.85em;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    flex-shrink: 0;
+}
+
+/* Add spacing for the info text */
+.dataTables_info {
+    margin-left: 15px;
     margin-bottom: 15px;
+    color: var(--text-secondary);
+}
+
+div.bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 15px;
+    padding-bottom: 20px; /* Add space at the bottom */
+}
+
+/* Ensure pagination is properly aligned */
+.dataTables_paginate {
+    margin: 0;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+/* Style for the length control */
+.dataTables_length {
+    margin: 0;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+}
+
+.dataTables_length label {
+    display: flex;
+    align-items: center;
+    gap: 5px;
 }
 
 /* Fix columns disappearing when changing entries per page */
@@ -815,8 +885,6 @@ table.dataTable td:nth-child(2) {
     padding-right: 10px; /* Add a bit more padding for readability */
 }
 
-
-
 table.dataTable th:nth-child(3),
 table.dataTable td:nth-child(3) {
     width: 20%;
@@ -835,11 +903,11 @@ table.dataTable td:nth-child(5) {
 .dataTables_length select {
     padding: 2px 5px;
     border: 1px solid var(--border-color);
-    border-radius: var(--border-radius-sm);
+    border-radius: 100px !important;
     background-color: var(--surface-color);
     color: var(--text-primary);
     margin: 0 5px;
-    font-size: 0.9em;
+    font-size: 0.85em;
 }
 
 .dark-theme .dataTables_length select {
@@ -853,7 +921,7 @@ table.dataTable td:nth-child(5) {
     color: var(--text-secondary);
 }
 
-.paginate_button {
+.dataTables_paginate .paginate_button {
     display: inline-block;
     padding: 0.5em 1em;
     margin-left: -1px;
@@ -864,96 +932,17 @@ table.dataTable td:nth-child(5) {
     background-color: var(--surface-color) !important;
     border: 1px solid var(--border-color) !important;
     font-size: 0.85em;
+    border-radius: 100px !important;
+    margin: 0 4px; /* Increased spacing between buttons */
 }
 
-.paginate_button.current {
-    font-weight: bold;
-    background-color: var(--primary-color) !important;
-    color: #fff !important;
-    border: 1px solid var(--primary-color) !important;
-    z-index: 3;
-    position: relative;
+/* Make sure the current/active page button stays rounded */
+.dataTables_paginate .paginate_button.current,
+.dataTables_paginate .paginate_button:hover {
+    border-radius: 100px !important;
 }
 
-.paginate_button:hover:not(.disabled) {
-    color: var(--primary-dark) !important;
-    background-color: var(--border-color) !important;
-    color: #000 !important;
-}
-
-.dark-theme .paginate_button:hover:not(.disabled) {
-    background-color: #444 !important;
-    color: #fff !important;
-}
-
-/* Change button style to be more academic */
-.btn-primary {
-    background-color: #f5f5f5;
-    color: #333;
-    border: 1px solid #ccc;
-    border-radius: 2px;
-    font-family: 'PT Serif', 'Georgia', serif;
-}
-
-.btn-primary:hover {
-    background-color: #e5e5e5;
-    color: #000;
-}
-
-.dark-theme .btn-primary {
-    background-color: #333;
-    color: #eee;
-    border: 1px solid #555;
-}
-
-.dark-theme .btn-primary:hover {
-    background-color: #444;
-    color: #fff;
-}
-
-/* Academic styling for the overall page */
-.table-container {
-    border: 1px solid #ccc;
-    box-shadow: none;
-    border-radius: 0;
-}
-
-.dark-theme .table-container {
-    border: 1px solid #444;
-}
-
-/* Academic table styling */
-table.dataTable {
-    border-collapse: collapse;
-    width: 100%;
-    margin: 0 !important;
-}
-
-/* Ensure there's good spacing between all table elements */
-.table-container {
-    margin-bottom: 30px;
-}
-
-/* Prevent horizontal scrolling by containing the table properly */
-.table-container {
-    padding: 0;
-    overflow-x: hidden; /* Prevent horizontal scrolling */
-}
-
-table.dataTable {
-    width: 100% !important;
-}
-
-/* Fix for DataTables scrolling and responsive behavior */
-.dataTables_wrapper .dataTables_scroll {
-    clear: both;
-}
-
-.dataTables_scrollBody {
-    -webkit-overflow-scrolling: touch; /* Better scrolling on iOS */
-}
-
-/* Responsive design */
+/* Responsive adjustments for mobile */
 @media (max-width: 768px) {
     .container {
         padding: 0 var(--spacing-sm);
@@ -1001,6 +990,20 @@ table.dataTable {
     .pagination {
         flex-direction: column;
         gap: var(--spacing-md);
+    }
+    
+    div.bottom {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+    
+    .dataTables_length {
+        margin-bottom: 0;
+    }
+    
+    .dataTables_paginate {
+        margin-top: 0;
     }
 }
 
