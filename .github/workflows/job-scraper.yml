@@ -81,10 +81,14 @@ jobs:
         echo "Running ${{ matrix.scraper }}..."
         python "${{ matrix.scraper }}" || echo "[!] ${{ matrix.scraper }} failed"
       
+    - name: Extract scraper filename
+      id: scraper_name
+      run: echo "name=$(basename '${{ matrix.scraper }}')" >> $GITHUB_OUTPUT
+
     - name: Upload individual job data
       uses: actions/upload-artifact@v4
       with:
-        name: job-data-${{ github.run_id }}-${{ matrix.scraper.split('/')[-1] }}
+        name: job-data-${{ github.run_id }}-${{ steps.scraper_name.outputs.name }}
         path: jobs/
         retention-days: 7
 

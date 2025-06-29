@@ -614,38 +614,106 @@ footer {
     100% { transform: rotate(360deg); }
 }
 
-/* Media queries for responsiveness */
+/* Utility classes and responsive design */
+.hidden {
+    display: none;
+}
+
+.no-jobs-message {
+    text-align: center;
+    padding: 4rem 0;
+    color: var(--muted-foreground);
+}
+
+.no-jobs-message h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    color: var(--foreground);
+}
+
+.scroll-lock {
+    overflow: hidden;
+}
+
+/* Media queries */
 @media (max-width: 768px) {
-    .filter-section input,
-    .filter-section select {
-        width: 100%;
+    .search-container {
+        gap: 0.75rem;
     }
     
     .filter-controls {
         width: 100%;
+        justify-content: space-between;
     }
     
-    .stats-bar {
+    .dropdown-btn {
+        flex: 1;
+        justify-content: center;
+    }
+    
+    .stats-cards {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+    
+    .stat-card {
         flex-direction: column;
+        text-align: center;
     }
     
-    .stat {
-        margin-bottom: 1rem;
+    .jobs-container {
+        grid-template-columns: 1fr;
+    }
+    
+    .footer-content {
+        flex-direction: column;
+        gap: 1rem;
     }
 }
 
-/* Company colors for filter indicators */
-.company-indicator {
-    display: inline-block;
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    margin-right: 5px;
+@media (max-width: 480px) {
+    .stats-cards {
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    .pagination {
+        flex-wrap: wrap;
+    }
 }
 
-.company-indicator.accenture { background-color: #a100ff; }
-.company-indicator.apple { background-color: #999999; }
-.company-indicator.meta { background-color: #0668E1; }
-.company-indicator.nvidia { background-color: #76B900; }
-.company-indicator.salesforce { background-color: #00A1E0; }
-.company-indicator.tesla { background-color: #e82127; }
+/* Dark mode override for company badges */
+.dark-theme .job-card[data-company="accenture"] .company-badge { background-color: rgba(161, 0, 255, 0.2); }
+.dark-theme .job-card[data-company="apple"] .company-badge { background-color: rgba(153, 153, 153, 0.2); }
+.dark-theme .job-card[data-company="meta"] .company-badge { background-color: rgba(6, 104, 225, 0.2); }
+.dark-theme .job-card[data-company="nvidia"] .company-badge { background-color: rgba(118, 185, 0, 0.2); }
+.dark-theme .job-card[data-company="salesforce"] .company-badge { background-color: rgba(0, 161, 224, 0.2); }
+.dark-theme .job-card[data-company="tesla"] .company-badge { background-color: rgba(232, 33, 39, 0.2); }
+
+/* Error message styling */
+.error-message {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--foreground);
+    background-color: var(--card);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    margin: 2rem 0;
+}
+
+.error-message h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+    color: var(--destructive);
+}
+
+/* Badge for new jobs */
+.new-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.25rem 0.5rem;
+    background-color: var(--primary);
+    color: var(--primary-foreground);
+    font-size: 0.7rem;
+    font-weight: 500;
+    border-radius: 999px;
+    margin-left: 0.5rem;
+}
