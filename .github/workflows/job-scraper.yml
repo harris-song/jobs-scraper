@@ -54,7 +54,7 @@ jobs:
       run: |
         for scraper in scripts/*_jobs_scraper.py; do
           echo "Running $scraper..."
-          xvfb-run python "$scraper" || echo "[!] $scraper failed"
+          python "$scraper" || echo "[!] $scraper failed"
         done
       
     - name: Check for changes

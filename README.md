@@ -25,12 +25,12 @@ jobs-scraper/
 │   ├── tesla_jobs_processed.json
 │   └── accenture_jobs_processed.json
 ├── scripts/                     # Alternative script versions
-├── apple_jobs_scraper.py        # Apple jobs scraper
-├── meta_jobs_scraper.py         # Meta jobs scraper
-├── nvidia_jobs_scraper.py       # NVIDIA jobs scraper
-├── salesforce_jobs_scraper.py   # Salesforce jobs scraper
-├── tesla_jobs_scraper.py        # Tesla jobs scraper
-├── accenture_jobs_scraper.py    # Accenture jobs scraper
+│   ├── apple_jobs_scraper.py        # Apple jobs scraper
+│   ├── meta_jobs_scraper.py         # Meta jobs scraper
+│   ├── nvidia_jobs_scraper.py       # NVIDIA jobs scraper
+│   ├── salesforce_jobs_scraper.py   # Salesforce jobs scraper
+│   ├── tesla_jobs_scraper.py        # Tesla jobs scraper
+│   ├── accenture_jobs_scraper.py    # Accenture jobs scraper
 ├── requirements.txt             # Python dependencies
 └── README.md                    # This file
 ```

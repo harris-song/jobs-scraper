@@ -3,11 +3,11 @@ import json
 import os
 import time
 
-def process_jobs_data(json_data, output_file="../jobs/salesforce_jobs_processed.json"):
+def process_jobs_data(json_data, output_file):
+    """Process the raw Salesforce jobs JSON data and save as structured JSON file."""
     # Ensure the jobs directory exists
     if output_file:
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    """Process the raw Salesforce jobs JSON data and save as structured JSON file."""
     job_postings = json_data.get("jobPostings", [])
     print(f"Found {len(job_postings)} job postings.")
 
@@ -44,9 +44,9 @@ def process_jobs_data(json_data, output_file="../jobs/salesforce_jobs_processed.
 
 def main():
     raw_json_file = "../jobs/salesforce_jobs_playwright.json"
+    processed_json_file = "../jobs/salesforce_jobs_processed.json"
     # Ensure the jobs directory exists
     os.makedirs(os.path.dirname(raw_json_file), exist_ok=True)
-    processed_json_file = "salesforce_jobs_processed.json"
 
     print(f"=== Salesforce Jobs Scraper (Playwright) ({time.strftime('%Y-%m-%d %H:%M:%S')}) ===")
 
