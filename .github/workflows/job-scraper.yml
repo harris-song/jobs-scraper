@@ -1,0 +1,139 @@
+name: Job Scraper Automation
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+  push:
+    # Run when code is pushed to main branch
+    branches: [ main ]
+
+jobs:
+  scrape-jobs:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 lxml
+        
+    - name: Create jobs directory
+      run: mkdir -p jobs
+      
+    - name: Run Apple Jobs Scraper
+      run: python apple_jobs_scraper.py
+      continue-on-error: true
+      
+    - name: Run Meta Jobs Scraper
+      run: python meta_jobs_scraper.py
+      continue-on-error: true
+      
+    - name: Run NVIDIA Jobs Scraper
+      run: python nvidia_jobs_scraper.py
+      continue-on-error: true
+      
+    - name: Run Salesforce Jobs Scraper
+      run: python salesforce_jobs_scraper.py
+      continue-on-error: true
+      
+    - name: Run Tesla Jobs Scraper
+      run: python tesla_jobs_scraper.py
+      continue-on-error: true
+      
+    - name: Run Accenture Jobs Scraper
+      run: python accenture_jobs_scraper.py
+      continue-on-error: true
+      
+    - name: Check for changes
+      id: changes
+      run: |
+        if git diff --quiet jobs/; then
+          echo "no_changes=true" >> $GITHUB_OUTPUT
+        else
+          echo "no_changes=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Configure Git
+      if: steps.changes.outputs.no_changes == 'false'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+    - name: Commit and push changes
+      if: steps.changes.outputs.no_changes == 'false'
+      run: |
+        git add jobs/
+        git commit -m "🤖 Auto-update job listings - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+        git push
+        
+    - name: Generate summary report
+      run: |
+        echo "## 📊 Job Scraping Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 📈 Job Counts by Company:" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        for file in jobs/*_jobs_processed.json; do
+          if [ -f "$file" ]; then
+            company=$(basename "$file" _jobs_processed.json | sed 's/.*/\u&/')
+            count=$(jq length "$file" 2>/dev/null || echo "0")
+            echo "- **$company**: $count jobs" >> $GITHUB_STEP_SUMMARY
+          fi
+        done
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 📅 Last Updated:" >> $GITHUB_STEP_SUMMARY
+        echo "- $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+        
+        if [ "${{ steps.changes.outputs.no_changes }}" == "false" ]; then
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ **Changes detected and committed to repository**" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "ℹ️ **No new changes detected**" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+    - name: Upload job data as artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: job-data-$(date +%Y%m%d)
+        path: jobs/
+        retention-days: 7
+        
+  notify:
+    needs: scrape-jobs
+    runs-on: ubuntu-latest
+    if: always()
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Generate notification
+      run: |
+        if [ "${{ needs.scrape-jobs.result }}" == "success" ]; then
+          echo "🎉 Job scraping completed successfully!"
+          echo "📊 Check the summary above for job counts."
+        else
+          echo "❌ Job scraping failed!"
+          echo "🔍 Check the logs for more details."
+        fi 
