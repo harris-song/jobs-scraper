@@ -1,8 +1,8 @@
 # Job Scraper Run Information
-Last updated: 2025-07-04 06:27:46 UTC
-GitHub Run ID: 16067313142
+Last updated: 2025-07-04 06:58:31 UTC
+GitHub Run ID: 16067771657
 Workflow: Job Scraper Automation
-Trigger: push
+Trigger: schedule
 Branch: main
 
 # Job Counts by Company:
