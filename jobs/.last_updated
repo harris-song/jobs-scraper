@@ -1,8 +1,8 @@
 # Job Scraper Run Information
-Last updated: 2025-07-03 06:58:10 UTC
-GitHub Run ID: 16043655628
+Last updated: 2025-07-04 06:04:33 UTC
+GitHub Run ID: 16066969100
 Workflow: Job Scraper Automation
-Trigger: schedule
+Trigger: push
 Branch: main
 
 # Job Counts by Company:
@@ -11,6 +11,6 @@ apple: 20 jobs
 meta: 10 jobs
 nvidia: 20 jobs
 salesforce: 20 jobs
-tesla: 2433 jobs
+tesla: 2468 jobs
 
-Total jobs across all companies: 2523
+Total jobs across all companies: 2558
