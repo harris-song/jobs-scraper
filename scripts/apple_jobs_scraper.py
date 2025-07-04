@@ -12,44 +12,84 @@ from date_utils import add_scrape_metadata
 # Add parent directory to path so we can execute this script from any directory
 sys.path.append(str(pathlib.Path(__file__).parent.parent))
 
-def fetch_jobs_with_requests(limit=20, offset=0, sort="newest"):
-    """Fetch jobs from Apple's careers page using requests."""
-    url = f"https://jobs.apple.com/en-us/search?sort={sort}"
+def fetch_jobs_with_requests(limit=100, offset=0, sort="newest"):
+    """Fetch jobs from Apple's careers page using requests with pagination."""
+    all_jobs = []
+    current_offset = offset
+    max_pages = 10  # Limit to prevent infinite loops
+    page_count = 0
     
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Accept-Encoding": "gzip, deflate, br, zstd",
-        "Cache-Control": "no-cache",
-        "Pragma": "no-cache",
-        "Sec-Fetch-Dest": "document",
-        "Sec-Fetch-Mode": "navigate",
-        "Sec-Fetch-Site": "same-origin",
-        "Sec-Fetch-User": "?1",
-        "Upgrade-Insecure-Requests": "1",
-        "DNT": "1",
-        "Sec-CH-UA": '"Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"',
-        "Sec-CH-UA-Mobile": "?0",
-        "Sec-CH-UA-Platform": '"macOS"'
-    }
-    
-    try:
-        print(f"[*] Fetching Apple jobs page (sort: {sort})...")
-        response = requests.get(url, headers=headers, timeout=30)
+    while page_count < max_pages:
+        url = f"https://jobs.apple.com/en-us/search?sort={sort}"
         
-        print(f"[*] Response status: {response.status_code}")
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "same-origin",
+            "Sec-Fetch-User": "?1",
+            "Upgrade-Insecure-Requests": "1",
+            "DNT": "1",
+            "Sec-CH-UA": '"Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"',
+            "Sec-CH-UA-Mobile": "?0",
+            "Sec-CH-UA-Platform": '"macOS"'
+        }
         
-        if response.status_code == 200:
-            return response.text
-        else:
-            print(f"[!] Error: {response.status_code}")
-            print(f"[!] Response text: {response.text}")
-            return None
+        # Add pagination parameters if supported
+        if current_offset > 0:
+            url += f"&offset={current_offset}"
+        
+        try:
+            print(f"[*] Fetching Apple jobs page {page_count + 1} (sort: {sort}, offset: {current_offset})...")
+            response = requests.get(url, headers=headers, timeout=30)
             
-    except Exception as e:
-        print(f"[!] Request failed: {e}")
-        return None
+            print(f"[*] Response status: {response.status_code}")
+            
+            if response.status_code == 200:
+                html_content = response.text
+                jobs_on_page = extract_jobs_from_html(html_content)
+                
+                if not jobs_on_page:
+                    print(f"[*] No jobs found on page {page_count + 1}, stopping pagination")
+                    break
+                
+                print(f"[*] Found {len(jobs_on_page)} jobs on page {page_count + 1}")
+                all_jobs.extend(jobs_on_page)
+                
+                # Check if there are more pages by looking for pagination elements
+                from bs4 import BeautifulSoup
+                soup = BeautifulSoup(html_content, 'html.parser')
+                
+                # Look for "Next" button or pagination indicators
+                next_button = soup.find('a', {'aria-label': 'Next'}) or soup.find('button', string=lambda text: text and 'next' in text.lower())
+                load_more = soup.find('button', string=lambda text: text and ('load more' in text.lower() or 'show more' in text.lower()))
+                
+                if not next_button and not load_more:
+                    print(f"[*] No more pages available, stopping pagination")
+                    break
+                
+                # Increment for next page
+                current_offset += len(jobs_on_page)
+                page_count += 1
+                
+                # Add delay between requests to be respectful
+                time.sleep(2)
+                
+            else:
+                print(f"[!] Error on page {page_count + 1}: {response.status_code}")
+                break
+                
+        except Exception as e:
+            print(f"[!] Request failed on page {page_count + 1}: {e}")
+            break
+    
+    print(f"[*] Total jobs collected across {page_count + 1} pages: {len(all_jobs)}")
+    return all_jobs
 
 def extract_jobs_from_html(html_content):
     """Extract job data from the HTML content using BeautifulSoup."""
@@ -244,13 +284,12 @@ def main():
         else:
             print(f"[!] API data is not in expected format")
     
-    # Fallback to HTML scraping
-    print("\n[*] Falling back to HTML scraping...")
-    html_content = fetch_jobs_with_requests(limit=20, offset=0, sort="newest")
+    # Fallback to HTML scraping with pagination
+    print("\n[*] Falling back to HTML scraping with pagination...")
+    jobs_data = fetch_jobs_with_requests(limit=100, offset=0, sort="newest")
     
-    if html_content:
-        jobs_data = extract_jobs_from_html(html_content)
-        process_jobs_data(jobs_data, "../jobs/apple_jobs_processed.json", html_content)
+    if jobs_data:
+        process_jobs_data(jobs_data, "../jobs/apple_jobs_processed.json", None)
         print("\n✅ Process complete!")
         print("📄 JSON file: ../jobs/apple_jobs_processed.json")
     else:

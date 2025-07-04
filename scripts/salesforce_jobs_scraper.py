@@ -60,18 +60,18 @@ def main():
         print("Launching browser...")
         browser = p.chromium.launch(headless=True)
         context = browser.new_context()
-        json_data = None
+        all_jobs = []
         page = context.new_page()
 
         def handle_response(response):
-            nonlocal json_data
+            nonlocal all_jobs
             if "/wday/cxs/salesforce/External_Career_Site/jobs" in response.url and response.status == 200:
                 print(f"[+] Intercepted API response: {response.url}")
                 try:
                     json_data = response.json()
-                    with open(raw_json_file, "w", encoding="utf-8") as f:
-                        json.dump(json_data, f, indent=2)
-                    print(f"Saved {raw_json_file}!")
+                    job_postings = json_data.get("jobPostings", [])
+                    print(f"Found {len(job_postings)} jobs in this batch")
+                    all_jobs.extend(job_postings)
                 except Exception as e:
                     print(f"Failed to parse JSON: {e}")
 
@@ -79,14 +79,73 @@ def main():
 
         print("[*] Navigating to Salesforce careers page...")
         page.goto("https://salesforce.wd12.myworkdayjobs.com/External_Career_Site", timeout=60000)
-        print("[*] Waiting for API calls to complete...")
+        print("[*] Waiting for initial API calls to complete...")
         page.wait_for_timeout(10000)  # Wait 10 seconds for requests to finish
+        
+        # Try to load more jobs by scrolling and clicking "Load More" if available
+        max_iterations = 10  # Limit to prevent infinite loops
+        iteration = 0
+        
+        while iteration < max_iterations:
+            print(f"[*] Attempting to load more jobs (iteration {iteration + 1})...")
+            
+            # Scroll to bottom to trigger any lazy loading
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            page.wait_for_timeout(3000)
+            
+            # Look for "Load More" or "Show More" buttons
+            load_more_selectors = [
+                "button[data-automation-id='loadMoreJobs']",
+                "button:has-text('Load More')",
+                "button:has-text('Show More')",
+                "button:has-text('See More')",
+                "[data-automation-id='paginationMoreButton']",
+                ".css-19uc56f",  # Common Workday pagination button class
+                "button[aria-label*='more']"
+            ]
+            
+            button_found = False
+            for selector in load_more_selectors:
+                try:
+                    load_more_button = page.locator(selector).first
+                    if load_more_button.is_visible(timeout=2000):
+                        print(f"[+] Found load more button with selector: {selector}")
+                        load_more_button.click()
+                        page.wait_for_timeout(5000)  # Wait for new jobs to load
+                        button_found = True
+                        break
+                except:
+                    continue
+            
+            if not button_found:
+                print("[*] No more load buttons found, trying pagination...")
+                # Try pagination
+                try:
+                    next_button = page.locator("button[aria-label='Go to next page']").first
+                    if next_button.is_visible(timeout=2000):
+                        print("[+] Found next page button")
+                        next_button.click()
+                        page.wait_for_timeout(5000)
+                    else:
+                        print("[*] No pagination found, stopping...")
+                        break
+                except:
+                    print("[*] No more pages available, stopping...")
+                    break
+            
+            iteration += 1
+        
         browser.close()
         print("Browser closed.")
-
-        if json_data:
+        
+        # Combine all collected jobs
+        if all_jobs:
+            combined_data = {"jobPostings": all_jobs}
+            with open(raw_json_file, "w", encoding="utf-8") as f:
+                json.dump(combined_data, f, indent=2)
+            print(f"[+] Collected total of {len(all_jobs)} jobs across all pages")            
             print("\n[*] Processing job data to JSON...")
-            process_jobs_data(json_data, processed_json_file)
+            process_jobs_data(combined_data, processed_json_file)
             if os.path.exists(raw_json_file):
                 try:
                     os.remove(raw_json_file)

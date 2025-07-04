@@ -116,25 +116,31 @@ def main():
         print("Launching browser...")
         browser = p.chromium.launch(headless=False)
         context = browser.new_context()
-        json_data = None
+        all_jobs_data = []
+        all_locations = {}
+        all_departments = {}
 
         # Open a new page
         page = context.new_page()
 
         # Function to capture the API response
         def handle_response(response):
-            nonlocal json_data
+            nonlocal all_jobs_data, all_locations, all_departments
             if "cua-api/apps/careers/state" in response.url and response.status == 200:
                 print(f"[+] Intercepted API response: {response.url}")
                 try:
                     json_data = response.json()
-                    print("=== Top-level keys ===")
-                    for key in json_data.keys():
-                        print(f"  {key}")
-                    # Save the full JSON
-                    with open(raw_json_file, "w", encoding="utf-8") as f:
-                        json.dump(json_data, f, indent=2)
-                    print(f"\nSaved {raw_json_file}!")
+                    listings = json_data.get("listings", [])
+                    print(f"Found {len(listings)} jobs in this batch")
+                    all_jobs_data.extend(listings)
+                    
+                    # Collect lookup data
+                    lookup = json_data.get("lookup", {})
+                    if "locations" in lookup:
+                        all_locations.update(lookup["locations"])
+                    if "departments" in lookup:
+                        all_departments.update(lookup["departments"])
+                        
                 except Exception as e:
                     print(f"Failed to parse JSON: {e}")
 
@@ -146,16 +152,89 @@ def main():
         page.goto("https://www.tesla.com/careers/search/?type=3&site=US", timeout=60000)
 
         # Give page time to load + make API calls
-        print("[*] Waiting for API calls to complete...")
+        print("[*] Waiting for initial API calls to complete...")
         page.wait_for_timeout(10000)  # Wait 10 seconds for requests to finish
+        
+        # Try to load more jobs by scrolling and interacting with filters
+        max_iterations = 10
+        iteration = 0
+        
+        while iteration < max_iterations:
+            print(f"[*] Attempting to load more jobs (iteration {iteration + 1})...")
+            
+            # Scroll to bottom to trigger any lazy loading
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            page.wait_for_timeout(3000)
+            
+            # Try clicking different filters to load more job categories
+            filter_selectors = [
+                "button:has-text('All Locations')",
+                "button:has-text('All Teams')",
+                "button:has-text('Engineering')",
+                "button:has-text('Manufacturing')", 
+                "button:has-text('Sales & Service')",
+                "button:has-text('Supply Chain')",
+                "button:has-text('Information Technology')"
+            ]
+            
+            # Try each filter to potentially load more jobs
+            for selector in filter_selectors:
+                try:
+                    filter_button = page.locator(selector).first
+                    if filter_button.is_visible(timeout=1000):
+                        print(f"[+] Clicking filter: {selector}")
+                        filter_button.click()
+                        page.wait_for_timeout(3000)  # Wait for API calls
+                        break
+                except:
+                    continue
+            
+            # Look for "Load More" or pagination buttons
+            load_more_selectors = [
+                "button:has-text('Load More')",
+                "button:has-text('Show More')", 
+                "button[data-testid='load-more']",
+                ".load-more",
+                "button[aria-label*='more']"
+            ]
+            
+            button_found = False
+            for selector in load_more_selectors:
+                try:
+                    load_more_button = page.locator(selector).first
+                    if load_more_button.is_visible(timeout=2000):
+                        print(f"[+] Found load more button: {selector}")
+                        load_more_button.click()
+                        page.wait_for_timeout(5000)
+                        button_found = True
+                        break
+                except:
+                    continue
+            
+            if not button_found:
+                print("[*] No more load buttons found...")
+            
+            iteration += 1
 
         browser.close()
         print("Browser closed.")
         
-        # Process JSON if data was captured
-        if json_data:
+        # Combine all collected data
+        if all_jobs_data:
+            combined_data = {
+                "listings": all_jobs_data,
+                "lookup": {
+                    "locations": all_locations,
+                    "departments": all_departments
+                }
+            }
+            
+            with open(raw_json_file, "w", encoding="utf-8") as f:
+                json.dump(combined_data, f, indent=2)
+            print(f"[+] Collected total of {len(all_jobs_data)} jobs across all iterations")
+            
             print("\n[*] Processing job data to JSON...")
-            process_jobs_data(json_data, processed_json_file)
+            process_jobs_data(combined_data, processed_json_file)
             
             # Delete the raw JSON file after processing
             if os.path.exists(raw_json_file):

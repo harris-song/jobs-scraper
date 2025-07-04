@@ -49,7 +49,7 @@ def setup_browser():
             raise
 
 def scrape_meta_jobs():
-    """Scrape Meta jobs using Selenium to simulate browser behavior."""
+    """Scrape Meta jobs using Selenium to simulate browser behavior with enhanced pagination."""
     driver = setup_browser()
     
     try:
@@ -62,7 +62,58 @@ def scrape_meta_jobs():
         print("Waiting for page to load...")
         time.sleep(5)  # Give it some time to load
         
-        # Wait longer for the page to load
+        all_job_elements = []
+        max_scrolls = 20  # Increase scroll attempts to load more jobs
+        scroll_count = 0
+        
+        while scroll_count < max_scrolls:
+            print(f"Scroll iteration {scroll_count + 1}/{max_scrolls}")
+            
+            # Scroll down to trigger lazy loading
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(3)  # Wait for content to load
+            
+            # Try to find and click "Load More" or "Show More" buttons
+            load_more_selectors = [
+                "button:contains('Load more')",
+                "button:contains('Show more')",
+                "button:contains('See more')",
+                "[data-testid='load-more']",
+                ".load-more-button",
+                "button[aria-label*='more']"
+            ]
+            
+            button_clicked = False
+            for selector in load_more_selectors:
+                try:
+                    # Use JavaScript to find and click buttons since Selenium's contains() doesn't work directly
+                    script = f"""
+                    var buttons = document.querySelectorAll('button');
+                    for (var i = 0; i < buttons.length; i++) {{
+                        if (buttons[i].textContent.toLowerCase().includes('load more') || 
+                            buttons[i].textContent.toLowerCase().includes('show more') ||
+                            buttons[i].textContent.toLowerCase().includes('see more')) {{
+                            buttons[i].click();
+                            return true;
+                        }}
+                    }}
+                    return false;
+                    """
+                    
+                    if driver.execute_script(script):
+                        print("[+] Clicked load more button")
+                        button_clicked = True
+                        time.sleep(5)  # Wait for new content to load
+                        break
+                except Exception as e:
+                    continue
+            
+            if not button_clicked:
+                print("No load more button found, continuing with scroll...")
+            
+            scroll_count += 1
+        
+        # Wait longer for the page to load all content
         print("Waiting for page to fully load...")
         time.sleep(5)  # Give more time for JavaScript to execute
         
@@ -113,7 +164,8 @@ def scrape_meta_jobs():
         print("Saved page source for debugging")
         
         jobs = []
-        for index, job_element in enumerate(job_elements[:20]):  # Process up to 20
+        max_jobs_to_process = 100  # Increase from 20 to 100
+        for index, job_element in enumerate(job_elements[:max_jobs_to_process]):
             try:
                 print(f"Processing job element {index+1}...")
                 job_data = {"Job ID": "N/A", "Title": "N/A", "Location": "N/A", "Team": "N/A", "Job URL": "N/A"}
