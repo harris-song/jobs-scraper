@@ -107,14 +107,21 @@ def add_scrape_metadata(job_entry):
     """
     job_entry["Scraped At"] = get_current_utc_timestamp()
     
-    # Normalize the Posted Date if it exists
-    if "Posted Date" in job_entry and job_entry["Posted Date"]:
+    # Normalize the Posted Date if it exists (including empty strings)
+    if "Posted Date" in job_entry:
         original_date = job_entry["Posted Date"]
-        normalized_date = normalize_date_to_utc(original_date)
         
-        # Keep both original and normalized for debugging/reference
-        job_entry["Posted Date Original"] = original_date
-        job_entry["Posted Date"] = normalized_date
+        # Only process if there's actually a date string
+        if original_date and original_date.strip():
+            normalized_date = normalize_date_to_utc(original_date)
+            
+            # Keep both original and normalized for debugging/reference
+            job_entry["Posted Date Original"] = original_date
+            job_entry["Posted Date"] = normalized_date
+        else:
+            # Handle empty dates - keep empty but add original field for consistency
+            job_entry["Posted Date Original"] = original_date
+            # Leave Posted Date as empty string
     
     return job_entry
 
