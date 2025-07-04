@@ -8,6 +8,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from date_utils import add_scrape_metadata
 
 # Add parent directory to path so we can execute this script from any directory
 sys.path.append(str(pathlib.Path(__file__).parent.parent))
@@ -177,6 +178,9 @@ def scrape_meta_jobs():
                 # Extract job ID from URL if available
                 if job_data["Job URL"] != "N/A" and "/" in job_data["Job URL"]:
                     job_data["Job ID"] = job_data["Job URL"].split("/")[-1]
+                
+                # Standardize date format and add scrape metadata
+                job_data = add_scrape_metadata(job_data)
                 
                 # Add the job data to our list
                 jobs.append(job_data)

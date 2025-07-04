@@ -6,6 +6,7 @@ import time
 from datetime import datetime
 import sys
 import pathlib
+from date_utils import add_scrape_metadata
 
 # Add parent directory to path so we can execute this script from any directory
 sys.path.append(str(pathlib.Path(__file__).parent.parent))
@@ -80,9 +81,14 @@ def process_jobs_data(json_data, output_file="../jobs/accenture_jobs_processed.j
             "Bullet Fields": bullet_fields,
             "Requisition ID": bullet_fields[0] if bullet_fields else "",
         }
+        
+        # Add other fields and standardize dates
         for key, value in job.items():
             if key not in ["externalPath", "title", "locationsText", "postedOn", "bulletFields"]:
                 job_entry[key] = value
+        
+        # Standardize date format and add scrape metadata
+        job_entry = add_scrape_metadata(job_entry)
         job_data.append(job_entry)
     if job_data:
         with open(output_file, "w", encoding="utf-8") as json_file:

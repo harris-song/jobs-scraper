@@ -2,6 +2,7 @@ from playwright.sync_api import sync_playwright
 import json
 import os
 import time
+from date_utils import add_scrape_metadata, get_current_utc_timestamp
 
 
 def process_jobs_data(json_data, output_file):
@@ -47,14 +48,17 @@ def process_jobs_data(json_data, output_file):
             "Title": title,
             "Department": department,
             "Location": location,
-            "Job URL": f"https://www.tesla.com/careers/search/job/{slug}-{job_id}"
+            "Job URL": f"https://www.tesla.com/careers/search/job/{slug}-{job_id}",
+            "Posted Date": ""  # Tesla doesn't provide posted dates in API
         }
         
         # Add all other fields that might be useful
         for key, value in job.items():
             if key not in ["id", "t", "dp", "l"]:
                 job_entry[key] = value
-                
+        
+        # Standardize date format and add scrape metadata
+        job_entry = add_scrape_metadata(job_entry)
         job_data.append(job_entry)
 
     # Process the JSON data

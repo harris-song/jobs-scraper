@@ -7,6 +7,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 import sys
 import pathlib
+from date_utils import add_scrape_metadata
 
 # Add parent directory to path so we can execute this script from any directory
 sys.path.append(str(pathlib.Path(__file__).parent.parent))
@@ -126,6 +127,8 @@ def extract_jobs_from_html(html_content):
                 "Company": "Apple"
             }
             
+            # Standardize date format and add scrape metadata
+            job_data = add_scrape_metadata(job_data)
             jobs.append(job_data)
             
         except Exception as e:

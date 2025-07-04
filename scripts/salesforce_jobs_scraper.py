@@ -2,6 +2,7 @@ from playwright.sync_api import sync_playwright
 import json
 import os
 import time
+from date_utils import add_scrape_metadata
 
 def process_jobs_data(json_data, output_file):
     """Process the raw Salesforce jobs JSON data and save as structured JSON file."""
@@ -29,9 +30,14 @@ def process_jobs_data(json_data, output_file):
             "Bullet Fields": bullet_fields,
             "Requisition ID": bullet_fields[0] if bullet_fields else "",
         }
+        
+        # Add other fields
         for key, value in job.items():
             if key not in ["externalPath", "title", "locationsText", "postedOn", "bulletFields"]:
                 job_entry[key] = value
+        
+        # Standardize date format and add scrape metadata
+        job_entry = add_scrape_metadata(job_entry)
         job_data.append(job_entry)
 
     if job_data:
