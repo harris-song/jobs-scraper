@@ -21,8 +21,23 @@ def extract_job_id_from_path(external_path):
     
     return external_path
 
+def load_existing_jobs(output_file):
+    """Load existing jobs from the JSON file if it exists."""
+    if os.path.exists(output_file):
+        try:
+            with open(output_file, "r", encoding="utf-8") as f:
+                existing_jobs = json.load(f)
+                print(f"Loaded {len(existing_jobs)} existing jobs from {output_file}")
+                return existing_jobs
+        except Exception as e:
+            print(f"Warning: Could not load existing jobs file: {e}")
+            return []
+    else:
+        print(f"No existing jobs file found at {output_file}")
+        return []
+
 def process_jobs_data(json_data, output_file="../jobs/nvidia_jobs_processed.json"):
-    """Process the raw NVIDIA jobs JSON data and save as structured JSON file."""
+    """Process the raw NVIDIA jobs JSON data and append new jobs to existing data."""
     # Ensure the jobs directory exists
     if output_file and output_file != "nvidia_jobs_processed.json":
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
@@ -30,10 +45,16 @@ def process_jobs_data(json_data, output_file="../jobs/nvidia_jobs_processed.json
         output_file = "../jobs/nvidia_jobs_processed.json"
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
     
-    job_postings = json_data.get("jobPostings", [])
-    print(f"Found {len(job_postings)} job postings.")
+    # Load existing jobs
+    existing_jobs = load_existing_jobs(output_file)
+    existing_job_ids = {job.get("Job ID", "") for job in existing_jobs if job.get("Job ID")}
     
-    job_data = []
+    job_postings = json_data.get("jobPostings", [])
+    print(f"Found {len(job_postings)} job postings from scrape.")
+    
+    new_jobs = []
+    updated_jobs = []
+    
     for job in job_postings:
         external_path = job.get("externalPath", "")
         job_id = extract_job_id_from_path(external_path)
@@ -61,15 +82,42 @@ def process_jobs_data(json_data, output_file="../jobs/nvidia_jobs_processed.json
         
         # Standardize date format and add scrape metadata
         job_entry = add_scrape_metadata(job_entry)
-        job_data.append(job_entry)
-
+        
+        # Check if this is a new job or an update to existing job
+        if job_id and job_id in existing_job_ids:
+            # Job already exists, update it in the existing jobs list
+            for i, existing_job in enumerate(existing_jobs):
+                if existing_job.get("Job ID") == job_id:
+                    # Update the existing job with new data
+                    existing_jobs[i] = job_entry
+                    updated_jobs.append(job_entry)
+                    break
+        else:
+            # This is a new job
+            new_jobs.append(job_entry)
+    
+    # Combine existing jobs with new jobs
+    all_jobs = existing_jobs + new_jobs
+    
     # Process the JSON data
-    if job_data:
+    if all_jobs:
         # Write to JSON file
         with open(output_file, "w", encoding="utf-8") as json_file:
-            json.dump(job_data, json_file, indent=2, ensure_ascii=False)
+            json.dump(all_jobs, json_file, indent=2, ensure_ascii=False)
         
-        print(f"Successfully processed {len(job_data)} jobs to JSON: {output_file}")
+        print(f"Successfully processed jobs to JSON: {output_file}")
+        print(f"  - Total jobs: {len(all_jobs)}")
+        print(f"  - New jobs added: {len(new_jobs)}")
+        print(f"  - Existing jobs updated: {len(updated_jobs)}")
+        print(f"  - Existing jobs unchanged: {len(existing_jobs) - len(updated_jobs)}")
+        
+        if new_jobs:
+            print(f"\nNew jobs added:")
+            for job in new_jobs[:5]:  # Show first 5 new jobs
+                print(f"  - {job.get('Title', 'Unknown Title')} (ID: {job.get('Job ID', 'Unknown')})")
+            if len(new_jobs) > 5:
+                print(f"  ... and {len(new_jobs) - 5} more")
+                
     else:
         print("No job data found.")
 
