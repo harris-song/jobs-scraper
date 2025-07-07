@@ -558,5 +558,285 @@
     "Requisition ID": "JR1968239",
     "Scraped At": "2025-07-06T06:59:57Z",
     "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "1987789",
+    "Title": "E2E Network Verification Manager",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Verification-Manager_JR1987789",
+    "External Path": "/job/Israel-Yokneam/Software-Verification-Manager_JR1987789",
+    "Bullet Fields": [
+      "JR1987789"
+    ],
+    "Requisition ID": "JR1987789",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999636",
+    "Title": "Senior System Software Engineer, Base OS Engineering Lead for Release",
+    "Location": "4 Locations",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Base-OS-Engineering-Lead-for-Release_JR1999636",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Base-OS-Engineering-Lead-for-Release_JR1999636",
+    "Bullet Fields": [
+      "JR1999636"
+    ],
+    "Requisition ID": "JR1999636",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999606",
+    "Title": "Senior Firmware Release Lifecycle Infrastructure Architect",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Release-Lifecycle-Infrastructure-Architect_JR1999606",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Firmware-Release-Lifecycle-Infrastructure-Architect_JR1999606",
+    "Bullet Fields": [
+      "JR1999606"
+    ],
+    "Requisition ID": "JR1999606",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999596",
+    "Title": "Senior Manager, AI Infrastructure Engineering - DGX Cloud",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--AI-Infrastructure-Engineering---DGX-Cloud_JR1999596",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Manager--AI-Infrastructure-Engineering---DGX-Cloud_JR1999596",
+    "Bullet Fields": [
+      "JR1999596"
+    ],
+    "Requisition ID": "JR1999596",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999709-1",
+    "Title": "Senior Site Reliability Engineer, AI Infrastructure",
+    "Location": "3 Locations",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer--AI-Infrastructure_JR1999709-1",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer--AI-Infrastructure_JR1999709-1",
+    "Bullet Fields": [
+      "JR1999709"
+    ],
+    "Requisition ID": "JR1999709",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999797",
+    "Title": "Senior Software Engineer - DGX Cloud",
+    "Location": "3 Locations",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Software-Engineer---DGX-Cloud_JR1999797",
+    "External Path": "/job/US-WA-Seattle/Senior-Software-Engineer---DGX-Cloud_JR1999797",
+    "Bullet Fields": [
+      "JR1999797"
+    ],
+    "Requisition ID": "JR1999797",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1992865",
+    "Title": "Senior Server Firmware Bringup Engineer",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Server-Firmware-Engineer---SBIOS_JR1992865",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Server-Firmware-Engineer---SBIOS_JR1992865",
+    "Bullet Fields": [
+      "JR1992865"
+    ],
+    "Requisition ID": "JR1992865",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1980965",
+    "Title": "Senior Platform Software Engineer, PCIe",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Software-Engineer--AI-Server---GPU_JR1980965",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Platform-Software-Engineer--AI-Server---GPU_JR1980965",
+    "Bullet Fields": [
+      "JR1980965"
+    ],
+    "Requisition ID": "JR1980965",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999054",
+    "Title": "Senior Silicon Security Architect",
+    "Location": "5 Locations",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Silicon-Security-Architect_JR1999054",
+    "External Path": "/job/Israel-Yokneam/Senior-Silicon-Security-Architect_JR1999054",
+    "Bullet Fields": [
+      "JR1999054"
+    ],
+    "Requisition ID": "JR1999054",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1998196-1",
+    "Title": "Senior Network Deployment Engineer, Software Automation - DGX Cloud",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Deployment-Engineer--Software-Automation---DGX-Cloud_JR1998196-1",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Network-Deployment-Engineer--Software-Automation---DGX-Cloud_JR1998196-1",
+    "Bullet Fields": [
+      "JR1998196"
+    ],
+    "Requisition ID": "JR1998196",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999741",
+    "Title": "Senior Embedded System Software Engineer, Automotive",
+    "Location": "Taiwan, Taipei",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Embedded-System-Software-Engineer--Automotive_JR1999741",
+    "External Path": "/job/Taiwan-Taipei/Senior-Embedded-System-Software-Engineer--Automotive_JR1999741",
+    "Bullet Fields": [
+      "JR1999741"
+    ],
+    "Requisition ID": "JR1999741",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999581",
+    "Title": "Software Test Development Engineer, Deep Learning – New College Grad 2025",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Test-Development-Engineer--Deep-Learning---New-College-Grad-2025_JR1999581",
+    "External Path": "/job/US-CA-Santa-Clara/Software-Test-Development-Engineer--Deep-Learning---New-College-Grad-2025_JR1999581",
+    "Bullet Fields": [
+      "JR1999581"
+    ],
+    "Requisition ID": "JR1999581",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1998650",
+    "Title": "Executive Administrator",
+    "Location": "Taiwan, Taipei",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Executive-Administrator_JR1998650",
+    "External Path": "/job/Taiwan-Taipei/Executive-Administrator_JR1998650",
+    "Bullet Fields": [
+      "JR1998650"
+    ],
+    "Requisition ID": "JR1998650",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1973150",
+    "Title": "Senior Software Architect - Data Center Systems",
+    "Location": "6 Locations",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Architect---Data-Center-Systems_JR1973150",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Architect---Data-Center-Systems_JR1973150",
+    "Bullet Fields": [
+      "JR1973150"
+    ],
+    "Requisition ID": "JR1973150",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999594-1",
+    "Title": "Senior AI Infrastructure Engineer, Security - DGX Cloud",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Infrastructure-Engineer--Security---DGX-Cloud_JR1999594-1",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-AI-Infrastructure-Engineer--Security---DGX-Cloud_JR1999594-1",
+    "Bullet Fields": [
+      "JR1999594"
+    ],
+    "Requisition ID": "JR1999594",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999523",
+    "Title": "Senior Technical Program Manager - Autonomous Vehicles",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Autonomous-Vehicles_JR1999523",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Autonomous-Vehicles_JR1999523",
+    "Bullet Fields": [
+      "JR1999523"
+    ],
+    "Requisition ID": "JR1999523",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1997726",
+    "Title": "Manager, Engineering - Data Center Management",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Engineering---Data-Center-Management_JR1997726",
+    "External Path": "/job/US-CA-Santa-Clara/Manager--Engineering---Data-Center-Management_JR1997726",
+    "Bullet Fields": [
+      "JR1997726"
+    ],
+    "Requisition ID": "JR1997726",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1987286",
+    "Title": "Senior System Software Engineer Platform - Server Embedded Firmware",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer-Platform---Microcontroller-Development_JR1987286",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer-Platform---Microcontroller-Development_JR1987286",
+    "Bullet Fields": [
+      "JR1987286"
+    ],
+    "Requisition ID": "JR1987286",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999784",
+    "Title": "Senior Developer Relationship Manager - Automotive Vehicles",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relationship-Manager---Automotive-Vehicles_JR1999784",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Developer-Relationship-Manager---Automotive-Vehicles_JR1999784",
+    "Bullet Fields": [
+      "JR1999784"
+    ],
+    "Requisition ID": "JR1999784",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999510",
+    "Title": "Senior Software Validation Engineer - Autonomous Vehicles",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Validation-Engineer---Autonomous-Vehicles_JR1999510",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Validation-Engineer---Autonomous-Vehicles_JR1999510",
+    "Bullet Fields": [
+      "JR1999510"
+    ],
+    "Requisition ID": "JR1999510",
+    "Scraped At": "2025-07-07T06:58:06Z",
+    "Posted Date Original": "Posted Today"
   }
 ]
