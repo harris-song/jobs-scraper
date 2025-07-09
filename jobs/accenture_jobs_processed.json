@@ -1,24 +1,219 @@
 [
   {
-    "Job ID": "00239044",
-    "Title": "Consultant stagiaire Management (H/F)",
+    "Job ID": "00274785",
+    "Title": "Geographic Compliance and Corporate Specialist - NRR 3945",
     "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Consultant-stagiaire-Management--H-F-_R00239044",
-    "External Path": "/job/Paris/Consultant-stagiaire-Management--H-F-_R00239044",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Geographic-Compliance-and-Corporate-Specialist---NRR-3945_R00274785",
+    "External Path": "/job/Buenos-Aires/Geographic-Compliance-and-Corporate-Specialist---NRR-3945_R00274785",
+    "Bullet Fields": [
+      "Buenos Aires",
+      "R00274785"
+    ],
+    "Requisition ID": "Buenos Aires",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00266667",
+    "Title": "Sales Ex - COE - Client Success Data Science Specialist",
+    "Location": "",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mexico-City/Sales-Ex---COE---Client-Success-Data-Science-Associate-Manager_R00266667",
+    "External Path": "/job/Mexico-City/Sales-Ex---COE---Client-Success-Data-Science-Associate-Manager_R00266667",
+    "Bullet Fields": [
+      "Mexico City",
+      "R00266667"
+    ],
+    "Requisition ID": "Mexico City",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00257020",
+    "Title": "Analista de Departamento Pessoal Sênior",
+    "Location": "",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Folha-de-Pagamento-Senior---Espanhol-Avanado_R00257020",
+    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Folha-de-Pagamento-Senior---Espanhol-Avanado_R00257020",
+    "Bullet Fields": [
+      "Nova Lima, Shopping Alta Vila",
+      "R00257020"
+    ],
+    "Requisition ID": "Nova Lima, Shopping Alta Vila",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00086525",
+    "Title": "IT Consultant Business Analyse – Banking (all genders)",
+    "Location": "",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Frankfurt-am-Main/Consultant-Business-Analyse---Financial-Services--all-genders-_R00086525",
+    "External Path": "/job/Frankfurt-am-Main/Consultant-Business-Analyse---Financial-Services--all-genders-_R00086525",
+    "Bullet Fields": [
+      "Location Negotiable",
+      "R00086525"
+    ],
+    "Requisition ID": "Location Negotiable",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "",
+    "Title": "",
+    "Location": "",
+    "Posted Date": "",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers",
+    "External Path": "",
+    "Bullet Fields": [
+      "Luxembourg",
+      "R00276682"
+    ],
+    "Requisition ID": "Luxembourg",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": ""
+  },
+  {
+    "Job ID": "00276679",
+    "Title": "Cyber Security Analyst-Global SOC 24x7",
+    "Location": "",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Malaga/Cyber-Security-Analyst-Global-SOC-24x7_R00276679",
+    "External Path": "/job/Malaga/Cyber-Security-Analyst-Global-SOC-24x7_R00276679",
+    "Bullet Fields": [
+      "Malaga",
+      "R00276679"
+    ],
+    "Requisition ID": "Malaga",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00171063-1",
+    "Title": "Learning Assistant",
+    "Location": "",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Learning-Assistant_R00171063-1",
+    "External Path": "/job/Ebene/Learning-Assistant_R00171063-1",
+    "Bullet Fields": [
+      "Ebene",
+      "R00171063"
+    ],
+    "Requisition ID": "Ebene",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00276624",
+    "Title": "Content Moderator (Junior Data Reviewer) with English and Turkish",
+    "Location": "",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Reviewer--with-English-and-Turkish_R00276624",
+    "External Path": "/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Reviewer--with-English-and-Turkish_R00276624",
+    "Bullet Fields": [
+      "Krakow, High 5Ive Development",
+      "R00276624"
+    ],
+    "Requisition ID": "Krakow, High 5Ive Development",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00275898-1",
+    "Title": "HR Ventures & Acquisition Associate Manager",
+    "Location": "",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Campus-Kronberg-1/HR-Ventures---Acquisition-Associate-Manager_R00275898-1",
+    "External Path": "/job/Kronberg-Campus-Kronberg-1/HR-Ventures---Acquisition-Associate-Manager_R00275898-1",
+    "Bullet Fields": [
+      "Kronberg, Campus Kronberg 1",
+      "R00275898"
+    ],
+    "Requisition ID": "Kronberg, Campus Kronberg 1",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00232381",
+    "Title": "GN Industry – Life Science  SAP",
+    "Location": "",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad-HDC2A/GN---Industry---MC---T-D-GIS_R00232381",
+    "External Path": "/job/Hyderabad-HDC2A/GN---Industry---MC---T-D-GIS_R00232381",
+    "Bullet Fields": [
+      "Hyderabad, Hdc2A",
+      "R00232381"
+    ],
+    "Requisition ID": "Hyderabad, Hdc2A",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00276629",
+    "Title": "Content Moderator (Junior Data Reviewer) with English and Czech",
+    "Location": "",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Reviewer--with-English-and-Czech_R00276629",
+    "External Path": "/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Reviewer--with-English-and-Czech_R00276629",
+    "Bullet Fields": [
+      "Krakow, High 5Ive Development",
+      "R00276629"
+    ],
+    "Requisition ID": "Krakow, High 5Ive Development",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00276625",
+    "Title": "Content Moderator (Junior data Reviewer) with English and Greek",
+    "Location": "",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow-High-5ive-Development/Content-Moderator--Junior-data-Reviewer--with-English-and-Greek_R00276625",
+    "External Path": "/job/Krakow-High-5ive-Development/Content-Moderator--Junior-data-Reviewer--with-English-and-Greek_R00276625",
+    "Bullet Fields": [
+      "Krakow, High 5Ive Development",
+      "R00276625"
+    ],
+    "Requisition ID": "Krakow, High 5Ive Development",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00276617",
+    "Title": "Content Moderator (Junior Data Reviewer) with English and Italian",
+    "Location": "",
+    "Posted Date": "2025-07-09T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Reviewer--with-English-and-Italian_R00276617",
+    "External Path": "/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Reviewer--with-English-and-Italian_R00276617",
+    "Bullet Fields": [
+      "Krakow, High 5Ive Development",
+      "R00276617"
+    ],
+    "Requisition ID": "Krakow, High 5Ive Development",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "",
+    "Title": "",
+    "Location": "",
+    "Posted Date": "",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers",
+    "External Path": "",
     "Bullet Fields": [
       "Paris",
       "R00239044"
     ],
     "Requisition ID": "Paris",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": ""
   },
   {
     "Job ID": "00276095",
     "Title": "Contracting Counsel Manager - NRR 3950",
     "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
+    "Posted Date": "2025-07-09T00:00:00Z",
     "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Exchange-106/Contracting-Counsel-Manager---NRR-3950_R00276095",
     "External Path": "/job/Kuala-Lumpur-Exchange-106/Contracting-Counsel-Manager---NRR-3950_R00276095",
     "Bullet Fields": [
@@ -26,14 +221,14 @@
       "R00276095"
     ],
     "Requisition ID": "Kuala Lumpur, Exchange 106",
-    "Scraped At": "2025-07-08T06:58:14Z",
+    "Scraped At": "2025-07-09T06:57:31Z",
     "Posted Date Original": "Posted Today"
   },
   {
     "Job ID": "00276599",
     "Title": "SAP GTS (Global Trade Services)",
     "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
+    "Posted Date": "2025-07-09T00:00:00Z",
     "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Subang-Jaya-The-Pinnacle/SAP-GTS--Global-Trade-Services-_R00276599",
     "External Path": "/job/Subang-Jaya-The-Pinnacle/SAP-GTS--Global-Trade-Services-_R00276599",
     "Bullet Fields": [
@@ -41,8 +236,23 @@
       "R00276599"
     ],
     "Requisition ID": "Subang Jaya, The Pinnacle",
-    "Scraped At": "2025-07-08T06:58:14Z",
+    "Scraped At": "2025-07-09T06:57:31Z",
     "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00271298",
+    "Title": "Redator de Propostas Técnicas Pleno - Inglês e Espanhol",
+    "Location": "",
+    "Posted Date": "2025-07-08T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-de-Redao-Comercial-Pleno_R00271298",
+    "External Path": "/job/Sao-Paulo-Torre-Paineira/Analista-de-Redao-Comercial-Pleno_R00271298",
+    "Bullet Fields": [
+      "Sao Paulo, Torre Paineira",
+      "R00271298"
+    ],
+    "Requisition ID": "Sao Paulo, Torre Paineira",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00268770",
@@ -56,8 +266,23 @@
       "R00268770"
     ],
     "Requisition ID": "Buenos Aires",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00268740",
+    "Title": "Finance Transition Services Manager",
+    "Location": "",
+    "Posted Date": "2025-07-08T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Finance-Transition-Services-Manager_R00268740",
+    "External Path": "/job/Buenos-Aires/Finance-Transition-Services-Manager_R00268740",
+    "Bullet Fields": [
+      "Buenos Aires",
+      "R00268740"
+    ],
+    "Requisition ID": "Buenos Aires",
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00276583",
@@ -71,232 +296,7 @@
       "R00276583"
     ],
     "Requisition ID": "Mexico City",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00276581",
-    "Title": "Strategy & Consulting - Global Network - SONG - Service - Google Contact Center AI Consultant",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mexico-City/Strategy---Consulting---Global-Network---SONG---Service---Google-Contact-Center-AI-Consultant_R00276581",
-    "External Path": "/job/Mexico-City/Strategy---Consulting---Global-Network---SONG---Service---Google-Contact-Center-AI-Consultant_R00276581",
-    "Bullet Fields": [
-      "Mexico City",
-      "R00276581"
-    ],
-    "Requisition ID": "Mexico City",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00276579",
-    "Title": "Strategy & Consulting - Global Network - SONG - Service - Google Contact Center AI Manager/Senior Manager",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mexico-City/Strategy---Consulting---Global-Network---SONG---Service---Google-Contact-Center-AI-Manager-Senior-Manager_R00276579",
-    "External Path": "/job/Mexico-City/Strategy---Consulting---Global-Network---SONG---Service---Google-Contact-Center-AI-Manager-Senior-Manager_R00276579",
-    "Bullet Fields": [
-      "Mexico City",
-      "R00276579"
-    ],
-    "Requisition ID": "Mexico City",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00274876",
-    "Title": "Supply Chain - Data Analyst (Advanced SQL)",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/San-Jose-Plaza-Real-Cariari/Supply-Chain---Senior-Data-Analyst--Advanced-SQL-_R00274876",
-    "External Path": "/job/San-Jose-Plaza-Real-Cariari/Supply-Chain---Senior-Data-Analyst--Advanced-SQL-_R00274876",
-    "Bullet Fields": [
-      "San Jose, Plaza Real Cariari",
-      "R00274876"
-    ],
-    "Requisition ID": "San Jose, Plaza Real Cariari",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00276574",
-    "Title": "Analista de Desenvolvimento Java | Segurança | MFA - Pleno",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Analista-de-Desenvolvimento-Java---Segurana---MFA---Pleno_R00276574",
-    "External Path": "/job/Pernambuco---Recife/Analista-de-Desenvolvimento-Java---Segurana---MFA---Pleno_R00276574",
-    "Bullet Fields": [
-      "Pernambuco - Recife",
-      "R00276574"
-    ],
-    "Requisition ID": "Pernambuco - Recife",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00273575",
-    "Title": "S&C GN - SC&O - SCM Planning – OMP – Manager",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/S-C-GN---SC-O---SCM-Planning---OMP---Manager_R00273575",
-    "External Path": "/job/Hyderabad/S-C-GN---SC-O---SCM-Planning---OMP---Manager_R00273575",
-    "Bullet Fields": [
-      "Hyderabad",
-      "R00273575"
-    ],
-    "Requisition ID": "Hyderabad",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00273546",
-    "Title": "S&C GN - SC&O - SCM Planning – OMP – Consultant",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/S-C-GN---SC-O---SCM-Planning---OMP---Consultant_R00273546",
-    "External Path": "/job/Mumbai/S-C-GN---SC-O---SCM-Planning---OMP---Consultant_R00273546",
-    "Bullet Fields": [
-      "Mumbai",
-      "R00273546"
-    ],
-    "Requisition ID": "Mumbai",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00273581-68",
-    "Title": "S&C GN - SC&O - SCM Planning - OMP - Senior Manager",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/S-C-GN---SC-O---SCM-Planning---OMP---Senior-Manager_R00273581-68",
-    "External Path": "/job/Bengaluru/S-C-GN---SC-O---SCM-Planning---OMP---Senior-Manager_R00273581-68",
-    "Bullet Fields": [
-      "Bengaluru",
-      "R00273581"
-    ],
-    "Requisition ID": "Bengaluru",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00273550",
-    "Title": "S&C GN - SC&O - SCM Planning – OMP – Consultant",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/S-C-GN---SC-O---SCM-Planning---OMP---Consultant_R00273550",
-    "External Path": "/job/Gurugram/S-C-GN---SC-O---SCM-Planning---OMP---Consultant_R00273550",
-    "Bullet Fields": [
-      "Gurugram",
-      "R00273550"
-    ],
-    "Requisition ID": "Gurugram",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00266657",
-    "Title": "Content Moderator (Junior Data Reviewer) with English and Polish",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Reviewer--with-English-and-Polish_R00266657",
-    "External Path": "/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Reviewer--with-English-and-Polish_R00266657",
-    "Bullet Fields": [
-      "Krakow, High 5Ive Development",
-      "R00266657"
-    ],
-    "Requisition ID": "Krakow, High 5Ive Development",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00273315-1",
-    "Title": "S&C GN - SC&O – Fulfillment - Japan - Analyst",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/S-C-GN---SC-O---Fulfillment---Japan---Analyst_R00273315-1",
-    "External Path": "/job/Pune/S-C-GN---SC-O---Fulfillment---Japan---Analyst_R00273315-1",
-    "Bullet Fields": [
-      "Pune",
-      "R00273315"
-    ],
-    "Requisition ID": "Pune",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00273313",
-    "Title": "S&C GN - SC&O – Fulfillment- Consultant",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/S-C-GN---SC-O---Fulfillment--Consultant_R00273313",
-    "External Path": "/job/Gurugram/S-C-GN---SC-O---Fulfillment--Consultant_R00273313",
-    "Bullet Fields": [
-      "Gurugram",
-      "R00273313"
-    ],
-    "Requisition ID": "Gurugram",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00273314",
-    "Title": "S&C GN - SC&O – Fulfillment- Manager",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/S-C-GN---SC-O---Fulfillment--Manager_R00273314",
-    "External Path": "/job/Bengaluru/S-C-GN---SC-O---Fulfillment--Manager_R00273314",
-    "Bullet Fields": [
-      "Bengaluru",
-      "R00273314"
-    ],
-    "Requisition ID": "Bengaluru",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00273311",
-    "Title": "S&C GN - SC&O – Fulfillment- Analyst",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/S-C-GN---SC-O---Fulfillment--Analyst_R00273311",
-    "External Path": "/job/Gurugram/S-C-GN---SC-O---Fulfillment--Analyst_R00273311",
-    "Bullet Fields": [
-      "Gurugram",
-      "R00273311"
-    ],
-    "Requisition ID": "Gurugram",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00255711",
-    "Title": "Junior Consultant Insurance (all genders)",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hamburg/Consulting---Insurance--all-levels---all-genders-_R00255711",
-    "External Path": "/job/Hamburg/Consulting---Insurance--all-levels---all-genders-_R00255711",
-    "Bullet Fields": [
-      "Location Negotiable",
-      "R00255711"
-    ],
-    "Requisition ID": "Location Negotiable",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00238692",
-    "Title": "GN - Strategy - MC - SC&O - Fulfillment- Manager",
-    "Location": "",
-    "Posted Date": "2025-07-08T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC7A/GN---Strategy---MC---SC-O---Fulfillment--Manager_R00238692",
-    "External Path": "/job/Bengaluru-BDC7A/GN---Strategy---MC---SC-O---Fulfillment--Manager_R00238692",
-    "Bullet Fields": [
-      "Bengaluru, Bdc7A",
-      "R00238692"
-    ],
-    "Requisition ID": "Bengaluru, Bdc7A",
-    "Scraped At": "2025-07-08T06:58:14Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-07-09T06:57:31Z",
+    "Posted Date Original": "Posted Yesterday"
   }
 ]
