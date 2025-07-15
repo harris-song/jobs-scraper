@@ -1151,14 +1151,14 @@
     "Job ID": "1999367",
     "Title": "Manager, Training Operations - Education Services",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2025-07-09T00:00:00Z",
+    "Posted Date": "2025-07-15T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Operations-Manager--Education-Services_JR1999367",
     "External Path": "/job/US-CA-Santa-Clara/Operations-Manager--Education-Services_JR1999367",
     "Bullet Fields": [
       "JR1999367"
     ],
     "Requisition ID": "JR1999367",
-    "Scraped At": "2025-07-09T06:57:26Z",
+    "Scraped At": "2025-07-15T06:59:23Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -1949,14 +1949,14 @@
     "Job ID": "2000005",
     "Title": "Deep Learning Performance Architect",
     "Location": "2 Locations",
-    "Posted Date": "2025-07-14T00:00:00Z",
+    "Posted Date": "2025-07-15T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Architect_JR2000005",
     "External Path": "/job/China-Shanghai/Deep-Learning-Performance-Architect_JR2000005",
     "Bullet Fields": [
       "JR2000005"
     ],
     "Requisition ID": "JR2000005",
-    "Scraped At": "2025-07-14T07:00:05Z",
+    "Scraped At": "2025-07-15T06:59:23Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -1971,6 +1971,258 @@
     ],
     "Requisition ID": "JR1996363",
     "Scraped At": "2025-07-14T07:00:05Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1997721",
+    "Title": "Senior Network Engineer - Cloud",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Engineer---Cloud_JR1997721",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Network-Engineer---Cloud_JR1997721",
+    "Bullet Fields": [
+      "JR1997721"
+    ],
+    "Requisition ID": "JR1997721",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999994",
+    "Title": "Senior Software Test Development Engineer - Deep Learning",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Software-Test-Development-Engineer---Deep-Learning_JR1999994",
+    "External Path": "/job/China-Shanghai/Senior-Software-Test-Development-Engineer---Deep-Learning_JR1999994",
+    "Bullet Fields": [
+      "JR1999994"
+    ],
+    "Requisition ID": "JR1999994",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999948",
+    "Title": "Perception Engineer - Autonomous Driving",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Perception-Engineer---Autonomous-Driving_JR1999948",
+    "External Path": "/job/China-Shanghai/Perception-Engineer---Autonomous-Driving_JR1999948",
+    "Bullet Fields": [
+      "JR1999948"
+    ],
+    "Requisition ID": "JR1999948",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2000072",
+    "Title": "Senior SWQA Test Development Engineer - DGX Cloud",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-SWQA-Test-Development-Engineer---DGX-Cloud_JR2000072",
+    "External Path": "/job/China-Shanghai/Senior-SWQA-Test-Development-Engineer---DGX-Cloud_JR2000072",
+    "Bullet Fields": [
+      "JR2000072"
+    ],
+    "Requisition ID": "JR2000072",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999928",
+    "Title": "Compute Architect",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-Architect_JR1999928",
+    "External Path": "/job/China-Shanghai/Compute-Architect_JR1999928",
+    "Bullet Fields": [
+      "JR1999928"
+    ],
+    "Requisition ID": "JR1999928",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1997951",
+    "Title": "Senior Platform and EngOps Engineer - Cluster Operations",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Platform-and-EngOps-Engineer---Cluster-Operations_JR1997951",
+    "External Path": "/job/US-CA-Santa-Clara/Platform-and-EngOps-Engineer---Cluster-Operations_JR1997951",
+    "Bullet Fields": [
+      "JR1997951"
+    ],
+    "Requisition ID": "JR1997951",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2000182-1",
+    "Title": "Senior CUDA Test Development Software Engineer",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-CUDA-Test-Development-Software-Engineer_JR2000182-1",
+    "External Path": "/job/China-Shanghai/Senior-CUDA-Test-Development-Software-Engineer_JR2000182-1",
+    "Bullet Fields": [
+      "JR2000182"
+    ],
+    "Requisition ID": "JR2000182",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2000181",
+    "Title": "Senior CUDA Test Development Software Engineer",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-CUDA-Test-Development-Software-Engineer_JR2000181",
+    "External Path": "/job/China-Shanghai/Senior-CUDA-Test-Development-Software-Engineer_JR2000181",
+    "Bullet Fields": [
+      "JR2000181"
+    ],
+    "Requisition ID": "JR2000181",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2000185",
+    "Title": "Senior SWQA Test Development Engineer - GPU Communications Libraries",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-SWQA-Test-Development-Engineer---GPU-Communications-Libraries_JR2000185",
+    "External Path": "/job/China-Shanghai/Senior-SWQA-Test-Development-Engineer---GPU-Communications-Libraries_JR2000185",
+    "Bullet Fields": [
+      "JR2000185"
+    ],
+    "Requisition ID": "JR2000185",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2000171",
+    "Title": "Senior CUDA Test Development Software Engineer",
+    "Location": "China, Shenzhen",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/Senior-CUDA-Test-Development-Software-Engineer_JR2000171",
+    "External Path": "/job/China-Shenzhen/Senior-CUDA-Test-Development-Software-Engineer_JR2000171",
+    "Bullet Fields": [
+      "JR2000171"
+    ],
+    "Requisition ID": "JR2000171",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999939",
+    "Title": "DRIVE SDK Intern, Autonomous Driving - 2025",
+    "Location": "China, Beijing",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/DRIVE-SDK-Intern--Autonomous-Driving---2025_JR1999939",
+    "External Path": "/job/China-Beijing/DRIVE-SDK-Intern--Autonomous-Driving---2025_JR1999939",
+    "Bullet Fields": [
+      "JR1999939"
+    ],
+    "Requisition ID": "JR1999939",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1986384",
+    "Title": "Senior Software Engineer, DPU BMC Platform",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer_JR1986384",
+    "External Path": "/job/Israel-Tel-Aviv/Senior-Software-Engineer_JR1986384",
+    "Bullet Fields": [
+      "JR1986384"
+    ],
+    "Requisition ID": "JR1986384",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1997973",
+    "Title": "Senior Software Engineer, DPU Platform",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--DPU-Platform-Software_JR1997973",
+    "External Path": "/job/Israel-Tel-Aviv/Senior-Software-Engineer--DPU-Platform-Software_JR1997973",
+    "Bullet Fields": [
+      "JR1997973"
+    ],
+    "Requisition ID": "JR1997973",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999514",
+    "Title": "Senior Data Engineer – Developer Programs",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer---Developer-Programs_JR1999514",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Data-Engineer---Developer-Programs_JR1999514",
+    "Bullet Fields": [
+      "JR1999514"
+    ],
+    "Requisition ID": "JR1999514",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999930",
+    "Title": "Director, Drive OS Process and Quality",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Drive-OS-Process-and-Quality_JR1999930",
+    "External Path": "/job/US-CA-Santa-Clara/Director--Drive-OS-Process-and-Quality_JR1999930",
+    "Bullet Fields": [
+      "JR1999930"
+    ],
+    "Requisition ID": "JR1999930",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999884",
+    "Title": "Senior DevOps and SRE Engineer",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-and-SRE-Engineer_JR1999884",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-DevOps-and-SRE-Engineer_JR1999884",
+    "Bullet Fields": [
+      "JR1999884"
+    ],
+    "Requisition ID": "JR1999884",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999299-1",
+    "Title": "Marketing Manager",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Marketing-Manager_JR1999299-1",
+    "External Path": "/job/US-CA-Santa-Clara/Marketing-Manager_JR1999299-1",
+    "Bullet Fields": [
+      "JR1999299"
+    ],
+    "Requisition ID": "JR1999299",
+    "Scraped At": "2025-07-15T06:59:23Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999316",
+    "Title": "Retail Site Manager, Special Events - Gear Store",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Retail-Site-Manager--Special-Events---Gear-Store_JR1999316",
+    "External Path": "/job/US-CA-Remote/Retail-Site-Manager--Special-Events---Gear-Store_JR1999316",
+    "Bullet Fields": [
+      "JR1999316"
+    ],
+    "Requisition ID": "JR1999316",
+    "Scraped At": "2025-07-15T06:59:23Z",
     "Posted Date Original": "Posted Today"
   }
 ]
