@@ -1137,15 +1137,15 @@
     "Job ID": "1999487",
     "Title": "Senior Software Engineer, Bare Metal Automation - DGX Cloud",
     "Location": "2 Locations",
-    "Posted Date": "2025-07-14T00:00:00Z",
+    "Posted Date": "2025-07-16T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Bare-Metal-Automation---DGX-Cloud_JR1999487",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--Bare-Metal-Automation---DGX-Cloud_JR1999487",
     "Bullet Fields": [
       "JR1999487"
     ],
     "Requisition ID": "JR1999487",
-    "Scraped At": "2025-07-14T07:00:05Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "1999367",
@@ -1513,17 +1513,17 @@
   },
   {
     "Job ID": "1999975",
-    "Title": "Backend Software Engineer - Air Platform Team",
+    "Title": "Backend Python Software Engineer",
     "Location": "US, NC, Durham",
-    "Posted Date": "2025-07-11T00:00:00Z",
+    "Posted Date": "2025-07-16T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Backend-Software-Engineer---Air-Platform-Team_JR1999975",
     "External Path": "/job/US-NC-Durham/Backend-Software-Engineer---Air-Platform-Team_JR1999975",
     "Bullet Fields": [
       "JR1999975"
     ],
     "Requisition ID": "JR1999975",
-    "Scraped At": "2025-07-11T06:57:52Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "2000036",
@@ -1963,15 +1963,15 @@
     "Job ID": "1996363",
     "Title": "Senior Software Program Manager - Datacenter Compute Server",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2025-07-14T00:00:00Z",
+    "Posted Date": "2025-07-16T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363",
     "Bullet Fields": [
       "JR1996363"
     ],
     "Requisition ID": "JR1996363",
-    "Scraped At": "2025-07-14T07:00:05Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "1997721",
@@ -2224,5 +2224,243 @@
     "Requisition ID": "JR1999316",
     "Scraped At": "2025-07-15T06:59:23Z",
     "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1997621",
+    "Title": "Senior Mechanical Engineer",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2025-07-17T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Mechanical-Engineer_JR1997621",
+    "External Path": "/job/Israel-Yokneam/Senior-Mechanical-Engineer_JR1997621",
+    "Bullet Fields": [
+      "JR1997621"
+    ],
+    "Requisition ID": "JR1997621",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1983750",
+    "Title": "Senior Software Engineer - HPC",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2025-07-17T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer---HPC_JR1983750",
+    "External Path": "/job/India-Bengaluru/Senior-Software-Engineer---HPC_JR1983750",
+    "Bullet Fields": [
+      "JR1983750"
+    ],
+    "Requisition ID": "JR1983750",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1994146",
+    "Title": "Senior Site Reliability Engineer - DGX Cloud",
+    "Location": "3 Locations",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---DGX-Cloud_JR1994146",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---DGX-Cloud_JR1994146",
+    "Bullet Fields": [
+      "JR1994146"
+    ],
+    "Requisition ID": "JR1994146",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "1994505",
+    "Title": "Senior Education Partnerships Manager",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Education-Partnerships-Manager_JR1994505",
+    "External Path": "/job/US-CA-Santa-Clara/Education-Partnerships-Manager_JR1994505",
+    "Bullet Fields": [
+      "JR1994505"
+    ],
+    "Requisition ID": "JR1994505",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "1996759",
+    "Title": "Senior Compiler Engineer –DPU",
+    "Location": "6 Locations",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---Networking-Compiler-Technology_JR1996759",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---Networking-Compiler-Technology_JR1996759",
+    "Bullet Fields": [
+      "JR1996759"
+    ],
+    "Requisition ID": "JR1996759",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "1998047",
+    "Title": "Senior Network Security Engineer - DGX Cloud",
+    "Location": "2 Locations",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Security-Engineer---DGX-Cloud_JR1998047",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Network-Security-Engineer---DGX-Cloud_JR1998047",
+    "Bullet Fields": [
+      "JR1998047"
+    ],
+    "Requisition ID": "JR1998047",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "1999850",
+    "Title": "Signal Integrity Lab Engineer",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2025-07-17T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Signal-Integrity-Lab-Engineer_JR1999850",
+    "External Path": "/job/Israel-Yokneam/Signal-Integrity-Lab-Engineer_JR1999850",
+    "Bullet Fields": [
+      "JR1999850"
+    ],
+    "Requisition ID": "JR1999850",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1997982",
+    "Title": "Legal Operations Specialist",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Legal-Operations-Specialist_JR1997982",
+    "External Path": "/job/US-CA-Santa-Clara/Legal-Operations-Specialist_JR1997982",
+    "Bullet Fields": [
+      "JR1997982"
+    ],
+    "Requisition ID": "JR1997982",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2000393",
+    "Title": "Senior Architect - NVIDIA Architecture",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architect---NVIDIA-Architecture_JR2000393",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Architect---NVIDIA-Architecture_JR2000393",
+    "Bullet Fields": [
+      "JR2000393"
+    ],
+    "Requisition ID": "JR2000393",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "1992152",
+    "Title": "Senior Product Manager - AV",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---AV_JR1992152",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Product-Manager---AV_JR1992152",
+    "Bullet Fields": [
+      "JR1992152"
+    ],
+    "Requisition ID": "JR1992152",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "1993954-1",
+    "Title": "Accounts Payable Specialist",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounts-Payable-Specialist_JR1993954-1",
+    "External Path": "/job/US-CA-Santa-Clara/Accounts-Payable-Specialist_JR1993954-1",
+    "Bullet Fields": [
+      "JR1993954"
+    ],
+    "Requisition ID": "JR1993954",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "1999368",
+    "Title": "Senior Video Editor",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Video-Editor_JR1999368",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Video-Editor_JR1999368",
+    "Bullet Fields": [
+      "JR1999368"
+    ],
+    "Requisition ID": "JR1999368",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2000137",
+    "Title": "Senior MLOps Engineer, GenAI Framework",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-MLOps-Engineer--GenAI-Framework_JR2000137",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-MLOps-Engineer--GenAI-Framework_JR2000137",
+    "Bullet Fields": [
+      "JR2000137"
+    ],
+    "Requisition ID": "JR2000137",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2000419",
+    "Title": "Hardware Systems Architect",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Systems-Architect_JR2000419",
+    "External Path": "/job/US-CA-Santa-Clara/Hardware-Systems-Architect_JR2000419",
+    "Bullet Fields": [
+      "JR2000419"
+    ],
+    "Requisition ID": "JR2000419",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2000376",
+    "Title": "Senior AI and ML Engineer — AI for Networking",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-and-ML-Engineer---AI-for-Networking_JR2000376",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-AI-and-ML-Engineer---AI-for-Networking_JR2000376",
+    "Bullet Fields": [
+      "JR2000376"
+    ],
+    "Requisition ID": "JR2000376",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2000110",
+    "Title": "Senior Failure Analysis Engineer - Materials",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Failure-Analysis-Engineer---Materials_JR2000110",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Failure-Analysis-Engineer---Materials_JR2000110",
+    "Bullet Fields": [
+      "JR2000110"
+    ],
+    "Requisition ID": "JR2000110",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "1995761",
+    "Title": "Senior Technical Program Manager, AI SW and ML Products",
+    "Location": "3 Locations",
+    "Posted Date": "2025-07-16T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--AI-SW-and-ML-Products_JR1995761",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--AI-SW-and-ML-Products_JR1995761",
+    "Bullet Fields": [
+      "JR1995761"
+    ],
+    "Requisition ID": "JR1995761",
+    "Scraped At": "2025-07-17T07:00:10Z",
+    "Posted Date Original": "Posted Yesterday"
   }
 ]
