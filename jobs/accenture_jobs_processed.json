@@ -1,24 +1,234 @@
 [
   {
-    "Job ID": "00199428-48",
-    "Title": "GN Industry Retail SAP Analyst",
+    "Job ID": "00274167",
+    "Title": "Senior Account Manager or Consultant - Social & Community",
     "Location": "",
-    "Posted Date": "2025-08-18T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram-DDC1A/GN-Industry---Utility---SAP-CE--Consultant_R00199428-48",
-    "External Path": "/job/Gurugram-DDC1A/GN-Industry---Utility---SAP-CE--Consultant_R00199428-48",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney/Account-Manager_R00274167",
+    "External Path": "/job/Sydney/Account-Manager_R00274167",
     "Bullet Fields": [
-      "R00199428",
-      "Gurugram, Ddc1A"
+      "R00274167",
+      "Location Negotiable"
     ],
-    "Requisition ID": "R00199428",
-    "Scraped At": "2025-08-18T06:30:46Z",
+    "Requisition ID": "R00274167",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00000643",
+    "Title": "Especialistas Financieros/Contables - Control de Gestión",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/CONTROL-DE-GESTION---ESPECIALISTA-con-ITALIANO_R00000643",
+    "External Path": "/job/Buenos-Aires/CONTROL-DE-GESTION---ESPECIALISTA-con-ITALIANO_R00000643",
+    "Bullet Fields": [
+      "R00000643",
+      "Buenos Aires"
+    ],
+    "Requisition ID": "R00000643",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00273592-1",
+    "Title": "S&C GN - SC&O - BPM - Consultant",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/S-C-GN---SC-O---BPM---Consultant_R00273592-1",
+    "External Path": "/job/Pune/S-C-GN---SC-O---BPM---Consultant_R00273592-1",
+    "Bullet Fields": [
+      "R00273592",
+      "Pune"
+    ],
+    "Requisition ID": "R00273592",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00273596",
+    "Title": "S&C GN - SC&O - BPM - Japan - Bilingual - Consultant",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/S-C-GN---SC-O---BPM---Japan---Bilingual---Consultant_R00273596",
+    "External Path": "/job/Pune/S-C-GN---SC-O---BPM---Japan---Bilingual---Consultant_R00273596",
+    "Bullet Fields": [
+      "R00273596",
+      "Pune"
+    ],
+    "Requisition ID": "R00273596",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00273589",
+    "Title": "S&C GN - SC&O - BPM - PM - Consultant",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/S-C-GN---SC-O---BPM---PM---Consultant_R00273589",
+    "External Path": "/job/Hyderabad/S-C-GN---SC-O---BPM---PM---Consultant_R00273589",
+    "Bullet Fields": [
+      "R00273589",
+      "Hyderabad"
+    ],
+    "Requisition ID": "R00273589",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00273586-1",
+    "Title": "S&C GN - SC&O - BPM - IA – Consultant",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/S-C-GN---SC-O---BPM---IA---Consultant_R00273586-1",
+    "External Path": "/job/Pune/S-C-GN---SC-O---BPM---IA---Consultant_R00273586-1",
+    "Bullet Fields": [
+      "R00273586",
+      "Pune"
+    ],
+    "Requisition ID": "R00273586",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00273699",
+    "Title": "S&C GN - SC&O - BPM - Manager",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/S-C-GN---SC-O---BPM---Manager_R00273699",
+    "External Path": "/job/Bengaluru/S-C-GN---SC-O---BPM---Manager_R00273699",
+    "Bullet Fields": [
+      "R00273699",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00273699",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00273704",
+    "Title": "S&C GN - SC&O - BPM - Japan - Bilingual - Senior Manager",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/S-C-GN---SC-O---BPM---Japan---Bilingual---Senior-Manager_R00273704",
+    "External Path": "/job/Bengaluru/S-C-GN---SC-O---BPM---Japan---Bilingual---Senior-Manager_R00273704",
+    "Bullet Fields": [
+      "R00273704",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00273704",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00273695",
+    "Title": "S&C GN - SC&O - BPM – PM - Manager",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/S-C-GN---SC-O---BPM---PM---Manager_R00273695",
+    "External Path": "/job/Gurugram/S-C-GN---SC-O---BPM---PM---Manager_R00273695",
+    "Bullet Fields": [
+      "R00273695",
+      "Gurugram"
+    ],
+    "Requisition ID": "R00273695",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00273593",
+    "Title": "S&C GN - SC&O - BPM - Analyst",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/S-C-GN---SC-O---BPM---Analyst_R00273593",
+    "External Path": "/job/Gurugram/S-C-GN---SC-O---BPM---Analyst_R00273593",
+    "Bullet Fields": [
+      "R00273593",
+      "Gurugram"
+    ],
+    "Requisition ID": "R00273593",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00273588",
+    "Title": "S&C GN - SC&O - BPM - IA – Analyst",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/S-C-GN---SC-O---BPM---IA---Analyst_R00273588",
+    "External Path": "/job/Bengaluru/S-C-GN---SC-O---BPM---IA---Analyst_R00273588",
+    "Bullet Fields": [
+      "R00273588",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00273588",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00273598",
+    "Title": "S&C GN - SC&O - BPM - Japan - Bilingual - Analyst",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/S-C-GN---SC-O---BPM---Japan---Bilingual---Analyst_R00273598",
+    "External Path": "/job/Gurugram/S-C-GN---SC-O---BPM---Japan---Bilingual---Analyst_R00273598",
+    "Bullet Fields": [
+      "R00273598",
+      "Gurugram"
+    ],
+    "Requisition ID": "R00273598",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00273590",
+    "Title": "S&C GN - SC&O - BPM – PM - Analyst",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/S-C-GN---SC-O---BPM---PM---Analyst_R00273590",
+    "External Path": "/job/Mumbai/S-C-GN---SC-O---BPM---PM---Analyst_R00273590",
+    "Bullet Fields": [
+      "R00273590",
+      "Mumbai"
+    ],
+    "Requisition ID": "R00273590",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00282126",
+    "Title": "SAP Sales & Distribution/Materials Management Consultant",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/SAP-Sales---Distribution-Materials-Management-Consultant_R00282126",
+    "External Path": "/job/Ebene/SAP-Sales---Distribution-Materials-Management-Consultant_R00282126",
+    "Bullet Fields": [
+      "R00282126",
+      "Ebene"
+    ],
+    "Requisition ID": "R00282126",
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00281614",
+    "Title": "Digital Data Reviewer – English (New Associate | Fresh Grads Welcome)",
+    "Location": "",
+    "Posted Date": "2025-08-19T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur/Digital-Data-Reviewer---English-Speaker--Trust---Safety-_R00281614",
+    "External Path": "/job/Kuala-Lumpur/Digital-Data-Reviewer---English-Speaker--Trust---Safety-_R00281614",
+    "Bullet Fields": [
+      "R00281614",
+      "Kuala Lumpur"
+    ],
+    "Requisition ID": "R00281614",
+    "Scraped At": "2025-08-19T06:27:14Z",
     "Posted Date Original": "Posted Today"
   },
   {
     "Job ID": "00282366",
     "Title": "Automation Lead (Cloud/Python)",
     "Location": "",
-    "Posted Date": "2025-08-18T00:00:00Z",
+    "Posted Date": "2025-08-19T00:00:00Z",
     "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ho-ChiMinh-Viettel-Building/Automation-Lead--Cloud-Python-_R00282366",
     "External Path": "/job/Ho-ChiMinh-Viettel-Building/Automation-Lead--Cloud-Python-_R00282366",
     "Bullet Fields": [
@@ -26,14 +236,14 @@
       "Ho Chiminh, Viettel Building"
     ],
     "Requisition ID": "R00282366",
-    "Scraped At": "2025-08-18T06:30:46Z",
+    "Scraped At": "2025-08-19T06:27:14Z",
     "Posted Date Original": "Posted Today"
   },
   {
     "Job ID": "00282097",
     "Title": "Java Technical Architect",
     "Location": "",
-    "Posted Date": "2025-08-18T00:00:00Z",
+    "Posted Date": "2025-08-19T00:00:00Z",
     "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Java-Technical-Architect_R00282097",
     "External Path": "/job/Ebene/Java-Technical-Architect_R00282097",
     "Bullet Fields": [
@@ -41,7 +251,7 @@
       "Ebene"
     ],
     "Requisition ID": "R00282097",
-    "Scraped At": "2025-08-18T06:30:46Z",
+    "Scraped At": "2025-08-19T06:27:14Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -56,8 +266,8 @@
       "Sao Paulo, Torre Paineira"
     ],
     "Requisition ID": "R00269941",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00267263-1",
@@ -71,8 +281,8 @@
       "Sao Paulo, Torre Paineira"
     ],
     "Requisition ID": "R00267263",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-08-19T06:27:14Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00252326",
@@ -86,217 +296,7 @@
       "Sao Paulo, Torre Paineira"
     ],
     "Requisition ID": "R00252326",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00279867",
-    "Title": "Contracting Counsel  Associate  Manager",
-    "Location": "",
-    "Posted Date": "2025-08-16T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Contracting-Counsel--Associate--Manager_R00279867",
-    "External Path": "/job/Sao-Paulo-Torre-Paineira/Contracting-Counsel--Associate--Manager_R00279867",
-    "Bullet Fields": [
-      "R00279867",
-      "Sao Paulo, Torre Paineira"
-    ],
-    "Requisition ID": "R00279867",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00254051",
-    "Title": "Business Analyst",
-    "Location": "",
-    "Posted Date": "2025-08-16T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Business-Analyst_R00254051",
-    "External Path": "/job/Ebene/Business-Analyst_R00254051",
-    "Bullet Fields": [
-      "R00254051",
-      "Ebene"
-    ],
-    "Requisition ID": "R00254051",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00282272",
-    "Title": "Management Consulting Analyst",
-    "Location": "",
-    "Posted Date": "2025-08-16T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Taguig/Management-Consulting-Analyst_R00282272",
-    "External Path": "/job/Taguig/Management-Consulting-Analyst_R00282272",
-    "Bullet Fields": [
-      "R00282272",
-      "Taguig"
-    ],
-    "Requisition ID": "R00282272",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "/job/Oslo/Bli-med--kvalitetssikre-samfunnskritiske-IT-lsninger-med-Quality-Engineering--Test-og-Testledelse_13448050",
-    "Title": "Bli med å kvalitetssikre samfunnskritiske IT-løsninger med Quality Engineering og testing",
-    "Location": "",
-    "Posted Date": "2025-08-16T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Oslo/Bli-med--kvalitetssikre-samfunnskritiske-IT-lsninger-med-Quality-Engineering--Test-og-Testledelse_13448050",
-    "External Path": "/job/Oslo/Bli-med--kvalitetssikre-samfunnskritiske-IT-lsninger-med-Quality-Engineering--Test-og-Testledelse_13448050",
-    "Bullet Fields": [
-      "13448050",
-      "Oslo"
-    ],
-    "Requisition ID": "13448050",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00282274",
-    "Title": "Management Consulting (Master's Graduate Consulting Program)",
-    "Location": "",
-    "Posted Date": "2025-08-16T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Taguig/Management-Consulting--Master-s-Graduate-Consulting-Program-_R00282274",
-    "External Path": "/job/Taguig/Management-Consulting--Master-s-Graduate-Consulting-Program-_R00282274",
-    "Bullet Fields": [
-      "R00282274",
-      "Taguig"
-    ],
-    "Requisition ID": "R00282274",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00276792",
-    "Title": "Account Manager - Qualitative & Quantitative Research",
-    "Location": "",
-    "Posted Date": "2025-08-16T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne/Account-Manager---Qualitative---Quantitative-Research_R00276792",
-    "External Path": "/job/Melbourne/Account-Manager---Qualitative---Quantitative-Research_R00276792",
-    "Bullet Fields": [
-      "R00276792",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00276792",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00282112",
-    "Title": "Business Central Functional Developer",
-    "Location": "",
-    "Posted Date": "2025-08-15T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Business-Central-Functional-Developer_R00282112",
-    "External Path": "/job/Ebene/Business-Central-Functional-Developer_R00282112",
-    "Bullet Fields": [
-      "R00282112",
-      "Ebene"
-    ],
-    "Requisition ID": "R00282112",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00280178",
-    "Title": "Associate Director, Technology Delivery & Quality Engineering",
-    "Location": "",
-    "Posted Date": "2025-08-15T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ontario---Toronto/Associate-Director--Technology-Delivery---Quality-Engineering_R00280178",
-    "External Path": "/job/Ontario---Toronto/Associate-Director--Technology-Delivery---Quality-Engineering_R00280178",
-    "Bullet Fields": [
-      "R00280178",
-      "Ontario - Toronto"
-    ],
-    "Requisition ID": "R00280178",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00254122",
-    "Title": "Customer Service Team Lead",
-    "Location": "",
-    "Posted Date": "2025-08-15T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/Customer-Service-Team-Lead_R00254122",
-    "External Path": "/job/Heredia/Customer-Service-Team-Lead_R00254122",
-    "Bullet Fields": [
-      "R00254122",
-      "Heredia"
-    ],
-    "Requisition ID": "R00254122",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00282162",
-    "Title": "Senior .NET Developer",
-    "Location": "",
-    "Posted Date": "2025-08-15T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Senior-NET-Developer_R00282162",
-    "External Path": "/job/Ebene/Senior-NET-Developer_R00282162",
-    "Bullet Fields": [
-      "R00282162",
-      "Ebene"
-    ],
-    "Requisition ID": "R00282162",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00282161",
-    "Title": "Senior SAP Basis Consultant",
-    "Location": "",
-    "Posted Date": "2025-08-15T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Senior-SAP-Basis-Consultant_R00282161",
-    "External Path": "/job/Ebene/Senior-SAP-Basis-Consultant_R00282161",
-    "Bullet Fields": [
-      "R00282161",
-      "Ebene"
-    ],
-    "Requisition ID": "R00282161",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00276785",
-    "Title": "Ventures & Acquisitions Recruiting Integration Lead with English  - nice to have French/Italian",
-    "Location": "",
-    "Posted Date": "2025-08-15T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bucharest/Ventures---Acquisitions-Talent-Supply-Chain-Integration-Lead_R00276785",
-    "External Path": "/job/Bucharest/Ventures---Acquisitions-Talent-Supply-Chain-Integration-Lead_R00276785",
-    "Bullet Fields": [
-      "R00276785",
-      "Bucharest"
-    ],
-    "Requisition ID": "R00276785",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00282155",
-    "Title": "SAP ABAP Developer",
-    "Location": "",
-    "Posted Date": "2025-08-15T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/SAP-ABAP-Developer_R00282155",
-    "External Path": "/job/Ebene/SAP-ABAP-Developer_R00282155",
-    "Bullet Fields": [
-      "R00282155",
-      "Ebene"
-    ],
-    "Requisition ID": "R00282155",
-    "Scraped At": "2025-08-18T06:30:46Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00282090",
-    "Title": "Workday Advanced Compensation Lead",
-    "Location": "",
-    "Posted Date": "2025-08-15T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Copenhagen-K/Workday-Advanced-Compensation-Lead_R00282090",
-    "External Path": "/job/Copenhagen-K/Workday-Advanced-Compensation-Lead_R00282090",
-    "Bullet Fields": [
-      "R00282090",
-      "Copenhagen K"
-    ],
-    "Requisition ID": "R00282090",
-    "Scraped At": "2025-08-18T06:30:46Z",
+    "Scraped At": "2025-08-19T06:27:14Z",
     "Posted Date Original": "Posted 3 Days Ago"
   }
 ]
