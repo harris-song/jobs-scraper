@@ -3251,14 +3251,14 @@
     "Job ID": "2000621",
     "Title": "Senior Software Engineer, CAD Tool Development",
     "Location": "2 Locations",
-    "Posted Date": "2025-07-22T00:00:00Z",
+    "Posted Date": "2025-09-11T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CAD-Tool-Development_JR2000621",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--CAD-Tool-Development_JR2000621",
     "Bullet Fields": [
       "JR2000621"
     ],
     "Requisition ID": "JR2000621",
-    "Scraped At": "2025-07-22T06:29:29Z",
+    "Scraped At": "2025-09-11T06:27:54Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -10419,28 +10419,28 @@
     "Job ID": "2003201-1",
     "Title": "NVIDIA 2026 Internships: Computer Architecture",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2025-09-10T00:00:00Z",
+    "Posted Date": "2025-09-11T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Computer-Architecture_JR2003201-1",
     "External Path": "/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Computer-Architecture_JR2003201-1",
     "Bullet Fields": [
       "JR2003201"
     ],
     "Requisition ID": "JR2003201",
-    "Scraped At": "2025-09-10T06:26:23Z",
+    "Scraped At": "2025-09-11T06:27:54Z",
     "Posted Date Original": "Posted Today"
   },
   {
     "Job ID": "2003207",
     "Title": "NVIDIA 2026 Internships: Autonomous Vehicles and Robotics",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2025-09-03T00:00:00Z",
+    "Posted Date": "2025-09-11T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207",
     "External Path": "/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207",
     "Bullet Fields": [
       "JR2003207"
     ],
     "Requisition ID": "JR2003207",
-    "Scraped At": "2025-09-03T06:25:22Z",
+    "Scraped At": "2025-09-11T06:27:54Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -11329,28 +11329,238 @@
     "Job ID": "2003199",
     "Title": "NVIDIA 2026 Internships: Mixed Signal Design and Digital Circuit Design",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2025-09-10T00:00:00Z",
+    "Posted Date": "2025-09-11T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Mixed-Signal-Design-and-Digital-Circuit-Design_JR2003199",
     "External Path": "/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Mixed-Signal-Design-and-Digital-Circuit-Design_JR2003199",
     "Bullet Fields": [
       "JR2003199"
     ],
     "Requisition ID": "JR2003199",
-    "Scraped At": "2025-09-10T06:26:23Z",
+    "Scraped At": "2025-09-11T06:27:54Z",
     "Posted Date Original": "Posted Today"
   },
   {
     "Job ID": "2003200",
     "Title": "NVIDIA 2026 Internships: Hardware Engineering ",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2025-09-10T00:00:00Z",
+    "Posted Date": "2025-09-11T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Engineering-_JR2003200",
     "External Path": "/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Engineering-_JR2003200",
     "Bullet Fields": [
       "JR2003200"
     ],
     "Requisition ID": "JR2003200",
-    "Scraped At": "2025-09-10T06:26:23Z",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1999045-1",
+    "Title": "Solution Engineer, GTL",
+    "Location": "2 Locations",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solution-Engineer--GTL_JR1999045-1",
+    "External Path": "/job/US-CA-Santa-Clara/Solution-Engineer--GTL_JR1999045-1",
+    "Bullet Fields": [
+      "JR1999045"
+    ],
+    "Requisition ID": "JR1999045",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003437",
+    "Title": "Senior System Software Engineer - Computer Vision Algorithms and SDK",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Computer-Vision-Algorithms-and-SDK_JR2003437",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Computer-Vision-Algorithms-and-SDK_JR2003437",
+    "Bullet Fields": [
+      "JR2003437"
+    ],
+    "Requisition ID": "JR2003437",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003796",
+    "Title": "Systems Software Engineer, AV Infrastructure - Tooling, Coverage, and Analysis",
+    "Location": "2 Locations",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--AV-Infrastructure---Tooling--Coverage--and-Analysis_JR2003796",
+    "External Path": "/job/US-CA-Santa-Clara/Systems-Software-Engineer--AV-Infrastructure---Tooling--Coverage--and-Analysis_JR2003796",
+    "Bullet Fields": [
+      "JR2003796"
+    ],
+    "Requisition ID": "JR2003796",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003870",
+    "Title": "Senior Software Engineer - AV Infrastructure Data Ingestion",
+    "Location": "2 Locations",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---AV-Infrastructure-Data-Ingestion_JR2003870",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer---AV-Infrastructure-Data-Ingestion_JR2003870",
+    "Bullet Fields": [
+      "JR2003870"
+    ],
+    "Requisition ID": "JR2003870",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003364",
+    "Title": "Senior Software Engineer – Holoscan Sensor AI Platform",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Holoscan-Sensor-AI-Platform_JR2003364",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer---Holoscan-Sensor-AI-Platform_JR2003364",
+    "Bullet Fields": [
+      "JR2003364"
+    ],
+    "Requisition ID": "JR2003364",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003580",
+    "Title": "Senior Software Engineer - NIM Factory Container and Cloud Infrastructure",
+    "Location": "2 Locations",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---NIM-Factory-Container-and-Cloud-Infrastructure_JR2003580",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer---NIM-Factory-Container-and-Cloud-Infrastructure_JR2003580",
+    "Bullet Fields": [
+      "JR2003580"
+    ],
+    "Requisition ID": "JR2003580",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003746",
+    "Title": "Senior Systems Software Engineer – Autonomous Vehicles Infrastructure",
+    "Location": "2 Locations",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles-Infrastructure_JR2003746",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles-Infrastructure_JR2003746",
+    "Bullet Fields": [
+      "JR2003746"
+    ],
+    "Requisition ID": "JR2003746",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003821",
+    "Title": "Senior Manager, Software Engineering - Neural Graphics",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---Neural-Graphics_JR2003821",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---Neural-Graphics_JR2003821",
+    "Bullet Fields": [
+      "JR2003821"
+    ],
+    "Requisition ID": "JR2003821",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003195",
+    "Title": "NVIDIA 2026 Internships: Hardware ASIC Design ",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-ASIC-Design-_JR2003195",
+    "External Path": "/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-ASIC-Design-_JR2003195",
+    "Bullet Fields": [
+      "JR2003195"
+    ],
+    "Requisition ID": "JR2003195",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003197",
+    "Title": "NVIDIA 2026 Internships: Hardware Verification ",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Verification-_JR2003197",
+    "External Path": "/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Verification-_JR2003197",
+    "Bullet Fields": [
+      "JR2003197"
+    ],
+    "Requisition ID": "JR2003197",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003198",
+    "Title": "NVIDIA 2026 Internships: Hardware Physical Design / VLSI",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Physical-Design---VLSI_JR2003198",
+    "External Path": "/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Physical-Design---VLSI_JR2003198",
+    "Bullet Fields": [
+      "JR2003198"
+    ],
+    "Requisition ID": "JR2003198",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003202",
+    "Title": "NVIDIA 2026 Internships: Deep Learning Computer Architecture",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202",
+    "External Path": "/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202",
+    "Bullet Fields": [
+      "JR2003202"
+    ],
+    "Requisition ID": "JR2003202",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003204",
+    "Title": "NVIDIA 2026 Internships: Systems Software Engineering",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204",
+    "External Path": "/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204",
+    "Bullet Fields": [
+      "JR2003204"
+    ],
+    "Requisition ID": "JR2003204",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003206",
+    "Title": "NVIDIA 2026 Internships: Software Engineering ",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206",
+    "External Path": "/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206",
+    "Bullet Fields": [
+      "JR2003206"
+    ],
+    "Requisition ID": "JR2003206",
+    "Scraped At": "2025-09-11T06:27:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2003625",
+    "Title": "Principal Program Manager - Supplier Performance Management",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-09-11T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Program-Manager---Supplier-Performance-Management_JR2003625",
+    "External Path": "/job/US-CA-Santa-Clara/Principal-Program-Manager---Supplier-Performance-Management_JR2003625",
+    "Bullet Fields": [
+      "JR2003625"
+    ],
+    "Requisition ID": "JR2003625",
+    "Scraped At": "2025-09-11T06:27:54Z",
     "Posted Date Original": "Posted Today"
   }
 ]
