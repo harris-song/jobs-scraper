@@ -4413,14 +4413,14 @@
     "Job ID": "2000930",
     "Title": "Senior Compiler Engineer - Compute",
     "Location": "3 Locations",
-    "Posted Date": "2025-07-28T00:00:00Z",
+    "Posted Date": "2025-09-24T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---Compute_JR2000930",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---Compute_JR2000930",
     "Bullet Fields": [
       "JR2000930"
     ],
     "Requisition ID": "JR2000930",
-    "Scraped At": "2025-07-28T06:34:35Z",
+    "Scraped At": "2025-09-24T06:33:17Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -9353,16 +9353,16 @@
   },
   {
     "Job ID": "2002442",
-    "Title": "Senior Machine Learning Compiler Engineer",
+    "Title": "Senior Compiler Engineer - AI",
     "Location": "6 Locations",
-    "Posted Date": "2025-08-25T00:00:00Z",
+    "Posted Date": "2025-09-24T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Machine-Learning-Compiler-Engineer_JR2002442",
     "External Path": "/job/US-TX-Austin/Senior-Machine-Learning-Compiler-Engineer_JR2002442",
     "Bullet Fields": [
       "JR2002442"
     ],
     "Requisition ID": "JR2002442",
-    "Scraped At": "2025-08-25T06:29:34Z",
+    "Scraped At": "2025-09-24T06:33:17Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -12295,14 +12295,14 @@
     "Job ID": "2003996",
     "Title": "Senior Systems Software Engineering, Analytics - Autonomous Vehicles",
     "Location": "2 Locations",
-    "Posted Date": "2025-09-17T00:00:00Z",
+    "Posted Date": "2025-09-24T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineering--Analytics---Autonomous-Vehicles_JR2003996",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineering--Analytics---Autonomous-Vehicles_JR2003996",
     "Bullet Fields": [
       "JR2003996"
     ],
     "Requisition ID": "JR2003996",
-    "Scraped At": "2025-09-17T06:28:52Z",
+    "Scraped At": "2025-09-24T06:33:17Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -13143,6 +13143,244 @@
     ],
     "Requisition ID": "JR2003779",
     "Scraped At": "2025-09-23T06:27:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2002834",
+    "Title": "Compute Architecture Software Engineer",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-Architecture-Software-Engineer_JR2002834",
+    "External Path": "/job/China-Shanghai/Compute-Architecture-Software-Engineer_JR2002834",
+    "Bullet Fields": [
+      "JR2002834"
+    ],
+    "Requisition ID": "JR2002834",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004709",
+    "Title": "Senior SoC Power Analysis Engineer",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-SoC-Power-Analysis-Engineer_JR2004709",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-SoC-Power-Analysis-Engineer_JR2004709",
+    "Bullet Fields": [
+      "JR2004709"
+    ],
+    "Requisition ID": "JR2004709",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004814",
+    "Title": "Physical Design Methodology Engineer, Innovus Flows - New College Grad 2025",
+    "Location": "4 Locations",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-Methodology-Engineer--Innovus-Flows---New-College-Grad-2025_JR2004814",
+    "External Path": "/job/US-CA-Santa-Clara/Physical-Design-Methodology-Engineer--Innovus-Flows---New-College-Grad-2025_JR2004814",
+    "Bullet Fields": [
+      "JR2004814"
+    ],
+    "Requisition ID": "JR2004814",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004659",
+    "Title": "Senior Machine Learning Engineer",
+    "Location": "6 Locations",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer_JR2004659",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer_JR2004659",
+    "Bullet Fields": [
+      "JR2004659"
+    ],
+    "Requisition ID": "JR2004659",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004481-1",
+    "Title": "Senior Math Libraries Engineer – Emulation in AI and HPC",
+    "Location": "France, Remote",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Remote/Senior-Math-Libraries-Engineer---Emulation-in-AI-and-HPC_JR2004481-1",
+    "External Path": "/job/France-Remote/Senior-Math-Libraries-Engineer---Emulation-in-AI-and-HPC_JR2004481-1",
+    "Bullet Fields": [
+      "JR2004481"
+    ],
+    "Requisition ID": "JR2004481",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1998705",
+    "Title": "Senior Solutions Architect, Spectrum-X Low Level",
+    "Location": "3 Locations",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Spectrum-X-Low-Level_JR1998705",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Spectrum-X-Low-Level_JR1998705",
+    "Bullet Fields": [
+      "JR1998705"
+    ],
+    "Requisition ID": "JR1998705",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004313-1",
+    "Title": "Custom SOC ASIC Engineer - New College Grad 2026",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Custom-SOC-ASIC-Engineer---New-College-Grad-2026_JR2004313-1",
+    "External Path": "/job/China-Shanghai/Custom-SOC-ASIC-Engineer---New-College-Grad-2026_JR2004313-1",
+    "Bullet Fields": [
+      "JR2004313"
+    ],
+    "Requisition ID": "JR2004313",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004199",
+    "Title": "Senior DevOps Engineer - AI and AV Infrastructure",
+    "Location": "3 Locations",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-DevOps-Engineer---AI-and-AV-Infrastructure_JR2004199",
+    "External Path": "/job/China-Shanghai/Senior-DevOps-Engineer---AI-and-AV-Infrastructure_JR2004199",
+    "Bullet Fields": [
+      "JR2004199"
+    ],
+    "Requisition ID": "JR2004199",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004376",
+    "Title": "Deep Learning Performance Software Engineer",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Engineer_JR2004376",
+    "External Path": "/job/China-Shanghai/Deep-Learning-Performance-Software-Engineer_JR2004376",
+    "Bullet Fields": [
+      "JR2004376"
+    ],
+    "Requisition ID": "JR2004376",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004443",
+    "Title": "ASIC Physical Design Engineer - New College Grad 2026",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2026_JR2004443",
+    "External Path": "/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2026_JR2004443",
+    "Bullet Fields": [
+      "JR2004443"
+    ],
+    "Requisition ID": "JR2004443",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004447",
+    "Title": "SOC Methodology Engineer - New College Grad 2026",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/SOC-Methodology-Engineer---New-College-Grad-2026_JR2004447",
+    "External Path": "/job/China-Shanghai/SOC-Methodology-Engineer---New-College-Grad-2026_JR2004447",
+    "Bullet Fields": [
+      "JR2004447"
+    ],
+    "Requisition ID": "JR2004447",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004488",
+    "Title": "Senior Product Marketing Manager - Edge AI",
+    "Location": "2 Locations",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager---Edge-AI_JR2004488",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager---Edge-AI_JR2004488",
+    "Bullet Fields": [
+      "JR2004488"
+    ],
+    "Requisition ID": "JR2004488",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004438",
+    "Title": "Synthesis CAD Engineer, Physical Design",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Synthesis-CAD-Engineer--Physical-Design_JR2004438",
+    "External Path": "/job/China-Shanghai/Synthesis-CAD-Engineer--Physical-Design_JR2004438",
+    "Bullet Fields": [
+      "JR2004438"
+    ],
+    "Requisition ID": "JR2004438",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004378",
+    "Title": "DFT Engineer - New College Grad 2026",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/DFT-Engineer---New-College-Grad-2026_JR2004378",
+    "External Path": "/job/China-Shanghai/DFT-Engineer---New-College-Grad-2026_JR2004378",
+    "Bullet Fields": [
+      "JR2004378"
+    ],
+    "Requisition ID": "JR2004378",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004426",
+    "Title": "Developer Relations Manager - CSP",
+    "Location": "3 Locations",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Relations-Manager---CSP_JR2004426",
+    "External Path": "/job/US-CA-Santa-Clara/Developer-Relations-Manager---CSP_JR2004426",
+    "Bullet Fields": [
+      "JR2004426"
+    ],
+    "Requisition ID": "JR2004426",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004231",
+    "Title": "Senior Developer Relations Manager - Life Science Data Platforms",
+    "Location": "5 Locations",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Remote/Senior-Developer-Relations-Manager---Life-Science-Data-Platforms_JR2004231",
+    "External Path": "/job/US-MA-Remote/Senior-Developer-Relations-Manager---Life-Science-Data-Platforms_JR2004231",
+    "Bullet Fields": [
+      "JR2004231"
+    ],
+    "Requisition ID": "JR2004231",
+    "Scraped At": "2025-09-24T06:33:17Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2004267",
+    "Title": "Senior Performance Software Engineer, Deep Learning Libraries",
+    "Location": "2 Locations",
+    "Posted Date": "2025-09-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Performance-Software-Engineer--Deep-Learning-Libraries_JR2004267",
+    "External Path": "/job/China-Shanghai/Senior-Performance-Software-Engineer--Deep-Learning-Libraries_JR2004267",
+    "Bullet Fields": [
+      "JR2004267"
+    ],
+    "Requisition ID": "JR2004267",
+    "Scraped At": "2025-09-24T06:33:17Z",
     "Posted Date Original": "Posted Today"
   }
 ]
