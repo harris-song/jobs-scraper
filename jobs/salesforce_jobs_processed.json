@@ -1,44 +1,128 @@
 [
   {
+    "Job ID": "JR312487",
+    "Title": "Senior Analyst - Automation (Salesforce experience is mandatory)",
+    "Location": "India - Bangalore",
+    "Posted Date": "2025-10-06T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Analyst---Automation--Salesforce-experience-is-mandatory-_JR312487",
+    "External Path": "/job/India---Bangalore/Senior-Analyst---Automation--Salesforce-experience-is-mandatory-_JR312487",
+    "Bullet Fields": [
+      "JR312487"
+    ],
+    "Requisition ID": "JR312487",
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR312919",
+    "Title": "Sales Representative Representative, Singapore",
+    "Location": "Singapore - Singapore",
+    "Posted Date": "2025-10-06T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Sales-Representative-Representative--Singapore_JR312919",
+    "External Path": "/job/Singapore---Singapore/Sales-Representative-Representative--Singapore_JR312919",
+    "Bullet Fields": [
+      "JR312919"
+    ],
+    "Requisition ID": "JR312919",
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR312920",
+    "Title": "Content Marketing Analyst",
+    "Location": "2 Locations",
+    "Posted Date": "2025-10-06T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Content-Marketing-Analyst_JR312920",
+    "External Path": "/job/India---Bangalore/Content-Marketing-Analyst_JR312920",
+    "Bullet Fields": [
+      "JR312920"
+    ],
+    "Requisition ID": "JR312920",
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR312309",
+    "Title": "Engagement Delivery (Product Solution Engagement) ",
+    "Location": "Japan - Tokyo",
+    "Posted Date": "2025-10-06T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Engagement-Delivery--Product-Solution-Engagement--_JR312309",
+    "External Path": "/job/Japan---Tokyo/Engagement-Delivery--Product-Solution-Engagement--_JR312309",
+    "Bullet Fields": [
+      "JR312309"
+    ],
+    "Requisition ID": "JR312309",
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR310801",
+    "Title": "Lead Full Stack Software Engineer",
+    "Location": "2 Locations",
+    "Posted Date": "2025-10-06T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-LMTS_JR310801",
+    "External Path": "/job/California---San-Francisco/Software-Engineering-LMTS_JR310801",
+    "Bullet Fields": [
+      "JR310801"
+    ],
+    "Requisition ID": "JR310801",
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR290956",
+    "Title": "Business Development Representative - French and Arabic Speakers - Africa Market",
+    "Location": "Ireland - Dublin",
+    "Posted Date": "2025-10-06T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Business-Development-Representative---Arabic---Turkish-Speakers_JR290956",
+    "External Path": "/job/Ireland---Dublin/Business-Development-Representative---Arabic---Turkish-Speakers_JR290956",
+    "Bullet Fields": [
+      "JR290956"
+    ],
+    "Requisition ID": "JR290956",
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR311912",
+    "Title": "Senior Technical Architect",
+    "Location": "India - Gurgaon",
+    "Posted Date": "2025-10-06T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Senior-Technical-Architect_JR311912",
+    "External Path": "/job/India---Gurgaon/Senior-Technical-Architect_JR311912",
+    "Bullet Fields": [
+      "JR311912"
+    ],
+    "Requisition ID": "JR311912",
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR311032",
+    "Title": "Senior Success Guide (Mulesoft/Integration)",
+    "Location": "2 Locations",
+    "Posted Date": "2025-10-06T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Success-Guide--Mulesoft-Integration-_JR311032",
+    "External Path": "/job/India---Hyderabad/Senior-Success-Guide--Mulesoft-Integration-_JR311032",
+    "Bullet Fields": [
+      "JR311032"
+    ],
+    "Requisition ID": "JR311032",
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
     "Job ID": "JR307857",
     "Title": "Technical Writing Analyst",
     "Location": "2 Locations",
-    "Posted Date": "2025-10-05T00:00:00Z",
+    "Posted Date": "2025-10-06T00:00:00Z",
     "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Writing-Analyst_JR307857",
     "External Path": "/job/India---Bangalore/Technical-Writing-Analyst_JR307857",
     "Bullet Fields": [
       "JR307857"
     ],
     "Requisition ID": "JR307857",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "JR309494",
-    "Title": "Technical Writing Analyst",
-    "Location": "2 Locations",
-    "Posted Date": "2025-10-05T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Writing-Analyst_JR309494",
-    "External Path": "/job/India---Bangalore/Technical-Writing-Analyst_JR309494",
-    "Bullet Fields": [
-      "JR309494"
-    ],
-    "Requisition ID": "JR309494",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "JR312176",
-    "Title": "Senior Manager, Software Engineering",
-    "Location": "2 Locations",
-    "Posted Date": "2025-10-05T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Manager--Software-Engineering_JR312176",
-    "External Path": "/job/India---Bangalore/Senior-Manager--Software-Engineering_JR312176",
-    "Bullet Fields": [
-      "JR312176"
-    ],
-    "Requisition ID": "JR312176",
-    "Scraped At": "2025-10-05T06:24:05Z",
+    "Scraped At": "2025-10-06T06:29:42Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -52,8 +136,8 @@
       "JR312167"
     ],
     "Requisition ID": "JR312167",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "JR312331",
@@ -66,8 +150,8 @@
       "JR312331"
     ],
     "Requisition ID": "JR312331",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "JR312137",
@@ -80,21 +164,7 @@
       "JR312137"
     ],
     "Requisition ID": "JR312137",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "JR312392-1",
-    "Title": "Technical Writer",
-    "Location": "Washington - Bellevue",
-    "Posted Date": "2025-10-04T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Technical-Writer_JR312392-1",
-    "External Path": "/job/Washington---Bellevue/Technical-Writer_JR312392-1",
-    "Bullet Fields": [
-      "JR312392"
-    ],
-    "Requisition ID": "JR312392",
-    "Scraped At": "2025-10-05T06:24:05Z",
+    "Scraped At": "2025-10-06T06:29:42Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
@@ -108,22 +178,8 @@
       "JR312584"
     ],
     "Requisition ID": "JR312584",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR312583-1",
-    "Title": "Associate Site Reliability Engineer",
-    "Location": "California - San Francisco",
-    "Posted Date": "2025-10-04T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Site-Reliability-Engineer_JR312583-1",
-    "External Path": "/job/California---San-Francisco/Associate-Site-Reliability-Engineer_JR312583-1",
-    "Bullet Fields": [
-      "JR312583"
-    ],
-    "Requisition ID": "JR312583",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR312568",
@@ -136,36 +192,8 @@
       "JR312568"
     ],
     "Requisition ID": "JR312568",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR312582",
-    "Title": "Software Engineering AMTS",
-    "Location": "4 Locations",
-    "Posted Date": "2025-10-04T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS_JR312582",
-    "External Path": "/job/California---San-Francisco/Software-Engineering-AMTS_JR312582",
-    "Bullet Fields": [
-      "JR312582"
-    ],
-    "Requisition ID": "JR312582",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR312430-1",
-    "Title": "Software Engineering AMTS",
-    "Location": "4 Locations",
-    "Posted Date": "2025-10-04T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS_JR312430-1",
-    "External Path": "/job/California---San-Francisco/Software-Engineering-AMTS_JR312430-1",
-    "Bullet Fields": [
-      "JR312430"
-    ],
-    "Requisition ID": "JR312430",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR312898",
@@ -178,8 +206,8 @@
       "JR312898"
     ],
     "Requisition ID": "JR312898",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR312591",
@@ -192,8 +220,8 @@
       "JR312591"
     ],
     "Requisition ID": "JR312591",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR312593",
@@ -206,8 +234,8 @@
       "JR312593"
     ],
     "Requisition ID": "JR312593",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR312891",
@@ -220,8 +248,8 @@
       "JR312891"
     ],
     "Requisition ID": "JR312891",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR312399",
@@ -234,8 +262,8 @@
       "JR312399"
     ],
     "Requisition ID": "JR312399",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR308936",
@@ -248,35 +276,7 @@
       "JR308936"
     ],
     "Requisition ID": "JR308936",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR312059",
-    "Title": "Field Marketing & Event Senior Specialist",
-    "Location": "California - San Francisco",
-    "Posted Date": "2025-10-04T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Field-Marketing-Senior-Analyst_JR312059",
-    "External Path": "/job/California---San-Francisco/Field-Marketing-Senior-Analyst_JR312059",
-    "Bullet Fields": [
-      "JR312059"
-    ],
-    "Requisition ID": "JR312059",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR311818",
-    "Title": "Operations Senior Analyst",
-    "Location": "4 Locations",
-    "Posted Date": "2025-10-04T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Operations-Senior-Analyst_JR311818",
-    "External Path": "/job/Washington---Seattle/Operations-Senior-Analyst_JR311818",
-    "Bullet Fields": [
-      "JR311818"
-    ],
-    "Requisition ID": "JR311818",
-    "Scraped At": "2025-10-05T06:24:05Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-06T06:29:42Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   }
 ]
