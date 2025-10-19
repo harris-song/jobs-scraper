@@ -11,8 +11,8 @@
       "Buenos Aires"
     ],
     "Requisition ID": "R00286205",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00285794-1",
@@ -26,8 +26,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00285794",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00292155",
@@ -41,8 +41,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00292155",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00280090",
@@ -56,8 +56,38 @@
       "Melbourne, 161 Collins Street, Level 5"
     ],
     "Requisition ID": "R00280090",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00286640-1",
+    "Title": "Lead Software Engineer- Manchester",
+    "Location": "",
+    "Posted Date": "2025-10-18T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Manchester/Full-Stack-Engineering_R00286640-1",
+    "External Path": "/job/Manchester/Full-Stack-Engineering_R00286640-1",
+    "Bullet Fields": [
+      "R00286640",
+      "Manchester"
+    ],
+    "Requisition ID": "R00286640",
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00274510",
+    "Title": "Contract Manager - NRR 3960",
+    "Location": "",
+    "Posted Date": "2025-10-18T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Canberra/Contract-Manager---NRR-3960_R00274510",
+    "External Path": "/job/Canberra/Contract-Manager---NRR-3960_R00274510",
+    "Bullet Fields": [
+      "R00274510",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00274510",
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00280101",
@@ -71,8 +101,8 @@
       "Canberra, 65 Canberra Avenue Bldg"
     ],
     "Requisition ID": "R00280101",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00288137-1",
@@ -86,8 +116,8 @@
       "Dublin"
     ],
     "Requisition ID": "R00288137",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00290010",
@@ -101,8 +131,23 @@
       "Cebu City"
     ],
     "Requisition ID": "R00290010",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00284101",
+    "Title": "Especialistas Financieros/Contables - Control de Gestión",
+    "Location": "",
+    "Posted Date": "2025-10-17T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Especialistas-Financieros-Contables---Control-de-Gestin_R00284101",
+    "External Path": "/job/Buenos-Aires/Especialistas-Financieros-Contables---Control-de-Gestin_R00284101",
+    "Bullet Fields": [
+      "R00284101",
+      "Buenos Aires"
+    ],
+    "Requisition ID": "R00284101",
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00283194",
@@ -116,8 +161,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00283194",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00287524",
@@ -131,8 +176,8 @@
       "Dublin, 1 Grand Canal Square"
     ],
     "Requisition ID": "R00287524",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00291294",
@@ -146,8 +191,8 @@
       "Bucharest"
     ],
     "Requisition ID": "R00291294",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00288598",
@@ -161,8 +206,23 @@
       "Leeds"
     ],
     "Requisition ID": "R00288598",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
+  },
+  {
+    "Job ID": "00291814-1",
+    "Title": "Sales Excellence - Proposal Management Senior Analyst",
+    "Location": "",
+    "Posted Date": "2025-10-17T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Exchange-106/Sales-Excellence---Proposal-Management-Senior-Analyst_R00291814-1",
+    "External Path": "/job/Kuala-Lumpur-Exchange-106/Sales-Excellence---Proposal-Management-Senior-Analyst_R00291814-1",
+    "Bullet Fields": [
+      "R00291814",
+      "Kuala Lumpur, Exchange 106"
+    ],
+    "Requisition ID": "R00291814",
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00291906",
@@ -176,8 +236,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00291906",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00262713-1",
@@ -191,8 +251,8 @@
       "Ho Chiminh, Viettel Building"
     ],
     "Requisition ID": "R00262713",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00270886",
@@ -206,8 +266,8 @@
       "Ho Chiminh, Viettel Building"
     ],
     "Requisition ID": "R00270886",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00267880",
@@ -221,8 +281,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00267880",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00262414",
@@ -236,67 +296,7 @@
       "Heredia"
     ],
     "Requisition ID": "R00262414",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00277035",
-    "Title": "Consultant Financier Workday Record to Report (F/H)",
-    "Location": "",
-    "Posted Date": "2025-10-16T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Workday-Record-to-Report-Lead--F-H-_R00277035",
-    "External Path": "/job/Paris/Workday-Record-to-Report-Lead--F-H-_R00277035",
-    "Bullet Fields": [
-      "R00277035",
-      "Paris"
-    ],
-    "Requisition ID": "R00277035",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00291293",
-    "Title": "Compliance & Ethics Counsel Manager - NRR 3944",
-    "Location": "",
-    "Posted Date": "2025-10-16T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Compliance---Ethics-Counsel-Manager---NRR-3944_R00291293",
-    "External Path": "/job/Buenos-Aires/Compliance---Ethics-Counsel-Manager---NRR-3944_R00291293",
-    "Bullet Fields": [
-      "R00291293",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00291293",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00291191",
-    "Title": "Compliance & Ethics Counsel Manager",
-    "Location": "",
-    "Posted Date": "2025-10-16T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Compliance---Ethics-Counsel-Manager_R00291191",
-    "External Path": "/job/Sao-Paulo-Torre-Paineira/Compliance---Ethics-Counsel-Manager_R00291191",
-    "Bullet Fields": [
-      "R00291191",
-      "Sao Paulo, Torre Paineira"
-    ],
-    "Requisition ID": "R00291191",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00291295",
-    "Title": "Sales Excellence - COE - Data Engineering Specialist",
-    "Location": "",
-    "Posted Date": "2025-10-16T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---COE---Data-Engineering-Specialist_R00291295",
-    "External Path": "/job/Buenos-Aires/Sales-Excellence---COE---Data-Engineering-Specialist_R00291295",
-    "Bullet Fields": [
-      "R00291295",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00291295",
-    "Scraped At": "2025-10-18T06:24:42Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-10-19T06:25:55Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   }
 ]
