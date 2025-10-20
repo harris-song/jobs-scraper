@@ -1,5 +1,117 @@
 [
   {
+    "Job ID": "JR314414",
+    "Title": "Senior Solution Engineer - Alliance",
+    "Location": "Japan - Tokyo",
+    "Posted Date": "2025-10-20T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Senior-Solution-Engineer---Alliance_JR314414",
+    "External Path": "/job/Japan---Tokyo/Senior-Solution-Engineer---Alliance_JR314414",
+    "Bullet Fields": [
+      "JR314414"
+    ],
+    "Requisition ID": "JR314414",
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR314901",
+    "Title": "Senior Technical Architect",
+    "Location": "Philippines - Remote",
+    "Posted Date": "2025-10-20T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Philippines---Remote/Senior-Technical-Architect_JR314901",
+    "External Path": "/job/Philippines---Remote/Senior-Technical-Architect_JR314901",
+    "Bullet Fields": [
+      "JR314901"
+    ],
+    "Requisition ID": "JR314901",
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR309809-1",
+    "Title": "Customer Success Manager",
+    "Location": "2 Locations",
+    "Posted Date": "2025-10-20T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Customer-Success-Manager_JR309809-1",
+    "External Path": "/job/Australia---Sydney/Customer-Success-Manager_JR309809-1",
+    "Bullet Fields": [
+      "JR309809"
+    ],
+    "Requisition ID": "JR309809",
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR314554-1",
+    "Title": "Project Manager",
+    "Location": "Japan - Tokyo",
+    "Posted Date": "2025-10-20T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Project-Manager_JR314554-1",
+    "External Path": "/job/Japan---Tokyo/Project-Manager_JR314554-1",
+    "Bullet Fields": [
+      "JR314554"
+    ],
+    "Requisition ID": "JR314554",
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR314076",
+    "Title": "Renewals Manager",
+    "Location": "Japan - Tokyo",
+    "Posted Date": "2025-10-20T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Renewals-Manager_JR314076",
+    "External Path": "/job/Japan---Tokyo/Renewals-Manager_JR314076",
+    "Bullet Fields": [
+      "JR314076"
+    ],
+    "Requisition ID": "JR314076",
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR310155",
+    "Title": "Process Analyst - Q2C - Provisions/Sales Operations",
+    "Location": "India - Hyderabad",
+    "Posted Date": "2025-10-20T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Process-Analyst-Quote-to-Cash-Strategy---Operations_JR310155",
+    "External Path": "/job/India---Hyderabad/Process-Analyst-Quote-to-Cash-Strategy---Operations_JR310155",
+    "Bullet Fields": [
+      "JR310155"
+    ],
+    "Requisition ID": "JR310155",
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR314566",
+    "Title": "Service Cloud Performance Engineer",
+    "Location": "Israel - Tel Aviv",
+    "Posted Date": "2025-10-20T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Service-Cloud-Performance-Engineer_JR314566",
+    "External Path": "/job/Israel---Tel-Aviv/Service-Cloud-Performance-Engineer_JR314566",
+    "Bullet Fields": [
+      "JR314566"
+    ],
+    "Requisition ID": "JR314566",
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR314894",
+    "Title": "Senior Director of Engineering, Marketing  Intelligence",
+    "Location": "Israel - Tel Aviv",
+    "Posted Date": "2025-10-20T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Senior-Director-of-Engineering--Marketing--Intelligence_JR314894",
+    "External Path": "/job/Israel---Tel-Aviv/Senior-Director-of-Engineering--Marketing--Intelligence_JR314894",
+    "Bullet Fields": [
+      "JR314894"
+    ],
+    "Requisition ID": "JR314894",
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
     "Job ID": "JR312325",
     "Title": "Fullstack Engineer (LMTS)_Frontend Heavy",
     "Location": "India - Bangalore",
@@ -10,8 +122,8 @@
       "JR312325"
     ],
     "Requisition ID": "JR312325",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "JR313223",
@@ -24,8 +136,8 @@
       "JR313223"
     ],
     "Requisition ID": "JR313223",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR313218",
@@ -38,8 +150,8 @@
       "JR313218"
     ],
     "Requisition ID": "JR313218",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR291587",
@@ -52,8 +164,8 @@
       "JR291587"
     ],
     "Requisition ID": "JR291587",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR312751",
@@ -66,8 +178,8 @@
       "JR312751"
     ],
     "Requisition ID": "JR312751",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR314393",
@@ -80,8 +192,8 @@
       "JR314393"
     ],
     "Requisition ID": "JR314393",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR314196-1",
@@ -94,8 +206,8 @@
       "JR314196"
     ],
     "Requisition ID": "JR314196",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR308264-1",
@@ -108,8 +220,8 @@
       "JR308264"
     ],
     "Requisition ID": "JR308264",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR282101",
@@ -122,8 +234,8 @@
       "JR282101"
     ],
     "Requisition ID": "JR282101",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR313484",
@@ -136,8 +248,8 @@
       "JR313484"
     ],
     "Requisition ID": "JR313484",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR313568",
@@ -150,8 +262,8 @@
       "JR313568"
     ],
     "Requisition ID": "JR313568",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "JR314681",
@@ -164,119 +276,7 @@
       "JR314681"
     ],
     "Requisition ID": "JR314681",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR306854",
-    "Title": "Software Engineering SMTS/LMTS",
-    "Location": "2 Locations",
-    "Posted Date": "2025-10-18T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR306854",
-    "External Path": "/job/California---San-Francisco/Software-Engineering-SMTS_JR306854",
-    "Bullet Fields": [
-      "JR306854"
-    ],
-    "Requisition ID": "JR306854",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR314520",
-    "Title": "Senior Director, Product Marketing",
-    "Location": "Virginia - Mclean",
-    "Posted Date": "2025-10-18T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Senior-Director--Product-Marketing_JR314520",
-    "External Path": "/job/Virginia---Mclean/Senior-Director--Product-Marketing_JR314520",
-    "Bullet Fields": [
-      "JR314520"
-    ],
-    "Requisition ID": "JR314520",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR313204-1",
-    "Title": "Customer Success Manager",
-    "Location": "Canada - Toronto",
-    "Posted Date": "2025-10-18T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Customer-Success-Manager_JR313204-1",
-    "External Path": "/job/Canada---Toronto/Customer-Success-Manager_JR313204-1",
-    "Bullet Fields": [
-      "JR313204"
-    ],
-    "Requisition ID": "JR313204",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR307642-1",
-    "Title": "Summer 2026 Intern - Product GTM Strategy",
-    "Location": "California - San Francisco",
-    "Posted Date": "2025-10-18T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Product-Growth_JR307642-1",
-    "External Path": "/job/California---San-Francisco/Summer-2026-Intern---Product-Growth_JR307642-1",
-    "Bullet Fields": [
-      "JR307642"
-    ],
-    "Requisition ID": "JR307642",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR314368",
-    "Title": "Senior Site Reliability Engineer - Public Sector",
-    "Location": "Virginia - Herndon",
-    "Posted Date": "2025-10-18T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Herndon/Senior-Site-Reliability-Engineer---Public-Sector_JR314368",
-    "External Path": "/job/Virginia---Herndon/Senior-Site-Reliability-Engineer---Public-Sector_JR314368",
-    "Bullet Fields": [
-      "JR314368"
-    ],
-    "Requisition ID": "JR314368",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR304655",
-    "Title": "Senior Manager, Software Engineering - SRE Tooling and Insights",
-    "Location": "India - Hyderabad",
-    "Posted Date": "2025-10-18T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Manager--Software-Engineering---SRE-Tooling-and-Insights_JR304655",
-    "External Path": "/job/India---Hyderabad/Senior-Manager--Software-Engineering---SRE-Tooling-and-Insights_JR304655",
-    "Bullet Fields": [
-      "JR304655"
-    ],
-    "Requisition ID": "JR304655",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR312167",
-    "Title": "Principal Software Engineer / PMTS - Backend - Distributed Systems",
-    "Location": "India - Bangalore",
-    "Posted Date": "2025-10-18T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Principal-Software-Engineer---PMTS---Backend---Distributed-Systems_JR312167",
-    "External Path": "/job/India---Bangalore/Principal-Software-Engineer---PMTS---Backend---Distributed-Systems_JR312167",
-    "Bullet Fields": [
-      "JR312167"
-    ],
-    "Requisition ID": "JR312167",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR304657",
-    "Title": "Senior Manager, Software Engineering - Observability",
-    "Location": "India - Hyderabad",
-    "Posted Date": "2025-10-18T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Manager--Software-Engineering---Observability_JR304657",
-    "External Path": "/job/India---Hyderabad/Senior-Manager--Software-Engineering---Observability_JR304657",
-    "Bullet Fields": [
-      "JR304657"
-    ],
-    "Requisition ID": "JR304657",
-    "Scraped At": "2025-10-19T06:27:31Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-10-20T06:29:54Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   }
 ]
