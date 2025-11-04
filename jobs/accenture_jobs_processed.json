@@ -1,9 +1,129 @@
 [
   {
+    "Job ID": "C_12139726",
+    "Title": "Azure Cloud Engineer",
+    "Location": "",
+    "Posted Date": "2025-11-04T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne/Azure-Cloud-Engineer---ARC_12139726",
+    "External Path": "/job/Melbourne/Azure-Cloud-Engineer---ARC_12139726",
+    "Bullet Fields": [
+      "12139726",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "12139726",
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00294556",
+    "Title": "Partner Business Advisors (PBA) Senior Analyst",
+    "Location": "",
+    "Posted Date": "2025-11-04T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/San-Jose-Plaza-Real-Cariari/Partner-Business-Advisors--PBA--Senior-Analyst_R00294556",
+    "External Path": "/job/San-Jose-Plaza-Real-Cariari/Partner-Business-Advisors--PBA--Senior-Analyst_R00294556",
+    "Bullet Fields": [
+      "R00294556",
+      "San Jose, Plaza Real Cariari"
+    ],
+    "Requisition ID": "R00294556",
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00294071",
+    "Title": "Node.js Developer",
+    "Location": "",
+    "Posted Date": "2025-11-04T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Nodejs-Developer_R00294071",
+    "External Path": "/job/Warsaw/Nodejs-Developer_R00294071",
+    "Bullet Fields": [
+      "R00294071",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00294071",
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00294483",
+    "Title": "SAP Cloud Integration Consultant",
+    "Location": "",
+    "Posted Date": "2025-11-04T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sofia/SAP-Cloud-Integration-Consultant_R00294483",
+    "External Path": "/job/Sofia/SAP-Cloud-Integration-Consultant_R00294483",
+    "Bullet Fields": [
+      "R00294483",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00294483",
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00262976-1",
+    "Title": "Customer Platforms- Senior Manager",
+    "Location": "",
+    "Posted Date": "2025-11-04T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Microsoft-Dynamics-Functional-Lead---Senior-Manager_R00262976-1",
+    "External Path": "/job/London/Microsoft-Dynamics-Functional-Lead---Senior-Manager_R00262976-1",
+    "Bullet Fields": [
+      "R00262976",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00262976",
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00294476",
+    "Title": "Administradores/as de Windows Server, Active Directory e Hyper V",
+    "Location": "",
+    "Posted Date": "2025-11-04T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Administradores-as-de-Windows-Server--Active-Directory-e-Hyper-V_R00294476",
+    "External Path": "/job/Madrid/Administradores-as-de-Windows-Server--Active-Directory-e-Hyper-V_R00294476",
+    "Bullet Fields": [
+      "R00294476",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00294476",
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00294473-1",
+    "Title": "Administradores/as de Cabinas de Almacenamiento",
+    "Location": "",
+    "Posted Date": "2025-11-04T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bilbao/Administradores-as-de-Cabinas-de-Almacenamiento_R00294473-1",
+    "External Path": "/job/Bilbao/Administradores-as-de-Cabinas-de-Almacenamiento_R00294473-1",
+    "Bullet Fields": [
+      "R00294473",
+      "Bilbao"
+    ],
+    "Requisition ID": "R00294473",
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00294469",
+    "Title": "Administradores/as bbdd SQL Server y PostgreSQL",
+    "Location": "",
+    "Posted Date": "2025-11-04T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Administradores-as-bbdd-SQL-Server-y-PostgreSQL_R00294469",
+    "External Path": "/job/Madrid/Administradores-as-bbdd-SQL-Server-y-PostgreSQL_R00294469",
+    "Bullet Fields": [
+      "R00294469",
+      "Madrid"
+    ],
+    "Requisition ID": "R00294469",
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
     "Job ID": "/job/Sydney-International-House-3-Sussex-St/Infrastructure-Management-Lead---Sydney_13438897",
     "Title": "Infrastructure Management Lead - Sydney",
     "Location": "",
-    "Posted Date": "2025-11-03T00:00:00Z",
+    "Posted Date": "2025-11-04T00:00:00Z",
     "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/Infrastructure-Management-Lead---Sydney_13438897",
     "External Path": "/job/Sydney-International-House-3-Sussex-St/Infrastructure-Management-Lead---Sydney_13438897",
     "Bullet Fields": [
@@ -11,23 +131,8 @@
       "Sydney, International House, 3 Sussex St"
     ],
     "Requisition ID": "13438897",
-    "Scraped At": "2025-11-03T06:28:31Z",
+    "Scraped At": "2025-11-04T06:27:51Z",
     "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00281175",
-    "Title": "Agente de Atendimento ao Cliente – Espanhol Avançado",
-    "Location": "",
-    "Posted Date": "2025-11-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Agente-de-Atendimento-ao-Cliente---Espanhol-Avanado_R00281175",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Agente-de-Atendimento-ao-Cliente---Espanhol-Avanado_R00281175",
-    "Bullet Fields": [
-      "R00281175",
-      "Nova Lima, Shopping Alta Vila"
-    ],
-    "Requisition ID": "R00281175",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00277203",
@@ -41,8 +146,8 @@
       "Buenos Aires"
     ],
     "Requisition ID": "R00277203",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00289282",
@@ -56,8 +161,8 @@
       "London"
     ],
     "Requisition ID": "R00289282",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00287649",
@@ -71,8 +176,8 @@
       "London"
     ],
     "Requisition ID": "R00287649",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00280239",
@@ -86,8 +191,8 @@
       "Buenos Aires"
     ],
     "Requisition ID": "R00280239",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00271404",
@@ -101,8 +206,8 @@
       "Buenos Aires"
     ],
     "Requisition ID": "R00271404",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00290197-1",
@@ -116,8 +221,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00290197",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "/job/Warsaw/Database-Engineer_13482637",
@@ -131,23 +236,23 @@
       "Location Negotiable"
     ],
     "Requisition ID": "13482637",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
-    "Job ID": "00163270",
-    "Title": "English/French Content Moderator",
+    "Job ID": "",
+    "Title": "",
     "Location": "",
-    "Posted Date": "2025-11-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/English-French-Content-Moderator_R00163270",
-    "External Path": "/job/Ebene/English-French-Content-Moderator_R00163270",
+    "Posted Date": "",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers",
+    "External Path": "",
     "Bullet Fields": [
       "R00163270",
       "Ebene"
     ],
     "Requisition ID": "R00163270",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": ""
   },
   {
     "Job ID": "00291867",
@@ -161,8 +266,8 @@
       "Oslo"
     ],
     "Requisition ID": "R00291867",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00288013",
@@ -176,8 +281,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00288013",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-11-04T06:27:51Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00124311",
@@ -191,112 +296,7 @@
       "Ebene, 1 Cyber City"
     ],
     "Requisition ID": "R00124311",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00294252",
-    "Title": "Responsables equipo Office 365",
-    "Location": "",
-    "Posted Date": "2025-11-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bilbao/Responsables-equipo-Office-365_R00294252",
-    "External Path": "/job/Bilbao/Responsables-equipo-Office-365_R00294252",
-    "Bullet Fields": [
-      "R00294252",
-      "Bilbao"
-    ],
-    "Requisition ID": "R00294252",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00294249",
-    "Title": "Especialista MIDDLEWARE",
-    "Location": "",
-    "Posted Date": "2025-11-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Especialista-MIDDLEWARE_R00294249",
-    "External Path": "/job/Madrid/Especialista-MIDDLEWARE_R00294249",
-    "Bullet Fields": [
-      "R00294249",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00294249",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00264091",
-    "Title": "*Expression of Interest: Customer Data & AI Consultants, Associate Managers & Managers*",
-    "Location": "",
-    "Posted Date": "2025-11-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/XMLNAME--Expression-of-Interest--Customer-Data---AI-Consultants--Associate-Managers---Managers_R00264091",
-    "External Path": "/job/Sydney-International-House-3-Sussex-St/XMLNAME--Expression-of-Interest--Customer-Data---AI-Consultants--Associate-Managers---Managers_R00264091",
-    "Bullet Fields": [
-      "R00264091",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00264091",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00294157",
-    "Title": "Responsables equipo y Administradores/as LINUX",
-    "Location": "",
-    "Posted Date": "2025-10-31T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bilbao/Responsables-equipo-y-Administradores-as-LINUX_R00294157",
-    "External Path": "/job/Bilbao/Responsables-equipo-y-Administradores-as-LINUX_R00294157",
-    "Bullet Fields": [
-      "R00294157",
-      "Bilbao"
-    ],
-    "Requisition ID": "R00294157",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00294156",
-    "Title": "Admisnistrador/a CITRIX",
-    "Location": "",
-    "Posted Date": "2025-10-31T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bilbao/Admisnistrador-a-CITRIX_R00294156",
-    "External Path": "/job/Bilbao/Admisnistrador-a-CITRIX_R00294156",
-    "Bullet Fields": [
-      "R00294156",
-      "Bilbao"
-    ],
-    "Requisition ID": "R00294156",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00285789",
-    "Title": "Desenvolvedores; Arquitetos e Consultores em Salesforce Industries (Vlocity)",
-    "Location": "",
-    "Posted Date": "2025-10-31T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/So-Paulo---Sao-Paulo/Desenvolvedores--Arquitetos-e-Consultores-em-Salesforce-Industries--Vlocity-_R00285789",
-    "External Path": "/job/So-Paulo---Sao-Paulo/Desenvolvedores--Arquitetos-e-Consultores-em-Salesforce-Industries--Vlocity-_R00285789",
-    "Bullet Fields": [
-      "R00285789",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00285789",
-    "Scraped At": "2025-11-03T06:28:31Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00294149",
-    "Title": "Especialista en soluciones de backup y recuperación de datos",
-    "Location": "",
-    "Posted Date": "2025-10-31T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Especialista-en-soluciones-de-backup-y-recuperacin-de-datos_R00294149",
-    "External Path": "/job/Madrid/Especialista-en-soluciones-de-backup-y-recuperacin-de-datos_R00294149",
-    "Bullet Fields": [
-      "R00294149",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00294149",
-    "Scraped At": "2025-11-03T06:28:31Z",
+    "Scraped At": "2025-11-04T06:27:51Z",
     "Posted Date Original": "Posted 3 Days Ago"
   }
 ]
