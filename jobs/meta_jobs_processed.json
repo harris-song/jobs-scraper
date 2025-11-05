@@ -1,43 +1,11 @@
 [
   {
-    "Job ID": "1100790692182399",
-    "Title": "Research Scientist Intern, Human Computer Interaction (PhD)",
+    "Job ID": "1084685280522814",
+    "Title": "Research Scientist, Machine Learning (PhD)",
     "Location": "N/A",
     "Team": "N/A",
-    "Job URL": "https://www.metacareers.com/jobs/1100790692182399",
-    "Scraped At": "2025-11-04T06:30:56Z"
-  },
-  {
-    "Job ID": "1933430977408978",
-    "Title": "Software Engineer Intern, Machine Learning (PhD)",
-    "Location": "N/A",
-    "Team": "N/A",
-    "Job URL": "https://www.metacareers.com/jobs/1933430977408978",
-    "Scraped At": "2025-11-04T06:30:57Z"
-  },
-  {
-    "Job ID": "1324858306015206",
-    "Title": "Research Scientist Intern, Modern Recommendation Systems (PhD)",
-    "Location": "N/A",
-    "Team": "N/A",
-    "Job URL": "https://www.metacareers.com/jobs/1324858306015206",
-    "Scraped At": "2025-11-04T06:30:57Z"
-  },
-  {
-    "Job ID": "1166376528712896",
-    "Title": "Research Scientist Intern, Smart Glasses in Wearables AI (PhD)",
-    "Location": "N/A",
-    "Team": "N/A",
-    "Job URL": "https://www.metacareers.com/jobs/1166376528712896",
-    "Scraped At": "2025-11-04T06:30:57Z"
-  },
-  {
-    "Job ID": "2578176955882259",
-    "Title": "Data Engineer, Analytics (University Grad)",
-    "Location": "N/A",
-    "Team": "N/A",
-    "Job URL": "https://www.metacareers.com/jobs/2578176955882259",
-    "Scraped At": "2025-11-04T06:30:57Z"
+    "Job URL": "https://www.metacareers.com/jobs/1084685280522814",
+    "Scraped At": "2025-11-05T06:30:48Z"
   },
   {
     "Job ID": "1693450804688168",
@@ -45,7 +13,31 @@
     "Location": "N/A",
     "Team": "N/A",
     "Job URL": "https://www.metacareers.com/jobs/1693450804688168",
-    "Scraped At": "2025-11-04T06:30:57Z"
+    "Scraped At": "2025-11-05T06:30:48Z"
+  },
+  {
+    "Job ID": "1933430977408978",
+    "Title": "Software Engineer Intern, Machine Learning (PhD)",
+    "Location": "N/A",
+    "Team": "N/A",
+    "Job URL": "https://www.metacareers.com/jobs/1933430977408978",
+    "Scraped At": "2025-11-05T06:30:48Z"
+  },
+  {
+    "Job ID": "1922660798150827",
+    "Title": "AI Research Assistant (PhD)",
+    "Location": "N/A",
+    "Team": "N/A",
+    "Job URL": "https://www.metacareers.com/jobs/1922660798150827",
+    "Scraped At": "2025-11-05T06:30:48Z"
+  },
+  {
+    "Job ID": "1792812501450334",
+    "Title": "Research Scientist, Central Applied Science (PhD)",
+    "Location": "N/A",
+    "Team": "N/A",
+    "Job URL": "https://www.metacareers.com/jobs/1792812501450334",
+    "Scraped At": "2025-11-05T06:30:49Z"
   },
   {
     "Job ID": "2264036150724937",
@@ -53,30 +45,38 @@
     "Location": "N/A",
     "Team": "N/A",
     "Job URL": "https://www.metacareers.com/jobs/2264036150724937",
-    "Scraped At": "2025-11-04T06:30:57Z"
+    "Scraped At": "2025-11-05T06:30:49Z"
   },
   {
-    "Job ID": "3830966620528119",
-    "Title": "Research Scientist Intern, Feed Recommendations (PhD)",
+    "Job ID": "1100790692182399",
+    "Title": "Research Scientist Intern, Human Computer Interaction (PhD)",
     "Location": "N/A",
     "Team": "N/A",
-    "Job URL": "https://www.metacareers.com/jobs/3830966620528119",
-    "Scraped At": "2025-11-04T06:30:57Z"
+    "Job URL": "https://www.metacareers.com/jobs/1100790692182399",
+    "Scraped At": "2025-11-05T06:30:49Z"
   },
   {
-    "Job ID": "4130563467207617",
-    "Title": "Quality Measurement Specialist - North America",
+    "Job ID": "1324858306015206",
+    "Title": "Research Scientist Intern, Modern Recommendation Systems (PhD)",
     "Location": "N/A",
     "Team": "N/A",
-    "Job URL": "https://www.metacareers.com/jobs/4130563467207617",
-    "Scraped At": "2025-11-04T06:30:57Z"
+    "Job URL": "https://www.metacareers.com/jobs/1324858306015206",
+    "Scraped At": "2025-11-05T06:30:49Z"
   },
   {
-    "Job ID": "3465788793562732",
-    "Title": "Network Production Engineer (University Grad)",
+    "Job ID": "1166376528712896",
+    "Title": "Research Scientist Intern, Smart Glasses in Wearables AI (PhD)",
     "Location": "N/A",
     "Team": "N/A",
-    "Job URL": "https://www.metacareers.com/jobs/3465788793562732",
-    "Scraped At": "2025-11-04T06:30:57Z"
+    "Job URL": "https://www.metacareers.com/jobs/1166376528712896",
+    "Scraped At": "2025-11-05T06:30:49Z"
+  },
+  {
+    "Job ID": "2578176955882259",
+    "Title": "Data Engineer, Analytics (University Grad)",
+    "Location": "N/A",
+    "Team": "N/A",
+    "Job URL": "https://www.metacareers.com/jobs/2578176955882259",
+    "Scraped At": "2025-11-05T06:30:49Z"
   }
 ]
