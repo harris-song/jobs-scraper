@@ -1,11 +1,19 @@
 [
   {
+    "Job ID": "1331697638158005",
+    "Title": "Software Engineer, Developer Experience - WhatsApp",
+    "Location": "N/A",
+    "Team": "N/A",
+    "Job URL": "https://www.metacareers.com/jobs/1331697638158005",
+    "Scraped At": "2025-11-19T06:29:01Z"
+  },
+  {
     "Job ID": "3465788793562732",
     "Title": "Network Production Engineer (University Grad)",
     "Location": "N/A",
     "Team": "N/A",
     "Job URL": "https://www.metacareers.com/jobs/3465788793562732",
-    "Scraped At": "2025-11-18T06:28:22Z"
+    "Scraped At": "2025-11-19T06:29:01Z"
   },
   {
     "Job ID": "1693450804688168",
@@ -13,7 +21,7 @@
     "Location": "N/A",
     "Team": "N/A",
     "Job URL": "https://www.metacareers.com/jobs/1693450804688168",
-    "Scraped At": "2025-11-18T06:28:22Z"
+    "Scraped At": "2025-11-19T06:29:01Z"
   },
   {
     "Job ID": "1815415389242149",
@@ -21,7 +29,15 @@
     "Location": "N/A",
     "Team": "N/A",
     "Job URL": "https://www.metacareers.com/jobs/1815415389242149",
-    "Scraped At": "2025-11-18T06:28:22Z"
+    "Scraped At": "2025-11-19T06:29:01Z"
+  },
+  {
+    "Job ID": "24107647492210540",
+    "Title": "Research Scientist, Systems and Infrastructure (PhD)",
+    "Location": "N/A",
+    "Team": "N/A",
+    "Job URL": "https://www.metacareers.com/jobs/24107647492210540",
+    "Scraped At": "2025-11-19T06:29:01Z"
   },
   {
     "Job ID": "1166376528712896",
@@ -29,7 +45,7 @@
     "Location": "N/A",
     "Team": "N/A",
     "Job URL": "https://www.metacareers.com/jobs/1166376528712896",
-    "Scraped At": "2025-11-18T06:28:22Z"
+    "Scraped At": "2025-11-19T06:29:01Z"
   },
   {
     "Job ID": "1128596106062523",
@@ -37,7 +53,7 @@
     "Location": "N/A",
     "Team": "N/A",
     "Job URL": "https://www.metacareers.com/jobs/1128596106062523",
-    "Scraped At": "2025-11-18T06:28:22Z"
+    "Scraped At": "2025-11-19T06:29:01Z"
   },
   {
     "Job ID": "1455625889019477",
@@ -45,7 +61,7 @@
     "Location": "N/A",
     "Team": "N/A",
     "Job URL": "https://www.metacareers.com/jobs/1455625889019477",
-    "Scraped At": "2025-11-18T06:28:22Z"
+    "Scraped At": "2025-11-19T06:29:01Z"
   },
   {
     "Job ID": "1859723961565682",
@@ -53,7 +69,7 @@
     "Location": "N/A",
     "Team": "N/A",
     "Job URL": "https://www.metacareers.com/jobs/1859723961565682",
-    "Scraped At": "2025-11-18T06:28:22Z"
+    "Scraped At": "2025-11-19T06:29:01Z"
   },
   {
     "Job ID": "824914996664117",
@@ -61,22 +77,6 @@
     "Location": "N/A",
     "Team": "N/A",
     "Job URL": "https://www.metacareers.com/jobs/824914996664117",
-    "Scraped At": "2025-11-18T06:28:22Z"
-  },
-  {
-    "Job ID": "1512180363340183",
-    "Title": "Research Scientist Intern, Eye Tracking and Health (PhD)",
-    "Location": "N/A",
-    "Team": "N/A",
-    "Job URL": "https://www.metacareers.com/jobs/1512180363340183",
-    "Scraped At": "2025-11-18T06:28:22Z"
-  },
-  {
-    "Job ID": "1749914882396573",
-    "Title": "Research Scientist Intern, Optimization, Privacy and Inference (PhD)",
-    "Location": "N/A",
-    "Team": "N/A",
-    "Job URL": "https://www.metacareers.com/jobs/1749914882396573",
-    "Scraped At": "2025-11-18T06:28:22Z"
+    "Scraped At": "2025-11-19T06:29:01Z"
   }
 ]
