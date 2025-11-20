@@ -5813,14 +5813,14 @@
     "Job ID": "1998168",
     "Title": "Senior Software Engineer, DOCA SDK",
     "Location": "Israel, Yokneam",
-    "Posted Date": "2025-08-04T00:00:00Z",
+    "Posted Date": "2025-11-20T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer--DOCA-SDK_JR1998168",
     "External Path": "/job/Israel-Yokneam/Senior-Software-Engineer--DOCA-SDK_JR1998168",
     "Bullet Fields": [
       "JR1998168"
     ],
     "Requisition ID": "JR1998168",
-    "Scraped At": "2025-08-04T06:35:30Z",
+    "Scraped At": "2025-11-20T06:27:19Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -12813,14 +12813,14 @@
     "Job ID": "2002387-2",
     "Title": "Senior Network Engineer - DGX Cloud",
     "Location": "2 Locations",
-    "Posted Date": "2025-10-02T00:00:00Z",
+    "Posted Date": "2025-11-20T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Engineer---DGX-Cloud_JR2002387-2",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Network-Engineer---DGX-Cloud_JR2002387-2",
     "Bullet Fields": [
       "JR2002387"
     ],
     "Requisition ID": "JR2002387",
-    "Scraped At": "2025-10-02T06:30:21Z",
+    "Scraped At": "2025-11-20T06:27:19Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -13133,16 +13133,16 @@
   },
   {
     "Job ID": "2003779",
-    "Title": "Post-Silicon Hardware Engineer",
+    "Title": "Post Silicon Hardware System Integration Engineer'",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2025-09-23T00:00:00Z",
+    "Posted Date": "2025-11-20T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Post-Silicon-Hardware-Engineer_JR2003779",
     "External Path": "/job/US-CA-Santa-Clara/Post-Silicon-Hardware-Engineer_JR2003779",
     "Bullet Fields": [
       "JR2003779"
     ],
     "Requisition ID": "JR2003779",
-    "Scraped At": "2025-09-23T06:27:37Z",
+    "Scraped At": "2025-11-20T06:27:19Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -21297,14 +21297,14 @@
     "Job ID": "2007745",
     "Title": "Senior DevOps Engineer - Accelerated Computing",
     "Location": "6 Locations",
-    "Posted Date": "2025-11-15T00:00:00Z",
-    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-DevOps-Engineer---Accelerated-Computing_JR2007745",
-    "External Path": "/job/US-MA-Westford/Senior-DevOps-Engineer---Accelerated-Computing_JR2007745",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-Engineer---Accelerated-Computing_JR2007745",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-DevOps-Engineer---Accelerated-Computing_JR2007745",
     "Bullet Fields": [
       "JR2007745"
     ],
     "Requisition ID": "JR2007745",
-    "Scraped At": "2025-11-15T06:25:21Z",
+    "Scraped At": "2025-11-20T06:27:19Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -21977,6 +21977,230 @@
     ],
     "Requisition ID": "JR2008177",
     "Scraped At": "2025-11-19T06:27:48Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2007903-1",
+    "Title": "Machine Learning Engineering Intern - 2026",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Machine-Learning-Engineering-Intern---2026_JR2007903-1",
+    "External Path": "/job/China-Shanghai/Machine-Learning-Engineering-Intern---2026_JR2007903-1",
+    "Bullet Fields": [
+      "JR2007903"
+    ],
+    "Requisition ID": "JR2007903",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2007729",
+    "Title": "Regional OEM Enterprise Sales Manager",
+    "Location": "Singapore, Singapore-Suntec Tower",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Regional-OEM-Enterprise-Sales-Manager_JR2007729",
+    "External Path": "/job/Singapore-Singapore-Suntec-Tower/Regional-OEM-Enterprise-Sales-Manager_JR2007729",
+    "Bullet Fields": [
+      "JR2007729"
+    ],
+    "Requisition ID": "JR2007729",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2007416",
+    "Title": "Software Engineering Intern, CUDA Test Development - 2026",
+    "Location": "China, Shanghai",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2026_JR2007416",
+    "External Path": "/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2026_JR2007416",
+    "Bullet Fields": [
+      "JR2007416"
+    ],
+    "Requisition ID": "JR2007416",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2007054",
+    "Title": "Senior Software Systems Engineer - Autonomous Vehicles",
+    "Location": "2 Locations",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Systems-Engineer---Autonomous-Vehicles_JR2007054",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Systems-Engineer---Autonomous-Vehicles_JR2007054",
+    "Bullet Fields": [
+      "JR2007054"
+    ],
+    "Requisition ID": "JR2007054",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2008331",
+    "Title": "NIM Solution Architect",
+    "Location": "2 Locations",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Guangzhou/NIM-Solution-Architect_JR2008331",
+    "External Path": "/job/China-Guangzhou/NIM-Solution-Architect_JR2008331",
+    "Bullet Fields": [
+      "JR2008331"
+    ],
+    "Requisition ID": "JR2008331",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2008499",
+    "Title": "Physical Design Engineer",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Physical-Design-Engineer_JR2008499",
+    "External Path": "/job/Taiwan-Hsinchu/Physical-Design-Engineer_JR2008499",
+    "Bullet Fields": [
+      "JR2008499"
+    ],
+    "Requisition ID": "JR2008499",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2006128",
+    "Title": "Senior Cybersecurity Architect",
+    "Location": "3 Locations",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cybersecurity-Architect_JR2006128",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Cybersecurity-Architect_JR2006128",
+    "Bullet Fields": [
+      "JR2006128"
+    ],
+    "Requisition ID": "JR2006128",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2008187",
+    "Title": "Cybersecurity Engineer - Third Party Risk Management",
+    "Location": "6 Locations",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cybersecurity-Engineer---Third-Party-Risk-Management_JR2008187",
+    "External Path": "/job/US-CA-Santa-Clara/Cybersecurity-Engineer---Third-Party-Risk-Management_JR2008187",
+    "Bullet Fields": [
+      "JR2008187"
+    ],
+    "Requisition ID": "JR2008187",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2008415",
+    "Title": "System Software Engineering - Cryptographic PKI Management",
+    "Location": "5 Locations",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering---Cryptographic-PKI-Management_JR2008415",
+    "External Path": "/job/US-CA-Santa-Clara/System-Software-Engineering---Cryptographic-PKI-Management_JR2008415",
+    "Bullet Fields": [
+      "JR2008415"
+    ],
+    "Requisition ID": "JR2008415",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2008533",
+    "Title": "Senior Software Engineer Aerial Platform",
+    "Location": "6 Locations",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer-Aerial-Platform_JR2008533",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer-Aerial-Platform_JR2008533",
+    "Bullet Fields": [
+      "JR2008533"
+    ],
+    "Requisition ID": "JR2008533",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2006322-1",
+    "Title": "Immigration Specialist",
+    "Location": "US, CA, Remote",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Immigration-Specialist_JR2006322-1",
+    "External Path": "/job/US-CA-Remote/Immigration-Specialist_JR2006322-1",
+    "Bullet Fields": [
+      "JR2006322"
+    ],
+    "Requisition ID": "JR2006322",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2006333",
+    "Title": "Principal Software Engineer, Networking",
+    "Location": "2 Locations",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Principal-Software-Engineer--Networking_JR2006333",
+    "External Path": "/job/US-TX-Austin/Principal-Software-Engineer--Networking_JR2006333",
+    "Bullet Fields": [
+      "JR2006333"
+    ],
+    "Requisition ID": "JR2006333",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2008539",
+    "Title": "Senior ASIC Physical Design Engineer, Cache Coherent Interconnects",
+    "Location": "6 Locations",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Physical-Design-Engineer--Cache-Coherent-Interconnects_JR2008539",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-ASIC-Physical-Design-Engineer--Cache-Coherent-Interconnects_JR2008539",
+    "Bullet Fields": [
+      "JR2008539"
+    ],
+    "Requisition ID": "JR2008539",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2008470",
+    "Title": "Data Analyst, AI Factory Operations",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analyst--AI-Factory-Operations_JR2008470",
+    "External Path": "/job/US-CA-Santa-Clara/Data-Analyst--AI-Factory-Operations_JR2008470",
+    "Bullet Fields": [
+      "JR2008470"
+    ],
+    "Requisition ID": "JR2008470",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1988599",
+    "Title": "Senior Physical Design Engineer",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-Engineer_JR1988599",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Physical-Design-Engineer_JR1988599",
+    "Bullet Fields": [
+      "JR1988599"
+    ],
+    "Requisition ID": "JR1988599",
+    "Scraped At": "2025-11-20T06:27:19Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2006372",
+    "Title": "Senior Platform Software Engineer, DriveAV - Autonomous Vehicles",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2025-11-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Applications-Software-Engineer--DriveAV---Autonomous-Vehicles_JR2006372",
+    "External Path": "/job/India-Bengaluru/Senior-Applications-Software-Engineer--DriveAV---Autonomous-Vehicles_JR2006372",
+    "Bullet Fields": [
+      "JR2006372"
+    ],
+    "Requisition ID": "JR2006372",
+    "Scraped At": "2025-11-20T06:27:19Z",
     "Posted Date Original": "Posted Today"
   }
 ]
