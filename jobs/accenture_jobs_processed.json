@@ -11,8 +11,8 @@
       "São Paulo - Sao Paulo"
     ],
     "Requisition ID": "R00253072",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00220778",
@@ -26,8 +26,8 @@
       "Amsterdam, Gustav Mahlerplein 90"
     ],
     "Requisition ID": "R00220778",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00299552",
@@ -41,8 +41,8 @@
       "Amsterdam"
     ],
     "Requisition ID": "R00299552",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00299506",
@@ -56,8 +56,8 @@
       "Madrid, Av Del Llano Castellano"
     ],
     "Requisition ID": "R00299506",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00299491",
@@ -71,8 +71,8 @@
       "London"
     ],
     "Requisition ID": "R00299491",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00253075",
@@ -86,8 +86,23 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00253075",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
+  },
+  {
+    "Job ID": "00268796",
+    "Title": "Management Consulting Manager - Energy",
+    "Location": "",
+    "Posted Date": "2025-11-29T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Management-Consulting-Manager---Energy_R00268796",
+    "External Path": "/job/London/Management-Consulting-Manager---Energy_R00268796",
+    "Bullet Fields": [
+      "R00268796",
+      "London"
+    ],
+    "Requisition ID": "R00268796",
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00295311",
@@ -101,8 +116,8 @@
       "Sao Paulo, Torre Paineira"
     ],
     "Requisition ID": "R00295311",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00261044-1",
@@ -116,8 +131,38 @@
       "Buenos Aires"
     ],
     "Requisition ID": "R00261044",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
+  },
+  {
+    "Job ID": "00281179",
+    "Title": "Treinador de Atendimento e Operações Sênior - Espanhol e Inglês",
+    "Location": "",
+    "Posted Date": "2025-11-29T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Treinador-de-Atendimento-e-Operaes-Snior---Espanhol_R00281179",
+    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Treinador-de-Atendimento-e-Operaes-Snior---Espanhol_R00281179",
+    "Bullet Fields": [
+      "R00281179",
+      "Nova Lima, Shopping Alta Vila"
+    ],
+    "Requisition ID": "R00281179",
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
+  },
+  {
+    "Job ID": "00220776",
+    "Title": "SAP S/4HANA Roadmap & Business Transformation Advisor (all levels)",
+    "Location": "",
+    "Posted Date": "2025-11-29T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam-Gustav-Mahlerplein-90/SAP-Advisory-Consultant---Finance_R00220776",
+    "External Path": "/job/Amsterdam-Gustav-Mahlerplein-90/SAP-Advisory-Consultant---Finance_R00220776",
+    "Bullet Fields": [
+      "R00220776",
+      "Amsterdam, Gustav Mahlerplein 90"
+    ],
+    "Requisition ID": "R00220776",
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00299227",
@@ -131,8 +176,8 @@
       "Buenos Aires"
     ],
     "Requisition ID": "R00299227",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00295631-1",
@@ -146,8 +191,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00295631",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00299290",
@@ -161,8 +206,8 @@
       "Prague"
     ],
     "Requisition ID": "R00299290",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00299291",
@@ -176,8 +221,8 @@
       "Bratislava"
     ],
     "Requisition ID": "R00299291",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00299278",
@@ -191,8 +236,8 @@
       "Paris"
     ],
     "Requisition ID": "R00299278",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00299269",
@@ -206,8 +251,8 @@
       "Amsterdam"
     ],
     "Requisition ID": "R00299269",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00299271",
@@ -221,8 +266,8 @@
       "Madrid, Av Del Llano Castellano"
     ],
     "Requisition ID": "R00299271",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00298890",
@@ -236,8 +281,8 @@
       "Warsaw"
     ],
     "Requisition ID": "R00298890",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00299310",
@@ -251,52 +296,7 @@
       "Warsaw"
     ],
     "Requisition ID": "R00299310",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00299293",
-    "Title": "Infrastructure Engineer",
-    "Location": "",
-    "Posted Date": "2025-11-28T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Infrastructure-Engineer_R00299293",
-    "External Path": "/job/Warsaw/Infrastructure-Engineer_R00299293",
-    "Bullet Fields": [
-      "R00299293",
-      "Warsaw"
-    ],
-    "Requisition ID": "R00299293",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00299307",
-    "Title": "Technical Writer",
-    "Location": "",
-    "Posted Date": "2025-11-28T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Technical-Writer_R00299307",
-    "External Path": "/job/Warsaw/Technical-Writer_R00299307",
-    "Bullet Fields": [
-      "R00299307",
-      "Warsaw"
-    ],
-    "Requisition ID": "R00299307",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
-  },
-  {
-    "Job ID": "00297630-1",
-    "Title": "Change Management Senior Analyst",
-    "Location": "",
-    "Posted Date": "2025-11-28T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Change-Management-Lead---Associate-Manager_R00297630-1",
-    "External Path": "/job/Buenos-Aires/Change-Management-Lead---Associate-Manager_R00297630-1",
-    "Bullet Fields": [
-      "R00297630",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00297630",
-    "Scraped At": "2025-11-30T06:27:17Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2025-12-01T06:30:55Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   }
 ]
