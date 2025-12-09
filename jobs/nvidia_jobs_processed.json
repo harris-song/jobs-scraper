@@ -3923,14 +3923,14 @@
     "Job ID": "2001014-1",
     "Title": "Senior DGX Cloud Software Engineer - Infrastructure Automation and Distributed Systems",
     "Location": "6 Locations",
-    "Posted Date": "2025-12-05T00:00:00Z",
+    "Posted Date": "2025-12-09T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-DGX-Cloud-Software-Engineer---Infrastructure-Automation-and-Distributed-Systems_JR2001014-1",
     "External Path": "/job/US-TX-Remote/Senior-DGX-Cloud-Software-Engineer---Infrastructure-Automation-and-Distributed-Systems_JR2001014-1",
     "Bullet Fields": [
       "JR2001014"
     ],
     "Requisition ID": "JR2001014",
-    "Scraped At": "2025-12-05T06:29:22Z",
+    "Scraped At": "2025-12-09T06:30:28Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -3965,14 +3965,14 @@
     "Job ID": "2000897",
     "Title": "Senior Systems Software Engineer, GoLang",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2025-12-01T00:00:00Z",
+    "Posted Date": "2025-12-09T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--GoLang_JR2000897",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--GoLang_JR2000897",
     "Bullet Fields": [
       "JR2000897"
     ],
     "Requisition ID": "JR2000897",
-    "Scraped At": "2025-12-01T06:31:07Z",
+    "Scraped At": "2025-12-09T06:30:28Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -5421,14 +5421,14 @@
     "Job ID": "1999506",
     "Title": "Senior Software Engineer, Distributed Systems Engineer - DGX Cloud",
     "Location": "2 Locations",
-    "Posted Date": "2025-11-16T00:00:00Z",
+    "Posted Date": "2025-12-09T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Software-Engineer--Distributed-Systems-Engineer---DGX-Cloud_JR1999506",
     "External Path": "/job/US-TX-Austin/Senior-Software-Engineer--Distributed-Systems-Engineer---DGX-Cloud_JR1999506",
     "Bullet Fields": [
       "JR1999506"
     ],
     "Requisition ID": "JR1999506",
-    "Scraped At": "2025-11-16T06:25:25Z",
+    "Scraped At": "2025-12-09T06:30:28Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -9621,14 +9621,14 @@
     "Job ID": "2002383",
     "Title": "Senior Site Reliability Engineer, Cloud",
     "Location": "2 Locations",
-    "Posted Date": "2025-11-22T00:00:00Z",
+    "Posted Date": "2025-12-09T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer--Cloud_JR2002383",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer--Cloud_JR2002383",
     "Bullet Fields": [
       "JR2002383"
     ],
     "Requisition ID": "JR2002383",
-    "Scraped At": "2025-11-22T06:24:40Z",
+    "Scraped At": "2025-12-09T06:30:28Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -11931,14 +11931,14 @@
     "Job ID": "2003684",
     "Title": "Senior HPC Cluster Engineer -  EDA",
     "Location": "4 Locations",
-    "Posted Date": "2025-10-30T00:00:00Z",
+    "Posted Date": "2025-12-09T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-HPC-EDA-Cluster-Engineer_JR2003684",
     "External Path": "/job/US-CA-Santa-Clara/Senior-AI-HPC-EDA-Cluster-Engineer_JR2003684",
     "Bullet Fields": [
       "JR2003684"
     ],
     "Requisition ID": "JR2003684",
-    "Scraped At": "2025-10-30T06:26:54Z",
+    "Scraped At": "2025-12-09T06:30:28Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -24805,6 +24805,216 @@
     ],
     "Requisition ID": "JR2009020",
     "Scraped At": "2025-12-08T06:32:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009538",
+    "Title": "Senior System Validation Engineer",
+    "Location": "Vietnam, Remote",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Remote/Senior-System-Validation-Engineer_JR2009538",
+    "External Path": "/job/Vietnam-Remote/Senior-System-Validation-Engineer_JR2009538",
+    "Bullet Fields": [
+      "JR2009538"
+    ],
+    "Requisition ID": "JR2009538",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009395",
+    "Title": "DFT Engineer - Hardware",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/DFT-Engineer---Hardware_JR2009395",
+    "External Path": "/job/India-Bengaluru/DFT-Engineer---Hardware_JR2009395",
+    "Bullet Fields": [
+      "JR2009395"
+    ],
+    "Requisition ID": "JR2009395",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009131",
+    "Title": "Senior Platform and EngOps Engineer - Cluster Operations",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Platform-and-EngOps-Engineer---Cluster-Operations_JR2009131",
+    "External Path": "/job/India-Bengaluru/Senior-Platform-and-EngOps-Engineer---Cluster-Operations_JR2009131",
+    "Bullet Fields": [
+      "JR2009131"
+    ],
+    "Requisition ID": "JR2009131",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009142",
+    "Title": "ASIC Physical Design Engineer - New College Graduate",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer---New-College-Graduate_JR2009142",
+    "External Path": "/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer---New-College-Graduate_JR2009142",
+    "Bullet Fields": [
+      "JR2009142"
+    ],
+    "Requisition ID": "JR2009142",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2008515",
+    "Title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
+    "Location": "2 Locations",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2008515",
+    "External Path": "/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2008515",
+    "Bullet Fields": [
+      "JR2008515"
+    ],
+    "Requisition ID": "JR2008515",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2008947",
+    "Title": "Silicon Validation Engineer (RDSS Intern)",
+    "Location": "Taiwan, Taipei",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2008947",
+    "External Path": "/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2008947",
+    "Bullet Fields": [
+      "JR2008947"
+    ],
+    "Requisition ID": "JR2008947",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009374",
+    "Title": "ASIC Physical Design Engineer",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer_JR2009374",
+    "External Path": "/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer_JR2009374",
+    "Bullet Fields": [
+      "JR2009374"
+    ],
+    "Requisition ID": "JR2009374",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009464",
+    "Title": "Research Scientist, Embodied and Agentic AI - New College Grad 2026",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
+    "External Path": "/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464",
+    "Bullet Fields": [
+      "JR2009464"
+    ],
+    "Requisition ID": "JR2009464",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009518",
+    "Title": "CPU Core Performance Architect",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/CPU-Core-Performance-Architect_JR2009518",
+    "External Path": "/job/Israel-Yokneam/CPU-Core-Performance-Architect_JR2009518",
+    "Bullet Fields": [
+      "JR2009518"
+    ],
+    "Requisition ID": "JR2009518",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009350",
+    "Title": "Senior SOC Design Engineer",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-SOC-Design-Engineer_JR2009350",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-SOC-Design-Engineer_JR2009350",
+    "Bullet Fields": [
+      "JR2009350"
+    ],
+    "Requisition ID": "JR2009350",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009482",
+    "Title": "Senior ASIC Verification Engineer",
+    "Location": "3 Locations",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer_JR2009482",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer_JR2009482",
+    "Bullet Fields": [
+      "JR2009482"
+    ],
+    "Requisition ID": "JR2009482",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009517",
+    "Title": "Senior Chip Design Verification Engineer",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2009517",
+    "External Path": "/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2009517",
+    "Bullet Fields": [
+      "JR2009517"
+    ],
+    "Requisition ID": "JR2009517",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009523",
+    "Title": "Chip Design and Verification Engineer",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-and-Verification-Engineer_JR2009523",
+    "External Path": "/job/Israel-Tel-Aviv/Chip-Design-and-Verification-Engineer_JR2009523",
+    "Bullet Fields": [
+      "JR2009523"
+    ],
+    "Requisition ID": "JR2009523",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009081",
+    "Title": "Senior Software Engineer, AI Platform",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--AI-Platform_JR2009081",
+    "External Path": "/job/Israel-Tel-Aviv/Senior-Software-Engineer--AI-Platform_JR2009081",
+    "Bullet Fields": [
+      "JR2009081"
+    ],
+    "Requisition ID": "JR2009081",
+    "Scraped At": "2025-12-09T06:30:28Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2009516",
+    "Title": "Senior Chip Design Engineer",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2025-12-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2009516",
+    "External Path": "/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2009516",
+    "Bullet Fields": [
+      "JR2009516"
+    ],
+    "Requisition ID": "JR2009516",
+    "Scraped At": "2025-12-09T06:30:28Z",
     "Posted Date Original": "Posted Today"
   }
 ]
