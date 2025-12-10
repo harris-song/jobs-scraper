@@ -1,9 +1,264 @@
 [
   {
+    "Job ID": "00301393",
+    "Title": "Sales Support Analyst",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/Sales-Support-Analyst_R00301393",
+    "External Path": "/job/Heredia/Sales-Support-Analyst_R00301393",
+    "Bullet Fields": [
+      "R00301393",
+      "Heredia"
+    ],
+    "Requisition ID": "R00301393",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00295273-1",
+    "Title": "Deal Structuring & Pricing - Pricing Architect Associate Manager",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Deal-Structuring---Pricing---Pricing-Architect-Associate-Manager_R00295273-1",
+    "External Path": "/job/Buenos-Aires/Deal-Structuring---Pricing---Pricing-Architect-Associate-Manager_R00295273-1",
+    "Bullet Fields": [
+      "R00295273",
+      "Buenos Aires"
+    ],
+    "Requisition ID": "R00295273",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00295275-1",
+    "Title": "Deal Structuring & Pricing- Pricing Architect Manager",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Deal-Structuring---Pricing--Pricing-Architect-Manager_R00295275-1",
+    "External Path": "/job/Buenos-Aires/Deal-Structuring---Pricing--Pricing-Architect-Manager_R00295275-1",
+    "Bullet Fields": [
+      "R00295275",
+      "Buenos Aires"
+    ],
+    "Requisition ID": "R00295275",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00295278-1",
+    "Title": "Deal Structuring & Pricing- Pricing Architect Manager",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Deal-Structuring---Pricing--Pricing-Architect-Manager_R00295278-1",
+    "External Path": "/job/Buenos-Aires/Deal-Structuring---Pricing--Pricing-Architect-Manager_R00295278-1",
+    "Bullet Fields": [
+      "R00295278",
+      "Buenos Aires"
+    ],
+    "Requisition ID": "R00295278",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00295288-1",
+    "Title": "Deal Structuring & Pricing- Pricing Architect Manager",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Deal-Structuring---Pricing--Pricing-Architect-Manager_R00295288-1",
+    "External Path": "/job/Buenos-Aires/Deal-Structuring---Pricing--Pricing-Architect-Manager_R00295288-1",
+    "Bullet Fields": [
+      "R00295288",
+      "Buenos Aires"
+    ],
+    "Requisition ID": "R00295288",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00295512-1",
+    "Title": "Deal Structuring & Pricing - Pricing Architect Associate Manager",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Deal-Structuring---Pricing---Pricing-Architect-Associate-Manager_R00295512-1",
+    "External Path": "/job/Buenos-Aires/Deal-Structuring---Pricing---Pricing-Architect-Associate-Manager_R00295512-1",
+    "Bullet Fields": [
+      "R00295512",
+      "Buenos Aires"
+    ],
+    "Requisition ID": "R00295512",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00300051",
+    "Title": "Mobility Sr. Analyst Latam Ops Support",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Mobility-Sr-Analyst-Latam-Ops-Support_R00300051",
+    "External Path": "/job/Buenos-Aires/Mobility-Sr-Analyst-Latam-Ops-Support_R00300051",
+    "Bullet Fields": [
+      "R00300051",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00300051",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "/job/Madrid/Dynatrace---OpenTelemetry-Administrator_13059905",
+    "Title": "Dynatrace / OpenTelemetry Administrator",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Dynatrace---OpenTelemetry-Administrator_13059905",
+    "External Path": "/job/Madrid/Dynatrace---OpenTelemetry-Administrator_13059905",
+    "Bullet Fields": [
+      "13059905",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "13059905",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00290578",
+    "Title": "Consultor /a Dynatrace",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Consultor--a-Dynatrace_R00290578",
+    "External Path": "/job/Madrid/Consultor--a-Dynatrace_R00290578",
+    "Bullet Fields": [
+      "R00290578",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00290578",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00290553",
+    "Title": "Administración y soporte plataformas Kubernetes",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Administracin-y-soporte-plataformas-Kubernetes_R00290553",
+    "External Path": "/job/Madrid/Administracin-y-soporte-plataformas-Kubernetes_R00290553",
+    "Bullet Fields": [
+      "R00290553",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00290553",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00291906",
+    "Title": "Administración de contenedores y tecnologías de microservicios",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Administracin-de-contenedores-y-tecnologas-de-microservicios_R00291906",
+    "External Path": "/job/Madrid/Administracin-de-contenedores-y-tecnologas-de-microservicios_R00291906",
+    "Bullet Fields": [
+      "R00291906",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00291906",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00220867",
+    "Title": "SAP Delivery Manager",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam-Gustav-Mahlerplein-90/SAP-Delivery-Manager_R00220867",
+    "External Path": "/job/Amsterdam-Gustav-Mahlerplein-90/SAP-Delivery-Manager_R00220867",
+    "Bullet Fields": [
+      "R00220867",
+      "Amsterdam, Gustav Mahlerplein 90"
+    ],
+    "Requisition ID": "R00220867",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00301235-1",
+    "Title": "Lead ServiceNow Developer / Architect",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest/Lead-ServiceNow-Developer---Architect_R00301235-1",
+    "External Path": "/job/Budapest/Lead-ServiceNow-Developer---Architect_R00301235-1",
+    "Bullet Fields": [
+      "R00301235",
+      "Budapest"
+    ],
+    "Requisition ID": "R00301235",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00277029",
+    "Title": "IT Delivery Lead Financial Services (all genders)",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Campus-Kronberg-1/IT-Delivery-Lead-Financial-Services--all-genders-_R00277029",
+    "External Path": "/job/Kronberg-Campus-Kronberg-1/IT-Delivery-Lead-Financial-Services--all-genders-_R00277029",
+    "Bullet Fields": [
+      "R00277029",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00277029",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00277027",
+    "Title": "IT Projektleiter Öffentliche Verwaltung (all genders)",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Campus-Kronberg-1/IT-Projektleiter-ffentliche-Verwaltung--all-genders-_R00277027",
+    "External Path": "/job/Kronberg-Campus-Kronberg-1/IT-Projektleiter-ffentliche-Verwaltung--all-genders-_R00277027",
+    "Bullet Fields": [
+      "R00277027",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00277027",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00301163",
+    "Title": "Senior Java Engineer",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Senior-Java-Engineer_R00301163",
+    "External Path": "/job/Budapest-Millennium-Gardens/Senior-Java-Engineer_R00301163",
+    "Bullet Fields": [
+      "R00301163",
+      "Budapest, Millennium Gardens"
+    ],
+    "Requisition ID": "R00301163",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00295728",
+    "Title": "Senior Full-stack Engineer",
+    "Location": "",
+    "Posted Date": "2025-12-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Senior-Full-Stack-Engineer_R00295728",
+    "External Path": "/job/Budapest-Millennium-Gardens/Senior-Full-Stack-Engineer_R00295728",
+    "Bullet Fields": [
+      "R00295728",
+      "Budapest, Millennium Gardens"
+    ],
+    "Requisition ID": "R00295728",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
     "Job ID": "/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-Developer--AU-Citizen_13582896",
     "Title": "ServiceNow Developer- AU Citizen",
     "Location": "",
-    "Posted Date": "2025-12-09T00:00:00Z",
+    "Posted Date": "2025-12-10T00:00:00Z",
     "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-Developer--AU-Citizen_13582896",
     "External Path": "/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-Developer--AU-Citizen_13582896",
     "Bullet Fields": [
@@ -11,292 +266,37 @@
       "Location Negotiable"
     ],
     "Requisition ID": "13582896",
-    "Scraped At": "2025-12-09T06:30:20Z",
+    "Scraped At": "2025-12-10T06:35:11Z",
     "Posted Date Original": "Posted Today"
   },
   {
-    "Job ID": "00267580",
-    "Title": "Zero Trust Security Architect - London",
+    "Job ID": "00289249",
+    "Title": "Cloud & Infrastructure Engineer",
     "Location": "",
     "Posted Date": "2025-12-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Network-and-Endpoint-Security-Pre-Sales-Architect---London_R00267580",
-    "External Path": "/job/London/Network-and-Endpoint-Security-Pre-Sales-Architect---London_R00267580",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Cloud---Infrastructure-Engineer_R00289249",
+    "External Path": "/job/London/Cloud---Infrastructure-Engineer_R00289249",
     "Bullet Fields": [
-      "R00267580",
+      "R00289249",
       "London"
     ],
-    "Requisition ID": "R00267580",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted Today"
+    "Requisition ID": "R00289249",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "00301008",
-    "Title": "Senior ServiceNow Developer",
+    "Job ID": "00294116",
+    "Title": "Experienced Management Consultant within Financial Services, Strategy & Consulting, Stockholm Sweden",
     "Location": "",
     "Posted Date": "2025-12-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest/Senior-ServiceNow-Developer_R00301008",
-    "External Path": "/job/Budapest/Senior-ServiceNow-Developer_R00301008",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stockholm/Experienced-Management-Consultant-within-Financial-Services--Strategy---Consulting--Stockholm-Sweden_R00294116",
+    "External Path": "/job/Stockholm/Experienced-Management-Consultant-within-Financial-Services--Strategy---Consulting--Stockholm-Sweden_R00294116",
     "Bullet Fields": [
-      "R00301008",
-      "Budapest"
-    ],
-    "Requisition ID": "R00301008",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00300998",
-    "Title": "JavaScript / ServiceNow Developer",
-    "Location": "",
-    "Posted Date": "2025-12-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest/JavaScript---ServiceNow-Developer_R00300998",
-    "External Path": "/job/Budapest/JavaScript---ServiceNow-Developer_R00300998",
-    "Bullet Fields": [
-      "R00300998",
-      "Budapest"
-    ],
-    "Requisition ID": "R00300998",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00300999",
-    "Title": "Operador de call center - E-commerce (Presencial) | Período Noturno",
-    "Location": "",
-    "Posted Date": "2025-12-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Operador-de-call-center---E-commerce--Presencial----Perodo-Noturno_R00300999",
-    "External Path": "/job/Barueri-Green-Valley-Andromeda/Operador-de-call-center---E-commerce--Presencial----Perodo-Noturno_R00300999",
-    "Bullet Fields": [
-      "R00300999",
-      "Barueri, Green Valley, Andromeda"
-    ],
-    "Requisition ID": "R00300999",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00259588-1",
-    "Title": "GN Industry LS CRM Analyst",
-    "Location": "",
-    "Posted Date": "2025-12-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram-DDC1A/S-C-GN-Industry-Strategy-Energy--Manager_R00259588-1",
-    "External Path": "/job/Gurugram-DDC1A/S-C-GN-Industry-Strategy-Energy--Manager_R00259588-1",
-    "Bullet Fields": [
-      "R00259588",
-      "Gurugram, Ddc1A"
-    ],
-    "Requisition ID": "R00259588",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00218756",
-    "Title": "Data engineer",
-    "Location": "",
-    "Posted Date": "2025-12-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riga/Data-engineer_R00218756",
-    "External Path": "/job/Riga/Data-engineer_R00218756",
-    "Bullet Fields": [
-      "R00218756",
-      "Riga"
-    ],
-    "Requisition ID": "R00218756",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00298992-1",
-    "Title": "Sales Ex - COE - Avanade Operations & Process Enablement Lead",
-    "Location": "",
-    "Posted Date": "2025-12-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Sales-Ex---COE---Avanade-Operations---Process-Enablement-Lead_R00298992-1",
-    "External Path": "/job/London/Sales-Ex---COE---Avanade-Operations---Process-Enablement-Lead_R00298992-1",
-    "Bullet Fields": [
-      "R00298992",
-      "London"
-    ],
-    "Requisition ID": "R00298992",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00300960",
-    "Title": "PharmaSuite MES Workstream Lead",
-    "Location": "",
-    "Posted Date": "2025-12-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cluj-Napoca/PharmaSuite-MES-Workstream-Lead_R00300960",
-    "External Path": "/job/Cluj-Napoca/PharmaSuite-MES-Workstream-Lead_R00300960",
-    "Bullet Fields": [
-      "R00300960",
+      "R00294116",
       "Location Negotiable"
     ],
-    "Requisition ID": "R00300960",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00288598",
-    "Title": "Software Engineer - Leeds",
-    "Location": "",
-    "Posted Date": "2025-12-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Leeds/Software-Engineer---Leeds_R00288598",
-    "External Path": "/job/Leeds/Software-Engineer---Leeds_R00288598",
-    "Bullet Fields": [
-      "R00288598",
-      "Leeds"
-    ],
-    "Requisition ID": "R00288598",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00279116",
-    "Title": "Contract Associate Manager",
-    "Location": "",
-    "Posted Date": "2025-12-06T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Quebec---Montreal/Contract-Associate-Manager_R00279116",
-    "External Path": "/job/Quebec---Montreal/Contract-Associate-Manager_R00279116",
-    "Bullet Fields": [
-      "R00279116",
-      "Quebec - Montreal"
-    ],
-    "Requisition ID": "R00279116",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00281228",
-    "Title": "Strategy & Consulting - Global Network | SONG - Service - Cloud Contact Center Project Manager",
-    "Location": "",
-    "Posted Date": "2025-12-06T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mexico-City/Strategy---Consulting---Global-Network---SONG---Service---Cloud-Contact-Center-Project-Manager_R00281228",
-    "External Path": "/job/Mexico-City/Strategy---Consulting---Global-Network---SONG---Service---Cloud-Contact-Center-Project-Manager_R00281228",
-    "Bullet Fields": [
-      "R00281228",
-      "Mexico City"
-    ],
-    "Requisition ID": "R00281228",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00300512",
-    "Title": "Analista de Operações de Rede Júnior – Telecom",
-    "Location": "",
-    "Posted Date": "2025-12-06T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Minas-Gerais---Uberlandia/Analista-Jnior-de-Performance-em-Atendimento_R00300512",
-    "External Path": "/job/Minas-Gerais---Uberlandia/Analista-Jnior-de-Performance-em-Atendimento_R00300512",
-    "Bullet Fields": [
-      "R00300512",
-      "Minas Gerais - Uberlandia"
-    ],
-    "Requisition ID": "R00300512",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00300598",
-    "Title": "Capabilities Strategy PMO Senior Analyst",
-    "Location": "",
-    "Posted Date": "2025-12-06T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Capabilities-Strategy-PMO-Senior-Analyst_R00300598",
-    "External Path": "/job/Buenos-Aires/Capabilities-Strategy-PMO-Senior-Analyst_R00300598",
-    "Bullet Fields": [
-      "R00300598",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00300598",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00300607",
-    "Title": "GenAI Capabilities PMO Analyst",
-    "Location": "",
-    "Posted Date": "2025-12-06T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/GenAI-Capabilities-PMO-Analyst_R00300607",
-    "External Path": "/job/Buenos-Aires/GenAI-Capabilities-PMO-Analyst_R00300607",
-    "Bullet Fields": [
-      "R00300607",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00300607",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00300799",
-    "Title": "GenAI Capabilities PM",
-    "Location": "",
-    "Posted Date": "2025-12-06T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/GenAI-Capabilities-PM_R00300799",
-    "External Path": "/job/Buenos-Aires/GenAI-Capabilities-PM_R00300799",
-    "Bullet Fields": [
-      "R00300799",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00300799",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00287640",
-    "Title": "Oracle Record to Report Manager",
-    "Location": "",
-    "Posted Date": "2025-12-06T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Oracle-Record-to-Report-Manager_R00287640",
-    "External Path": "/job/London/Oracle-Record-to-Report-Manager_R00287640",
-    "Bullet Fields": [
-      "R00287640",
-      "London"
-    ],
-    "Requisition ID": "R00287640",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00300797",
-    "Title": "Workday Record to Report Consultant",
-    "Location": "",
-    "Posted Date": "2025-12-06T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Workday-Record-to-Report-Consultant_R00300797",
-    "External Path": "/job/London/Workday-Record-to-Report-Consultant_R00300797",
-    "Bullet Fields": [
-      "R00300797",
-      "London"
-    ],
-    "Requisition ID": "R00300797",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00300795",
-    "Title": "Workday Record to Report Consultant",
-    "Location": "",
-    "Posted Date": "2025-12-06T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Copenhagen-K/Workday-Record-to-Report-Consultant_R00300795",
-    "External Path": "/job/Copenhagen-K/Workday-Record-to-Report-Consultant_R00300795",
-    "Bullet Fields": [
-      "R00300795",
-      "Copenhagen K"
-    ],
-    "Requisition ID": "R00300795",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00300291",
-    "Title": "Mobility Sr. Analyst Gallia Ops Support",
-    "Location": "",
-    "Posted Date": "2025-12-06T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Mobility-Sr-Analyst-Gallia-Ops-Support_R00300291",
-    "External Path": "/job/Buenos-Aires/Mobility-Sr-Analyst-Gallia-Ops-Support_R00300291",
-    "Bullet Fields": [
-      "R00300291",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00300291",
-    "Scraped At": "2025-12-09T06:30:20Z",
-    "Posted Date Original": "Posted 3 Days Ago"
+    "Requisition ID": "R00294116",
+    "Scraped At": "2025-12-10T06:35:11Z",
+    "Posted Date Original": "Posted Yesterday"
   }
 ]
