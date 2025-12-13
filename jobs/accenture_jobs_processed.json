@@ -1,62 +1,122 @@
 [
   {
-    "Job ID": "/job/Sao-Bernardo-do-Campo-Brasilio-Machado/Analista-de-Licenciamento-Digital-Snior--Hbrido-_13877591",
-    "Title": "Analista de Licenciamento Digital Sênior (Híbrido)",
+    "Job ID": "00301696",
+    "Title": "Deal Support Specialist",
     "Location": "",
-    "Posted Date": "2025-12-12T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Bernardo-do-Campo-Brasilio-Machado/Analista-de-Licenciamento-Digital-Snior--Hbrido-_13877591",
-    "External Path": "/job/Sao-Bernardo-do-Campo-Brasilio-Machado/Analista-de-Licenciamento-Digital-Snior--Hbrido-_13877591",
+    "Posted Date": "2025-12-13T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/San-Jose-Plaza-Real-Cariari/Deal-and-Sales-Management-Specialist_R00301696",
+    "External Path": "/job/San-Jose-Plaza-Real-Cariari/Deal-and-Sales-Management-Specialist_R00301696",
     "Bullet Fields": [
-      "13877591",
-      "Sao Bernardo Do Campo, Brasilio Machado"
+      "R00301696",
+      "San Jose, Plaza Real Cariari"
     ],
-    "Requisition ID": "13877591",
-    "Scraped At": "2025-12-12T06:29:51Z",
+    "Requisition ID": "R00301696",
+    "Scraped At": "2025-12-13T06:27:14Z",
     "Posted Date Original": "Posted Today"
   },
   {
-    "Job ID": "00295256-1",
-    "Title": "Deal Structuring & Pricing- Pricing Architect Manager",
+    "Job ID": "00232303",
+    "Title": "Jovem Aprendiz - Híbrido",
     "Location": "",
-    "Posted Date": "2025-12-12T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Deal-Structuring---Pricing--Pricing-Architect-Manager_R00295256-1",
-    "External Path": "/job/Buenos-Aires/Deal-Structuring---Pricing--Pricing-Architect-Manager_R00295256-1",
+    "Posted Date": "2025-12-13T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Jovem-Aprendiz---Hbrido_R00232303",
+    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Jovem-Aprendiz---Hbrido_R00232303",
     "Bullet Fields": [
-      "R00295256",
+      "R00232303",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00232303",
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00253074",
+    "Title": "Consultores SAP BTP",
+    "Location": "",
+    "Posted Date": "2025-12-13T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-BTP_R00253074",
+    "External Path": "/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-BTP_R00253074",
+    "Bullet Fields": [
+      "R00253074",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00253074",
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00253056",
+    "Title": "Consultores SAP ABAP",
+    "Location": "",
+    "Posted Date": "2025-12-13T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-ABAP_R00253056",
+    "External Path": "/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-ABAP_R00253056",
+    "Bullet Fields": [
+      "R00253056",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00253056",
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00298568",
+    "Title": "Operador de Call Center - E-commerce (Presencial)",
+    "Location": "",
+    "Posted Date": "2025-12-13T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Operador-de-call-center---E-commerce--Hbrido-_R00298568",
+    "External Path": "/job/Barueri-Green-Valley-Andromeda/Operador-de-call-center---E-commerce--Hbrido-_R00298568",
+    "Bullet Fields": [
+      "R00298568",
+      "Barueri, Green Valley, Andromeda"
+    ],
+    "Requisition ID": "R00298568",
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00253075",
+    "Title": "Consultores SAP TM",
+    "Location": "",
+    "Posted Date": "2025-12-13T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Pessoa-Consultora---SAP-TM_R00253075",
+    "External Path": "/job/Pernambuco---Recife/Pessoa-Consultora---SAP-TM_R00253075",
+    "Bullet Fields": [
+      "R00253075",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00253075",
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00271372",
+    "Title": "Sales Excellence – Bid Management Senior Analyst",
+    "Location": "",
+    "Posted Date": "2025-12-13T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---Bid-Management-Senior-Analyst_R00271372",
+    "External Path": "/job/Buenos-Aires/Sales-Excellence---Bid-Management-Senior-Analyst_R00271372",
+    "Bullet Fields": [
+      "R00271372",
       "Buenos Aires"
     ],
-    "Requisition ID": "R00295256",
-    "Scraped At": "2025-12-12T06:29:51Z",
+    "Requisition ID": "R00271372",
+    "Scraped At": "2025-12-13T06:27:14Z",
     "Posted Date Original": "Posted Today"
   },
   {
-    "Job ID": "00301827-1",
-    "Title": "Java developer",
+    "Job ID": "00288031",
+    "Title": "Management Consultant - Energy",
     "Location": "",
-    "Posted Date": "2025-12-12T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest/Java-developer_R00301827-1",
-    "External Path": "/job/Budapest/Java-developer_R00301827-1",
+    "Posted Date": "2025-12-13T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Management-Consultant---Energy_R00288031",
+    "External Path": "/job/London/Management-Consultant---Energy_R00288031",
     "Bullet Fields": [
-      "R00301827",
-      "Budapest"
+      "R00288031",
+      "London"
     ],
-    "Requisition ID": "R00301827",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00294145",
-    "Title": "Network Security Consultant – Firewall Specialist",
-    "Location": "",
-    "Posted Date": "2025-12-12T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Porto/Network-Security-Consultant---Firewall-Specialist_R00294145",
-    "External Path": "/job/Porto/Network-Security-Consultant---Firewall-Specialist_R00294145",
-    "Bullet Fields": [
-      "R00294145",
-      "Porto"
-    ],
-    "Requisition ID": "R00294145",
-    "Scraped At": "2025-12-12T06:29:51Z",
+    "Requisition ID": "R00288031",
+    "Scraped At": "2025-12-13T06:27:14Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -71,8 +131,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00292243",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00227095-106",
@@ -86,8 +146,8 @@
       "Gurugram, Ddc1A"
     ],
     "Requisition ID": "R00227095",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00293173",
@@ -101,23 +161,8 @@
       "Pune"
     ],
     "Requisition ID": "R00293173",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00299915",
-    "Title": "Deal Structuring & Pricing - Pricing Architect",
-    "Location": "",
-    "Posted Date": "2025-12-12T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Deal-Structuring---Pricing---Pricing-Architect_R00299915",
-    "External Path": "/job/Mumbai/Deal-Structuring---Pricing---Pricing-Architect_R00299915",
-    "Bullet Fields": [
-      "R00299915",
-      "Mumbai"
-    ],
-    "Requisition ID": "R00299915",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00282046",
@@ -131,37 +176,7 @@
       "Ebene"
     ],
     "Requisition ID": "R00282046",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-Developer--AU-Citizen_13582896",
-    "Title": "ServiceNow Developer- AU Citizen",
-    "Location": "",
-    "Posted Date": "2025-12-12T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-Developer--AU-Citizen_13582896",
-    "External Path": "/job/Melbourne-161-Collins-Street-Level-5/ServiceNow-Developer--AU-Citizen_13582896",
-    "Bullet Fields": [
-      "13582896",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "13582896",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00253065",
-    "Title": "Consultores SAP FI/FI-TAX/CO/FSCM/TDF/TRM/Mastersaf",
-    "Location": "",
-    "Posted Date": "2025-12-11T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-FI---CO---TRM---Mastersaf_R00253065",
-    "External Path": "/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-FI---CO---TRM---Mastersaf_R00253065",
-    "Bullet Fields": [
-      "R00253065",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00253065",
-    "Scraped At": "2025-12-12T06:29:51Z",
+    "Scraped At": "2025-12-13T06:27:14Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
@@ -176,8 +191,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00253076",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00253072-1",
@@ -191,98 +206,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00253072",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00253070",
-    "Title": "Consultores SAP Billing/FICA/WM/CRM (Utilities/CCS/ISU)",
-    "Location": "",
-    "Posted Date": "2025-12-11T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Recife-Armazem-9/Analistas-e-Consultores-SAP-Utilities---CCS-IS-U_R00253070",
-    "External Path": "/job/Recife-Armazem-9/Analistas-e-Consultores-SAP-Utilities---CCS-IS-U_R00253070",
-    "Bullet Fields": [
-      "R00253070",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00253070",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00301655",
-    "Title": "Workday Record to Report Consultant",
-    "Location": "",
-    "Posted Date": "2025-12-11T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Workday-Record-to-Report-Consultant_R00301655",
-    "External Path": "/job/Paris/Workday-Record-to-Report-Consultant_R00301655",
-    "Bullet Fields": [
-      "R00301655",
-      "Paris"
-    ],
-    "Requisition ID": "R00301655",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00301230",
-    "Title": "Network Ops Engineer",
-    "Location": "",
-    "Posted Date": "2025-12-11T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Network-Ops-Engineer_R00301230",
-    "External Path": "/job/London/Network-Ops-Engineer_R00301230",
-    "Bullet Fields": [
-      "R00301230",
-      "Portsmouth"
-    ],
-    "Requisition ID": "R00301230",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00301622",
-    "Title": "M+C | Program & Project Mgmt Delivery Manager",
-    "Location": "",
-    "Posted Date": "2025-12-11T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/M-C---Program---Project-Mgmt-Delivery-Manager_R00301622",
-    "External Path": "/job/Buenos-Aires/M-C---Program---Project-Mgmt-Delivery-Manager_R00301622",
-    "Bullet Fields": [
-      "R00301622",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00301622",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00301463",
-    "Title": "Digital Finance Transformation - Record-to-Report Manager (ICH Europe)",
-    "Location": "",
-    "Posted Date": "2025-12-11T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Digital-Finance-Transformation---Record-to-Report-Manager--ICH-Europe-_R00301463",
-    "External Path": "/job/Warsaw/Digital-Finance-Transformation---Record-to-Report-Manager--ICH-Europe-_R00301463",
-    "Bullet Fields": [
-      "R00301463",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00301463",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00301603",
-    "Title": "Web Developer - React & TypeScript",
-    "Location": "",
-    "Posted Date": "2025-12-11T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cluj-Napoca/Web-Developer---React---TypeScript_R00301603",
-    "External Path": "/job/Cluj-Napoca/Web-Developer---React---TypeScript_R00301603",
-    "Bullet Fields": [
-      "R00301603",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00301603",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00285789",
@@ -296,7 +221,82 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00285789",
-    "Scraped At": "2025-12-12T06:29:51Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted 2 Days Ago"
+  },
+  {
+    "Job ID": "00268856",
+    "Title": "Consultant Expérimenté PLM F/H - Paris",
+    "Location": "",
+    "Posted Date": "2025-12-11T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Consultant-Expriment---Industrie-du-futur-F-H_R00268856",
+    "External Path": "/job/Paris/Consultant-Expriment---Industrie-du-futur-F-H_R00268856",
+    "Bullet Fields": [
+      "R00268856",
+      "Paris"
+    ],
+    "Requisition ID": "R00268856",
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted 2 Days Ago"
+  },
+  {
+    "Job ID": "/job/Stavanger/From-Vision-to-Impact--Lead-Large-Scale-SAP-Transformations-with-Accenture_13569411",
+    "Title": "From Vision to Impact: Lead Large-Scale SAP Transformations with Accenture",
+    "Location": "",
+    "Posted Date": "2025-12-11T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stavanger/From-Vision-to-Impact--Lead-Large-Scale-SAP-Transformations-with-Accenture_13569411",
+    "External Path": "/job/Stavanger/From-Vision-to-Impact--Lead-Large-Scale-SAP-Transformations-with-Accenture_13569411",
+    "Bullet Fields": [
+      "13569411",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "13569411",
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted 2 Days Ago"
+  },
+  {
+    "Job ID": "/job/Stavanger/Drive-Business-Transformation-in-Industry-and-Manufacturing---Join-Accenture-s-Expert-Team-in-Norway_13569377",
+    "Title": "Drive Business Transformation in Industry and Manufacturing – Join Accenture’s Expert Team in Norway",
+    "Location": "",
+    "Posted Date": "2025-12-11T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stavanger/Drive-Business-Transformation-in-Industry-and-Manufacturing---Join-Accenture-s-Expert-Team-in-Norway_13569377",
+    "External Path": "/job/Stavanger/Drive-Business-Transformation-in-Industry-and-Manufacturing---Join-Accenture-s-Expert-Team-in-Norway_13569377",
+    "Bullet Fields": [
+      "13569377",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "13569377",
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted 2 Days Ago"
+  },
+  {
+    "Job ID": "/job/Stavanger/Drive-SAP-S-4HANA-Innovation-with-Accenture_13578778",
+    "Title": "Drive SAP S/4HANA Innovation with Accenture",
+    "Location": "",
+    "Posted Date": "2025-12-11T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stavanger/Drive-SAP-S-4HANA-Innovation-with-Accenture_13578778",
+    "External Path": "/job/Stavanger/Drive-SAP-S-4HANA-Innovation-with-Accenture_13578778",
+    "Bullet Fields": [
+      "13578778",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "13578778",
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted 2 Days Ago"
+  },
+  {
+    "Job ID": "/job/Stavanger/Shape-the-Future-of-AI-and-Automation-with-Accenture---Join-Our-Growing-Team-in-Norway_13577344",
+    "Title": "Shape the Future of AI and Automation with Accenture – Join Our Growing Team in Norway",
+    "Location": "",
+    "Posted Date": "2025-12-11T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stavanger/Shape-the-Future-of-AI-and-Automation-with-Accenture---Join-Our-Growing-Team-in-Norway_13577344",
+    "External Path": "/job/Stavanger/Shape-the-Future-of-AI-and-Automation-with-Accenture---Join-Our-Growing-Team-in-Norway_13577344",
+    "Bullet Fields": [
+      "13577344",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "13577344",
+    "Scraped At": "2025-12-13T06:27:14Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   }
 ]
