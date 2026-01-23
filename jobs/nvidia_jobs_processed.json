@@ -465,14 +465,14 @@
     "Job ID": "1973423",
     "Title": "Distinguished Engineer – Data Center System Software Architect",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2026-01-03T00:00:00Z",
+    "Posted Date": "2026-01-23T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer---Data-Center-System-Software-Architect_JR1973423",
     "External Path": "/job/US-CA-Santa-Clara/Distinguished-Engineer---Data-Center-System-Software-Architect_JR1973423",
     "Bullet Fields": [
       "JR1973423"
     ],
     "Requisition ID": "JR1973423",
-    "Scraped At": "2026-01-03T06:28:56Z",
+    "Scraped At": "2026-01-23T06:32:51Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -3866,15 +3866,15 @@
   {
     "Job ID": "2000936",
     "Title": "Senior System Software Engineer, SOC",
-    "Location": "Taiwan, Taipei",
-    "Posted Date": "2025-07-25T00:00:00Z",
-    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-System-Software-Engineer--SOC_JR2000936",
-    "External Path": "/job/Taiwan-Taipei/Senior-System-Software-Engineer--SOC_JR2000936",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-System-Software-Engineer--SOC_JR2000936",
+    "External Path": "/job/Taiwan-Hsinchu/Senior-System-Software-Engineer--SOC_JR2000936",
     "Bullet Fields": [
       "JR2000936"
     ],
     "Requisition ID": "JR2000936",
-    "Scraped At": "2025-07-25T06:29:02Z",
+    "Scraped At": "2026-01-23T06:32:51Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -20093,14 +20093,14 @@
     "Job ID": "2005397",
     "Title": "Senior Software Engineer - AI Research Clusters",
     "Location": "4 Locations",
-    "Posted Date": "2025-11-07T00:00:00Z",
+    "Posted Date": "2026-01-23T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---AI-Research-Clusters_JR2005397",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer---AI-Research-Clusters_JR2005397",
     "Bullet Fields": [
       "JR2005397"
     ],
     "Requisition ID": "JR2005397",
-    "Scraped At": "2025-11-07T06:27:36Z",
+    "Scraped At": "2026-01-23T06:32:51Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -27091,16 +27091,16 @@
   },
   {
     "Job ID": "2007048",
-    "Title": "Senior Compiler Engineer - Compute",
+    "Title": "Senior Compiler Engineer - Compute Front-End",
     "Location": "3 Locations",
-    "Posted Date": "2025-12-24T00:00:00Z",
+    "Posted Date": "2026-01-23T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---Compute_JR2007048",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---Compute_JR2007048",
     "Bullet Fields": [
       "JR2007048"
     ],
     "Requisition ID": "JR2007048",
-    "Scraped At": "2025-12-24T06:31:29Z",
+    "Scraped At": "2026-01-23T06:32:51Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -30965,6 +30965,230 @@
     ],
     "Requisition ID": "JR2003769",
     "Scraped At": "2026-01-22T06:32:16Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2006462",
+    "Title": "System Software Engineer Intern, AI Performance And Efficiency Tools - Summer 2026",
+    "Location": "China, Shanghai",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--AI-Performance-And-Efficiency-Tools--Summer-2026_JR2006462",
+    "External Path": "/job/China-Shanghai/System-Software-Engineer-Intern--AI-Performance-And-Efficiency-Tools--Summer-2026_JR2006462",
+    "Bullet Fields": [
+      "JR2006462"
+    ],
+    "Requisition ID": "JR2006462",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011599",
+    "Title": "Deep Learning Performance Architect",
+    "Location": "2 Locations",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Architect_JR2011599",
+    "External Path": "/job/China-Shanghai/Deep-Learning-Performance-Architect_JR2011599",
+    "Bullet Fields": [
+      "JR2011599"
+    ],
+    "Requisition ID": "JR2011599",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011414",
+    "Title": "DFT Engineer",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/DFT-Engineer_JR2011414",
+    "External Path": "/job/India-Bengaluru/DFT-Engineer_JR2011414",
+    "Bullet Fields": [
+      "JR2011414"
+    ],
+    "Requisition ID": "JR2011414",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2005899",
+    "Title": "Chip Power Estimation Engineer",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Chip-Power-Estimation-Engineer_JR2005899",
+    "External Path": "/job/India-Bengaluru/Chip-Power-Estimation-Engineer_JR2005899",
+    "Bullet Fields": [
+      "JR2005899"
+    ],
+    "Requisition ID": "JR2005899",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011853-1",
+    "Title": "Senior System Software Engineer - Tegra MODS Team",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Software-Engineer---Tegra-MODS-Team_JR2011853-1",
+    "External Path": "/job/India-Bengaluru/Senior-System-Software-Engineer---Tegra-MODS-Team_JR2011853-1",
+    "Bullet Fields": [
+      "JR2011853"
+    ],
+    "Requisition ID": "JR2011853",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011560",
+    "Title": "Senior Mask Layout Design Engineer",
+    "Location": "2 Locations",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mask-Layout-Design-Engineer_JR2011560",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Mask-Layout-Design-Engineer_JR2011560",
+    "Bullet Fields": [
+      "JR2011560"
+    ],
+    "Requisition ID": "JR2011560",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011516",
+    "Title": "Deep Learning Performance Software Engineer",
+    "Location": "China, Shanghai",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Engineer_JR2011516",
+    "External Path": "/job/China-Shanghai/Deep-Learning-Performance-Software-Engineer_JR2011516",
+    "Bullet Fields": [
+      "JR2011516"
+    ],
+    "Requisition ID": "JR2011516",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2005706",
+    "Title": "Senior Deep Learning Algorithm Engineer",
+    "Location": "2 Locations",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Algorithm-Engineer_JR2005706",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Deep-Learning-Algorithm-Engineer_JR2005706",
+    "Bullet Fields": [
+      "JR2005706"
+    ],
+    "Requisition ID": "JR2005706",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011694-1",
+    "Title": "Senior Developer Technology Engineer - Windows AI Platform",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Windows-AI-Platform_JR2011694-1",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Windows-AI-Platform_JR2011694-1",
+    "Bullet Fields": [
+      "JR2011694"
+    ],
+    "Requisition ID": "JR2011694",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011752",
+    "Title": "Technical Program Manager - Tegra and Product Diag",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager---Tegra-and-Product-Diag_JR2011752",
+    "External Path": "/job/US-CA-Santa-Clara/Technical-Program-Manager---Tegra-and-Product-Diag_JR2011752",
+    "Bullet Fields": [
+      "JR2011752"
+    ],
+    "Requisition ID": "JR2011752",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011653",
+    "Title": "Senior Cloud Software Engineer, Developer Tools",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cloud-Software-Engineer--Developer-Tools_JR2011653",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Cloud-Software-Engineer--Developer-Tools_JR2011653",
+    "Bullet Fields": [
+      "JR2011653"
+    ],
+    "Requisition ID": "JR2011653",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011378",
+    "Title": "Security Systems Engineer",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Systems-Engineer_JR2011378",
+    "External Path": "/job/US-CA-Santa-Clara/Security-Systems-Engineer_JR2011378",
+    "Bullet Fields": [
+      "JR2011378"
+    ],
+    "Requisition ID": "JR2011378",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011785",
+    "Title": "Manager, Linux GPU System Software Engineering",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Linux-GPU-System-Software-Engineering_JR2011785",
+    "External Path": "/job/US-CA-Santa-Clara/Manager--Linux-GPU-System-Software-Engineering_JR2011785",
+    "Bullet Fields": [
+      "JR2011785"
+    ],
+    "Requisition ID": "JR2011785",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011219",
+    "Title": "PR Specialist",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PR-Specialist_JR2011219",
+    "External Path": "/job/US-CA-Santa-Clara/PR-Specialist_JR2011219",
+    "Bullet Fields": [
+      "JR2011219"
+    ],
+    "Requisition ID": "JR2011219",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2005482",
+    "Title": "Senior Deep Learning Software Engineer - Autonomous Vehicles",
+    "Location": "4 Locations",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Software-Engineer---Autonomous-Vehicles_JR2005482",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Deep-Learning-Software-Engineer---Autonomous-Vehicles_JR2005482",
+    "Bullet Fields": [
+      "JR2005482"
+    ],
+    "Requisition ID": "JR2005482",
+    "Scraped At": "2026-01-23T06:32:51Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2010797-1",
+    "Title": "Senior Design Verification Engineer",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-01-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-ASIC-Engineer_JR2010797-1",
+    "External Path": "/job/Israel-Yokneam/Senior-ASIC-Engineer_JR2010797-1",
+    "Bullet Fields": [
+      "JR2010797"
+    ],
+    "Requisition ID": "JR2010797",
+    "Scraped At": "2026-01-23T06:32:51Z",
     "Posted Date Original": "Posted Today"
   }
 ]
