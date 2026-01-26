@@ -1942,8 +1942,8 @@
       "JR1999889"
     ],
     "Requisition ID": "JR1999889",
-    "Scraped At": "2026-01-25T06:29:38Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "2000005",
@@ -6870,8 +6870,8 @@
       "JR2001360"
     ],
     "Requisition ID": "JR2001360",
-    "Scraped At": "2026-01-25T06:29:38Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "2000360",
@@ -8095,14 +8095,14 @@
     "Job ID": "2002330",
     "Title": "Senior Datacenter System Software Engineer - DGX Cloud",
     "Location": "2 Locations",
-    "Posted Date": "2026-01-16T00:00:00Z",
+    "Posted Date": "2026-01-26T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Datacenter-System-Software-Architect---DGX-Cloud_JR2002330",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Datacenter-System-Software-Architect---DGX-Cloud_JR2002330",
     "Bullet Fields": [
       "JR2002330"
     ],
     "Requisition ID": "JR2002330",
-    "Scraped At": "2026-01-16T06:31:50Z",
+    "Scraped At": "2026-01-26T06:34:37Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -18322,8 +18322,8 @@
       "JR2006695"
     ],
     "Requisition ID": "JR2006695",
-    "Scraped At": "2026-01-25T06:29:38Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "1998913",
@@ -21528,8 +21528,8 @@
       "JR2007944"
     ],
     "Requisition ID": "JR2007944",
-    "Scraped At": "2026-01-25T06:29:38Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "2007775",
@@ -22438,8 +22438,8 @@
       "JR2008574"
     ],
     "Requisition ID": "JR2008574",
-    "Scraped At": "2026-01-25T06:29:38Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "2008093",
@@ -31329,6 +31329,202 @@
     ],
     "Requisition ID": "JR2011866",
     "Scraped At": "2026-01-24T06:29:13Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011617-1",
+    "Title": "Senior Physical Design Methodology Engineer, Innovus Flows",
+    "Location": "3 Locations",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-Methodology-Engineer--Innovus-Flows_JR2011617-1",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Physical-Design-Methodology-Engineer--Innovus-Flows_JR2011617-1",
+    "Bullet Fields": [
+      "JR2011617"
+    ],
+    "Requisition ID": "JR2011617",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2010955",
+    "Title": "Operation Program Manager",
+    "Location": "Vietnam, Hanoi",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/Operation-Program-Manager_JR2010955",
+    "External Path": "/job/Vietnam-Hanoi/Operation-Program-Manager_JR2010955",
+    "Bullet Fields": [
+      "JR2010955"
+    ],
+    "Requisition ID": "JR2010955",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011655-1",
+    "Title": "Senior System Reliability Engineer",
+    "Location": "Taiwan, Taipei",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-System-Reliability-Engineer_JR2011655-1",
+    "External Path": "/job/Taiwan-Taipei/Senior-System-Reliability-Engineer_JR2011655-1",
+    "Bullet Fields": [
+      "JR2011655"
+    ],
+    "Requisition ID": "JR2011655",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2010548",
+    "Title": "Data Center NPI Program Manager",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Data-Center-NPI-Program-Manager_JR2010548",
+    "External Path": "/job/Taiwan-Hsinchu/Data-Center-NPI-Program-Manager_JR2010548",
+    "Bullet Fields": [
+      "JR2010548"
+    ],
+    "Requisition ID": "JR2010548",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011670",
+    "Title": "Solutions Architect Intern - 2026",
+    "Location": "Taiwan, Taipei",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Solutions-Architect-Intern---2026_JR2011670",
+    "External Path": "/job/Taiwan-Taipei/Solutions-Architect-Intern---2026_JR2011670",
+    "Bullet Fields": [
+      "JR2011670"
+    ],
+    "Requisition ID": "JR2011670",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011533",
+    "Title": "Design Verification Engineer - PCIE",
+    "Location": "2 Locations",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Design-Verification-Engineer---PCIE_JR2011533",
+    "External Path": "/job/Taiwan-Taipei/Design-Verification-Engineer---PCIE_JR2011533",
+    "Bullet Fields": [
+      "JR2011533"
+    ],
+    "Requisition ID": "JR2011533",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011716",
+    "Title": "Senior ASIC Verification Engineer, Coherent High Speed Interconnect",
+    "Location": "2 Locations",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-ASIC-Verification-Engineer--Coherent-High-Speed-Interconnect_JR2011716",
+    "External Path": "/job/Taiwan-Hsinchu/Senior-ASIC-Verification-Engineer--Coherent-High-Speed-Interconnect_JR2011716",
+    "Bullet Fields": [
+      "JR2011716"
+    ],
+    "Requisition ID": "JR2011716",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011348",
+    "Title": "Senior Product Quality and Reliability Engineer",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Product-Quality-and-Reliability-Engineer_JR2011348",
+    "External Path": "/job/Israel-Yokneam/Senior-Product-Quality-and-Reliability-Engineer_JR2011348",
+    "Bullet Fields": [
+      "JR2011348"
+    ],
+    "Requisition ID": "JR2011348",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011686",
+    "Title": "Senior Quality Data Analyst Engineer",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Quality-Data-Analyst-Engineer_JR2011686",
+    "External Path": "/job/Israel-Yokneam/Senior-Quality-Data-Analyst-Engineer_JR2011686",
+    "Bullet Fields": [
+      "JR2011686"
+    ],
+    "Requisition ID": "JR2011686",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011351",
+    "Title": "Senior Product Quality Manager",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Product-Quality-Manager_JR2011351",
+    "External Path": "/job/Israel-Yokneam/Senior-Product-Quality-Manager_JR2011351",
+    "Bullet Fields": [
+      "JR2011351"
+    ],
+    "Requisition ID": "JR2011351",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011671",
+    "Title": "Senior Software Engineer - Embedded CPU SDK",
+    "Location": "2 Locations",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer---Embedded-CPU-SDK_JR2011671",
+    "External Path": "/job/Israel-Yokneam/Senior-Software-Engineer---Embedded-CPU-SDK_JR2011671",
+    "Bullet Fields": [
+      "JR2011671"
+    ],
+    "Requisition ID": "JR2011671",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2002154",
+    "Title": "Senior Mechanical Engineer",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Mechanical-Engineer_JR2002154",
+    "External Path": "/job/Israel-Yokneam/Senior-Mechanical-Engineer_JR2002154",
+    "Bullet Fields": [
+      "JR2002154"
+    ],
+    "Requisition ID": "JR2002154",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2008350",
+    "Title": "Senior Firmware Architect, NVLink",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Firmware-Architect--NVLink_JR2008350",
+    "External Path": "/job/Israel-Tel-Aviv/Senior-Firmware-Architect--NVLink_JR2008350",
+    "Bullet Fields": [
+      "JR2008350"
+    ],
+    "Requisition ID": "JR2008350",
+    "Scraped At": "2026-01-26T06:34:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011566",
+    "Title": "Senior Corporate Development Manager",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-01-26T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Corporate-Development-Manager_JR2011566",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Corporate-Development-Manager_JR2011566",
+    "Bullet Fields": [
+      "JR2011566"
+    ],
+    "Requisition ID": "JR2011566",
+    "Scraped At": "2026-01-26T06:34:37Z",
     "Posted Date Original": "Posted Today"
   }
 ]
