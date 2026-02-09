@@ -1,16 +1,184 @@
 [
   {
+    "Job ID": "JR273152",
+    "Title": "Sales Development Representative",
+    "Location": "Japan - Tokyo",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Sales-Development-Representative_JR273152",
+    "External Path": "/job/Japan---Tokyo/Sales-Development-Representative_JR273152",
+    "Bullet Fields": [
+      "JR273152"
+    ],
+    "Requisition ID": "JR273152",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR327542",
+    "Title": "Senior Manager, Engineering - Tableau",
+    "Location": "2 Locations",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Manager--Engineering---Tableau_JR327542",
+    "External Path": "/job/India---Hyderabad/Senior-Manager--Engineering---Tableau_JR327542",
+    "Bullet Fields": [
+      "JR327542"
+    ],
+    "Requisition ID": "JR327542",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR307088-1",
+    "Title": "SEO Digital Marketing Associate【障害者採用】",
+    "Location": "Japan - Tokyo - Remote",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo---Remote/Digital-Marketing-Associate--_JR307088-1",
+    "External Path": "/job/Japan---Tokyo---Remote/Digital-Marketing-Associate--_JR307088-1",
+    "Bullet Fields": [
+      "JR307088"
+    ],
+    "Requisition ID": "JR307088",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR322021",
+    "Title": "Senior Accountant - Statutory Pod & Compliance",
+    "Location": "India - Hyderabad",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Accountant---Statutory-Pod---Compliance_JR322021",
+    "External Path": "/job/India---Hyderabad/Senior-Accountant---Statutory-Pod---Compliance_JR322021",
+    "Bullet Fields": [
+      "JR322021"
+    ],
+    "Requisition ID": "JR322021",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR327543",
+    "Title": "Software Engineering LMTS - Tableau",
+    "Location": "2 Locations",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-LMTS---Tableau_JR327543",
+    "External Path": "/job/India---Hyderabad/Software-Engineering-LMTS---Tableau_JR327543",
+    "Bullet Fields": [
+      "JR327543"
+    ],
+    "Requisition ID": "JR327543",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR327535",
+    "Title": "Software Engineering SMTS- Tableau",
+    "Location": "2 Locations",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-SMTS--Tableau_JR327535",
+    "External Path": "/job/India---Bangalore/Software-Engineering-SMTS--Tableau_JR327535",
+    "Bullet Fields": [
+      "JR327535"
+    ],
+    "Requisition ID": "JR327535",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR321153",
+    "Title": "LMTS / SMTS Data Engineer (ETL & Big-Data)",
+    "Location": "2 Locations",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Lead-Data-Engineer--ETL---Big-Data-_JR321153",
+    "External Path": "/job/India---Hyderabad/Lead-Data-Engineer--ETL---Big-Data-_JR321153",
+    "Bullet Fields": [
+      "JR321153"
+    ],
+    "Requisition ID": "JR321153",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR325971",
+    "Title": "LMTS | Data Scientist | AI for Platform Reliability & Operations",
+    "Location": "India - Bangalore",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/LMTS---Data-Scientist---AI-for-Platform-Reliability---Operations_JR325971",
+    "External Path": "/job/India---Bangalore/LMTS---Data-Scientist---AI-for-Platform-Reliability---Operations_JR325971",
+    "Bullet Fields": [
+      "JR325971"
+    ],
+    "Requisition ID": "JR325971",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR328380",
+    "Title": "Named Account Executive - Travel/Transport/Hospitality",
+    "Location": "India - Mumbai",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Named-Account-Executive---Travel-Transport-Hospitality_JR328380",
+    "External Path": "/job/India---Mumbai/Named-Account-Executive---Travel-Transport-Hospitality_JR328380",
+    "Bullet Fields": [
+      "JR328380"
+    ],
+    "Requisition ID": "JR328380",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR326017",
+    "Title": "Principal Technical Support Engineer",
+    "Location": "6 Locations",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Principal-Technical-Support-Engineer_JR326017",
+    "External Path": "/job/Japan---Tokyo/Principal-Technical-Support-Engineer_JR326017",
+    "Bullet Fields": [
+      "JR326017"
+    ],
+    "Requisition ID": "JR326017",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR328408",
+    "Title": "Informatica Account Executive, Enterprise",
+    "Location": "Japan - Tokyo",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Informatica-Account-Executive--Enterprise_JR328408",
+    "External Path": "/job/Japan---Tokyo/Informatica-Account-Executive--Enterprise_JR328408",
+    "Bullet Fields": [
+      "JR328408"
+    ],
+    "Requisition ID": "JR328408",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "JR320258",
+    "Title": "Account Executive, Agentforce (SMB)",
+    "Location": "Japan - Tokyo",
+    "Posted Date": "2026-02-09T00:00:00Z",
+    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Account-Executive--Agentforce--SMB-_JR320258",
+    "External Path": "/job/Japan---Tokyo/Account-Executive--Agentforce--SMB-_JR320258",
+    "Bullet Fields": [
+      "JR320258"
+    ],
+    "Requisition ID": "JR320258",
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
     "Job ID": "JR328370",
     "Title": "Senior Technical Architect - Public Sector",
     "Location": "Singapore - Singapore",
-    "Posted Date": "2026-02-08T00:00:00Z",
+    "Posted Date": "2026-02-09T00:00:00Z",
     "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Senior-Technical-Architect---Public-Sector_JR328370",
     "External Path": "/job/Singapore---Singapore/Senior-Technical-Architect---Public-Sector_JR328370",
     "Bullet Fields": [
       "JR328370"
     ],
     "Requisition ID": "JR328370",
-    "Scraped At": "2026-02-08T06:47:59Z",
+    "Scraped At": "2026-02-09T07:03:26Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -24,8 +192,8 @@
       "JR327165"
     ],
     "Requisition ID": "JR327165",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "JR327960",
@@ -38,8 +206,8 @@
       "JR327960"
     ],
     "Requisition ID": "JR327960",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "JR304531",
@@ -52,8 +220,8 @@
       "JR304531"
     ],
     "Requisition ID": "JR304531",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "JR315655",
@@ -66,8 +234,8 @@
       "JR315655"
     ],
     "Requisition ID": "JR315655",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "JR316302",
@@ -80,8 +248,8 @@
       "JR316302"
     ],
     "Requisition ID": "JR316302",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "JR317550",
@@ -94,8 +262,8 @@
       "JR317550"
     ],
     "Requisition ID": "JR317550",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-02-09T07:03:26Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "JR314170",
@@ -108,175 +276,7 @@
       "JR314170"
     ],
     "Requisition ID": "JR314170",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "JR315563",
-    "Title": "Software Engineer- MTS",
-    "Location": "2 Locations",
-    "Posted Date": "2026-02-08T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineer--MTS_JR315563",
-    "External Path": "/job/India---Hyderabad/Software-Engineer--MTS_JR315563",
-    "Bullet Fields": [
-      "JR315563"
-    ],
-    "Requisition ID": "JR315563",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "JR326459",
-    "Title": "Operations Senior Analyst",
-    "Location": "2 Locations",
-    "Posted Date": "2026-02-08T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Operations-Senior-Analyst_JR326459",
-    "External Path": "/job/India---Hyderabad/Operations-Senior-Analyst_JR326459",
-    "Bullet Fields": [
-      "JR326459"
-    ],
-    "Requisition ID": "JR326459",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "JR328331-1",
-    "Title": "Staff Software Engineer, Search Infrastructure",
-    "Location": "3 Locations",
-    "Posted Date": "2026-02-07T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR328331-1",
-    "External Path": "/job/California---San-Francisco/Software-Engineering-PMTS_JR328331-1",
-    "Bullet Fields": [
-      "JR328331"
-    ],
-    "Requisition ID": "JR328331",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR327439-1",
-    "Title": "Systems Engineering Lead",
-    "Location": "Virginia - Herndon",
-    "Posted Date": "2026-02-07T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Herndon/Systems-Engineering-Lead_JR327439-1",
-    "External Path": "/job/Virginia---Herndon/Systems-Engineering-Lead_JR327439-1",
-    "Bullet Fields": [
-      "JR327439"
-    ],
-    "Requisition ID": "JR327439",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR327808",
-    "Title": "Named Account Executive 7",
-    "Location": "South Africa - Johannesburg",
-    "Posted Date": "2026-02-08T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/South-Africa---Johannesburg/Named-Account-Executive-7_JR327808",
-    "External Path": "/job/South-Africa---Johannesburg/Named-Account-Executive-7_JR327808",
-    "Bullet Fields": [
-      "JR327808"
-    ],
-    "Requisition ID": "JR327808",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "JR249832",
-    "Title": "Backend Software Development Engineer - Mid/Senior/Lead/Principal",
-    "Location": "3 Locations",
-    "Posted Date": "2026-02-07T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Backend-Software-Development-Engineer---Senior-Lead-Principal_JR249832",
-    "External Path": "/job/California---San-Francisco/Backend-Software-Development-Engineer---Senior-Lead-Principal_JR249832",
-    "Bullet Fields": [
-      "JR249832"
-    ],
-    "Requisition ID": "JR249832",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR327937",
-    "Title": "Indirect Tax Manager",
-    "Location": "2 Locations",
-    "Posted Date": "2026-02-07T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Indirect-Tax-Manager_JR327937",
-    "External Path": "/job/Georgia---Atlanta/Indirect-Tax-Manager_JR327937",
-    "Bullet Fields": [
-      "JR327937"
-    ],
-    "Requisition ID": "JR327937",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR317868",
-    "Title": "Director, Agentforce Engineering",
-    "Location": "3 Locations",
-    "Posted Date": "2026-02-07T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Director-of-Engineeing---Agentforce_JR317868",
-    "External Path": "/job/California---San-Francisco/Director-of-Engineeing---Agentforce_JR317868",
-    "Bullet Fields": [
-      "JR317868"
-    ],
-    "Requisition ID": "JR317868",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR326490",
-    "Title": "Threat Intelligence Engineer",
-    "Location": "2 Locations",
-    "Posted Date": "2026-02-07T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Threat-Intelligence-Engineer_JR326490",
-    "External Path": "/job/California---San-Francisco/Threat-Intelligence-Engineer_JR326490",
-    "Bullet Fields": [
-      "JR326490"
-    ],
-    "Requisition ID": "JR326490",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR328770",
-    "Title": "SVP, Software Engineering, Platform",
-    "Location": "8 Locations",
-    "Posted Date": "2026-02-07T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/SVP--Software-Engineering--Platform_JR328770",
-    "External Path": "/job/California---San-Francisco/SVP--Software-Engineering--Platform_JR328770",
-    "Bullet Fields": [
-      "JR328770"
-    ],
-    "Requisition ID": "JR328770",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR326468",
-    "Title": "Director of Engineering - AI Evaluations & Experimentation",
-    "Location": "New York - New York",
-    "Posted Date": "2026-02-07T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Director-of-Engineering---AI-Evaluations---Experimentation_JR326468",
-    "External Path": "/job/New-York---New-York/Director-of-Engineering---AI-Evaluations---Experimentation_JR326468",
-    "Bullet Fields": [
-      "JR326468"
-    ],
-    "Requisition ID": "JR326468",
-    "Scraped At": "2026-02-08T06:47:59Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "JR324630",
-    "Title": "Manager, Legal Ops Technology",
-    "Location": "3 Locations",
-    "Posted Date": "2026-02-07T00:00:00Z",
-    "Job URL": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Manager--Legal-Operations_JR324630",
-    "External Path": "/job/Georgia---Atlanta/Manager--Legal-Operations_JR324630",
-    "Bullet Fields": [
-      "JR324630"
-    ],
-    "Requisition ID": "JR324630",
-    "Scraped At": "2026-02-08T06:47:59Z",
+    "Scraped At": "2026-02-09T07:03:26Z",
     "Posted Date Original": "Posted Yesterday"
   }
 ]
