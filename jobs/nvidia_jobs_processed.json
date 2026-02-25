@@ -36286,5 +36286,285 @@
     "Requisition ID": "JR2013322",
     "Scraped At": "2026-02-24T07:19:11Z",
     "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2001371",
+    "Title": "Senior CI/CD Engineer",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-CI-CD-Engineer_JR2001371",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-CI-CD-Engineer_JR2001371",
+    "Bullet Fields": [
+      "JR2001371"
+    ],
+    "Requisition ID": "JR2001371",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013599",
+    "Title": "Software Development Engineer, CAD Infrastructure - New College Grad 2026",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Development-Engineer--CAD-Infrastructure---New-College-Grad-2026_JR2013599",
+    "External Path": "/job/US-CA-Santa-Clara/Software-Development-Engineer--CAD-Infrastructure---New-College-Grad-2026_JR2013599",
+    "Bullet Fields": [
+      "JR2013599"
+    ],
+    "Requisition ID": "JR2013599",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011502-1",
+    "Title": "Software Engineer, Tegra SoC Products",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Tegra-SoC-Products_JR2011502-1",
+    "External Path": "/job/US-CA-Santa-Clara/System-Software-Engineer--Tegra-SoC-Products_JR2011502-1",
+    "Bullet Fields": [
+      "JR2011502"
+    ],
+    "Requisition ID": "JR2011502",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2006824",
+    "Title": "System Software Engineering Intern, Systems Infrastructure - Summer 2026",
+    "Location": "China, Shanghai",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Systems-Infrastructure--Summer-2026_JR2006824",
+    "External Path": "/job/China-Shanghai/System-Software-Engineer-Intern--Systems-Infrastructure--Summer-2026_JR2006824",
+    "Bullet Fields": [
+      "JR2006824"
+    ],
+    "Requisition ID": "JR2006824",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013526",
+    "Title": "NPI Engineering Build Manager",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/NPI-Engineering-Build-Manager_JR2013526",
+    "External Path": "/job/Israel-Yokneam/NPI-Engineering-Build-Manager_JR2013526",
+    "Bullet Fields": [
+      "JR2013526"
+    ],
+    "Requisition ID": "JR2013526",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013834",
+    "Title": "Senior Systems Software Engineer – Cloud Networking",
+    "Location": "2 Locations",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Cloud-Networking_JR2013834",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Cloud-Networking_JR2013834",
+    "Bullet Fields": [
+      "JR2013834"
+    ],
+    "Requisition ID": "JR2013834",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013904",
+    "Title": "Senior AI Compiler Engineer, MLIR",
+    "Location": "6 Locations",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Compiler-Engineer--MLIR_JR2013904",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-AI-Compiler-Engineer--MLIR_JR2013904",
+    "Bullet Fields": [
+      "JR2013904"
+    ],
+    "Requisition ID": "JR2013904",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013689",
+    "Title": "Global Connectivity Distinguished Engineer",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Global-Connectivity-Distinguished-Engineer_JR2013689",
+    "External Path": "/job/US-CA-Santa-Clara/Global-Connectivity-Distinguished-Engineer_JR2013689",
+    "Bullet Fields": [
+      "JR2013689"
+    ],
+    "Requisition ID": "JR2013689",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013791",
+    "Title": "Senior Systems Software Engineer, Base OS - Kernel",
+    "Location": "US, CA, Remote",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Systems-Software-Engineer--Base-OS---Kernel_JR2013791",
+    "External Path": "/job/US-CA-Remote/Senior-Systems-Software-Engineer--Base-OS---Kernel_JR2013791",
+    "Bullet Fields": [
+      "JR2013791"
+    ],
+    "Requisition ID": "JR2013791",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2012134-1",
+    "Title": "Senior Software Engineer - NVIDIA Warp",
+    "Location": "2 Locations",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---NVIDIA-Warp_JR2012134-1",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer---NVIDIA-Warp_JR2012134-1",
+    "Bullet Fields": [
+      "JR2012134"
+    ],
+    "Requisition ID": "JR2012134",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013748",
+    "Title": "CAD Production Engineer, Library Builds",
+    "Location": "2 Locations",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/CAD-Production-Engineer--Library-Builds_JR2013748",
+    "External Path": "/job/US-CA-Santa-Clara/CAD-Production-Engineer--Library-Builds_JR2013748",
+    "Bullet Fields": [
+      "JR2013748"
+    ],
+    "Requisition ID": "JR2013748",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013971",
+    "Title": "Senior Full-Stack Software Engineer",
+    "Location": "2 Locations",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Full-Stack-Software-Engineer_JR2013971",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Full-Stack-Software-Engineer_JR2013971",
+    "Bullet Fields": [
+      "JR2013971"
+    ],
+    "Requisition ID": "JR2013971",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1989272",
+    "Title": "Customer Program Manager - Auto",
+    "Location": "3 Locations",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Customer-Program-Manager---Auto_JR1989272",
+    "External Path": "/job/China-Shanghai/Customer-Program-Manager---Auto_JR1989272",
+    "Bullet Fields": [
+      "JR1989272"
+    ],
+    "Requisition ID": "JR1989272",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013808",
+    "Title": "Software Engineer - Autonomous Vehicles",
+    "Location": "4 Locations",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer---Autonomous-Vehicles_JR2013808",
+    "External Path": "/job/US-CA-Santa-Clara/Software-Engineer---Autonomous-Vehicles_JR2013808",
+    "Bullet Fields": [
+      "JR2013808"
+    ],
+    "Requisition ID": "JR2013808",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013743",
+    "Title": "HSIO Functional and Power Management Engineer",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/HSIO-Functional-and-Power-Management-Engineer_JR2013743",
+    "External Path": "/job/US-CA-Santa-Clara/HSIO-Functional-and-Power-Management-Engineer_JR2013743",
+    "Bullet Fields": [
+      "JR2013743"
+    ],
+    "Requisition ID": "JR2013743",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013939",
+    "Title": "AI Analytics and Visualization Engineer",
+    "Location": "5 Locations",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/AI-Analytics-and-Visualization-Engineer_JR2013939",
+    "External Path": "/job/US-CA-Remote/AI-Analytics-and-Visualization-Engineer_JR2013939",
+    "Bullet Fields": [
+      "JR2013939"
+    ],
+    "Requisition ID": "JR2013939",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013725",
+    "Title": "Physical Design Methodology and DevOps Engineer",
+    "Location": "2 Locations",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-Methodology-and-DevOps-Engineer_JR2013725",
+    "External Path": "/job/US-CA-Santa-Clara/Physical-Design-Methodology-and-DevOps-Engineer_JR2013725",
+    "Bullet Fields": [
+      "JR2013725"
+    ],
+    "Requisition ID": "JR2013725",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2012595",
+    "Title": "Senior Manager, Hardware Engineering",
+    "Location": "Taiwan, Taipei",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Manager--Hardware-Engineering_JR2012595",
+    "External Path": "/job/Taiwan-Taipei/Senior-Manager--Hardware-Engineering_JR2012595",
+    "Bullet Fields": [
+      "JR2012595"
+    ],
+    "Requisition ID": "JR2012595",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2011601-1",
+    "Title": "Manager, SWQA Test Development",
+    "Location": "UK, Belfast",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Belfast/Manager--SWQA-Test-Development_JR2011601-1",
+    "External Path": "/job/UK-Belfast/Manager--SWQA-Test-Development_JR2011601-1",
+    "Bullet Fields": [
+      "JR2011601"
+    ],
+    "Requisition ID": "JR2011601",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013915",
+    "Title": "Senior Compiler Engineer - AI",
+    "Location": "2 Locations",
+    "Posted Date": "2026-02-25T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---AI_JR2013915",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---AI_JR2013915",
+    "Bullet Fields": [
+      "JR2013915"
+    ],
+    "Requisition ID": "JR2013915",
+    "Scraped At": "2026-02-25T07:00:06Z",
+    "Posted Date Original": "Posted Today"
   }
 ]
