@@ -1,9 +1,84 @@
 [
   {
+    "Job ID": "00287326",
+    "Title": "Cloud Contact Center Sr Manager - Mexico",
+    "Location": "",
+    "Posted Date": "2026-03-11T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mexico-City/Strategy---Consulting---Global-Network---SONG---Service---Cloud-Contact-Center-Senior-Analyst_R00287326",
+    "External Path": "/job/Mexico-City/Strategy---Consulting---Global-Network---SONG---Service---Cloud-Contact-Center-Senior-Analyst_R00287326",
+    "Bullet Fields": [
+      "R00287326",
+      "Mexico City"
+    ],
+    "Requisition ID": "R00287326",
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00315676",
+    "Title": "Media Strategy and Planning GMC Executive Communications Associate Manager",
+    "Location": "",
+    "Posted Date": "2026-03-11T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dublin/Media-Strategy-and-Planning-GMC-Executive-Communications-Associate-Manage_R00315676",
+    "External Path": "/job/Dublin/Media-Strategy-and-Planning-GMC-Executive-Communications-Associate-Manage_R00315676",
+    "Bullet Fields": [
+      "R00315676",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00315676",
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00280650",
+    "Title": "AI Engineer – Generative AI (LLMs)",
+    "Location": "",
+    "Posted Date": "2026-03-11T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Desenvolvedor--a--Inovao---Python---LLMs_R00280650",
+    "External Path": "/job/Sao-Paulo-Torre-Paineira/Desenvolvedor--a--Inovao---Python---LLMs_R00280650",
+    "Bullet Fields": [
+      "R00280650",
+      "Sao Paulo, Torre Paineira"
+    ],
+    "Requisition ID": "R00280650",
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00317213",
+    "Title": "Lab Transformation Manager/Senior Manager",
+    "Location": "",
+    "Posted Date": "2026-03-11T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Lab-Transformation-Manager-Senior-Manager_R00317213",
+    "External Path": "/job/London/Lab-Transformation-Manager-Senior-Manager_R00317213",
+    "Bullet Fields": [
+      "R00317213",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00317213",
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00318068",
+    "Title": "SAP HCM Payroll Associate Manager",
+    "Location": "",
+    "Posted Date": "2026-03-11T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cairo-CO55-Uvenues/SAP-HCM-Payroll-Associate-Manager_R00318068",
+    "External Path": "/job/Cairo-CO55-Uvenues/SAP-HCM-Payroll-Associate-Manager_R00318068",
+    "Bullet Fields": [
+      "R00318068",
+      "Cairo, Co55-Uvenues"
+    ],
+    "Requisition ID": "R00318068",
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
     "Job ID": "00317995",
     "Title": "Senior SAP BPE Consultant (S/4HANA/O2C)",
     "Location": "",
-    "Posted Date": "2026-03-10T00:00:00Z",
+    "Posted Date": "2026-03-11T00:00:00Z",
     "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ho-ChiMinh-Viettel-Building/Senior-SAP-BPE-Consultant--S-4HANA-O2C-_R00317995",
     "External Path": "/job/Ho-ChiMinh-Viettel-Building/Senior-SAP-BPE-Consultant--S-4HANA-O2C-_R00317995",
     "Bullet Fields": [
@@ -11,7 +86,7 @@
       "Ho Chiminh, Viettel Building"
     ],
     "Requisition ID": "R00317995",
-    "Scraped At": "2026-03-10T06:45:07Z",
+    "Scraped At": "2026-03-11T06:51:16Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -26,8 +101,8 @@
       "Buenos Aires"
     ],
     "Requisition ID": "R00305247",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00304064",
@@ -41,8 +116,23 @@
       "London"
     ],
     "Requisition ID": "R00304064",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "",
+    "Title": "",
+    "Location": "",
+    "Posted Date": "",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers",
+    "External Path": "",
+    "Bullet Fields": [
+      "13930354",
+      "Cordoba, Torre Capitalinas"
+    ],
+    "Requisition ID": "13930354",
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": ""
   },
   {
     "Job ID": "00284430",
@@ -56,8 +146,23 @@
       "Birmingham, Cornerblock"
     ],
     "Requisition ID": "R00284430",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00291191",
+    "Title": "Compliance & Ethics Counsel Manager",
+    "Location": "",
+    "Posted Date": "2026-03-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Compliance---Ethics-Counsel-Manager_R00291191",
+    "External Path": "/job/Sao-Paulo-Torre-Paineira/Compliance---Ethics-Counsel-Manager_R00291191",
+    "Bullet Fields": [
+      "R00291191",
+      "Sao Paulo, Torre Paineira"
+    ],
+    "Requisition ID": "R00291191",
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00306646",
@@ -71,8 +176,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00306646",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted 4 Days Ago"
   },
   {
     "Job ID": "00300797",
@@ -86,8 +191,8 @@
       "London"
     ],
     "Requisition ID": "R00300797",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted 4 Days Ago"
   },
   {
     "Job ID": "00301655",
@@ -101,8 +206,8 @@
       "Paris"
     ],
     "Requisition ID": "R00301655",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted 4 Days Ago"
   },
   {
     "Job ID": "00300761-1",
@@ -116,8 +221,8 @@
       "Brussels"
     ],
     "Requisition ID": "R00300761",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted 4 Days Ago"
   },
   {
     "Job ID": "00300795",
@@ -131,8 +236,8 @@
       "Copenhagen K"
     ],
     "Requisition ID": "R00300795",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted 4 Days Ago"
   },
   {
     "Job ID": "00253065",
@@ -146,8 +251,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00253065",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted 4 Days Ago"
   },
   {
     "Job ID": "00300758",
@@ -161,8 +266,8 @@
       "Amsterdam"
     ],
     "Requisition ID": "R00300758",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted 4 Days Ago"
   },
   {
     "Job ID": "00279915",
@@ -176,8 +281,8 @@
       "Amsterdam"
     ],
     "Requisition ID": "R00279915",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted 4 Days Ago"
   },
   {
     "Job ID": "00253074",
@@ -191,112 +296,7 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00253074",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00253070",
-    "Title": "Consultores SAP Billing/FICA/WM/CRM (Utilities/CCS/ISU)",
-    "Location": "",
-    "Posted Date": "2026-03-07T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Recife-Armazem-9/Analistas-e-Consultores-SAP-Utilities---CCS-IS-U_R00253070",
-    "External Path": "/job/Recife-Armazem-9/Analistas-e-Consultores-SAP-Utilities---CCS-IS-U_R00253070",
-    "Bullet Fields": [
-      "R00253070",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00253070",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00253056",
-    "Title": "Consultores SAP ABAP",
-    "Location": "",
-    "Posted Date": "2026-03-07T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-ABAP_R00253056",
-    "External Path": "/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-ABAP_R00253056",
-    "Bullet Fields": [
-      "R00253056",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00253056",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00316974",
-    "Title": "Recruitment Administrator with German",
-    "Location": "",
-    "Posted Date": "2026-03-07T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bucharest-Westgate-Park---Bldg-H1/Talent-Acquisition-Admin-with-German_R00316974",
-    "External Path": "/job/Bucharest-Westgate-Park---Bldg-H1/Talent-Acquisition-Admin-with-German_R00316974",
-    "Bullet Fields": [
-      "R00316974",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00316974",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00265515",
-    "Title": "Data Scientist - Decision Science Insights | Analysts/Experts",
-    "Location": "",
-    "Posted Date": "2026-03-07T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Data-Scientist---Decision-Science-Insights---Analysts-Experts_R00265515",
-    "External Path": "/job/Buenos-Aires/Data-Scientist---Decision-Science-Insights---Analysts-Experts_R00265515",
-    "Bullet Fields": [
-      "R00265515",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00265515",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00316887",
-    "Title": "Analista de Designer Gráfico de Propostas",
-    "Location": "",
-    "Posted Date": "2026-03-07T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-de-Designer-Grfico-de-Propostas_R00316887",
-    "External Path": "/job/Sao-Paulo-Torre-Paineira/Analista-de-Designer-Grfico-de-Propostas_R00316887",
-    "Bullet Fields": [
-      "R00316887",
-      "Sao Paulo, Torre Paineira"
-    ],
-    "Requisition ID": "R00316887",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00253075",
-    "Title": "Consultores SAP TM",
-    "Location": "",
-    "Posted Date": "2026-03-07T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Pessoa-Consultora---SAP-TM_R00253075",
-    "External Path": "/job/Pernambuco---Recife/Pessoa-Consultora---SAP-TM_R00253075",
-    "Bullet Fields": [
-      "R00253075",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00253075",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00253071",
-    "Title": "Consultores SAP Coupa",
-    "Location": "",
-    "Posted Date": "2026-03-07T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Pessoas-Consultoras-COUPA_R00253071",
-    "External Path": "/job/Pernambuco---Recife/Pessoas-Consultoras-COUPA_R00253071",
-    "Bullet Fields": [
-      "R00253071",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00253071",
-    "Scraped At": "2026-03-10T06:45:07Z",
-    "Posted Date Original": "Posted 3 Days Ago"
+    "Scraped At": "2026-03-11T06:51:16Z",
+    "Posted Date Original": "Posted 4 Days Ago"
   }
 ]
