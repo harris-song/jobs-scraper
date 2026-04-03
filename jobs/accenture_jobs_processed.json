@@ -1,5 +1,125 @@
 [
   {
+    "Job ID": "00304955",
+    "Title": "Workday Data Lead (all genders)",
+    "Location": "",
+    "Posted Date": "2026-04-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Workday-Data-Lead--all-genders-_R00304955",
+    "External Path": "/job/London/Workday-Data-Lead--all-genders-_R00304955",
+    "Bullet Fields": [
+      "R00304955",
+      "London"
+    ],
+    "Requisition ID": "R00304955",
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00322486",
+    "Title": "Contracting Counsel Manager",
+    "Location": "",
+    "Posted Date": "2026-04-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Contracting-Counsel-Manager_R00322486",
+    "External Path": "/job/Sao-Paulo-Torre-Paineira/Contracting-Counsel-Manager_R00322486",
+    "Bullet Fields": [
+      "R00322486",
+      "Sao Paulo, Torre Paineira"
+    ],
+    "Requisition ID": "R00322486",
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00320178",
+    "Title": "Innovation counsel Manager GLOBAL SERVICES LEGAL",
+    "Location": "",
+    "Posted Date": "2026-04-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Innovation-counsel-Manager-GLOBAL-SERVICES-LEGAL_R00320178",
+    "External Path": "/job/Sao-Paulo-Torre-Paineira/Innovation-counsel-Manager-GLOBAL-SERVICES-LEGAL_R00320178",
+    "Bullet Fields": [
+      "R00320178",
+      "Sao Paulo, Torre Paineira"
+    ],
+    "Requisition ID": "R00320178",
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00318189",
+    "Title": "Oracle Cloud Recruitment Manager",
+    "Location": "",
+    "Posted Date": "2026-04-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Oracle-Cloud-Recruitment-Manager_R00318189",
+    "External Path": "/job/London/Oracle-Cloud-Recruitment-Manager_R00318189",
+    "Bullet Fields": [
+      "R00318189",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00318189",
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00315224-1",
+    "Title": "Especialista em Contas a Receber",
+    "Location": "",
+    "Posted Date": "2026-04-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Especialista-em-Contas-a-Receber_R00315224-1",
+    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Especialista-em-Contas-a-Receber_R00315224-1",
+    "Bullet Fields": [
+      "R00315224",
+      "Nova Lima, Shopping Alta Vila"
+    ],
+    "Requisition ID": "R00315224",
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00323420",
+    "Title": "Node.js Developer",
+    "Location": "",
+    "Posted Date": "2026-04-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Nodejs-Developer_R00323420",
+    "External Path": "/job/Warsaw/Nodejs-Developer_R00323420",
+    "Bullet Fields": [
+      "R00323420",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00323420",
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00323393",
+    "Title": "Solution Architecture Manager, New Business",
+    "Location": "",
+    "Posted Date": "2026-04-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Birmingham/Solution-Architecture-Manager--New-Business_R00323393",
+    "External Path": "/job/Birmingham/Solution-Architecture-Manager--New-Business_R00323393",
+    "Bullet Fields": [
+      "R00323393",
+      "Birmingham"
+    ],
+    "Requisition ID": "R00323393",
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00282046",
+    "Title": "Infrastructure Technology - Customer Support Engineer",
+    "Location": "",
+    "Posted Date": "2026-04-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Infrastructure-Technology---Customer-Support-Engineer_R00282046",
+    "External Path": "/job/Ebene/Infrastructure-Technology---Customer-Support-Engineer_R00282046",
+    "Bullet Fields": [
+      "R00282046",
+      "Ebene"
+    ],
+    "Requisition ID": "R00282046",
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
     "Job ID": "00308696-1",
     "Title": "Strategy Manager - Resources",
     "Location": "",
@@ -11,8 +131,8 @@
       "London"
     ],
     "Requisition ID": "R00308696",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00322474",
@@ -26,8 +146,8 @@
       "Jakarta"
     ],
     "Requisition ID": "R00322474",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00225019",
@@ -41,8 +161,8 @@
       "Ho Chiminh"
     ],
     "Requisition ID": "R00225019",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00323309",
@@ -56,8 +176,23 @@
       "Heredia"
     ],
     "Requisition ID": "R00323309",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted 2 Days Ago"
+  },
+  {
+    "Job ID": "00309324",
+    "Title": "Consultor SAP SD",
+    "Location": "",
+    "Posted Date": "2026-04-01T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Consultor-SAP-SD--Junior-_R00309324",
+    "External Path": "/job/Santiago/Consultor-SAP-SD--Junior-_R00309324",
+    "Bullet Fields": [
+      "R00309324",
+      "Santiago"
+    ],
+    "Requisition ID": "R00309324",
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00277940",
@@ -71,8 +206,8 @@
       "São Paulo - Barueri"
     ],
     "Requisition ID": "R00277940",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00323149",
@@ -86,8 +221,23 @@
       "Nova Lima, Shopping Alta Vila"
     ],
     "Requisition ID": "R00323149",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted 2 Days Ago"
+  },
+  {
+    "Job ID": "00307001",
+    "Title": "Record to Report Analyst",
+    "Location": "",
+    "Posted Date": "2026-04-01T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/Record-to-Report-Analyst_R00307001",
+    "External Path": "/job/Heredia/Record-to-Report-Analyst_R00307001",
+    "Bullet Fields": [
+      "R00307001",
+      "Heredia"
+    ],
+    "Requisition ID": "R00307001",
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00323226",
@@ -101,8 +251,8 @@
       "Nova Lima, Shopping Alta Vila"
     ],
     "Requisition ID": "R00323226",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00323211",
@@ -116,23 +266,8 @@
       "Nova Lima, Shopping Alta Vila"
     ],
     "Requisition ID": "R00323211",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00318342",
-    "Title": "Marketing Transformation CRM Specialist",
-    "Location": "",
-    "Posted Date": "2026-04-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Marketing-Transformation-CRM-Specialist_R00318342",
-    "External Path": "/job/London/Marketing-Transformation-CRM-Specialist_R00318342",
-    "Bullet Fields": [
-      "R00318342",
-      "London"
-    ],
-    "Requisition ID": "R00318342",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00323128-1",
@@ -146,8 +281,8 @@
       "Buenos Aires"
     ],
     "Requisition ID": "R00323128",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00323120",
@@ -161,142 +296,7 @@
       "Buenos Aires"
     ],
     "Requisition ID": "R00323120",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00323181",
-    "Title": "Content Moderator with English and Polish (Night Shift: 23-7)",
-    "Location": "",
-    "Posted Date": "2026-04-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow/Content-Moderator-with-English-and-Polish--Night-Shift--23--7-_R00323181",
-    "External Path": "/job/Krakow/Content-Moderator-with-English-and-Polish--Night-Shift--23--7-_R00323181",
-    "Bullet Fields": [
-      "R00323181",
-      "Krakow"
-    ],
-    "Requisition ID": "R00323181",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00323168",
-    "Title": "Analista Financeiro Sênior",
-    "Location": "",
-    "Posted Date": "2026-04-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-Financeiro-Snior_R00323168",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-Financeiro-Snior_R00323168",
-    "Bullet Fields": [
-      "R00323168",
-      "Nova Lima, Shopping Alta Vila"
-    ],
-    "Requisition ID": "R00323168",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00323154",
-    "Title": "Analista de Contas a Receber Júnior",
-    "Location": "",
-    "Posted Date": "2026-04-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Contas-a-Receber-Jnior_R00323154",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Contas-a-Receber-Jnior_R00323154",
-    "Bullet Fields": [
-      "R00323154",
-      "Nova Lima, Shopping Alta Vila"
-    ],
-    "Requisition ID": "R00323154",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00323158",
-    "Title": "Analista Contábil Junior",
-    "Location": "",
-    "Posted Date": "2026-04-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-Contbil-Junior_R00323158",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-Contbil-Junior_R00323158",
-    "Bullet Fields": [
-      "R00323158",
-      "Nova Lima, Shopping Alta Vila"
-    ],
-    "Requisition ID": "R00323158",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00314082",
-    "Title": "Customer Experience & Contact Platform Consultant",
-    "Location": "",
-    "Posted Date": "2026-04-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Customer-Experience---Contact-Platform-Consultant_R00314082",
-    "External Path": "/job/London/Customer-Experience---Contact-Platform-Consultant_R00314082",
-    "Bullet Fields": [
-      "R00314082",
-      "London"
-    ],
-    "Requisition ID": "R00314082",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00262171",
-    "Title": "Record to Report Analyst",
-    "Location": "",
-    "Posted Date": "2026-04-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Record-to-Report-Analyst_R00262171",
-    "External Path": "/job/Ebene/Record-to-Report-Analyst_R00262171",
-    "Bullet Fields": [
-      "R00262171",
-      "Ebene"
-    ],
-    "Requisition ID": "R00262171",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00323146",
-    "Title": "Analista de Contas a Pagar Pleno",
-    "Location": "",
-    "Posted Date": "2026-04-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Contas-a-Pagar-Pleno_R00323146",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Contas-a-Pagar-Pleno_R00323146",
-    "Bullet Fields": [
-      "R00323146",
-      "Nova Lima, Shopping Alta Vila"
-    ],
-    "Requisition ID": "R00323146",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00323136",
-    "Title": "Analista Contábil Sênior",
-    "Location": "",
-    "Posted Date": "2026-04-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-Contbil-Snior_R00323136",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-Contbil-Snior_R00323136",
-    "Bullet Fields": [
-      "R00323136",
-      "Nova Lima, Shopping Alta Vila"
-    ],
-    "Requisition ID": "R00323136",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00322729",
-    "Title": "GPS Regional Protective Services Employee Assistance Office Senior Manager",
-    "Location": "",
-    "Posted Date": "2026-04-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/GPS-Regional-Protective-Services-Employee-Assistance-Office-Senior-Manager_R00322729",
-    "External Path": "/job/London/GPS-Regional-Protective-Services-Employee-Assistance-Office-Senior-Manager_R00322729",
-    "Bullet Fields": [
-      "R00322729",
-      "London"
-    ],
-    "Requisition ID": "R00322729",
-    "Scraped At": "2026-04-02T07:08:58Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-03T07:05:03Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   }
 ]
