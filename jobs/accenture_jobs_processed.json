@@ -1,5 +1,65 @@
 [
   {
+    "Job ID": "00316999",
+    "Title": "Business Analyst (Technology - Financial Services)",
+    "Location": "",
+    "Posted Date": "2026-04-27T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Jakarta/Business-Analyst--Technology---Financial-Services-_R00316999",
+    "External Path": "/job/Jakarta/Business-Analyst--Technology---Financial-Services-_R00316999",
+    "Bullet Fields": [
+      "R00316999",
+      "Jakarta"
+    ],
+    "Requisition ID": "R00316999",
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00314055",
+    "Title": "Consulting - Industry Banking",
+    "Location": "",
+    "Posted Date": "2026-04-27T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Jakarta/Consulting---Industry-Banking_R00314055",
+    "External Path": "/job/Jakarta/Consulting---Industry-Banking_R00314055",
+    "Bullet Fields": [
+      "R00314055",
+      "Jakarta"
+    ],
+    "Requisition ID": "R00314055",
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00326616-1",
+    "Title": "Employment Law Counsel Manager",
+    "Location": "",
+    "Posted Date": "2026-04-27T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Employment-Law-Counsel-Manager_R00326616-1",
+    "External Path": "/job/Bengaluru/Employment-Law-Counsel-Manager_R00326616-1",
+    "Bullet Fields": [
+      "R00326616",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00326616",
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00327293-1",
+    "Title": "Licensing Advisor",
+    "Location": "",
+    "Posted Date": "2026-04-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/Licensing-Advisor_R00327293-1",
+    "External Path": "/job/Heredia/Licensing-Advisor_R00327293-1",
+    "Bullet Fields": [
+      "R00327293",
+      "Heredia"
+    ],
+    "Requisition ID": "R00327293",
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
+  },
+  {
     "Job ID": "00253074",
     "Title": "Consultores SAP BTP",
     "Location": "",
@@ -11,8 +71,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00253074",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00253065",
@@ -26,8 +86,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00253065",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00253056",
@@ -41,8 +101,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00253056",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00325848",
@@ -56,8 +116,8 @@
       "Barueri, Green Valley, Andromeda"
     ],
     "Requisition ID": "R00325848",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00322863",
@@ -71,8 +131,38 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00322863",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
+  },
+  {
+    "Job ID": "00294077",
+    "Title": "Customer Experience & Contact Platform Architect - Manager",
+    "Location": "",
+    "Posted Date": "2026-04-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Customer-Platforms-Manager_R00294077",
+    "External Path": "/job/London/Customer-Platforms-Manager_R00294077",
+    "Bullet Fields": [
+      "R00294077",
+      "London"
+    ],
+    "Requisition ID": "R00294077",
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
+  },
+  {
+    "Job ID": "00325055",
+    "Title": "Senior Infrastructure Engineer (GCP)",
+    "Location": "",
+    "Posted Date": "2026-04-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Technical-Training-Consultant_R00325055",
+    "External Path": "/job/Warsaw/Technical-Training-Consultant_R00325055",
+    "Bullet Fields": [
+      "R00325055",
+      "Warsaw"
+    ],
+    "Requisition ID": "R00325055",
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00327509-1",
@@ -86,8 +176,8 @@
       "Barueri, Green Valley, Andromeda"
     ],
     "Requisition ID": "R00327509",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00325839",
@@ -101,8 +191,8 @@
       "Barueri, Green Valley, Andromeda"
     ],
     "Requisition ID": "R00325839",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00275786",
@@ -116,8 +206,8 @@
       "São Paulo - Sao Paulo"
     ],
     "Requisition ID": "R00275786",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00253072-1",
@@ -131,8 +221,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00253072",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00253075",
@@ -146,8 +236,23 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00253075",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
+  },
+  {
+    "Job ID": "00317238",
+    "Title": "Lab Transformation Consultant",
+    "Location": "",
+    "Posted Date": "2026-04-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Lab-Transformation-Consultant_R00317238",
+    "External Path": "/job/London/Lab-Transformation-Consultant_R00317238",
+    "Bullet Fields": [
+      "R00317238",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00317238",
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00327408",
@@ -161,8 +266,8 @@
       "Krakow, High 5Ive Development"
     ],
     "Requisition ID": "R00327408",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00318380",
@@ -176,8 +281,8 @@
       "London"
     ],
     "Requisition ID": "R00318380",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 3 Days Ago"
   },
   {
     "Job ID": "00326269",
@@ -191,112 +296,7 @@
       "Buenos Aires"
     ],
     "Requisition ID": "R00326269",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00326464",
-    "Title": "Sales Excellence – Bid Management Specialist",
-    "Location": "",
-    "Posted Date": "2026-04-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---Bid-Management-Specialist_R00326464",
-    "External Path": "/job/Buenos-Aires/Sales-Excellence---Bid-Management-Specialist_R00326464",
-    "Bullet Fields": [
-      "R00326464",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00326464",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00220444",
-    "Title": "Life Sciences SAP Manager/Consultant",
-    "Location": "",
-    "Posted Date": "2026-04-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Belen-La-Ribera/MedTech-Commercial-Consultant--Analyst--Life-Sciences_R00220444",
-    "External Path": "/job/Belen-La-Ribera/MedTech-Commercial-Consultant--Analyst--Life-Sciences_R00220444",
-    "Bullet Fields": [
-      "R00220444",
-      "Belen, La Ribera"
-    ],
-    "Requisition ID": "R00220444",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00326348",
-    "Title": "Sales Excellence - Proposal Management Associate Manager",
-    "Location": "",
-    "Posted Date": "2026-04-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---Proposal-Management-Associate-Manager_R00326348",
-    "External Path": "/job/Buenos-Aires/Sales-Excellence---Proposal-Management-Associate-Manager_R00326348",
-    "Bullet Fields": [
-      "R00326348",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00326348",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00326346-1",
-    "Title": "Sales Excellence - Graphic Design Analyst",
-    "Location": "",
-    "Posted Date": "2026-04-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---Graphic-Design-Analyst_R00326346-1",
-    "External Path": "/job/Buenos-Aires/Sales-Excellence---Graphic-Design-Analyst_R00326346-1",
-    "Bullet Fields": [
-      "R00326346",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00326346",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00326265",
-    "Title": "Sales Excellence - Graphic & Visual Design Senior Analyst",
-    "Location": "",
-    "Posted Date": "2026-04-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---Graphic---Visual-Design-Senior-Analyst_R00326265",
-    "External Path": "/job/Buenos-Aires/Sales-Excellence---Graphic---Visual-Design-Senior-Analyst_R00326265",
-    "Bullet Fields": [
-      "R00326265",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00326265",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00326080",
-    "Title": "Deal Structuring & Pricing - Pricing Architect Senior Analyst",
-    "Location": "",
-    "Posted Date": "2026-04-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Deal-Structuring---Pricing---Pricing-Architect-Senior-Analyst_R00326080",
-    "External Path": "/job/Buenos-Aires/Deal-Structuring---Pricing---Pricing-Architect-Senior-Analyst_R00326080",
-    "Bullet Fields": [
-      "R00326080",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00326080",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 3 Days Ago"
-  },
-  {
-    "Job ID": "00307900-1",
-    "Title": "Sales Excellence - COE - Business Intelligence Specialist",
-    "Location": "",
-    "Posted Date": "2026-04-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---COE---Business-Intelligence-Specialist_R00307900-1",
-    "External Path": "/job/Buenos-Aires/Sales-Excellence---COE---Business-Intelligence-Specialist_R00307900-1",
-    "Bullet Fields": [
-      "R00307900",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00307900",
-    "Scraped At": "2026-04-26T07:25:40Z",
-    "Posted Date Original": "Posted 3 Days Ago"
+    "Scraped At": "2026-04-27T08:20:24Z",
+    "Posted Date Original": "Posted 4 Days Ago"
   }
 ]
