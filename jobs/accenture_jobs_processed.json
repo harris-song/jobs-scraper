@@ -1,5 +1,110 @@
 [
   {
+    "Job ID": "00328090",
+    "Title": "Customer Service Associate",
+    "Location": "",
+    "Posted Date": "2026-04-29T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Customer-Service-Associate_R00328090",
+    "External Path": "/job/Ebene/Customer-Service-Associate_R00328090",
+    "Bullet Fields": [
+      "R00328090",
+      "Ebene"
+    ],
+    "Requisition ID": "R00328090",
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00328084",
+    "Title": "Senior Java Developer",
+    "Location": "",
+    "Posted Date": "2026-04-29T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riga/Senior-Java-Developer_R00328084",
+    "External Path": "/job/Riga/Senior-Java-Developer_R00328084",
+    "Bullet Fields": [
+      "R00328084",
+      "Riga"
+    ],
+    "Requisition ID": "R00328084",
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00327989",
+    "Title": "Senior Internal Audit Manager",
+    "Location": "",
+    "Posted Date": "2026-04-28T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/San-Jose-Plaza-Real-Cariari/Senior-Internal-Audit-Manager_R00327989",
+    "External Path": "/job/San-Jose-Plaza-Real-Cariari/Senior-Internal-Audit-Manager_R00327989",
+    "Bullet Fields": [
+      "R00327989",
+      "San Jose, Plaza Real Cariari"
+    ],
+    "Requisition ID": "R00327989",
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00317135-1",
+    "Title": "SAP Maintenance Functional Consultant - Master Data Governance (MDG)",
+    "Location": "",
+    "Posted Date": "2026-04-28T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sofia/SAP-Maintenance-Functional-Consultant---Master-Data-Governance--MDG-_R00317135-1",
+    "External Path": "/job/Sofia/SAP-Maintenance-Functional-Consultant---Master-Data-Governance--MDG-_R00317135-1",
+    "Bullet Fields": [
+      "R00317135",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00317135",
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00319334-1",
+    "Title": "SAP BI/BW Lead/Senior Consultant",
+    "Location": "",
+    "Posted Date": "2026-04-28T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sofia/SAP-BI-BW-Lead-Senior-Consultant_R00319334-1",
+    "External Path": "/job/Sofia/SAP-BI-BW-Lead-Senior-Consultant_R00319334-1",
+    "Bullet Fields": [
+      "R00319334",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00319334",
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00281175",
+    "Title": "Operador de Service Desk – Espanhol Avançado",
+    "Location": "",
+    "Posted Date": "2026-04-28T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Agente-de-Atendimento-ao-Cliente---Espanhol-Avanado_R00281175",
+    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Agente-de-Atendimento-ao-Cliente---Espanhol-Avanado_R00281175",
+    "Bullet Fields": [
+      "R00281175",
+      "Nova Lima, Shopping Alta Vila"
+    ],
+    "Requisition ID": "R00281175",
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00311038",
+    "Title": "HR Opportunities with Dutch",
+    "Location": "",
+    "Posted Date": "2026-04-28T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bucharest/HR-Opportunities-with-Dutch_R00311038",
+    "External Path": "/job/Bucharest/HR-Opportunities-with-Dutch_R00311038",
+    "Bullet Fields": [
+      "R00311038",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00311038",
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
     "Job ID": "00327849",
     "Title": "Change Management Consultant T&O",
     "Location": "",
@@ -11,8 +116,8 @@
       "Cairo, Co55-Uvenues"
     ],
     "Requisition ID": "R00327849",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00282161",
@@ -26,8 +131,8 @@
       "Ebene"
     ],
     "Requisition ID": "R00282161",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00282155",
@@ -41,8 +146,8 @@
       "Ebene"
     ],
     "Requisition ID": "R00282155",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00282126",
@@ -56,8 +161,8 @@
       "Ebene"
     ],
     "Requisition ID": "R00282126",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00292155",
@@ -71,8 +176,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00292155",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00327792",
@@ -86,8 +191,8 @@
       "Fortaleza, Scopa Platinum Corporate"
     ],
     "Requisition ID": "R00327792",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00327784",
@@ -101,8 +206,8 @@
       "Fortaleza, Scopa Platinum Corporate"
     ],
     "Requisition ID": "R00327784",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00327783-1",
@@ -116,23 +221,8 @@
       "Nova Lima, Shopping Alta Vila"
     ],
     "Requisition ID": "R00327783",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00327781",
-    "Title": "Gerente de Compras - Híbrido",
-    "Location": "",
-    "Posted Date": "2026-04-27T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Fortaleza-Scopa-Platinum-Corporate/Gerente-de-Compras---Hbrido_R00327781",
-    "External Path": "/job/Fortaleza-Scopa-Platinum-Corporate/Gerente-de-Compras---Hbrido_R00327781",
-    "Bullet Fields": [
-      "R00327781",
-      "Fortaleza, Scopa Platinum Corporate"
-    ],
-    "Requisition ID": "R00327781",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00327776-1",
@@ -146,8 +236,8 @@
       "Nova Lima, Shopping Alta Vila"
     ],
     "Requisition ID": "R00327776",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00327774-1",
@@ -161,8 +251,8 @@
       "Nova Lima, Shopping Alta Vila"
     ],
     "Requisition ID": "R00327774",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00323136",
@@ -176,8 +266,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00323136",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00327759",
@@ -191,8 +281,8 @@
       "Fortaleza, Scopa Platinum Corporate"
     ],
     "Requisition ID": "R00327759",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00327748-1",
@@ -206,97 +296,7 @@
       "Nova Lima, Shopping Alta Vila"
     ],
     "Requisition ID": "R00327748",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00323309",
-    "Title": "Licensing Associate Manager",
-    "Location": "",
-    "Posted Date": "2026-04-27T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/Licensing-Associate-Manager_R00323309",
-    "External Path": "/job/Heredia/Licensing-Associate-Manager_R00323309",
-    "Bullet Fields": [
-      "R00323309",
-      "Heredia"
-    ],
-    "Requisition ID": "R00323309",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00327734",
-    "Title": "Analista de Recrutamento e Seleção",
-    "Location": "",
-    "Posted Date": "2026-04-27T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Recrutamento-e-Seleo_R00327734",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Recrutamento-e-Seleo_R00327734",
-    "Bullet Fields": [
-      "R00327734",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00327734",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00323033",
-    "Title": "Analista de Contas a Pagar Sênior (Inglês Avançado) - Hibrido",
-    "Location": "",
-    "Posted Date": "2026-04-27T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-Snior-de-Processamento-de-Faturas---Ingls-Avanado_R00323033",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-Snior-de-Processamento-de-Faturas---Ingls-Avanado_R00323033",
-    "Bullet Fields": [
-      "R00323033",
-      "Nova Lima, Shopping Alta Vila"
-    ],
-    "Requisition ID": "R00323033",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00327709-1",
-    "Title": "Analista Sr. de Torre de Controle Logístico - Inglês Intermediário(Híbrido)",
-    "Location": "",
-    "Posted Date": "2026-04-27T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-Sr-de-Torre-de-Controle-Logstico---Ingls-Intermedirio-Hbrido-_R00327709-1",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-Sr-de-Torre-de-Controle-Logstico---Ingls-Intermedirio-Hbrido-_R00327709-1",
-    "Bullet Fields": [
-      "R00327709",
-      "Nova Lima, Shopping Alta Vila"
-    ],
-    "Requisition ID": "R00327709",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00327699-1",
-    "Title": "Especialista de Logística Reversa - Inglês Avançado (Híbrido)",
-    "Location": "",
-    "Posted Date": "2026-04-27T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Especialista-de-Logstica-Reversa---Ingls-Avanado--Hbrido-_R00327699-1",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Especialista-de-Logstica-Reversa---Ingls-Avanado--Hbrido-_R00327699-1",
-    "Bullet Fields": [
-      "R00327699",
-      "Nova Lima, Shopping Alta Vila"
-    ],
-    "Requisition ID": "R00327699",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00327688-1",
-    "Title": "Especialista Sênior de Torre de Controle Logístico - Inglês Avançado (Híbrido)",
-    "Location": "",
-    "Posted Date": "2026-04-27T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Especialista-Snior-de-Torre-de-Controle-Logstico---Ingls-Avanado--Hbrido-_R00327688-1",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Especialista-Snior-de-Torre-de-Controle-Logstico---Ingls-Avanado--Hbrido-_R00327688-1",
-    "Bullet Fields": [
-      "R00327688",
-      "Nova Lima, Shopping Alta Vila"
-    ],
-    "Requisition ID": "R00327688",
-    "Scraped At": "2026-04-28T08:22:13Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-04-29T08:13:29Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   }
 ]
