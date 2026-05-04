@@ -325,15 +325,15 @@
     "Job ID": "1998353",
     "Title": "Senior NPI Program Manager - Datacenter Server Products",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2026-03-19T00:00:00Z",
+    "Posted Date": "2026-05-03T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-NPI-Program-Manager---Datacenter-Server-Products_JR1998353",
     "External Path": "/job/US-CA-Santa-Clara/Senior-NPI-Program-Manager---Datacenter-Server-Products_JR1998353",
     "Bullet Fields": [
       "JR1998353"
     ],
     "Requisition ID": "JR1998353",
-    "Scraped At": "2026-03-19T06:56:22Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "1998579",
@@ -7927,14 +7927,14 @@
     "Job ID": "2002276",
     "Title": "Senior Platform Telemetry Engineer",
     "Location": "2 Locations",
-    "Posted Date": "2026-04-26T00:00:00Z",
+    "Posted Date": "2026-05-03T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Telemetry-Engineer_JR2002276",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Platform-Telemetry-Engineer_JR2002276",
     "Bullet Fields": [
       "JR2002276"
     ],
     "Requisition ID": "JR2002276",
-    "Scraped At": "2026-04-27T08:20:30Z",
+    "Scraped At": "2026-05-04T08:26:58Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
@@ -39203,14 +39203,14 @@
     "Job ID": "2014633",
     "Title": "Senior Platform and EngOps Engineer - Cluster Operations",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2026-04-25T00:00:00Z",
+    "Posted Date": "2026-05-03T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-and-EngOps-Engineer---Cluster-Operations_JR2014633",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Platform-and-EngOps-Engineer---Cluster-Operations_JR2014633",
     "Bullet Fields": [
       "JR2014633"
     ],
     "Requisition ID": "JR2014633",
-    "Scraped At": "2026-04-26T07:26:12Z",
+    "Scraped At": "2026-05-04T08:26:58Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
@@ -45414,5 +45414,243 @@
     "Requisition ID": "JR2015993",
     "Scraped At": "2026-05-03T07:59:25Z",
     "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2016600",
+    "Title": "Senior Data Engineer, NSV",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Hai/Senior-Data-Engineer--NSV_JR2016600",
+    "External Path": "/job/Israel-Tel-Hai/Senior-Data-Engineer--NSV_JR2016600",
+    "Bullet Fields": [
+      "JR2016600"
+    ],
+    "Requisition ID": "JR2016600",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2012610",
+    "Title": "Firmware QA Engineer",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Firmware-QA-Engineer_JR2012610",
+    "External Path": "/job/Israel-Yokneam/Firmware-QA-Engineer_JR2012610",
+    "Bullet Fields": [
+      "JR2012610"
+    ],
+    "Requisition ID": "JR2012610",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2015897",
+    "Title": "Automation QA Engineer",
+    "Location": "3 Locations",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Automation-QA-Engineer_JR2015897",
+    "External Path": "/job/Israel-Raanana/Automation-QA-Engineer_JR2015897",
+    "Bullet Fields": [
+      "JR2015897"
+    ],
+    "Requisition ID": "JR2015897",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2016538-1",
+    "Title": "Software QA Engineer",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-QA-Engineer_JR2016538-1",
+    "External Path": "/job/Israel-Yokneam/Software-QA-Engineer_JR2016538-1",
+    "Bullet Fields": [
+      "JR2016538"
+    ],
+    "Requisition ID": "JR2016538",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017420",
+    "Title": "Director, Site Reliability and Software Engineering - DGX Cloud",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Site-Reliability-and-Software-Engineering---DGX-Cloud_JR2017420",
+    "External Path": "/job/US-CA-Santa-Clara/Director--Site-Reliability-and-Software-Engineering---DGX-Cloud_JR2017420",
+    "Bullet Fields": [
+      "JR2017420"
+    ],
+    "Requisition ID": "JR2017420",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017338",
+    "Title": "Distinguished Site Reliability Engineer - Cloud",
+    "Location": "6 Locations",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Remote/Distinguished-Site-Reliability-Engineer---Cloud_JR2017338",
+    "External Path": "/job/US-WA-Remote/Distinguished-Site-Reliability-Engineer---Cloud_JR2017338",
+    "Bullet Fields": [
+      "JR2017338"
+    ],
+    "Requisition ID": "JR2017338",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017452-1",
+    "Title": "Senior Manager, DGX Cloud Technical Program Management",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--DGX-Cloud-Technical-Program-Management_JR2017452-1",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Manager--DGX-Cloud-Technical-Program-Management_JR2017452-1",
+    "Bullet Fields": [
+      "JR2017452"
+    ],
+    "Requisition ID": "JR2017452",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017456",
+    "Title": "Senior Technical Program Manager - DGX Cloud Infra Security",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---DGX-Cloud-Infra-Security_JR2017456",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---DGX-Cloud-Infra-Security_JR2017456",
+    "Bullet Fields": [
+      "JR2017456"
+    ],
+    "Requisition ID": "JR2017456",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017458",
+    "Title": "Senior Technical Program Manager, DGX Cloud - Trust Services",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud---Trust-Services_JR2017458",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud---Trust-Services_JR2017458",
+    "Bullet Fields": [
+      "JR2017458"
+    ],
+    "Requisition ID": "JR2017458",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017309",
+    "Title": "Senior Technical Program Manager, DGX Cloud Software Products and Services",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud-Software-Products-and-Services_JR2017309",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud-Software-Products-and-Services_JR2017309",
+    "Bullet Fields": [
+      "JR2017309"
+    ],
+    "Requisition ID": "JR2017309",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2016363",
+    "Title": "Physical Design Backend Engineer",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Physical-Design-Backend-Engineer_JR2016363",
+    "External Path": "/job/Israel-Tel-Aviv/Physical-Design-Backend-Engineer_JR2016363",
+    "Bullet Fields": [
+      "JR2016363"
+    ],
+    "Requisition ID": "JR2016363",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2016759",
+    "Title": "Software Manager, Infra Tools AI Team",
+    "Location": "Israel, Raanana",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Manager--Infra-Tools-AI_JR2016759",
+    "External Path": "/job/Israel-Raanana/Manager--Infra-Tools-AI_JR2016759",
+    "Bullet Fields": [
+      "JR2016759"
+    ],
+    "Requisition ID": "JR2016759",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017455",
+    "Title": "Senior Product Manager – AIOps",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-03T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---AIOps_JR2017455",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Product-Manager---AIOps_JR2017455",
+    "Bullet Fields": [
+      "JR2017455"
+    ],
+    "Requisition ID": "JR2017455",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2017170-1",
+    "Title": "Senior IC System Level Test Product Lead",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-IC-System-Level-Test-Product-Lead_JR2017170-1",
+    "External Path": "/job/Israel-Yokneam/Senior-IC-System-Level-Test-Product-Lead_JR2017170-1",
+    "Bullet Fields": [
+      "JR2017170"
+    ],
+    "Requisition ID": "JR2017170",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017174",
+    "Title": "Senior Thermal Validation Engineer",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Thermal-Validation-Engineer_JR2017174",
+    "External Path": "/job/Israel-Yokneam/Senior-Thermal-Validation-Engineer_JR2017174",
+    "Bullet Fields": [
+      "JR2017174"
+    ],
+    "Requisition ID": "JR2017174",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017438-1",
+    "Title": "Senior Solutions Architect, Edge AI and Professional Visualization",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-03T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Edge-AI-and-Professional-Visualization_JR2017438-1",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Edge-AI-and-Professional-Visualization_JR2017438-1",
+    "Bullet Fields": [
+      "JR2017438"
+    ],
+    "Requisition ID": "JR2017438",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2017315",
+    "Title": "ASIC Design Engineer",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-05-04T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Design-Engineer_JR2017315",
+    "External Path": "/job/India-Bengaluru/ASIC-Design-Engineer_JR2017315",
+    "Bullet Fields": [
+      "JR2017315"
+    ],
+    "Requisition ID": "JR2017315",
+    "Scraped At": "2026-05-04T08:26:58Z",
+    "Posted Date Original": "Posted Today"
   }
 ]
