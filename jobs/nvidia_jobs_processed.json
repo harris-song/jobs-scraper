@@ -787,14 +787,14 @@
     "Job ID": "1997726",
     "Title": "Engineering Manager - OpenBMC Platform",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2026-04-30T00:00:00Z",
+    "Posted Date": "2026-05-06T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Engineering---Data-Center-Management_JR1997726",
     "External Path": "/job/US-CA-Santa-Clara/Manager--Engineering---Data-Center-Management_JR1997726",
     "Bullet Fields": [
       "JR1997726"
     ],
     "Requisition ID": "JR1997726",
-    "Scraped At": "2026-05-01T08:09:30Z",
+    "Scraped At": "2026-05-07T08:30:41Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
@@ -27849,14 +27849,14 @@
     "Job ID": "2010699",
     "Title": "Software Development Engineer in Test - SDET",
     "Location": "Vietnam, Ho Chi Minh City",
-    "Posted Date": "2026-01-03T00:00:00Z",
+    "Posted Date": "2026-05-07T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Ho-Chi-Minh-City/Software-Development-Engineer-in-Test---SDET_JR2010699",
     "External Path": "/job/Vietnam-Ho-Chi-Minh-City/Software-Development-Engineer-in-Test---SDET_JR2010699",
     "Bullet Fields": [
       "JR2010699"
     ],
     "Requisition ID": "JR2010699",
-    "Scraped At": "2026-01-03T06:28:56Z",
+    "Scraped At": "2026-05-07T08:30:41Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -31083,15 +31083,15 @@
     "Job ID": "2011694-1",
     "Title": "Senior Developer Technology Engineer - Windows AI Platform",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2026-01-23T00:00:00Z",
+    "Posted Date": "2026-05-06T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Windows-AI-Platform_JR2011694-1",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Windows-AI-Platform_JR2011694-1",
     "Bullet Fields": [
       "JR2011694"
     ],
     "Requisition ID": "JR2011694",
-    "Scraped At": "2026-01-23T06:32:51Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "2011752",
@@ -33827,15 +33827,15 @@
     "Job ID": "2011939",
     "Title": "Senior Software Verification Engineer",
     "Location": "Israel, Yokneam",
-    "Posted Date": "2026-02-09T00:00:00Z",
+    "Posted Date": "2026-05-06T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Verification-Engineer_JR2011939",
     "External Path": "/job/Israel-Yokneam/Senior-Software-Verification-Engineer_JR2011939",
     "Bullet Fields": [
       "JR2011939"
     ],
     "Requisition ID": "JR2011939",
-    "Scraped At": "2026-02-09T07:02:14Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "2000912",
@@ -45918,5 +45918,229 @@
     "Requisition ID": "JR2015382",
     "Scraped At": "2026-05-05T08:06:19Z",
     "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2015259",
+    "Title": "Senior System Hardware Engineer",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Hardware-Engineer_JR2015259",
+    "External Path": "/job/Israel-Yokneam/Senior-System-Hardware-Engineer_JR2015259",
+    "Bullet Fields": [
+      "JR2015259"
+    ],
+    "Requisition ID": "JR2015259",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2015016",
+    "Title": "Senior Mixed Signal Design Engineer",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Mixed-Signal-Design-Engineer_JR2015016",
+    "External Path": "/job/Taiwan-Taipei/Senior-Mixed-Signal-Design-Engineer_JR2015016",
+    "Bullet Fields": [
+      "JR2015016"
+    ],
+    "Requisition ID": "JR2015016",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2016815",
+    "Title": "Cybersecurity Manager - India",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-07T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Cybersecurity-Manager---India_JR2016815",
+    "External Path": "/job/India-Pune/Cybersecurity-Manager---India_JR2016815",
+    "Bullet Fields": [
+      "JR2016815"
+    ],
+    "Requisition ID": "JR2016815",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2012398",
+    "Title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+    "External Path": "/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+    "Bullet Fields": [
+      "JR2012398"
+    ],
+    "Requisition ID": "JR2012398",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2017450",
+    "Title": "Senior Research Engineer, Robotics Systems",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer--Robotics-Systems_JR2017450",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Research-Engineer--Robotics-Systems_JR2017450",
+    "Bullet Fields": [
+      "JR2017450"
+    ],
+    "Requisition ID": "JR2017450",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2016831-1",
+    "Title": "Senior System Software Engineer - AI Performance and Efficiency Tools",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AI-Performance-and-Efficiency-Tools_JR2016831-1",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AI-Performance-and-Efficiency-Tools_JR2016831-1",
+    "Bullet Fields": [
+      "JR2016831"
+    ],
+    "Requisition ID": "JR2016831",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2017261",
+    "Title": "Cloud Security Architecture Lead",
+    "Location": "3 Locations",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Cloud-Security-Architecture-Lead_JR2017261",
+    "External Path": "/job/US-CA-Remote/Cloud-Security-Architecture-Lead_JR2017261",
+    "Bullet Fields": [
+      "JR2017261"
+    ],
+    "Requisition ID": "JR2017261",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2017203",
+    "Title": "Senior Software Systems Engineer - Autonomous Vehicles",
+    "Location": "3 Locations",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Systems-Engineer---Autonomous-Vehicles_JR2017203",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Systems-Engineer---Autonomous-Vehicles_JR2017203",
+    "Bullet Fields": [
+      "JR2017203"
+    ],
+    "Requisition ID": "JR2017203",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2017600",
+    "Title": "Senior Account Manager, Digital Devices - Healthcare",
+    "Location": "4 Locations",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager---Digital-Device-ISV_JR2017600",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Account-Manager---Digital-Device-ISV_JR2017600",
+    "Bullet Fields": [
+      "JR2017600"
+    ],
+    "Requisition ID": "JR2017600",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2013066-1",
+    "Title": "Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence",
+    "Location": "6 Locations",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--C---and-CUDA---Analytics-and-Data-Intelligence_JR2013066-1",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--C---and-CUDA---Analytics-and-Data-Intelligence_JR2013066-1",
+    "Bullet Fields": [
+      "JR2013066"
+    ],
+    "Requisition ID": "JR2013066",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2012546",
+    "Title": "Senior Formal Verification Engineer - LPU",
+    "Location": "Canada, Remote",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Formal-Verification-Engineer_JR2012546",
+    "External Path": "/job/Canada-Remote/Senior-Formal-Verification-Engineer_JR2012546",
+    "Bullet Fields": [
+      "JR2012546"
+    ],
+    "Requisition ID": "JR2012546",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2012478",
+    "Title": "Senior Formal Verification Engineer - LPU",
+    "Location": "5 Locations",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Formal-Verification-Engineer_JR2012478",
+    "External Path": "/job/US-CA-Remote/Senior-Formal-Verification-Engineer_JR2012478",
+    "Bullet Fields": [
+      "JR2012478"
+    ],
+    "Requisition ID": "JR2012478",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2017581",
+    "Title": "ASIC Design Engineer - New College Grad 2026",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581",
+    "External Path": "/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581",
+    "Bullet Fields": [
+      "JR2017581"
+    ],
+    "Requisition ID": "JR2017581",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2017589",
+    "Title": "Senior Account Manager - Financial Services",
+    "Location": "6 Locations",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NY-Remote/Senior-Account-Manager---Financial-Services_JR2017589",
+    "External Path": "/job/US-NY-Remote/Senior-Account-Manager---Financial-Services_JR2017589",
+    "Bullet Fields": [
+      "JR2017589"
+    ],
+    "Requisition ID": "JR2017589",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2017633",
+    "Title": "Verification Engineer - New College Grad 2026",
+    "Location": "3 Locations",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2017633",
+    "External Path": "/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2017633",
+    "Bullet Fields": [
+      "JR2017633"
+    ],
+    "Requisition ID": "JR2017633",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2016267",
+    "Title": "Business Development Manager, Global Public Sector",
+    "Location": "3 Locations",
+    "Posted Date": "2026-05-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-FL-Remote/Business-Development-Manager--Global-Public-Sector_JR2016267",
+    "External Path": "/job/US-FL-Remote/Business-Development-Manager--Global-Public-Sector_JR2016267",
+    "Bullet Fields": [
+      "JR2016267"
+    ],
+    "Requisition ID": "JR2016267",
+    "Scraped At": "2026-05-07T08:30:41Z",
+    "Posted Date Original": "Posted Yesterday"
   }
 ]
