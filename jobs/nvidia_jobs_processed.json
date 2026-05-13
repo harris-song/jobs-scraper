@@ -18497,14 +18497,14 @@
     "Job ID": "2002433",
     "Title": "Networking Lead - NVIS New Product Introduction",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2025-10-29T00:00:00Z",
+    "Posted Date": "2026-05-13T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Networking-Lead---NVIS-New-Product-Introduction_JR2002433",
     "External Path": "/job/US-CA-Santa-Clara/Networking-Lead---NVIS-New-Product-Introduction_JR2002433",
     "Bullet Fields": [
       "JR2002433"
     ],
     "Requisition ID": "JR2002433",
-    "Scraped At": "2025-10-29T06:28:30Z",
+    "Scraped At": "2026-05-13T08:42:03Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -36191,17 +36191,17 @@
   },
   {
     "Job ID": "2012791",
-    "Title": "Senior DevOps Engineer, AIOPs",
+    "Title": "Senior Site Reliability Engineer, AIOPs",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2026-02-24T00:00:00Z",
+    "Posted Date": "2026-05-12T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-Engineer--AIOPs_JR2012791",
     "External Path": "/job/US-CA-Santa-Clara/Senior-DevOps-Engineer--AIOPs_JR2012791",
     "Bullet Fields": [
       "JR2012791"
     ],
     "Requisition ID": "JR2012791",
-    "Scraped At": "2026-02-24T07:19:11Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "2008573",
@@ -47093,6 +47093,258 @@
     ],
     "Requisition ID": "JR2017666",
     "Scraped At": "2026-05-12T08:36:38Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013078",
+    "Title": "Chip Design Verification Student",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-Verification-Student_JR2013078",
+    "External Path": "/job/Israel-Tel-Aviv/Chip-Design-Verification-Student_JR2013078",
+    "Bullet Fields": [
+      "JR2013078"
+    ],
+    "Requisition ID": "JR2013078",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2015902",
+    "Title": "Firmware Student",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Student_JR2015902",
+    "External Path": "/job/Israel-Tel-Aviv/Firmware-Student_JR2015902",
+    "Bullet Fields": [
+      "JR2015902"
+    ],
+    "Requisition ID": "JR2015902",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017512",
+    "Title": "Chip Design Verification Engineer",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2017512",
+    "External Path": "/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2017512",
+    "Bullet Fields": [
+      "JR2017512"
+    ],
+    "Requisition ID": "JR2017512",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017938",
+    "Title": "Firmware PCIe Engineer",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Firmware-PCIe-Engineer_JR2017938",
+    "External Path": "/job/Israel-Yokneam/Firmware-PCIe-Engineer_JR2017938",
+    "Bullet Fields": [
+      "JR2017938"
+    ],
+    "Requisition ID": "JR2017938",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017984",
+    "Title": "Software Manager, SPE",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Manager--SPE_JR2017984",
+    "External Path": "/job/Israel-Yokneam/Software-Manager--SPE_JR2017984",
+    "Bullet Fields": [
+      "JR2017984"
+    ],
+    "Requisition ID": "JR2017984",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017703",
+    "Title": "Senior Applied Researcher, LLM Agents",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Applied-Researcher--LLM-Agents_JR2017703",
+    "External Path": "/job/Israel-Tel-Aviv/Senior-Applied-Researcher--LLM-Agents_JR2017703",
+    "Bullet Fields": [
+      "JR2017703"
+    ],
+    "Requisition ID": "JR2017703",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017780",
+    "Title": "Senior Deep Learning Research Engineer, LLM Inference",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Deep-Learning-Research-Engineer--LLM-Inference_JR2017780",
+    "External Path": "/job/Israel-Tel-Aviv/Senior-Deep-Learning-Research-Engineer--LLM-Inference_JR2017780",
+    "Bullet Fields": [
+      "JR2017780"
+    ],
+    "Requisition ID": "JR2017780",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017410-1",
+    "Title": "Senior Deep Learning Researcher, LLM Inference",
+    "Location": "Israel, Tel Aviv",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Deep-Learning-Researcher--LLM-Inference_JR2017410-1",
+    "External Path": "/job/Israel-Tel-Aviv/Senior-Deep-Learning-Researcher--LLM-Inference_JR2017410-1",
+    "Bullet Fields": [
+      "JR2017410"
+    ],
+    "Requisition ID": "JR2017410",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017818-1",
+    "Title": "Senior Memory Controller Verification Engineer",
+    "Location": "Canada, Toronto",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/Senior-Memory-Controller-Verification-Engineer_JR2017818-1",
+    "External Path": "/job/Canada-Toronto/Senior-Memory-Controller-Verification-Engineer_JR2017818-1",
+    "Bullet Fields": [
+      "JR2017818"
+    ],
+    "Requisition ID": "JR2017818",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2018050",
+    "Title": "Senior ASIC Verification Engineer",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer_JR2018050",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer_JR2018050",
+    "Bullet Fields": [
+      "JR2018050"
+    ],
+    "Requisition ID": "JR2018050",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017579",
+    "Title": "Senior Power and Thermal Engineer - Feature Design and Verification ",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Power-and-Thermal-Engineer---Feature-Design-and-Verification-_JR2017579",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Power-and-Thermal-Engineer---Feature-Design-and-Verification-_JR2017579",
+    "Bullet Fields": [
+      "JR2017579"
+    ],
+    "Requisition ID": "JR2017579",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017808",
+    "Title": "Formal Verification Engineer - New College Graduate",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Gurugram/Formal-Verification-Engineer---New-College-Graduate_JR2017808",
+    "External Path": "/job/India-Gurugram/Formal-Verification-Engineer---New-College-Graduate_JR2017808",
+    "Bullet Fields": [
+      "JR2017808"
+    ],
+    "Requisition ID": "JR2017808",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017971",
+    "Title": "Senior Verification Engineer",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Verification-Engineer_JR2017971",
+    "External Path": "/job/India-Bengaluru/Senior-Verification-Engineer_JR2017971",
+    "Bullet Fields": [
+      "JR2017971"
+    ],
+    "Requisition ID": "JR2017971",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017986",
+    "Title": "ASIC Verification Engineer",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Verification-Engineer_JR2017986",
+    "External Path": "/job/India-Bengaluru/ASIC-Verification-Engineer_JR2017986",
+    "Bullet Fields": [
+      "JR2017986"
+    ],
+    "Requisition ID": "JR2017986",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013136-1",
+    "Title": "Senior System Software Engineer, Client Embedded Controller",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-System-Software-Engineer--Client-Embedded-Controller_JR2013136-1",
+    "External Path": "/job/Taiwan-Taipei/Senior-System-Software-Engineer--Client-Embedded-Controller_JR2013136-1",
+    "Bullet Fields": [
+      "JR2013136"
+    ],
+    "Requisition ID": "JR2013136",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2013134",
+    "Title": "Senior System BIOS Firmware Developer, Client Product",
+    "Location": "Taiwan, Taipei",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-System-BIOS-Firmware-Developer--Client-Product_JR2013134",
+    "External Path": "/job/Taiwan-Taipei/Senior-System-BIOS-Firmware-Developer--Client-Product_JR2013134",
+    "Bullet Fields": [
+      "JR2013134"
+    ],
+    "Requisition ID": "JR2013134",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017059",
+    "Title": "System Application Engineer",
+    "Location": "3 Locations",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/System-Application-Engineer_JR2017059",
+    "External Path": "/job/China-Beijing/System-Application-Engineer_JR2017059",
+    "Bullet Fields": [
+      "JR2017059"
+    ],
+    "Requisition ID": "JR2017059",
+    "Scraped At": "2026-05-13T08:42:03Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017776",
+    "Title": "Solutions Architect, Pre-training and Post-training",
+    "Location": "Korea, Seoul",
+    "Posted Date": "2026-05-13T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Korea-Seoul/Solutions-Architect--Pre-training-and-Post-training_JR2017776",
+    "External Path": "/job/Korea-Seoul/Solutions-Architect--Pre-training-and-Post-training_JR2017776",
+    "Bullet Fields": [
+      "JR2017776"
+    ],
+    "Requisition ID": "JR2017776",
+    "Scraped At": "2026-05-13T08:42:03Z",
     "Posted Date Original": "Posted Today"
   }
 ]
