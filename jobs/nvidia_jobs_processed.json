@@ -745,14 +745,14 @@
     "Job ID": "1973150",
     "Title": "Senior Software Architect - Data Center Systems",
     "Location": "6 Locations",
-    "Posted Date": "2026-04-30T00:00:00Z",
+    "Posted Date": "2026-05-14T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Architect---Data-Center-Systems_JR1973150",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Architect---Data-Center-Systems_JR1973150",
     "Bullet Fields": [
       "JR1973150"
     ],
     "Requisition ID": "JR1973150",
-    "Scraped At": "2026-05-01T08:09:30Z",
+    "Scraped At": "2026-05-15T08:46:37Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
@@ -29837,15 +29837,15 @@
     "Job ID": "2011060",
     "Title": "Senior Staff Engineer - Enterprise Messaging and Exchange",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2026-01-15T00:00:00Z",
+    "Posted Date": "2026-05-14T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Engineer---Enterprise-Messaging-and-Exchange_JR2011060",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Staff-Engineer---Enterprise-Messaging-and-Exchange_JR2011060",
     "Bullet Fields": [
       "JR2011060"
     ],
     "Requisition ID": "JR2011060",
-    "Scraped At": "2026-01-15T06:31:41Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "2011271",
@@ -47555,6 +47555,258 @@
     ],
     "Requisition ID": "JR2016628",
     "Scraped At": "2026-05-14T08:35:08Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2017966",
+    "Title": "Principal Software Engineer - Rack Scale Systems Infrastructure",
+    "Location": "5 Locations",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---Rack-Scale-Systems-Infrastructure_JR2017966",
+    "External Path": "/job/US-CA-Santa-Clara/Principal-Software-Engineer---Rack-Scale-Systems-Infrastructure_JR2017966",
+    "Bullet Fields": [
+      "JR2017966"
+    ],
+    "Requisition ID": "JR2017966",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2015609",
+    "Title": "Senior Software Verification Engineer, DOCA SDK",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Verification-Engineer--DOCA-SDK_JR2015609",
+    "External Path": "/job/Israel-Yokneam/Senior-Software-Verification-Engineer--DOCA-SDK_JR2015609",
+    "Bullet Fields": [
+      "JR2015609"
+    ],
+    "Requisition ID": "JR2015609",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2014069",
+    "Title": "Senior CUDA Test Development Software Engineer, SDET",
+    "Location": "China, Shanghai",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-CUDA-Test-Development-Software-Engineer--SDET_JR2014069",
+    "External Path": "/job/China-Shanghai/Senior-CUDA-Test-Development-Software-Engineer--SDET_JR2014069",
+    "Bullet Fields": [
+      "JR2014069"
+    ],
+    "Requisition ID": "JR2014069",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017485",
+    "Title": "Senior Systems Software Engineer, CUDA GPU Profiler",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Systems-Software-Engineer--CUDA-GPU-Profiler_JR2017485",
+    "External Path": "/job/US-TX-Austin/Senior-Systems-Software-Engineer--CUDA-GPU-Profiler_JR2017485",
+    "Bullet Fields": [
+      "JR2017485"
+    ],
+    "Requisition ID": "JR2017485",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017813",
+    "Title": "Manufacturing Test Engineer",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Manufacturing-Test-Engineer_JR2017813",
+    "External Path": "/job/Taiwan-Hsinchu/Manufacturing-Test-Engineer_JR2017813",
+    "Bullet Fields": [
+      "JR2017813"
+    ],
+    "Requisition ID": "JR2017813",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017816",
+    "Title": "Manufacturing Test Engineer - Board",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Manufacturing-Test-Engineer---Board_JR2017816",
+    "External Path": "/job/Taiwan-Hsinchu/Manufacturing-Test-Engineer---Board_JR2017816",
+    "Bullet Fields": [
+      "JR2017816"
+    ],
+    "Requisition ID": "JR2017816",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017819",
+    "Title": "Senior Manufacturing Test Engineer",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Manufacturing-Test-Engineer_JR2017819",
+    "External Path": "/job/Taiwan-Hsinchu/Senior-Manufacturing-Test-Engineer_JR2017819",
+    "Bullet Fields": [
+      "JR2017819"
+    ],
+    "Requisition ID": "JR2017819",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2008160",
+    "Title": "ATE Test Engineer",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ATE-Test-Engineer_JR2008160",
+    "External Path": "/job/Taiwan-Hsinchu/ATE-Test-Engineer_JR2008160",
+    "Bullet Fields": [
+      "JR2008160"
+    ],
+    "Requisition ID": "JR2008160",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017608",
+    "Title": "NPI CPO Manufacturing Controller",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/NPI-CPO-Manufacturing-Controller_JR2017608",
+    "External Path": "/job/Taiwan-Hsinchu/NPI-CPO-Manufacturing-Controller_JR2017608",
+    "Bullet Fields": [
+      "JR2017608"
+    ],
+    "Requisition ID": "JR2017608",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017824",
+    "Title": "Manufacturing Test Engineer, ICT",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Manufacturing-Test-Engineer--ICT_JR2017824",
+    "External Path": "/job/Taiwan-Hsinchu/Manufacturing-Test-Engineer--ICT_JR2017824",
+    "Bullet Fields": [
+      "JR2017824"
+    ],
+    "Requisition ID": "JR2017824",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2015805",
+    "Title": "Memory Solution Engineer",
+    "Location": "Taiwan, Taipei",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Memory-Solution-Engineer_JR2015805",
+    "External Path": "/job/Taiwan-Taipei/Memory-Solution-Engineer_JR2015805",
+    "Bullet Fields": [
+      "JR2015805"
+    ],
+    "Requisition ID": "JR2015805",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017812",
+    "Title": "ICT Test Engineer",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ICT-Test-Engineer_JR2017812",
+    "External Path": "/job/Taiwan-Hsinchu/ICT-Test-Engineer_JR2017812",
+    "Bullet Fields": [
+      "JR2017812"
+    ],
+    "Requisition ID": "JR2017812",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017461",
+    "Title": "Senior Software Engineer, NCCL and CUDA - CSP Engagements",
+    "Location": "5 Locations",
+    "Posted Date": "2026-05-14T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--NCCL-and-CUDA---CSP-Engagements_JR2017461",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--NCCL-and-CUDA---CSP-Engagements_JR2017461",
+    "Bullet Fields": [
+      "JR2017461"
+    ],
+    "Requisition ID": "JR2017461",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2008677",
+    "Title": "Senior Software Engineer, Real-Time AI and Rendering - Holoscan SDK",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-05-14T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Real-Time-AI-and-Rendering---Holoscan-SDK_JR2008677",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--Real-Time-AI-and-Rendering---Holoscan-SDK_JR2008677",
+    "Bullet Fields": [
+      "JR2008677"
+    ],
+    "Requisition ID": "JR2008677",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2018194",
+    "Title": "Senior Supplier Quality Engineer - PCB",
+    "Location": "Taiwan, Hsinchu",
+    "Posted Date": "2026-05-15T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Supplier-Quality-Engineer---PCB_JR2018194",
+    "External Path": "/job/Taiwan-Hsinchu/Senior-Supplier-Quality-Engineer---PCB_JR2018194",
+    "Bullet Fields": [
+      "JR2018194"
+    ],
+    "Requisition ID": "JR2018194",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2018108",
+    "Title": "Circuit Design Engineer, Power Modeling and Simulation - New College Grad 2026",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-05-14T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer--Power-Modeling-and-Simulation---New-College-Grad-2026_JR2018108",
+    "External Path": "/job/US-CA-Santa-Clara/Circuit-Design-Engineer--Power-Modeling-and-Simulation---New-College-Grad-2026_JR2018108",
+    "Bullet Fields": [
+      "JR2018108"
+    ],
+    "Requisition ID": "JR2018108",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2018047",
+    "Title": "Senior Technical Program Manager, Software Compute Platform",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-05-14T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--Software-Compute-Platform_JR2018047",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--Software-Compute-Platform_JR2018047",
+    "Bullet Fields": [
+      "JR2018047"
+    ],
+    "Requisition ID": "JR2018047",
+    "Scraped At": "2026-05-15T08:46:37Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2017369",
+    "Title": "Senior Deep Learning Frameworks CUDA Software Engineer",
+    "Location": "3 Locations",
+    "Posted Date": "2026-05-14T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Frameworks-CUDA-Software-Engineer_JR2017369",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Deep-Learning-Frameworks-CUDA-Software-Engineer_JR2017369",
+    "Bullet Fields": [
+      "JR2017369"
+    ],
+    "Requisition ID": "JR2017369",
+    "Scraped At": "2026-05-15T08:46:37Z",
     "Posted Date Original": "Posted Yesterday"
   }
 ]
