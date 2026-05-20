@@ -44425,14 +44425,14 @@
     "Job ID": "2015540-1",
     "Title": "Software Developer - Networking",
     "Location": "5 Locations",
-    "Posted Date": "2026-04-28T00:00:00Z",
+    "Posted Date": "2026-05-20T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Developer---Networking_JR2015540-1",
     "External Path": "/job/Israel-Yokneam/Software-Developer---Networking_JR2015540-1",
     "Bullet Fields": [
       "JR2015540"
     ],
     "Requisition ID": "JR2015540",
-    "Scraped At": "2026-04-28T08:22:25Z",
+    "Scraped At": "2026-05-20T09:27:11Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -47729,14 +47729,14 @@
     "Job ID": "2017461",
     "Title": "Senior Software Engineer, NCCL and CUDA - CSP Engagements",
     "Location": "5 Locations",
-    "Posted Date": "2026-05-14T00:00:00Z",
+    "Posted Date": "2026-05-19T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--NCCL-and-CUDA---CSP-Engagements_JR2017461",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--NCCL-and-CUDA---CSP-Engagements_JR2017461",
     "Bullet Fields": [
       "JR2017461"
     ],
     "Requisition ID": "JR2017461",
-    "Scraped At": "2026-05-15T08:46:37Z",
+    "Scraped At": "2026-05-20T09:27:11Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
@@ -48312,5 +48312,257 @@
     "Requisition ID": "JR2018082",
     "Scraped At": "2026-05-19T09:38:21Z",
     "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2018341",
+    "Title": "Senior Data Center Infrastructure Specialist",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Data-Center-Infrastructure-Specialist_JR2018341",
+    "External Path": "/job/Taiwan-Taipei/Senior-Data-Center-Infrastructure-Specialist_JR2018341",
+    "Bullet Fields": [
+      "JR2018341"
+    ],
+    "Requisition ID": "JR2018341",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2018270",
+    "Title": "Senior Product Engineer",
+    "Location": "Thailand, Remote",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Thailand-Remote/Senior-Product-Engineer_JR2018270",
+    "External Path": "/job/Thailand-Remote/Senior-Product-Engineer_JR2018270",
+    "Bullet Fields": [
+      "JR2018270"
+    ],
+    "Requisition ID": "JR2018270",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017796",
+    "Title": "Senior Solutions Architect Networking",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Mumbai/Senior-Solutions-Architect-Networking_JR2017796",
+    "External Path": "/job/India-Mumbai/Senior-Solutions-Architect-Networking_JR2017796",
+    "Bullet Fields": [
+      "JR2017796"
+    ],
+    "Requisition ID": "JR2017796",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017864",
+    "Title": "Senior Solutions Architect Networking",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Mumbai/Senior-Solutions-Architect-Networking_JR2017864",
+    "External Path": "/job/India-Mumbai/Senior-Solutions-Architect-Networking_JR2017864",
+    "Bullet Fields": [
+      "JR2017864"
+    ],
+    "Requisition ID": "JR2017864",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2018112",
+    "Title": "Senior Solutions Architect - Gen AI",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Solutions-Architect---Gen-AI_JR2018112",
+    "External Path": "/job/India-Bengaluru/Senior-Solutions-Architect---Gen-AI_JR2018112",
+    "Bullet Fields": [
+      "JR2018112"
+    ],
+    "Requisition ID": "JR2018112",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2018342-1",
+    "Title": "Manager, Formal Verification",
+    "Location": "China, Shanghai",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Manager--Formal-Verification_JR2018342-1",
+    "External Path": "/job/China-Shanghai/Manager--Formal-Verification_JR2018342-1",
+    "Bullet Fields": [
+      "JR2018342"
+    ],
+    "Requisition ID": "JR2018342",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017110-1",
+    "Title": "Senior Customer Technical Program Manager – Software Platforms",
+    "Location": "2 Locations",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Korea-Seoul/Senior-Customer-Technical-Program-Manager---Software-Platforms_JR2017110-1",
+    "External Path": "/job/Korea-Seoul/Senior-Customer-Technical-Program-Manager---Software-Platforms_JR2017110-1",
+    "Bullet Fields": [
+      "JR2017110"
+    ],
+    "Requisition ID": "JR2017110",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017798",
+    "Title": "Manufacturing Test Engineer - ICT",
+    "Location": "China, Shenzhen",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/Manufacturing-Test-Engineer---ICT_JR2017798",
+    "External Path": "/job/China-Shenzhen/Manufacturing-Test-Engineer---ICT_JR2017798",
+    "Bullet Fields": [
+      "JR2017798"
+    ],
+    "Requisition ID": "JR2017798",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017799",
+    "Title": "Manufacturing Test Engineer",
+    "Location": "China, Shenzhen",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/Manufacturing-Test-Engineer_JR2017799",
+    "External Path": "/job/China-Shenzhen/Manufacturing-Test-Engineer_JR2017799",
+    "Bullet Fields": [
+      "JR2017799"
+    ],
+    "Requisition ID": "JR2017799",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2018203",
+    "Title": "Senior Product Engineer",
+    "Location": "China, Shenzhen",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/Senior-Product-Engineer_JR2018203",
+    "External Path": "/job/China-Shenzhen/Senior-Product-Engineer_JR2018203",
+    "Bullet Fields": [
+      "JR2018203"
+    ],
+    "Requisition ID": "JR2018203",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2018216-1",
+    "Title": "Senior Developer Relations Manager",
+    "Location": "Korea, Seoul",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Korea-Seoul/Senior-Developer-Relations-Manager_JR2018216-1",
+    "External Path": "/job/Korea-Seoul/Senior-Developer-Relations-Manager_JR2018216-1",
+    "Bullet Fields": [
+      "JR2018216"
+    ],
+    "Requisition ID": "JR2018216",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2018374",
+    "Title": "Solutions Architect - AI Technology Center for Physical AI",
+    "Location": "Korea, Seoul",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Korea-Seoul/Solutions-Architect---AI-Technology-Center-for-Physical-AI_JR2018374",
+    "External Path": "/job/Korea-Seoul/Solutions-Architect---AI-Technology-Center-for-Physical-AI_JR2018374",
+    "Bullet Fields": [
+      "JR2018374"
+    ],
+    "Requisition ID": "JR2018374",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2018377",
+    "Title": "Solutions Architect - AI Technology Center, Scientific Applications",
+    "Location": "Korea, Seoul",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Korea-Seoul/Solutions-Architect---AI-Technology-Center--Scientific-Applications_JR2018377",
+    "External Path": "/job/Korea-Seoul/Solutions-Architect---AI-Technology-Center--Scientific-Applications_JR2018377",
+    "Bullet Fields": [
+      "JR2018377"
+    ],
+    "Requisition ID": "JR2018377",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2017931",
+    "Title": "Senior Solution Architect - ISV",
+    "Location": "3 Locations",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Solution-Architect---ISV_JR2017931",
+    "External Path": "/job/China-Beijing/Senior-Solution-Architect---ISV_JR2017931",
+    "Bullet Fields": [
+      "JR2017931"
+    ],
+    "Requisition ID": "JR2017931",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2018376",
+    "Title": "Solutions Architect - AI Technology Center, Foundation Model Building",
+    "Location": "Korea, Seoul",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Korea-Seoul/Solutions-Architect---AI-Technology-Center--Foundation-Model-Building_JR2018376",
+    "External Path": "/job/Korea-Seoul/Solutions-Architect---AI-Technology-Center--Foundation-Model-Building_JR2018376",
+    "Bullet Fields": [
+      "JR2018376"
+    ],
+    "Requisition ID": "JR2018376",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "1996042",
+    "Title": "Senior System Software Engineer - AI Performance and Efficiency Tools",
+    "Location": "China, Shanghai",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-System-Software-Engineer---AI-Performance-and-Efficiency-Tools_JR1996042",
+    "External Path": "/job/China-Shanghai/Senior-System-Software-Engineer---AI-Performance-and-Efficiency-Tools_JR1996042",
+    "Bullet Fields": [
+      "JR1996042"
+    ],
+    "Requisition ID": "JR1996042",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2016445",
+    "Title": "Machine Learning Intern - 2026",
+    "Location": "Hong Kong, STP",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---2026_JR2016445",
+    "External Path": "/job/Hong-Kong-STP/Machine-Learning-Intern---2026_JR2016445",
+    "Bullet Fields": [
+      "JR2016445"
+    ],
+    "Requisition ID": "JR2016445",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2014664-1",
+    "Title": "Senior System Software Engineer - Linux Kernel Storage",
+    "Location": "India, Hyderabad",
+    "Posted Date": "2026-05-20T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Hyderabad/Senior-System-Software-Engineer---Linux-Kernel-Storage_JR2014664-1",
+    "External Path": "/job/India-Hyderabad/Senior-System-Software-Engineer---Linux-Kernel-Storage_JR2014664-1",
+    "Bullet Fields": [
+      "JR2014664"
+    ],
+    "Requisition ID": "JR2014664",
+    "Scraped At": "2026-05-20T09:27:11Z",
+    "Posted Date Original": "Posted Today"
   }
 ]
