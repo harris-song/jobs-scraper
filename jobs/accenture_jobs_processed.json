@@ -1,5 +1,290 @@
 [
   {
+    "Job ID": "",
+    "Title": "",
+    "Location": "",
+    "Posted Date": "",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers",
+    "External Path": "",
+    "Bullet Fields": [
+      "R00326503",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00326503",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": ""
+  },
+  {
+    "Job ID": "00309077",
+    "Title": "Management Consulting Manager – Software & Platforms – B2B Software – B2B",
+    "Location": "",
+    "Posted Date": "2026-06-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Management-Consulting-Manager---Comms--Media--Technology---B2B_R00309077",
+    "External Path": "/job/London/Management-Consulting-Manager---Comms--Media--Technology---B2B_R00309077",
+    "Bullet Fields": [
+      "R00309077",
+      "London"
+    ],
+    "Requisition ID": "R00309077",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00309717-1",
+    "Title": "Payments Architect",
+    "Location": "",
+    "Posted Date": "2026-06-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stockholm/Payments-Architect_R00309717-1",
+    "External Path": "/job/Stockholm/Payments-Architect_R00309717-1",
+    "Bullet Fields": [
+      "R00309717",
+      "Stockholm"
+    ],
+    "Requisition ID": "R00309717",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00309693",
+    "Title": "Banking Data Consultant",
+    "Location": "",
+    "Posted Date": "2026-06-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Helsinki/Banking-data-consultant_R00309693",
+    "External Path": "/job/Helsinki/Banking-data-consultant_R00309693",
+    "Bullet Fields": [
+      "R00309693",
+      "Helsinki"
+    ],
+    "Requisition ID": "R00309693",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00277514",
+    "Title": "Banking Technology Consultant",
+    "Location": "",
+    "Posted Date": "2026-06-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Helsinki/Banking-Technology-Consultant_R00277514",
+    "External Path": "/job/Helsinki/Banking-Technology-Consultant_R00277514",
+    "Bullet Fields": [
+      "R00277514",
+      "Helsinki"
+    ],
+    "Requisition ID": "R00277514",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00322869",
+    "Title": "Employee Assistance Officer Manager",
+    "Location": "",
+    "Posted Date": "2026-06-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bangkok/Employee-Assistance-Officer-Manager_R00322869",
+    "External Path": "/job/Bangkok/Employee-Assistance-Officer-Manager_R00322869",
+    "Bullet Fields": [
+      "R00322869",
+      "Bangkok"
+    ],
+    "Requisition ID": "R00322869",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00220860",
+    "Title": "SAP (FI-CO) Finance Consultant - Dutch Speaker",
+    "Location": "",
+    "Posted Date": "2026-06-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam-Gustav-Mahlerplein-90/SAP--FI-CO--Finance-Consultant_R00220860",
+    "External Path": "/job/Amsterdam-Gustav-Mahlerplein-90/SAP--FI-CO--Finance-Consultant_R00220860",
+    "Bullet Fields": [
+      "R00220860",
+      "Amsterdam, Gustav Mahlerplein 90"
+    ],
+    "Requisition ID": "R00220860",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337336",
+    "Title": "Contract Manager",
+    "Location": "",
+    "Posted Date": "2026-06-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Manager_R00337336",
+    "External Path": "/job/Bengaluru/Contract-Manager_R00337336",
+    "Bullet Fields": [
+      "R00337336",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00337336",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "/job/Sao-Paulo-Torre-Paineira/Dev-Salesforce-Field-Service_14255435",
+    "Title": "Especialsita em Salesforce Field Service",
+    "Location": "",
+    "Posted Date": "2026-06-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Dev-Salesforce-Field-Service_14255435",
+    "External Path": "/job/Sao-Paulo-Torre-Paineira/Dev-Salesforce-Field-Service_14255435",
+    "Bullet Fields": [
+      "14255435",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "14255435",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00325839",
+    "Title": "Analista de Contas a Pagar Pleno - Espanhol Avançado",
+    "Location": "",
+    "Posted Date": "2026-06-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Analista-Contbil-Pleno_R00325839",
+    "External Path": "/job/Barueri-Green-Valley-Andromeda/Analista-Contbil-Pleno_R00325839",
+    "Bullet Fields": [
+      "R00325839",
+      "Barueri, Green Valley, Andromeda"
+    ],
+    "Requisition ID": "R00325839",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00333970",
+    "Title": "EMEA Avanade Sales Excellence Advisor",
+    "Location": "",
+    "Posted Date": "2026-06-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/EMEA-Avanade-Sales-Excellence-Advisor_R00333970",
+    "External Path": "/job/London/EMEA-Avanade-Sales-Excellence-Advisor_R00333970",
+    "Bullet Fields": [
+      "R00333970",
+      "London"
+    ],
+    "Requisition ID": "R00333970",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00330343-1",
+    "Title": "Product Counsel Senior Manager",
+    "Location": "",
+    "Posted Date": "2026-06-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Product-Counsel-Senior-Manager_R00330343-1",
+    "External Path": "/job/Chicago-Accenture-Tower-Corp/Product-Counsel-Senior-Manager_R00330343-1",
+    "Bullet Fields": [
+      "R00330343",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00330343",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00313995-1",
+    "Title": "Payroll Operations Jr.",
+    "Location": "",
+    "Posted Date": "2026-06-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Payroll-Operations-Associate_R00313995-1",
+    "External Path": "/job/Buenos-Aires/Payroll-Operations-Associate_R00313995-1",
+    "Bullet Fields": [
+      "R00313995",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00313995",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00335623",
+    "Title": "Acquisitions Legal Counsel Associate Manager",
+    "Location": "",
+    "Posted Date": "2026-06-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Acquisitions-Legal-Counsel-Associate-Manager_R00335623",
+    "External Path": "/job/Sao-Paulo-Torre-Paineira/Acquisitions-Legal-Counsel-Associate-Manager_R00335623",
+    "Bullet Fields": [
+      "R00335623",
+      "Sao Paulo, Torre Paineira"
+    ],
+    "Requisition ID": "R00335623",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00309091",
+    "Title": "Management Consultant – Software & Platforms – B2B Software Practitioner",
+    "Location": "",
+    "Posted Date": "2026-06-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Management-Consultant---Comms--Media--Technology---B2B_R00309091",
+    "External Path": "/job/London/Management-Consultant---Comms--Media--Technology---B2B_R00309091",
+    "Bullet Fields": [
+      "R00309091",
+      "London"
+    ],
+    "Requisition ID": "R00309091",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00326276",
+    "Title": "Sales Excellence - Bid Management Senior Analyst",
+    "Location": "",
+    "Posted Date": "2026-06-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---Bid-Management-Senior-Analyst_R00326276",
+    "External Path": "/job/Buenos-Aires/Sales-Excellence---Bid-Management-Senior-Analyst_R00326276",
+    "Bullet Fields": [
+      "R00326276",
+      "Buenos Aires"
+    ],
+    "Requisition ID": "R00326276",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00326269",
+    "Title": "Sales Excellence - Bid Management Senior Analyst",
+    "Location": "",
+    "Posted Date": "2026-06-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---Bid-Management-Senior-Analyst_R00326269",
+    "External Path": "/job/Buenos-Aires/Sales-Excellence---Bid-Management-Senior-Analyst_R00326269",
+    "Bullet Fields": [
+      "R00326269",
+      "Buenos Aires"
+    ],
+    "Requisition ID": "R00326269",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00334046-1",
+    "Title": "ABAP Developer",
+    "Location": "",
+    "Posted Date": "2026-06-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest/SAP-Technical-Consultant--ABAP---S-4HANA-_R00334046-1",
+    "External Path": "/job/Budapest/SAP-Technical-Consultant--ABAP---S-4HANA-_R00334046-1",
+    "Bullet Fields": [
+      "R00334046",
+      "Budapest"
+    ],
+    "Requisition ID": "R00334046",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00299950",
+    "Title": "Project Manager - Infrastructure and Industrial Construction Projects",
+    "Location": "",
+    "Posted Date": "2026-06-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Project-Manager-in-Energy-Infrastructure_R00299950",
+    "External Path": "/job/Budapest-Millennium-Gardens/Project-Manager-in-Energy-Infrastructure_R00299950",
+    "Bullet Fields": [
+      "R00299950",
+      "Budapest, Millennium Gardens"
+    ],
+    "Requisition ID": "R00299950",
+    "Scraped At": "2026-06-25T08:57:22Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
     "Job ID": "00317995",
     "Title": "SAP Materials Management (MM) Consultant",
     "Location": "",
@@ -11,292 +296,7 @@
       "Ho Chiminh, Viettel Building"
     ],
     "Requisition ID": "R00317995",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00270892",
-    "Title": "SAP ABAP S/4 HANA Developers",
-    "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ho-ChiMinh-Viettel-Building/SAP-Deployment-Manager_R00270892",
-    "External Path": "/job/Ho-ChiMinh-Viettel-Building/SAP-Deployment-Manager_R00270892",
-    "Bullet Fields": [
-      "R00270892",
-      "Ho Chiminh, Viettel Building"
-    ],
-    "Requisition ID": "R00270892",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00270886",
-    "Title": "SAP S/4 Full Stack ABAP Cloud Developer",
-    "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ho-ChiMinh-Viettel-Building/SAP-Data-and-Cutover-Manager_R00270886",
-    "External Path": "/job/Ho-ChiMinh-Viettel-Building/SAP-Data-and-Cutover-Manager_R00270886",
-    "Bullet Fields": [
-      "R00270886",
-      "Ho Chiminh, Viettel Building"
-    ],
-    "Requisition ID": "R00270886",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "edes-L1---Barranquilla--On-Site-_14447162",
-    "Title": "Especialista de Redes L1 – Barranquilla (On Site)",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barranquilla-Carrera-53/Especialista-de-Redes-L1---Barranquilla--On-Site-_14447162",
-    "External Path": "/job/Barranquilla-Carrera-53/Especialista-de-Redes-L1---Barranquilla--On-Site-_14447162",
-    "Bullet Fields": [
-      "14447162",
-      "Barranquilla, Carrera 53"
-    ],
-    "Requisition ID": "14447162",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00336000",
-    "Title": "Sales Excellence - Graphic & Visual Design Senior Analyst",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---Graphic---Visual-Design-Senior-Analyst_R00336000",
-    "External Path": "/job/Buenos-Aires/Sales-Excellence---Graphic---Visual-Design-Senior-Analyst_R00336000",
-    "Bullet Fields": [
-      "R00336000",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00336000",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00330343-1",
-    "Title": "Product Counsel Senior Manager",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Product-Counsel-Senior-Manager_R00330343-1",
-    "External Path": "/job/Chicago-Accenture-Tower-Corp/Product-Counsel-Senior-Manager_R00330343-1",
-    "Bullet Fields": [
-      "R00330343",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00330343",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00337820",
-    "Title": "Retail Banking Senior Manager",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Retail-Banking-Senior-Manager_R00337820",
-    "External Path": "/job/New-York-One-Manhattan-West-Corp/Retail-Banking-Senior-Manager_R00337820",
-    "Bullet Fields": [
-      "R00337820",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00337820",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00337818",
-    "Title": "Retail Banking Manager",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Retail-Banking-Manager_R00337818",
-    "External Path": "/job/New-York-One-Manhattan-West-Corp/Retail-Banking-Manager_R00337818",
-    "Bullet Fields": [
-      "R00337818",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00337818",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00338051",
-    "Title": "Mid-Market Account Success Manager – Cyber Security",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Castellana-85/Mid-Market-Account-Success-Manager---Cyber-Security_R00338051",
-    "External Path": "/job/Madrid-Castellana-85/Mid-Market-Account-Success-Manager---Cyber-Security_R00338051",
-    "Bullet Fields": [
-      "R00338051",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00338051",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00338042",
-    "Title": "Mid-Market Account Success Manager – Cyber Security",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Mid-Market-Account-Success-Manager---Cyber-Security_R00338042",
-    "External Path": "/job/Roma/Mid-Market-Account-Success-Manager---Cyber-Security_R00338042",
-    "Bullet Fields": [
-      "R00338042",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00338042",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00285784",
-    "Title": "Desenvolvedores Salesforce",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Salesforce--Desenvolvedores--Arquitetos-e-Funcionais_R00285784",
-    "External Path": "/job/Sao-Paulo-Torre-Paineira/Salesforce--Desenvolvedores--Arquitetos-e-Funcionais_R00285784",
-    "Bullet Fields": [
-      "R00285784",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00285784",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00338039",
-    "Title": "Mid-Market Inside Sales Representative – Cyber Security",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barcelona-La-Rotonda/Mid-Market-Inside-Sales-Representative---Cyber-Security_R00338039",
-    "External Path": "/job/Barcelona-La-Rotonda/Mid-Market-Inside-Sales-Representative---Cyber-Security_R00338039",
-    "Bullet Fields": [
-      "R00338039",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00338039",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00338035",
-    "Title": "Mid-Market Inside Sales Representative – Cyber Security",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Mid-Market-Inside-Sales-Representative---Cyber-Security_R00338035",
-    "External Path": "/job/Roma/Mid-Market-Inside-Sales-Representative---Cyber-Security_R00338035",
-    "Bullet Fields": [
-      "R00338035",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00338035",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00338032-1",
-    "Title": "Mid-Market Sales Engineer – Cyber Security",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Castellana-85/Mid-Market-Sales-Engineer---Cyber-Security_R00338032-1",
-    "External Path": "/job/Madrid-Castellana-85/Mid-Market-Sales-Engineer---Cyber-Security_R00338032-1",
-    "Bullet Fields": [
-      "R00338032",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00338032",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00338002",
-    "Title": "Mid-Market Sales Engineer – Cyber Security",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma-Palazzo-Marignoli/Mid-Market-Sales-Engineer---Cyber-Security_R00338002",
-    "External Path": "/job/Roma-Palazzo-Marignoli/Mid-Market-Sales-Engineer---Cyber-Security_R00338002",
-    "Bullet Fields": [
-      "R00338002",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00338002",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00337965",
-    "Title": "Mid-Market Lead Qualification Specialist – Cyber Security",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma-Palazzo-Marignoli/Mid-Market-Lead-Qualification-Specialist---Cyber-Security_R00337965",
-    "External Path": "/job/Roma-Palazzo-Marignoli/Mid-Market-Lead-Qualification-Specialist---Cyber-Security_R00337965",
-    "Bullet Fields": [
-      "R00337965",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00337965",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00337962",
-    "Title": "Mid-Market Lead Qualification Specialist – Cyber Security",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barcelona-La-Rotonda/Mid-Market-Lead-Qualification-Specialist---Cyber-Security_R00337962",
-    "External Path": "/job/Barcelona-La-Rotonda/Mid-Market-Lead-Qualification-Specialist---Cyber-Security_R00337962",
-    "Bullet Fields": [
-      "R00337962",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00337962",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00278394",
-    "Title": "Médico/a del Trabajo en oficinas Accenture",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Mdico-del-Trabajo-en-oficinas-Accenture_R00278394",
-    "External Path": "/job/Madrid/Mdico-del-Trabajo-en-oficinas-Accenture_R00278394",
-    "Bullet Fields": [
-      "R00278394",
-      "Madrid"
-    ],
-    "Requisition ID": "R00278394",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00337677",
-    "Title": "Mid-Market Sales Account Executive – Cyber Security",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barcelona-La-Rotonda/Mid-Market-Sales-Account-Executive---Cyber-Security_R00337677",
-    "External Path": "/job/Barcelona-La-Rotonda/Mid-Market-Sales-Account-Executive---Cyber-Security_R00337677",
-    "Bullet Fields": [
-      "R00337677",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00337677",
-    "Scraped At": "2026-06-24T09:24:08Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00333207",
-    "Title": "AI Engineer - Global Strategy Consultant",
-    "Location": "",
-    "Posted Date": "2026-06-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Global-S-C-ATIOS-Strategy-Consultant_R00333207",
-    "External Path": "/job/London/Global-S-C-ATIOS-Strategy-Consultant_R00333207",
-    "Bullet Fields": [
-      "R00333207",
-      "London"
-    ],
-    "Requisition ID": "R00333207",
-    "Scraped At": "2026-06-24T09:24:08Z",
+    "Scraped At": "2026-06-25T08:57:22Z",
     "Posted Date Original": "Posted Yesterday"
   }
 ]
