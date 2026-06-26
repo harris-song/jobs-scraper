@@ -1,189 +1,294 @@
 [
   {
-    "Job ID": "",
-    "Title": "",
+    "Job ID": "00283015",
+    "Title": "QA / Test Engineer",
     "Location": "",
-    "Posted Date": "",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers",
-    "External Path": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/QA---Test-Engineer_R00283015",
+    "External Path": "/job/Ebene/QA---Test-Engineer_R00283015",
     "Bullet Fields": [
-      "R00326503",
-      "Location Negotiable"
+      "R00283015",
+      "Ebene"
     ],
-    "Requisition ID": "R00326503",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": ""
-  },
-  {
-    "Job ID": "00309077",
-    "Title": "Management Consulting Manager – Software & Platforms – B2B Software – B2B",
-    "Location": "",
-    "Posted Date": "2026-06-25T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Management-Consulting-Manager---Comms--Media--Technology---B2B_R00309077",
-    "External Path": "/job/London/Management-Consulting-Manager---Comms--Media--Technology---B2B_R00309077",
-    "Bullet Fields": [
-      "R00309077",
-      "London"
-    ],
-    "Requisition ID": "R00309077",
-    "Scraped At": "2026-06-25T08:57:22Z",
+    "Requisition ID": "R00283015",
+    "Scraped At": "2026-06-26T08:59:20Z",
     "Posted Date Original": "Posted Today"
   },
   {
-    "Job ID": "00309717-1",
-    "Title": "Payments Architect",
+    "Job ID": "00337623",
+    "Title": "Contract Senior Analyst",
     "Location": "",
-    "Posted Date": "2026-06-25T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stockholm/Payments-Architect_R00309717-1",
-    "External Path": "/job/Stockholm/Payments-Architect_R00309717-1",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Senior-Analyst_R00337623",
+    "External Path": "/job/Bengaluru/Contract-Senior-Analyst_R00337623",
     "Bullet Fields": [
-      "R00309717",
-      "Stockholm"
-    ],
-    "Requisition ID": "R00309717",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00309693",
-    "Title": "Banking Data Consultant",
-    "Location": "",
-    "Posted Date": "2026-06-25T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Helsinki/Banking-data-consultant_R00309693",
-    "External Path": "/job/Helsinki/Banking-data-consultant_R00309693",
-    "Bullet Fields": [
-      "R00309693",
-      "Helsinki"
-    ],
-    "Requisition ID": "R00309693",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00277514",
-    "Title": "Banking Technology Consultant",
-    "Location": "",
-    "Posted Date": "2026-06-25T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Helsinki/Banking-Technology-Consultant_R00277514",
-    "External Path": "/job/Helsinki/Banking-Technology-Consultant_R00277514",
-    "Bullet Fields": [
-      "R00277514",
-      "Helsinki"
-    ],
-    "Requisition ID": "R00277514",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00322869",
-    "Title": "Employee Assistance Officer Manager",
-    "Location": "",
-    "Posted Date": "2026-06-25T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bangkok/Employee-Assistance-Officer-Manager_R00322869",
-    "External Path": "/job/Bangkok/Employee-Assistance-Officer-Manager_R00322869",
-    "Bullet Fields": [
-      "R00322869",
-      "Bangkok"
-    ],
-    "Requisition ID": "R00322869",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00220860",
-    "Title": "SAP (FI-CO) Finance Consultant - Dutch Speaker",
-    "Location": "",
-    "Posted Date": "2026-06-25T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam-Gustav-Mahlerplein-90/SAP--FI-CO--Finance-Consultant_R00220860",
-    "External Path": "/job/Amsterdam-Gustav-Mahlerplein-90/SAP--FI-CO--Finance-Consultant_R00220860",
-    "Bullet Fields": [
-      "R00220860",
-      "Amsterdam, Gustav Mahlerplein 90"
-    ],
-    "Requisition ID": "R00220860",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00337336",
-    "Title": "Contract Manager",
-    "Location": "",
-    "Posted Date": "2026-06-25T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Manager_R00337336",
-    "External Path": "/job/Bengaluru/Contract-Manager_R00337336",
-    "Bullet Fields": [
-      "R00337336",
+      "R00337623",
       "Bengaluru"
     ],
-    "Requisition ID": "R00337336",
-    "Scraped At": "2026-06-25T08:57:22Z",
+    "Requisition ID": "R00337623",
+    "Scraped At": "2026-06-26T08:59:20Z",
     "Posted Date Original": "Posted Today"
   },
   {
-    "Job ID": "/job/Sao-Paulo-Torre-Paineira/Dev-Salesforce-Field-Service_14255435",
-    "Title": "Especialsita em Salesforce Field Service",
+    "Job ID": "00337928",
+    "Title": "ContractSeniorAnalyst",
     "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Dev-Salesforce-Field-Service_14255435",
-    "External Path": "/job/Sao-Paulo-Torre-Paineira/Dev-Salesforce-Field-Service_14255435",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/ContractSeniorAnalyst_R00337928",
+    "External Path": "/job/Bengaluru/ContractSeniorAnalyst_R00337928",
     "Bullet Fields": [
-      "14255435",
+      "R00337928",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00337928",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337969",
+    "Title": "Contract Analyst",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC9A/Contract-Analyst_R00337969",
+    "External Path": "/job/Bengaluru-BDC9A/Contract-Analyst_R00337969",
+    "Bullet Fields": [
+      "R00337969",
+      "Bengaluru, Bdc9A"
+    ],
+    "Requisition ID": "R00337969",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337620",
+    "Title": "Contract Specialist",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Specialist_R00337620",
+    "External Path": "/job/Bengaluru/Contract-Specialist_R00337620",
+    "Bullet Fields": [
+      "R00337620",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00337620",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337614",
+    "Title": "Contract Analyst",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Analyst_R00337614",
+    "External Path": "/job/Bengaluru/Contract-Analyst_R00337614",
+    "Bullet Fields": [
+      "R00337614",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00337614",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337675",
+    "Title": "Contract Associate Manager",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Associate-Manager_R00337675",
+    "External Path": "/job/Bengaluru/Contract-Associate-Manager_R00337675",
+    "Bullet Fields": [
+      "R00337675",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00337675",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337610",
+    "Title": "Contract Senior Analyst",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Senior-Analyst_R00337610",
+    "External Path": "/job/Bengaluru/Contract-Senior-Analyst_R00337610",
+    "Bullet Fields": [
+      "R00337610",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00337610",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337577",
+    "Title": "Contract Associate Manager",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Contract-Associate-Manager_R00337577",
+    "External Path": "/job/Gurugram/Contract-Associate-Manager_R00337577",
+    "Bullet Fields": [
+      "R00337577",
+      "Gurugram"
+    ],
+    "Requisition ID": "R00337577",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337958",
+    "Title": "Senior Manager Govt Relation",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Senior-Manager-Govt-Relation_R00337958",
+    "External Path": "/job/Mumbai/Senior-Manager-Govt-Relation_R00337958",
+    "Bullet Fields": [
+      "R00337958",
+      "Mumbai"
+    ],
+    "Requisition ID": "R00337958",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337340",
+    "Title": "Contract Specialist",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Specialist_R00337340",
+    "External Path": "/job/Bengaluru/Contract-Specialist_R00337340",
+    "Bullet Fields": [
+      "R00337340",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00337340",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337366",
+    "Title": "Contract Senior Analyst",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Senior-Analyst_R00337366",
+    "External Path": "/job/Bengaluru/Contract-Senior-Analyst_R00337366",
+    "Bullet Fields": [
+      "R00337366",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00337366",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337378",
+    "Title": "Contract Specialist",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Contract-Specialist_R00337378",
+    "External Path": "/job/Pune/Contract-Specialist_R00337378",
+    "Bullet Fields": [
+      "R00337378",
+      "Pune"
+    ],
+    "Requisition ID": "R00337378",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00337371",
+    "Title": "Contract Specialist",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Specialist_R00337371",
+    "External Path": "/job/Bengaluru/Contract-Specialist_R00337371",
+    "Bullet Fields": [
+      "R00337371",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00337371",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00336016",
+    "Title": "Contract Senior Analyst",
+    "Location": "",
+    "Posted Date": "2026-06-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Senior-Analyst_R00336016",
+    "External Path": "/job/Bengaluru/Contract-Senior-Analyst_R00336016",
+    "Bullet Fields": [
+      "R00336016",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00336016",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00327784",
+    "Title": "Analista Comercial - Híbrido",
+    "Location": "",
+    "Posted Date": "2026-06-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Fortaleza-Scopa-Platinum-Corporate/Analista-Comercial---Hbrido_R00327784",
+    "External Path": "/job/Fortaleza-Scopa-Platinum-Corporate/Analista-Comercial---Hbrido_R00327784",
+    "Bullet Fields": [
+      "R00327784",
+      "Fortaleza, Scopa Platinum Corporate"
+    ],
+    "Requisition ID": "R00327784",
+    "Scraped At": "2026-06-26T08:59:20Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00325335",
+    "Title": "Analista Planejamento Financeiro Pleno - Híbrido",
+    "Location": "",
+    "Posted Date": "2026-06-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Contas-a-Pagar-Jnior_R00325335",
+    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Contas-a-Pagar-Jnior_R00325335",
+    "Bullet Fields": [
+      "R00325335",
       "Location Negotiable"
     ],
-    "Requisition ID": "14255435",
-    "Scraped At": "2026-06-25T08:57:22Z",
+    "Requisition ID": "R00325335",
+    "Scraped At": "2026-06-26T08:59:20Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "00325839",
-    "Title": "Analista de Contas a Pagar Pleno - Espanhol Avançado",
+    "Job ID": "00325501",
+    "Title": "Analista de Planejamento Financeiro",
     "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Analista-Contbil-Pleno_R00325839",
-    "External Path": "/job/Barueri-Green-Valley-Andromeda/Analista-Contbil-Pleno_R00325839",
+    "Posted Date": "2026-06-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Planejamento-Financeiro-Snior_R00325501",
+    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Planejamento-Financeiro-Snior_R00325501",
     "Bullet Fields": [
-      "R00325839",
-      "Barueri, Green Valley, Andromeda"
+      "R00325501",
+      "Nova Lima, Shopping Alta Vila"
     ],
-    "Requisition ID": "R00325839",
-    "Scraped At": "2026-06-25T08:57:22Z",
+    "Requisition ID": "R00325501",
+    "Scraped At": "2026-06-26T08:59:20Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "00333970",
-    "Title": "EMEA Avanade Sales Excellence Advisor",
+    "Job ID": "00307900-1",
+    "Title": "BI&A - Analytics and Modeling Specialist",
     "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/EMEA-Avanade-Sales-Excellence-Advisor_R00333970",
-    "External Path": "/job/London/EMEA-Avanade-Sales-Excellence-Advisor_R00333970",
+    "Posted Date": "2026-06-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---COE---Business-Intelligence-Specialist_R00307900-1",
+    "External Path": "/job/Buenos-Aires/Sales-Excellence---COE---Business-Intelligence-Specialist_R00307900-1",
     "Bullet Fields": [
-      "R00333970",
-      "London"
+      "R00307900",
+      "Buenos Aires"
     ],
-    "Requisition ID": "R00333970",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00330343-1",
-    "Title": "Product Counsel Senior Manager",
-    "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Product-Counsel-Senior-Manager_R00330343-1",
-    "External Path": "/job/Chicago-Accenture-Tower-Corp/Product-Counsel-Senior-Manager_R00330343-1",
-    "Bullet Fields": [
-      "R00330343",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00330343",
-    "Scraped At": "2026-06-25T08:57:22Z",
+    "Requisition ID": "R00307900",
+    "Scraped At": "2026-06-26T08:59:20Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00313995-1",
     "Title": "Payroll Operations Jr.",
     "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
+    "Posted Date": "2026-06-25T00:00:00Z",
     "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Payroll-Operations-Associate_R00313995-1",
     "External Path": "/job/Buenos-Aires/Payroll-Operations-Associate_R00313995-1",
     "Bullet Fields": [
@@ -191,112 +296,7 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00313995",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00335623",
-    "Title": "Acquisitions Legal Counsel Associate Manager",
-    "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Acquisitions-Legal-Counsel-Associate-Manager_R00335623",
-    "External Path": "/job/Sao-Paulo-Torre-Paineira/Acquisitions-Legal-Counsel-Associate-Manager_R00335623",
-    "Bullet Fields": [
-      "R00335623",
-      "Sao Paulo, Torre Paineira"
-    ],
-    "Requisition ID": "R00335623",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00309091",
-    "Title": "Management Consultant – Software & Platforms – B2B Software Practitioner",
-    "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Management-Consultant---Comms--Media--Technology---B2B_R00309091",
-    "External Path": "/job/London/Management-Consultant---Comms--Media--Technology---B2B_R00309091",
-    "Bullet Fields": [
-      "R00309091",
-      "London"
-    ],
-    "Requisition ID": "R00309091",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00326276",
-    "Title": "Sales Excellence - Bid Management Senior Analyst",
-    "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---Bid-Management-Senior-Analyst_R00326276",
-    "External Path": "/job/Buenos-Aires/Sales-Excellence---Bid-Management-Senior-Analyst_R00326276",
-    "Bullet Fields": [
-      "R00326276",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00326276",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00326269",
-    "Title": "Sales Excellence - Bid Management Senior Analyst",
-    "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Sales-Excellence---Bid-Management-Senior-Analyst_R00326269",
-    "External Path": "/job/Buenos-Aires/Sales-Excellence---Bid-Management-Senior-Analyst_R00326269",
-    "Bullet Fields": [
-      "R00326269",
-      "Buenos Aires"
-    ],
-    "Requisition ID": "R00326269",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00334046-1",
-    "Title": "ABAP Developer",
-    "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest/SAP-Technical-Consultant--ABAP---S-4HANA-_R00334046-1",
-    "External Path": "/job/Budapest/SAP-Technical-Consultant--ABAP---S-4HANA-_R00334046-1",
-    "Bullet Fields": [
-      "R00334046",
-      "Budapest"
-    ],
-    "Requisition ID": "R00334046",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00299950",
-    "Title": "Project Manager - Infrastructure and Industrial Construction Projects",
-    "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Project-Manager-in-Energy-Infrastructure_R00299950",
-    "External Path": "/job/Budapest-Millennium-Gardens/Project-Manager-in-Energy-Infrastructure_R00299950",
-    "Bullet Fields": [
-      "R00299950",
-      "Budapest, Millennium Gardens"
-    ],
-    "Requisition ID": "R00299950",
-    "Scraped At": "2026-06-25T08:57:22Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00317995",
-    "Title": "SAP Materials Management (MM) Consultant",
-    "Location": "",
-    "Posted Date": "2026-06-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ho-ChiMinh-Viettel-Building/Senior-SAP-BPE-Consultant--S-4HANA-O2C-_R00317995",
-    "External Path": "/job/Ho-ChiMinh-Viettel-Building/Senior-SAP-BPE-Consultant--S-4HANA-O2C-_R00317995",
-    "Bullet Fields": [
-      "R00317995",
-      "Ho Chiminh, Viettel Building"
-    ],
-    "Requisition ID": "R00317995",
-    "Scraped At": "2026-06-25T08:57:22Z",
+    "Scraped At": "2026-06-26T08:59:20Z",
     "Posted Date Original": "Posted Yesterday"
   }
 ]
