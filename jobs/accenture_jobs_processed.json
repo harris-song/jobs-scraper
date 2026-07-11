@@ -1,5 +1,110 @@
 [
   {
+    "Job ID": "00304956",
+    "Title": "Workday Integration Developer",
+    "Location": "",
+    "Posted Date": "2026-07-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milan/Workday-Projects-Functional-Lead_R00304956",
+    "External Path": "/job/Milan/Workday-Projects-Functional-Lead_R00304956",
+    "Bullet Fields": [
+      "R00304956",
+      "Milan"
+    ],
+    "Requisition ID": "R00304956",
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00299506",
+    "Title": "SAP Master Data Governance (MDG) & MDM Manager",
+    "Location": "",
+    "Posted Date": "2026-07-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Av-del-Llano-Castellano/SAP-Master-Data-Governance--MDG----MDM-Senior-Manager_R00299506",
+    "External Path": "/job/Madrid-Av-del-Llano-Castellano/SAP-Master-Data-Governance--MDG----MDM-Senior-Manager_R00299506",
+    "Bullet Fields": [
+      "R00299506",
+      "Madrid, Av Del Llano Castellano (Inactive)"
+    ],
+    "Requisition ID": "R00299506",
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00289968",
+    "Title": "Transformation Change Manager",
+    "Location": "",
+    "Posted Date": "2026-07-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Transformation-Change-Manager_R00289968",
+    "External Path": "/job/London/Transformation-Change-Manager_R00289968",
+    "Bullet Fields": [
+      "R00289968",
+      "London"
+    ],
+    "Requisition ID": "R00289968",
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00328746-1",
+    "Title": "Enterprise Architect - Technology Strategy & Enterprise Architecture",
+    "Location": "",
+    "Posted Date": "2026-07-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Enterprise-Architect---Technology-Strategy---Enterprise-Architecture_R00328746-1",
+    "External Path": "/job/Madrid/Enterprise-Architect---Technology-Strategy---Enterprise-Architecture_R00328746-1",
+    "Bullet Fields": [
+      "R00328746",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00328746",
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00333919",
+    "Title": "Gestor/a de Proyectos ERVE (Estaciones de Recarga de Vehículo Eléctrico)",
+    "Location": "",
+    "Posted Date": "2026-07-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Gestor-a-de-Proyectos-ERVE--Estaciones-de-Recarga-de-Vehculo-Elctrico-_R00333919",
+    "External Path": "/job/Madrid/Gestor-a-de-Proyectos-ERVE--Estaciones-de-Recarga-de-Vehculo-Elctrico-_R00333919",
+    "Bullet Fields": [
+      "R00333919",
+      "Madrid"
+    ],
+    "Requisition ID": "R00333919",
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00321947",
+    "Title": "Content Moderator (Junior Data Reviewer) with English and Turkish",
+    "Location": "",
+    "Posted Date": "2026-07-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Content-Moderator--Junior-Data-Reviewer--with-English-and-Turkish_R00321947",
+    "External Path": "/job/Warsaw/Content-Moderator--Junior-Data-Reviewer--with-English-and-Turkish_R00321947",
+    "Bullet Fields": [
+      "R00321947",
+      "Warsaw"
+    ],
+    "Requisition ID": "R00321947",
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00340005",
+    "Title": "Business Analyst (Scrum Master)",
+    "Location": "",
+    "Posted Date": "2026-07-10T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Business-Analyst--Scrum-Master-_R00340005",
+    "External Path": "/job/Ebene/Business-Analyst--Scrum-Master-_R00340005",
+    "Bullet Fields": [
+      "R00340005",
+      "Ebene"
+    ],
+    "Requisition ID": "R00340005",
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
     "Job ID": "00333207",
     "Title": "AI Engineer - Global Strategy Consultant",
     "Location": "",
@@ -11,8 +116,8 @@
       "London"
     ],
     "Requisition ID": "R00333207",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00342259",
@@ -26,8 +131,8 @@
       "São Paulo - Barueri"
     ],
     "Requisition ID": "R00342259",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00319490",
@@ -41,8 +146,8 @@
       "Bangkok"
     ],
     "Requisition ID": "R00319490",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00342248-1",
@@ -56,8 +161,8 @@
       "São Paulo - Barueri"
     ],
     "Requisition ID": "R00342248",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00310618",
@@ -71,8 +176,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00310618",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00323033",
@@ -86,8 +191,8 @@
       "Nova Lima, Shopping Alta Vila"
     ],
     "Requisition ID": "R00323033",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00338887",
@@ -101,8 +206,8 @@
       "Sao Paulo, Torre Paineira"
     ],
     "Requisition ID": "R00338887",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00337411-1",
@@ -116,8 +221,8 @@
       "Bengaluru"
     ],
     "Requisition ID": "R00337411",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00337642",
@@ -131,8 +236,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00337642",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00267580",
@@ -146,8 +251,8 @@
       "London"
     ],
     "Requisition ID": "R00267580",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00310188",
@@ -161,8 +266,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00310188",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00325240",
@@ -176,8 +281,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00325240",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   },
   {
     "Job ID": "00311068",
@@ -191,112 +296,7 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00311068",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00314082",
-    "Title": "AI CX Delivery Consultant",
-    "Location": "",
-    "Posted Date": "2026-07-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Customer-Experience---Contact-Platform-Consultant_R00314082",
-    "External Path": "/job/London/Customer-Experience---Contact-Platform-Consultant_R00314082",
-    "Bullet Fields": [
-      "R00314082",
-      "London"
-    ],
-    "Requisition ID": "R00314082",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00337217-1",
-    "Title": "Sales Excellence Advisor – Reinvention Partner",
-    "Location": "",
-    "Posted Date": "2026-07-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Sales-Excellence-Advisor---Reinvention-Partner_R00337217-1",
-    "External Path": "/job/Amsterdam/Sales-Excellence-Advisor---Reinvention-Partner_R00337217-1",
-    "Bullet Fields": [
-      "R00337217",
-      "Amsterdam"
-    ],
-    "Requisition ID": "R00337217",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00323136",
-    "Title": "Analista Contábil Sênior - Híbrido",
-    "Location": "",
-    "Posted Date": "2026-07-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-Contbil-Snior_R00323136",
-    "External Path": "/job/Nova-Lima-Shopping-Alta-Vila/Analista-Contbil-Snior_R00323136",
-    "Bullet Fields": [
-      "R00323136",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00323136",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00307301",
-    "Title": "Workday Advanced Compensation and Benefits Lead",
-    "Location": "",
-    "Posted Date": "2026-07-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Workday-HCM-Consultant--all-genders-_R00307301",
-    "External Path": "/job/London/Workday-HCM-Consultant--all-genders-_R00307301",
-    "Bullet Fields": [
-      "R00307301",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00307301",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00308713",
-    "Title": "Recruiter Junior",
-    "Location": "",
-    "Posted Date": "2026-07-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Recruiter-Strategy---Consulting_R00308713",
-    "External Path": "/job/Madrid/Recruiter-Strategy---Consulting_R00308713",
-    "Bullet Fields": [
-      "R00308713",
-      "Madrid"
-    ],
-    "Requisition ID": "R00308713",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00340352",
-    "Title": "Bygg ekte løsninger. Med ekte innvirkning. Summer Internship for utviklere 💻",
-    "Location": "",
-    "Posted Date": "2026-07-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Oslo/Bygg-ekte-lsninger-Med-ekte-innvirkning-Summer-Internship-for-utviklere---_R00340352",
-    "External Path": "/job/Oslo/Bygg-ekte-lsninger-Med-ekte-innvirkning-Summer-Internship-for-utviklere---_R00340352",
-    "Bullet Fields": [
-      "R00340352",
-      "Oslo"
-    ],
-    "Requisition ID": "R00340352",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00309091",
-    "Title": "Management Consultant – Software & Platforms – B2B Software Practitioner",
-    "Location": "",
-    "Posted Date": "2026-07-09T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Management-Consultant---Comms--Media--Technology---B2B_R00309091",
-    "External Path": "/job/London/Management-Consultant---Comms--Media--Technology---B2B_R00309091",
-    "Bullet Fields": [
-      "R00309091",
-      "London"
-    ],
-    "Requisition ID": "R00309091",
-    "Scraped At": "2026-07-10T09:30:27Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-07-11T07:51:34Z",
+    "Posted Date Original": "Posted 2 Days Ago"
   }
 ]
