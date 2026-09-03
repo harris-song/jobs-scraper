@@ -1,5 +1,230 @@
 [
   {
+    "Job ID": "00348744-1",
+    "Title": "Corporate Paralegal Analyst",
+    "Location": "",
+    "Posted Date": "2026-09-03T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dublin/Corporate-Paralegal-Analyst_R00348744-1",
+    "External Path": "/job/Dublin/Corporate-Paralegal-Analyst_R00348744-1",
+    "Bullet Fields": [
+      "R00348744",
+      "Dublin"
+    ],
+    "Requisition ID": "R00348744",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00317995",
+    "Title": "SAP FICO / JVA Consultant – Oil & Gas",
+    "Location": "",
+    "Posted Date": "2026-09-03T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ho-ChiMinh-Viettel-Building/Senior-SAP-BPE-Consultant--S-4HANA-O2C-_R00317995",
+    "External Path": "/job/Ho-ChiMinh-Viettel-Building/Senior-SAP-BPE-Consultant--S-4HANA-O2C-_R00317995",
+    "Bullet Fields": [
+      "R00317995",
+      "Ho Chiminh, Viettel Building"
+    ],
+    "Requisition ID": "R00317995",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00344645-1",
+    "Title": "AI Native Software Engineer",
+    "Location": "",
+    "Posted Date": "2026-09-03T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/AI-Native-Software-Engineer_R00344645-1",
+    "External Path": "/job/London/AI-Native-Software-Engineer_R00344645-1",
+    "Bullet Fields": [
+      "R00344645",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00344645",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00352429-1",
+    "Title": "Trust & Safety New Associate – English Support | Fresh Grads Welcome",
+    "Location": "",
+    "Posted Date": "2026-09-03T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur/Trust---Safety-New-Associate---English-Support---Fresh-Grads-Welcome_R00352429-1",
+    "External Path": "/job/Kuala-Lumpur/Trust---Safety-New-Associate---English-Support---Fresh-Grads-Welcome_R00352429-1",
+    "Bullet Fields": [
+      "R00352429",
+      "Kuala Lumpur"
+    ],
+    "Requisition ID": "R00352429",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "/job/Bogota-Carrera-7/Consultor-SAP-FSCM_14617416",
+    "Title": "Consultor SAP FSCM",
+    "Location": "",
+    "Posted Date": "2026-09-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bogota-Carrera-7/Consultor-SAP-FSCM_14617416",
+    "External Path": "/job/Bogota-Carrera-7/Consultor-SAP-FSCM_14617416",
+    "Bullet Fields": [
+      "14617416",
+      "Bogota, Carrera 7"
+    ],
+    "Requisition ID": "14617416",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "/job/Bogota-Carrera-7/S4--Funcional-SAP-TM_14617395",
+    "Title": "S4- Funcional SAP TM",
+    "Location": "",
+    "Posted Date": "2026-09-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bogota-Carrera-7/S4--Funcional-SAP-TM_14617395",
+    "External Path": "/job/Bogota-Carrera-7/S4--Funcional-SAP-TM_14617395",
+    "Bullet Fields": [
+      "14617395",
+      "Bogota, Carrera 7"
+    ],
+    "Requisition ID": "14617395",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "/job/Bogota-Carrera-7/SAP-TD--Transportation-and-Distribution-_14617398",
+    "Title": "SAP TD (Transportation and Distribution)",
+    "Location": "",
+    "Posted Date": "2026-09-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bogota-Carrera-7/SAP-TD--Transportation-and-Distribution-_14617398",
+    "External Path": "/job/Bogota-Carrera-7/SAP-TD--Transportation-and-Distribution-_14617398",
+    "Bullet Fields": [
+      "14617398",
+      "Bogota, Carrera 7"
+    ],
+    "Requisition ID": "14617398",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00353404",
+    "Title": "Approvals Agent",
+    "Location": "",
+    "Posted Date": "2026-09-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Procurement-Operations-Associate_R00353404",
+    "External Path": "/job/Buenos-Aires/Procurement-Operations-Associate_R00353404",
+    "Bullet Fields": [
+      "R00353404",
+      "Buenos Aires"
+    ],
+    "Requisition ID": "R00353404",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00353979",
+    "Title": "Digital Marketing - Agency Existing Business  - Dutch Speaker",
+    "Location": "",
+    "Posted Date": "2026-09-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dublin/Digital-Marketing---Agency-Existing-Business----Dutch-Speaker_R00353979",
+    "External Path": "/job/Dublin/Digital-Marketing---Agency-Existing-Business----Dutch-Speaker_R00353979",
+    "Bullet Fields": [
+      "R00353979",
+      "Dublin"
+    ],
+    "Requisition ID": "R00353979",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00304362",
+    "Title": "SAP Functional Consultant - Process Excellence",
+    "Location": "",
+    "Posted Date": "2026-09-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Join-our-SAP-EMEA-Team--Enterprise-Architect-opportunities-at-Associate-Manager-Manager_R00304362",
+    "External Path": "/job/London/Join-our-SAP-EMEA-Team--Enterprise-Architect-opportunities-at-Associate-Manager-Manager_R00304362",
+    "Bullet Fields": [
+      "R00304362",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00304362",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00346108",
+    "Title": "Junior AI Software Engineer",
+    "Location": "",
+    "Posted Date": "2026-09-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Newcastle/Junior-AI-Software-Engineer_R00346108",
+    "External Path": "/job/Newcastle/Junior-AI-Software-Engineer_R00346108",
+    "Bullet Fields": [
+      "R00346108",
+      "Newcastle"
+    ],
+    "Requisition ID": "R00346108",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00346138",
+    "Title": "AI Software Engineering Specialist",
+    "Location": "",
+    "Posted Date": "2026-09-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Newcastle/AI-Software-Engineering-Manager_R00346138",
+    "External Path": "/job/Newcastle/AI-Software-Engineering-Manager_R00346138",
+    "Bullet Fields": [
+      "R00346138",
+      "Newcastle"
+    ],
+    "Requisition ID": "R00346138",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00352515",
+    "Title": "Tech Enablement  | Analyst",
+    "Location": "",
+    "Posted Date": "2026-09-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/So-Paulo---Barueri/Tech-Enablement-Specialist_R00352515",
+    "External Path": "/job/So-Paulo---Barueri/Tech-Enablement-Specialist_R00352515",
+    "Bullet Fields": [
+      "R00352515",
+      "São Paulo - Barueri"
+    ],
+    "Requisition ID": "R00352515",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00339640",
+    "Title": "Senior Manager B2B Growth Strategy",
+    "Location": "",
+    "Posted Date": "2026-09-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Senior-Manager-B2B-Growth-Strategy_R00339640",
+    "External Path": "/job/London/Senior-Manager-B2B-Growth-Strategy_R00339640",
+    "Bullet Fields": [
+      "R00339640",
+      "London"
+    ],
+    "Requisition ID": "R00339640",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00342918-1",
+    "Title": "Software Engineer Intern",
+    "Location": "",
+    "Posted Date": "2026-09-02T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Software-Engineer-Intern_R00342918-1",
+    "External Path": "/job/Ebene/Software-Engineer-Intern_R00342918-1",
+    "Bullet Fields": [
+      "R00342918",
+      "Ebene"
+    ],
+    "Requisition ID": "R00342918",
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
     "Job ID": "00353958",
     "Title": "Content Moderator (Junior Data Reviewer) with English and Turkish",
     "Location": "",
@@ -11,8 +236,8 @@
       "Krakow, High 5Ive Development"
     ],
     "Requisition ID": "R00353958",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00353956",
@@ -26,8 +251,8 @@
       "Dublin"
     ],
     "Requisition ID": "R00353956",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00281614",
@@ -41,8 +266,8 @@
       "Kuala Lumpur"
     ],
     "Requisition ID": "R00281614",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00348743",
@@ -56,8 +281,8 @@
       "Copenhagen"
     ],
     "Requisition ID": "R00348743",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-09-03T10:39:15Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00277027",
@@ -71,232 +296,7 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00277027",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00353422-1",
-    "Title": "SAP SuccessFactors Manager",
-    "Location": "",
-    "Posted Date": "2026-09-02T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam-Gustav-Mahlerplein-90/SAP-SuccessFactors-Manager_R00353422-1",
-    "External Path": "/job/Amsterdam-Gustav-Mahlerplein-90/SAP-SuccessFactors-Manager_R00353422-1",
-    "Bullet Fields": [
-      "R00353422",
-      "Amsterdam, Gustav Mahlerplein 90"
-    ],
-    "Requisition ID": "R00353422",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00353751",
-    "Title": "Asset Management Consulting Senior Manager",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Asset-Management-Consulting-Senior-Manager_R00353751",
-    "External Path": "/job/New-York-One-Manhattan-West-Corp/Asset-Management-Consulting-Senior-Manager_R00353751",
-    "Bullet Fields": [
-      "R00353751",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00353751",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00277523-1",
-    "Title": "IT Delivery Lead Energieversorger (all genders)",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Building-Beta/Projektleiter-IT--und-Delivery-Transformationen---Energieversorger--all-genders-_R00277523-1",
-    "External Path": "/job/Kronberg-Building-Beta/Projektleiter-IT--und-Delivery-Transformationen---Energieversorger--all-genders-_R00277523-1",
-    "Bullet Fields": [
-      "R00277523",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00277523",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00332630",
-    "Title": "Senior SAP S/4HANA Utilities Consultant Energiewirtschaft (all genders)",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Building-Beta/Senior-SAP-S-4HANA-Utilities-Consultant-Energiewirtschaft--all-genders-_R00332630",
-    "External Path": "/job/Kronberg-Building-Beta/Senior-SAP-S-4HANA-Utilities-Consultant-Energiewirtschaft--all-genders-_R00332630",
-    "Bullet Fields": [
-      "R00332630",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00332630",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00286439",
-    "Title": "SAP Insurance Consultant Financial Services  (all genders)",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Building-Beta/SAP-Insurance-Consultant-Financial-Services---all-genders-_R00286439",
-    "External Path": "/job/Kronberg-Building-Beta/SAP-Insurance-Consultant-Financial-Services---all-genders-_R00286439",
-    "Bullet Fields": [
-      "R00286439",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00286439",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00277038",
-    "Title": "IT Delivery Lead Insurance (all genders)",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg/IT-Delivery-Lead-Insurance_R00277038",
-    "External Path": "/job/Kronberg/IT-Delivery-Lead-Insurance_R00277038",
-    "Bullet Fields": [
-      "R00277038",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00277038",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00277032",
-    "Title": "IT Consultant Business Analyse Banking (all genders)",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Building-Beta/IT-Consultant-Business-Analyse-Banking--all-genders-_R00277032",
-    "External Path": "/job/Kronberg-Building-Beta/IT-Consultant-Business-Analyse-Banking--all-genders-_R00277032",
-    "Bullet Fields": [
-      "R00277032",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00277032",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00286450",
-    "Title": "IT Consultant Business Analyse Versicherung (all genders)",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg/IT-Consultant-Business-Analyse-Versicherung--all-genders-_R00286450",
-    "External Path": "/job/Kronberg/IT-Consultant-Business-Analyse-Versicherung--all-genders-_R00286450",
-    "Bullet Fields": [
-      "R00286450",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00286450",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00277138",
-    "Title": "Pega Senior / Lead System Architect (all genders)",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Building-Beta/Pega-Senior-System-Architect---Pega-Lead-System-Architect--all-genders-_R00277138",
-    "External Path": "/job/Kronberg-Building-Beta/Pega-Senior-System-Architect---Pega-Lead-System-Architect--all-genders-_R00277138",
-    "Bullet Fields": [
-      "R00277138",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00277138",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00277136",
-    "Title": "Lead Low-Code Developer Appian / Mendix (all genders)",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Building-Beta/Senior-Mendix-Low-Code-No-Code-Expert--all-genders-_R00277136",
-    "External Path": "/job/Kronberg-Building-Beta/Senior-Mendix-Low-Code-No-Code-Expert--all-genders-_R00277136",
-    "Bullet Fields": [
-      "R00277136",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00277136",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00353670",
-    "Title": "Bygg, test og moderniser teknologiske løsninger som Graduate i Accenture 2027 💻 ",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Oslo/Bygg--test-og-moderniser-teknologiske-lsninger-som-Graduate-i-Accenture-2027----_R00353670",
-    "External Path": "/job/Oslo/Bygg--test-og-moderniser-teknologiske-lsninger-som-Graduate-i-Accenture-2027----_R00353670",
-    "Bullet Fields": [
-      "R00353670",
-      "Oslo"
-    ],
-    "Requisition ID": "R00353670",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00353684",
-    "Title": "Médico/a del Trabajo en oficinas Accenture",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Mdico-a-del-Trabajo-en-oficinas-Accenture_R00353684",
-    "External Path": "/job/Madrid/Mdico-a-del-Trabajo-en-oficinas-Accenture_R00353684",
-    "Bullet Fields": [
-      "R00353684",
-      "Madrid"
-    ],
-    "Requisition ID": "R00353684",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00350422",
-    "Title": "Ethics and Compliance Counsel Data Privacy Manager",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bucharest/Ethics-and-Compliance-Counsel-Data-Privacy-Manager_R00350422",
-    "External Path": "/job/Bucharest/Ethics-and-Compliance-Counsel-Data-Privacy-Manager_R00350422",
-    "Bullet Fields": [
-      "R00350422",
-      "Bucharest"
-    ],
-    "Requisition ID": "R00350422",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00345995",
-    "Title": "Compliance Ethics Counsel",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bucharest/Compliance-Ethics-Counsel_R00345995",
-    "External Path": "/job/Bucharest/Compliance-Ethics-Counsel_R00345995",
-    "Bullet Fields": [
-      "R00345995",
-      "Bucharest"
-    ],
-    "Requisition ID": "R00345995",
-    "Scraped At": "2026-09-02T10:36:07Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00282385",
-    "Title": "Trust & Safety Specialist (Content Moderator) with English and Spanish",
-    "Location": "",
-    "Posted Date": "2026-09-01T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Reviewer--with-English-and-Spanish_R00282385",
-    "External Path": "/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Reviewer--with-English-and-Spanish_R00282385",
-    "Bullet Fields": [
-      "R00282385",
-      "Krakow, High 5Ive Development"
-    ],
-    "Requisition ID": "R00282385",
-    "Scraped At": "2026-09-02T10:36:07Z",
+    "Scraped At": "2026-09-03T10:39:15Z",
     "Posted Date Original": "Posted Yesterday"
   }
 ]
