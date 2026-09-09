@@ -30802,15 +30802,15 @@
   {
     "Job ID": "2006356",
     "Title": "Senior DFT Engineer",
-    "Location": "US, CA, Santa Clara",
-    "Posted Date": "2026-09-04T00:00:00Z",
+    "Location": "2 Locations",
+    "Posted Date": "2026-09-08T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2006356",
     "External Path": "/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2006356",
     "Bullet Fields": [
       "JR2006356"
     ],
     "Requisition ID": "JR2006356",
-    "Scraped At": "2026-09-05T09:56:37Z",
+    "Scraped At": "2026-09-09T10:44:30Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
@@ -36711,15 +36711,15 @@
     "Job ID": "2013271",
     "Title": "Senior Site Reliability Engineer - HPC",
     "Location": "3 Locations",
-    "Posted Date": "2026-02-26T00:00:00Z",
+    "Posted Date": "2026-09-08T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---HPC_JR2013271",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---HPC_JR2013271",
     "Bullet Fields": [
       "JR2013271"
     ],
     "Requisition ID": "JR2013271",
-    "Scraped At": "2026-02-26T06:58:11Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "2006284-1",
@@ -42101,14 +42101,14 @@
     "Job ID": "2014381",
     "Title": "Firmware Design Engineer",
     "Location": "2 Locations",
-    "Posted Date": "2026-07-16T00:00:00Z",
+    "Posted Date": "2026-09-09T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Firmware-Design-Engineer_JR2014381",
     "External Path": "/job/Israel-Yokneam/Firmware-Design-Engineer_JR2014381",
     "Bullet Fields": [
       "JR2014381"
     ],
     "Requisition ID": "JR2014381",
-    "Scraped At": "2026-07-16T08:08:02Z",
+    "Scraped At": "2026-09-09T10:44:30Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -66750,5 +66750,243 @@
     "Requisition ID": "JR2024811",
     "Scraped At": "2026-09-08T10:33:14Z",
     "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2016514",
+    "Title": "Senior Firmware Engineer - NVLink Switch",
+    "Location": "2 Locations",
+    "Posted Date": "2026-09-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Firmware-Engineer---NVLink-Switch_JR2016514",
+    "External Path": "/job/Israel-Tel-Aviv/Senior-Firmware-Engineer---NVLink-Switch_JR2016514",
+    "Bullet Fields": [
+      "JR2016514"
+    ],
+    "Requisition ID": "JR2016514",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2016524",
+    "Title": "Firmware Engineer - NVLink",
+    "Location": "2 Locations",
+    "Posted Date": "2026-09-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer---NVLink_JR2016524",
+    "External Path": "/job/Israel-Tel-Aviv/Firmware-Engineer---NVLink_JR2016524",
+    "Bullet Fields": [
+      "JR2016524"
+    ],
+    "Requisition ID": "JR2016524",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2025229",
+    "Title": "Tech Engagement Lead",
+    "Location": "France, Remote",
+    "Posted Date": "2026-09-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Remote/Tech-Engagement-Lead_JR2025229",
+    "External Path": "/job/France-Remote/Tech-Engagement-Lead_JR2025229",
+    "Bullet Fields": [
+      "JR2025229"
+    ],
+    "Requisition ID": "JR2025229",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2024643",
+    "Title": "Senior Credit Analyst",
+    "Location": "Singapore, Remote",
+    "Posted Date": "2026-09-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Remote/Senior-Credit-Analyst_JR2024643",
+    "External Path": "/job/Singapore-Remote/Senior-Credit-Analyst_JR2024643",
+    "Bullet Fields": [
+      "JR2024643"
+    ],
+    "Requisition ID": "JR2024643",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2025205",
+    "Title": "System Software Engineer - Performance Verification Infrastructure",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-09-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/System-Software-Engineer---Performance-Verification-Infrastructure_JR2025205",
+    "External Path": "/job/India-Bengaluru/System-Software-Engineer---Performance-Verification-Infrastructure_JR2025205",
+    "Bullet Fields": [
+      "JR2025205"
+    ],
+    "Requisition ID": "JR2025205",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2023969",
+    "Title": "Staff Site Reliability Engineer - AI Platform Runtime",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-09-08T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Staff-Site-Reliability-Engineer---AI-Platform-Runtime_JR2023969",
+    "External Path": "/job/US-CA-Santa-Clara/Staff-Site-Reliability-Engineer---AI-Platform-Runtime_JR2023969",
+    "Bullet Fields": [
+      "JR2023969"
+    ],
+    "Requisition ID": "JR2023969",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2023973",
+    "Title": "Principal Site Reliability Engineer",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-09-08T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Site-Reliability-Engineer_JR2023973",
+    "External Path": "/job/US-CA-Santa-Clara/Principal-Site-Reliability-Engineer_JR2023973",
+    "Bullet Fields": [
+      "JR2023973"
+    ],
+    "Requisition ID": "JR2023973",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2025179",
+    "Title": "System Software Intern, Video Chips - Summer 2027",
+    "Location": "China, Shanghai",
+    "Posted Date": "2026-09-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179",
+    "External Path": "/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179",
+    "Bullet Fields": [
+      "JR2025179"
+    ],
+    "Requisition ID": "JR2025179",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2024689",
+    "Title": "Senior ASIC Engineer",
+    "Location": "China, Shanghai",
+    "Posted Date": "2026-09-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-ASIC-Engineer_JR2024689",
+    "External Path": "/job/China-Shanghai/Senior-ASIC-Engineer_JR2024689",
+    "Bullet Fields": [
+      "JR2024689"
+    ],
+    "Requisition ID": "JR2024689",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2025022-1",
+    "Title": "Physical Design Intern, VLSI - 2027",
+    "Location": "2 Locations",
+    "Posted Date": "2026-09-09T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1",
+    "External Path": "/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1",
+    "Bullet Fields": [
+      "JR2025022"
+    ],
+    "Requisition ID": "JR2025022",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2024930-1",
+    "Title": "Senior Software Engineer, Cosmos Infrastructure and End to End Performance",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-09-08T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Cosmos-Infrastructure-and-End-to-End-Performance_JR2024930-1",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--Cosmos-Infrastructure-and-End-to-End-Performance_JR2024930-1",
+    "Bullet Fields": [
+      "JR2024930"
+    ],
+    "Requisition ID": "JR2024930",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2023222",
+    "Title": "Senior System Software Engineer, ML and Vector Search",
+    "Location": "2 Locations",
+    "Posted Date": "2026-09-08T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--ML-and-Vector-Search_JR2023222",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--ML-and-Vector-Search_JR2023222",
+    "Bullet Fields": [
+      "JR2023222"
+    ],
+    "Requisition ID": "JR2023222",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2023061",
+    "Title": "Senior Software Engineer - Traffic and Networking",
+    "Location": "2 Locations",
+    "Posted Date": "2026-09-08T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Traffic-and-Networking_JR2023061",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Engineer---Traffic-and-Networking_JR2023061",
+    "Bullet Fields": [
+      "JR2023061"
+    ],
+    "Requisition ID": "JR2023061",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2024724",
+    "Title": "Principal Software Engineer - Networking - DGX Cloud",
+    "Location": "2 Locations",
+    "Posted Date": "2026-09-08T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---Networking---DGX-Cloud_JR2024724",
+    "External Path": "/job/US-CA-Santa-Clara/Principal-Software-Engineer---Networking---DGX-Cloud_JR2024724",
+    "Bullet Fields": [
+      "JR2024724"
+    ],
+    "Requisition ID": "JR2024724",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2025036",
+    "Title": "Machine Learning Engineer",
+    "Location": "2 Locations",
+    "Posted Date": "2026-09-08T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer_JR2025036",
+    "External Path": "/job/US-CA-Santa-Clara/Machine-Learning-Engineer_JR2025036",
+    "Bullet Fields": [
+      "JR2025036"
+    ],
+    "Requisition ID": "JR2025036",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2024972-1",
+    "Title": "Senior Systems Software Engineer- EDA Infrastructure",
+    "Location": "6 Locations",
+    "Posted Date": "2026-09-08T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Systems-Software-Engineer--EDA-Infrastructure_JR2024972-1",
+    "External Path": "/job/US-CA-Remote/Senior-Systems-Software-Engineer--EDA-Infrastructure_JR2024972-1",
+    "Bullet Fields": [
+      "JR2024972"
+    ],
+    "Requisition ID": "JR2024972",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2022366",
+    "Title": "Go-to-Market Product Manager",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-09-08T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Product-Manager_JR2022366",
+    "External Path": "/job/US-CA-Santa-Clara/Go-to-Market-Product-Manager_JR2022366",
+    "Bullet Fields": [
+      "JR2022366"
+    ],
+    "Requisition ID": "JR2022366",
+    "Scraped At": "2026-09-09T10:44:30Z",
+    "Posted Date Original": "Posted Yesterday"
   }
 ]
