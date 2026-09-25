@@ -1,84 +1,144 @@
 [
   {
-    "Job ID": "00357761-1",
-    "Title": "Employment Counsel Manager (all genders)",
+    "Job ID": "00359893-1",
+    "Title": "(Junior) AI Native Software Engineer  (all genders)",
     "Location": "",
-    "Posted Date": "2026-09-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dusseldorf/Employment-Counsel-Manager--all-genders-_R00357761-1",
-    "External Path": "/job/Dusseldorf/Employment-Counsel-Manager--all-genders-_R00357761-1",
+    "Posted Date": "2026-09-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1",
+    "External Path": "/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1",
     "Bullet Fields": [
-      "R00357761",
-      "Dusseldorf"
-    ],
-    "Requisition ID": "R00357761",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00358987",
-    "Title": "Junior AI Native Software Engineer",
-    "Location": "",
-    "Posted Date": "2026-09-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Junior-AI-Native-Engineer_R00358987",
-    "External Path": "/job/Paris/Junior-AI-Native-Engineer_R00358987",
-    "Bullet Fields": [
-      "R00358987",
-      "Paris"
-    ],
-    "Requisition ID": "R00358987",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00309693",
-    "Title": "Banking Data Consultant",
-    "Location": "",
-    "Posted Date": "2026-09-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Helsinki/Banking-data-consultant_R00309693",
-    "External Path": "/job/Helsinki/Banking-data-consultant_R00309693",
-    "Bullet Fields": [
-      "R00309693",
-      "Helsinki"
-    ],
-    "Requisition ID": "R00309693",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00277514",
-    "Title": "Banking Technology Consultant",
-    "Location": "",
-    "Posted Date": "2026-09-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Helsinki/Banking-Technology-Consultant_R00277514",
-    "External Path": "/job/Helsinki/Banking-Technology-Consultant_R00277514",
-    "Bullet Fields": [
-      "R00277514",
-      "Helsinki"
-    ],
-    "Requisition ID": "R00277514",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00359527",
-    "Title": "Land Development Manager – Data Center Projects",
-    "Location": "",
-    "Posted Date": "2026-09-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Zaragoza/Land-Development-Manager---Data-Center-Projects_R00359527",
-    "External Path": "/job/Zaragoza/Land-Development-Manager---Data-Center-Projects_R00359527",
-    "Bullet Fields": [
-      "R00359527",
+      "R00359893",
       "Location Negotiable"
     ],
-    "Requisition ID": "R00359527",
-    "Scraped At": "2026-09-24T11:05:02Z",
+    "Requisition ID": "R00359893",
+    "Scraped At": "2026-09-25T11:06:26Z",
     "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00298206-1",
+    "Title": "Data Scientist",
+    "Location": "",
+    "Posted Date": "2026-09-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cluj-Napoca/Full-Stack-Developer---Java---Angular-with-Cloud-Expertise_R00298206-1",
+    "External Path": "/job/Cluj-Napoca/Full-Stack-Developer---Java---Angular-with-Cloud-Expertise_R00298206-1",
+    "Bullet Fields": [
+      "R00298206",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00298206",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00345665",
+    "Title": "Junior Applied AI Engineer (all genders)",
+    "Location": "",
+    "Posted Date": "2026-09-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Campus-Kronberg-1/AI-Native-Software-Engineering--Junior-_R00345665",
+    "External Path": "/job/Kronberg-Campus-Kronberg-1/AI-Native-Software-Engineering--Junior-_R00345665",
+    "Bullet Fields": [
+      "R00345665",
+      "Kronberg, Campus Kronberg 1"
+    ],
+    "Requisition ID": "R00345665",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00358840",
+    "Title": "Executive Protection Manager",
+    "Location": "",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Executive-Protection-Manager_R00358840",
+    "External Path": "/job/New-York-One-Manhattan-West-Corp/Executive-Protection-Manager_R00358840",
+    "Bullet Fields": [
+      "R00358840",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00358840",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00358334",
+    "Title": "Representante de Vendas B2B, Analista Sênior | Espanhol",
+    "Location": "",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Representante-de-Vendas-B2B--Analista-Snior---Espanhol-ou-Portugus_R00358334",
+    "External Path": "/job/Barueri-Green-Valley-Andromeda/Representante-de-Vendas-B2B--Analista-Snior---Espanhol-ou-Portugus_R00358334",
+    "Bullet Fields": [
+      "R00358334",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00358334",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00335657",
+    "Title": "Consultor (a) - FSCM",
+    "Location": "",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Consultores-SAP-CO-FSCM-TDF-TRM-Mastersaf-OneSource-Tax_R00335657",
+    "External Path": "/job/Pernambuco---Recife/Consultores-SAP-CO-FSCM-TDF-TRM-Mastersaf-OneSource-Tax_R00335657",
+    "Bullet Fields": [
+      "R00335657",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00335657",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00348592",
+    "Title": "Consultor(a) SAP  - Vaga Afirmativa PCD",
+    "Location": "",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Consultor-a--SAP----Vaga-Afirmativa-PCD_R00348592",
+    "External Path": "/job/Pernambuco---Recife/Consultor-a--SAP----Vaga-Afirmativa-PCD_R00348592",
+    "Bullet Fields": [
+      "R00348592",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00348592",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00253074",
+    "Title": "Consultor(a) SAP BTP",
+    "Location": "",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-BTP_R00253074",
+    "External Path": "/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-BTP_R00253074",
+    "Bullet Fields": [
+      "R00253074",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00253074",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00253057",
+    "Title": "Consultor(a) SAP PS/PP/PM/QM/APM/PLM",
+    "Location": "",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Pessoa-Analista-e-Consultora--SAP-PP-PM-QM_R00253057",
+    "External Path": "/job/Pernambuco---Recife/Pessoa-Analista-e-Consultora--SAP-PP-PM-QM_R00253057",
+    "Bullet Fields": [
+      "R00253057",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00253057",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00347896",
     "Title": "Consultor(a) SAP ABAP",
     "Location": "",
-    "Posted Date": "2026-09-23T00:00:00Z",
+    "Posted Date": "2026-09-24T00:00:00Z",
     "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Consultor-a--SAP-ABAP_R00347896",
     "External Path": "/job/Pernambuco---Recife/Consultor-a--SAP-ABAP_R00347896",
     "Bullet Fields": [
@@ -86,217 +146,157 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00347896",
-    "Scraped At": "2026-09-24T11:05:02Z",
+    "Scraped At": "2026-09-25T11:06:26Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "00358357-1",
-    "Title": "Health PBM Operations Manager (Specialty Pharma, PBM) ",
-    "Location": "",
-    "Posted Date": "2026-09-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Health-PBM-Operations-Manager--Specialty-Pharma--PBM--_R00358357-1",
-    "External Path": "/job/Chicago-Accenture-Tower-Corp/Health-PBM-Operations-Manager--Specialty-Pharma--PBM--_R00358357-1",
-    "Bullet Fields": [
-      "R00358357",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00358357",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "/job/Melbourne/Cloud---DevOps-Engineer_14735439-4",
-    "Title": "Cloud & DevOps Engineer",
+    "Job ID": "00253075",
+    "Title": "Consultor(a) SAP TM",
     "Location": "",
     "Posted Date": "2026-09-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne/Cloud---DevOps-Engineer_14735439-4",
-    "External Path": "/job/Melbourne/Cloud---DevOps-Engineer_14735439-4",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Pessoa-Consultora---SAP-TM_R00253075",
+    "External Path": "/job/Pernambuco---Recife/Pessoa-Consultora---SAP-TM_R00253075",
     "Bullet Fields": [
-      "14735439",
+      "R00253075",
       "Location Negotiable"
     ],
-    "Requisition ID": "14735439",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted Today"
+    "Requisition ID": "R00253075",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "00359063-1",
-    "Title": "Manufacturing Execution Systems (MES) Manager - Syncade",
+    "Job ID": "00253071",
+    "Title": "Consultor(a) COUPA Funcional",
     "Location": "",
-    "Posted Date": "2026-09-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Boston-888-Boylston-Corp/Manufacturing-Execution-Systems--MES--Manager---Syncade_R00359063-1",
-    "External Path": "/job/Boston-888-Boylston-Corp/Manufacturing-Execution-Systems--MES--Manager---Syncade_R00359063-1",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Pessoas-Consultoras-COUPA_R00253071",
+    "External Path": "/job/Pernambuco---Recife/Pessoas-Consultoras-COUPA_R00253071",
     "Bullet Fields": [
-      "R00359063",
+      "R00253071",
       "Location Negotiable"
     ],
-    "Requisition ID": "R00359063",
-    "Scraped At": "2026-09-24T11:05:02Z",
+    "Requisition ID": "R00253071",
+    "Scraped At": "2026-09-25T11:06:26Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "00356579",
-    "Title": "Analista Pleno de Operações Bancárias e Prevenção a Fraudes – Híbrido",
+    "Job ID": "00253066",
+    "Title": "Consultor(a) Sênior - SAP SD",
     "Location": "",
-    "Posted Date": "2026-09-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Operaes-de-Vendas---Hbrido_R00356579",
-    "External Path": "/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Operaes-de-Vendas---Hbrido_R00356579",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-SD_R00253066",
+    "External Path": "/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-SD_R00253066",
     "Bullet Fields": [
-      "R00356579",
-      "Sao Paulo, Torre Paineira"
-    ],
-    "Requisition ID": "R00356579",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00353956",
-    "Title": "Functional Lead - Sales (Direct/Account)",
-    "Location": "",
-    "Posted Date": "2026-09-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dublin/Functional-Lead---Sales--Direct-Account-_R00353956",
-    "External Path": "/job/Dublin/Functional-Lead---Sales--Direct-Account-_R00353956",
-    "Bullet Fields": [
-      "R00353956",
-      "Dublin"
-    ],
-    "Requisition ID": "R00353956",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00355722",
-    "Title": "Consultant PLM",
-    "Location": "",
-    "Posted Date": "2026-09-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Blagnac/Consultant-PLM_R00355722",
-    "External Path": "/job/Blagnac/Consultant-PLM_R00355722",
-    "Bullet Fields": [
-      "R00355722",
-      "Blagnac"
-    ],
-    "Requisition ID": "R00355722",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00330406",
-    "Title": "Life Sciences R&D Consultant",
-    "Location": "",
-    "Posted Date": "2026-09-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Technology-Consultant_R00330406",
-    "External Path": "/job/London/Technology-Consultant_R00330406",
-    "Bullet Fields": [
-      "R00330406",
+      "R00253066",
       "Location Negotiable"
     ],
-    "Requisition ID": "R00330406",
-    "Scraped At": "2026-09-24T11:05:02Z",
+    "Requisition ID": "R00253066",
+    "Scraped At": "2026-09-25T11:06:26Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "00359174",
-    "Title": "IT Service Management Analyst - Japanese Support",
+    "Job ID": "00253065",
+    "Title": "Consultor(a) SAP FI e FICO",
     "Location": "",
-    "Posted Date": "2026-09-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Vertical-Corp-Tower-B/IT-Service-Management-Analyst---Japanese-Support_R00359174",
-    "External Path": "/job/Kuala-Lumpur-Vertical-Corp-Tower-B/IT-Service-Management-Analyst---Japanese-Support_R00359174",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-FI---CO---TRM---Mastersaf_R00253065",
+    "External Path": "/job/Pernambuco---Recife/Analistas-e-Consultores-SAP-FI---CO---TRM---Mastersaf_R00253065",
     "Bullet Fields": [
-      "R00359174",
-      "Kuala Lumpur, Vertical Corp. Tower B"
-    ],
-    "Requisition ID": "R00359174",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00359173-1",
-    "Title": "Mid-Market Inside Sales Representative – Cyber Security",
-    "Location": "",
-    "Posted Date": "2026-09-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Mid-Market-Inside-Sales-Representative---Cyber-Security_R00359173-1",
-    "External Path": "/job/Roma/Mid-Market-Inside-Sales-Representative---Cyber-Security_R00359173-1",
-    "Bullet Fields": [
-      "R00359173",
+      "R00253065",
       "Location Negotiable"
     ],
-    "Requisition ID": "R00359173",
-    "Scraped At": "2026-09-24T11:05:02Z",
+    "Requisition ID": "R00253065",
+    "Scraped At": "2026-09-25T11:06:26Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "00338042",
-    "Title": "Mid-Market Account Success Manager – Cyber Security",
+    "Job ID": "00253076",
+    "Title": "Consultor(a) SAP Data Migration",
     "Location": "",
-    "Posted Date": "2026-09-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Mid-Market-Account-Success-Manager---Cyber-Security_R00338042",
-    "External Path": "/job/Roma/Mid-Market-Account-Success-Manager---Cyber-Security_R00338042",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Analistas-e-Consultores-Data-migration_R00253076",
+    "External Path": "/job/Pernambuco---Recife/Analistas-e-Consultores-Data-migration_R00253076",
     "Bullet Fields": [
-      "R00338042",
+      "R00253076",
       "Location Negotiable"
     ],
-    "Requisition ID": "R00338042",
-    "Scraped At": "2026-09-24T11:05:02Z",
+    "Requisition ID": "R00253076",
+    "Scraped At": "2026-09-25T11:06:26Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "/job/Auckland/SAP-S-4HANA-Finance--FINS--Functional-Consultant_14514154",
-    "Title": "SAP S/4HANA Finance (FINS) Functional Consultant",
+    "Job ID": "00253072-1",
+    "Title": "Consultor(a) SAP HCM/SuccessFactor/EH&S",
     "Location": "",
-    "Posted Date": "2026-09-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Auckland/SAP-S-4HANA-Finance--FINS--Functional-Consultant_14514154",
-    "External Path": "/job/Auckland/SAP-S-4HANA-Finance--FINS--Functional-Consultant_14514154",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/So-Paulo---Sao-Paulo/Analistas-e-Consultores-SAP-HCM---EH-S-e-Success-Factors_R00253072-1",
+    "External Path": "/job/So-Paulo---Sao-Paulo/Analistas-e-Consultores-SAP-HCM---EH-S-e-Success-Factors_R00253072-1",
     "Bullet Fields": [
-      "14514154",
+      "R00253072",
       "Location Negotiable"
     ],
-    "Requisition ID": "14514154",
-    "Scraped At": "2026-09-24T11:05:02Z",
+    "Requisition ID": "R00253072",
+    "Scraped At": "2026-09-25T11:06:26Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "00359108",
-    "Title": "Consultores SAP FI-CO-TRM (S/4HANA)",
+    "Job ID": "00253070",
+    "Title": "Consultor(a) SAP Billing/FICA/WM/CRM (Utilities/CCS/ISU)",
     "Location": "",
-    "Posted Date": "2026-09-22T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bogota-Carrera-7/Consultores-SAP-FI-CO-TRM--S-4HANA-_R00359108",
-    "External Path": "/job/Bogota-Carrera-7/Consultores-SAP-FI-CO-TRM--S-4HANA-_R00359108",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Recife-Armazem-9/Analistas-e-Consultores-SAP-Utilities---CCS-IS-U_R00253070",
+    "External Path": "/job/Recife-Armazem-9/Analistas-e-Consultores-SAP-Utilities---CCS-IS-U_R00253070",
     "Bullet Fields": [
-      "R00359108",
+      "R00253070",
       "Location Negotiable"
     ],
-    "Requisition ID": "R00359108",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Requisition ID": "R00253070",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "00350438",
-    "Title": "Graphic Designer (She/He/They)",
+    "Job ID": "00358518-1",
+    "Title": "Compliance and Ethics Counsel Specialist",
     "Location": "",
-    "Posted Date": "2026-09-22T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Graphic-Designer--She-He-They-_R00350438",
-    "External Path": "/job/Warsaw/Graphic-Designer--She-He-They-_R00350438",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Compliance-and-Ethics-Counsel-Specialist_R00358518-1",
+    "External Path": "/job/Bengaluru/Compliance-and-Ethics-Counsel-Specialist_R00358518-1",
     "Bullet Fields": [
-      "R00350438",
-      "Warsaw"
+      "R00358518",
+      "Bengaluru"
     ],
-    "Requisition ID": "R00350438",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Requisition ID": "R00358518",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
-    "Job ID": "00277940",
-    "Title": "Desenvolvedor(a) COBOL (Mainframe) | Pleno a Sênior",
+    "Job ID": "00357355",
+    "Title": "Compliance and Ethics Counsel Associate Manager",
     "Location": "",
-    "Posted Date": "2026-09-22T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/So-Paulo---Barueri/Analista-Jr-Pleno-Mainframe-Cobol_R00277940",
-    "External Path": "/job/So-Paulo---Barueri/Analista-Jr-Pleno-Mainframe-Cobol_R00277940",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Compliance-and-Ethics-Counsel-Associate-Manager_R00357355",
+    "External Path": "/job/Bengaluru/Compliance-and-Ethics-Counsel-Associate-Manager_R00357355",
     "Bullet Fields": [
-      "R00277940",
-      "São Paulo - Barueri"
+      "R00357355",
+      "Bengaluru"
     ],
-    "Requisition ID": "R00277940",
-    "Scraped At": "2026-09-24T11:05:02Z",
-    "Posted Date Original": "Posted 2 Days Ago"
+    "Requisition ID": "R00357355",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00356812-1",
+    "Title": "Legal Counsel Innovation",
+    "Location": "",
+    "Posted Date": "2026-09-24T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Legal-Counsel-Innovation_R00356812-1",
+    "External Path": "/job/Bengaluru/Legal-Counsel-Innovation_R00356812-1",
+    "Bullet Fields": [
+      "R00356812",
+      "Bengaluru"
+    ],
+    "Requisition ID": "R00356812",
+    "Scraped At": "2026-09-25T11:06:26Z",
+    "Posted Date Original": "Posted Yesterday"
   }
 ]
