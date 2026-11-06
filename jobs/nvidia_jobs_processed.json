@@ -36711,14 +36711,14 @@
     "Job ID": "2013271",
     "Title": "Senior Site Reliability Engineer - Kubernetes Platform",
     "Location": "3 Locations",
-    "Posted Date": "2026-10-27T00:00:00Z",
+    "Posted Date": "2026-11-05T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---HPC_JR2013271",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---HPC_JR2013271",
     "Bullet Fields": [
       "JR2013271"
     ],
     "Requisition ID": "JR2013271",
-    "Scraped At": "2026-10-28T12:06:15Z",
+    "Scraped At": "2026-11-06T13:43:34Z",
     "Posted Date Original": "Posted Yesterday"
   },
   {
@@ -64515,14 +64515,14 @@
     "Job ID": "2023977",
     "Title": "CPU Performance Developer Technology Engineer",
     "Location": "2 Locations",
-    "Posted Date": "2026-08-27T00:00:00Z",
-    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/CPU-Performance-Developer-Technology-Engineer_JR2023977",
-    "External Path": "/job/China-Shenzhen/CPU-Performance-Developer-Technology-Engineer_JR2023977",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/CPU-Performance-Developer-Technology-Engineer_JR2023977",
+    "External Path": "/job/China-Shanghai/CPU-Performance-Developer-Technology-Engineer_JR2023977",
     "Bullet Fields": [
       "JR2023977"
     ],
     "Requisition ID": "JR2023977",
-    "Scraped At": "2026-08-27T17:19:14Z",
+    "Scraped At": "2026-11-06T13:43:34Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -76102,5 +76102,257 @@
     "Requisition ID": "JR2029048",
     "Scraped At": "2026-11-05T14:49:55Z",
     "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2023413-1",
+    "Title": "Senior Account Manager, Hyperscale and AI Native",
+    "Location": "US, CA, Remote",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Account-Manager--Hyperscale-and-AI-Native_JR2023413-1",
+    "External Path": "/job/US-CA-Remote/Senior-Account-Manager--Hyperscale-and-AI-Native_JR2023413-1",
+    "Bullet Fields": [
+      "JR2023413"
+    ],
+    "Requisition ID": "JR2023413",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2028623",
+    "Title": "Industry Development Specialist, AI Natives",
+    "Location": "2 Locations",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Industry-Development-Specialist--AI-Natives_JR2028623",
+    "External Path": "/job/US-CA-Santa-Clara/Industry-Development-Specialist--AI-Natives_JR2028623",
+    "Bullet Fields": [
+      "JR2028623"
+    ],
+    "Requisition ID": "JR2028623",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2023422",
+    "Title": "Industry Development Specialist, NCP",
+    "Location": "2 Locations",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Industry-Development-Specialist--NCP_JR2023422",
+    "External Path": "/job/US-CA-Santa-Clara/Industry-Development-Specialist--NCP_JR2023422",
+    "Bullet Fields": [
+      "JR2023422"
+    ],
+    "Requisition ID": "JR2023422",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029384-1",
+    "Title": "System Application Engineer",
+    "Location": "Taiwan, Taipei",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Application-Engineer_JR2029384-1",
+    "External Path": "/job/Taiwan-Taipei/System-Application-Engineer_JR2029384-1",
+    "Bullet Fields": [
+      "JR2029384"
+    ],
+    "Requisition ID": "JR2029384",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029291",
+    "Title": "Senior System Software Engineer - GPU Server",
+    "Location": "Taiwan, Taipei",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-System-Software-Engineer---GPU-Server_JR2029291",
+    "External Path": "/job/Taiwan-Taipei/Senior-System-Software-Engineer---GPU-Server_JR2029291",
+    "Bullet Fields": [
+      "JR2029291"
+    ],
+    "Requisition ID": "JR2029291",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029153",
+    "Title": "System Software Intern, Embedded Power Management - 2027",
+    "Location": "Taiwan, Taipei",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153",
+    "External Path": "/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153",
+    "Bullet Fields": [
+      "JR2029153"
+    ],
+    "Requisition ID": "JR2029153",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029411-1",
+    "Title": "Distinguished Signal and Power Integrity Engineer",
+    "Location": "2 Locations",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Signal-and-Power-Integrity-Engineer_JR2029411-1",
+    "External Path": "/job/US-CA-Santa-Clara/Distinguished-Signal-and-Power-Integrity-Engineer_JR2029411-1",
+    "Bullet Fields": [
+      "JR2029411"
+    ],
+    "Requisition ID": "JR2029411",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2028075",
+    "Title": "Senior Digital Design Verification Engineer - Hardware",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Digital-Design-Verification-Engineer---Hardware_JR2028075",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Digital-Design-Verification-Engineer---Hardware_JR2028075",
+    "Bullet Fields": [
+      "JR2028075"
+    ],
+    "Requisition ID": "JR2028075",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029188",
+    "Title": "Senior Mask Design Engineer - Hardware",
+    "Location": "Canada, Toronto",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/Senior-Mask-Design-Engineer---Hardware_JR2029188",
+    "External Path": "/job/Canada-Toronto/Senior-Mask-Design-Engineer---Hardware_JR2029188",
+    "Bullet Fields": [
+      "JR2029188"
+    ],
+    "Requisition ID": "JR2029188",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029434",
+    "Title": "Staff Business Systems Analyst, Beeline Vendor Management System",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Staff-Business-Systems-Analyst--Beeline-Vendor-Management-System_JR2029434",
+    "External Path": "/job/India-Bengaluru/Staff-Business-Systems-Analyst--Beeline-Vendor-Management-System_JR2029434",
+    "Bullet Fields": [
+      "JR2029434"
+    ],
+    "Requisition ID": "JR2029434",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029365",
+    "Title": "Manager, System Software Engineering - Infrastructure Engineering and Automation",
+    "Location": "India, Pune",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Manager--System-Software-Engineering---Infrastructure-Engineering-and-Automation_JR2029365",
+    "External Path": "/job/India-Pune/Manager--System-Software-Engineering---Infrastructure-Engineering-and-Automation_JR2029365",
+    "Bullet Fields": [
+      "JR2029365"
+    ],
+    "Requisition ID": "JR2029365",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029577",
+    "Title": "Senior Compiler Engineer – Rust GPU",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Compiler-Engineer---Rust-GPU_JR2029577",
+    "External Path": "/job/India-Bengaluru/Senior-Compiler-Engineer---Rust-GPU_JR2029577",
+    "Bullet Fields": [
+      "JR2029577"
+    ],
+    "Requisition ID": "JR2029577",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029158",
+    "Title": "Verification Engineer, PCIE",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer--PCIE_JR2029158",
+    "External Path": "/job/India-Bengaluru/Verification-Engineer--PCIE_JR2029158",
+    "Bullet Fields": [
+      "JR2029158"
+    ],
+    "Requisition ID": "JR2029158",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029276",
+    "Title": "Senior ASIC Engineer",
+    "Location": "China, Shanghai",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-ASIC-Engineer_JR2029276",
+    "External Path": "/job/China-Shanghai/Senior-ASIC-Engineer_JR2029276",
+    "Bullet Fields": [
+      "JR2029276"
+    ],
+    "Requisition ID": "JR2029276",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029269",
+    "Title": "Senior CPU Architect",
+    "Location": "China, Shanghai",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-CPU-Architect_JR2029269",
+    "External Path": "/job/China-Shanghai/Senior-CPU-Architect_JR2029269",
+    "Bullet Fields": [
+      "JR2029269"
+    ],
+    "Requisition ID": "JR2029269",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2028247",
+    "Title": "Senior Manager, Graphics Systems Software and Compute Graphics Chips",
+    "Location": "2 Locations",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Finland-Helsinki/Senior-Manager--Graphics-Systems-Software-and-Compute-Graphics-Chips_JR2028247",
+    "External Path": "/job/Finland-Helsinki/Senior-Manager--Graphics-Systems-Software-and-Compute-Graphics-Chips_JR2028247",
+    "Bullet Fields": [
+      "JR2028247"
+    ],
+    "Requisition ID": "JR2028247",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2024818",
+    "Title": "AI Developer Technology Engineering Intern - 2027",
+    "Location": "3 Locations",
+    "Posted Date": "2026-11-06T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+    "External Path": "/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+    "Bullet Fields": [
+      "JR2024818"
+    ],
+    "Requisition ID": "JR2024818",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2021069",
+    "Title": "Senior Product Manager, AI Physics",
+    "Location": "5 Locations",
+    "Posted Date": "2026-11-05T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Product-Manager--AI-Physics_JR2021069",
+    "External Path": "/job/US-CA-Remote/Senior-Product-Manager--AI-Physics_JR2021069",
+    "Bullet Fields": [
+      "JR2021069"
+    ],
+    "Requisition ID": "JR2021069",
+    "Scraped At": "2026-11-06T13:43:34Z",
+    "Posted Date Original": "Posted Yesterday"
   }
 ]
