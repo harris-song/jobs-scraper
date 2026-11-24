@@ -65677,15 +65677,15 @@
     "Job ID": "2024421",
     "Title": "Principal Block and File Storage Software Engineer, Linux - DGX Cloud",
     "Location": "US, CA, Santa Clara",
-    "Posted Date": "2026-11-04T00:00:00Z",
+    "Posted Date": "2026-11-24T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Block-File-Storage-Software-Engineer--Linux---DGX-Cloud_JR2024421",
     "External Path": "/job/US-CA-Santa-Clara/Principal-Block-File-Storage-Software-Engineer--Linux---DGX-Cloud_JR2024421",
     "Bullet Fields": [
       "JR2024421"
     ],
     "Requisition ID": "JR2024421",
-    "Scraped At": "2026-11-05T14:49:55Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
   },
   {
     "Job ID": "2023378",
@@ -76051,15 +76051,15 @@
     "Job ID": "2028417-1",
     "Title": "Senior System Software Engineer - Security",
     "Location": "5 Locations",
-    "Posted Date": "2026-11-04T00:00:00Z",
+    "Posted Date": "2026-11-24T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Security_JR2028417-1",
     "External Path": "/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Security_JR2028417-1",
     "Bullet Fields": [
       "JR2028417"
     ],
     "Requisition ID": "JR2028417",
-    "Scraped At": "2026-11-05T14:49:55Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
   },
   {
     "Job ID": "2029460",
@@ -77101,14 +77101,14 @@
     "Job ID": "2021072",
     "Title": "Senior Customer Program Manager - OEMs",
     "Location": "2 Locations",
-    "Posted Date": "2026-11-11T00:00:00Z",
+    "Posted Date": "2026-11-24T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Customer-Program-Manager---OEMs_JR2021072",
     "External Path": "/job/Israel-Tel-Aviv/Senior-Customer-Program-Manager---OEMs_JR2021072",
     "Bullet Fields": [
       "JR2021072"
     ],
     "Requisition ID": "JR2021072",
-    "Scraped At": "2026-11-11T13:31:36Z",
+    "Scraped At": "2026-11-24T16:57:00Z",
     "Posted Date Original": "Posted Today"
   },
   {
@@ -77591,15 +77591,15 @@
     "Job ID": "2029912",
     "Title": "Senior Offensive Security Engineer – Data Center Systems",
     "Location": "5 Locations",
-    "Posted Date": "2026-11-16T00:00:00Z",
+    "Posted Date": "2026-11-24T00:00:00Z",
     "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Offensive-Security-Engineer---Data-Center-Systems_JR2029912",
     "External Path": "/job/US-CA-Santa-Clara/Senior-Offensive-Security-Engineer---Data-Center-Systems_JR2029912",
     "Bullet Fields": [
       "JR2029912"
     ],
     "Requisition ID": "JR2029912",
-    "Scraped At": "2026-11-17T15:29:03Z",
-    "Posted Date Original": "Posted Yesterday"
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
   },
   {
     "Job ID": "2028688-1",
@@ -79503,6 +79503,230 @@
     ],
     "Requisition ID": "JR2029967",
     "Scraped At": "2026-11-23T17:21:01Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029416",
+    "Title": "Senior Machine Learning Engineer, AI Safety Evaluations",
+    "Location": "2 Locations",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--AI-Safety-Evaluations_JR2029416",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--AI-Safety-Evaluations_JR2029416",
+    "Bullet Fields": [
+      "JR2029416"
+    ],
+    "Requisition ID": "JR2029416",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029097",
+    "Title": "Senior SRE Engineer",
+    "Location": "2 Locations",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-SRE-Engineer_JR2029097",
+    "External Path": "/job/Israel-Tel-Aviv/Senior-SRE-Engineer_JR2029097",
+    "Bullet Fields": [
+      "JR2029097"
+    ],
+    "Requisition ID": "JR2029097",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029939",
+    "Title": "Networking SW QA Engineer",
+    "Location": "Israel, Tel Hai",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Hai/Networking-SW-QA-Engineer_JR2029939",
+    "External Path": "/job/Israel-Tel-Hai/Networking-SW-QA-Engineer_JR2029939",
+    "Bullet Fields": [
+      "JR2029939"
+    ],
+    "Requisition ID": "JR2029939",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2030132",
+    "Title": "Senior Technical Trainer and Content Developer, AI Compute Systems",
+    "Location": "3 Locations",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Technical-Trainer-and-Content-Developer--AI-Compute-Systems_JR2030132",
+    "External Path": "/job/US-TX-Remote/Senior-Technical-Trainer-and-Content-Developer--AI-Compute-Systems_JR2030132",
+    "Bullet Fields": [
+      "JR2030132"
+    ],
+    "Requisition ID": "JR2030132",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2030345",
+    "Title": "Senior Technical Trainer and Content Developer, AI Data Centers",
+    "Location": "6 Locations",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Trainer-and-Content-Developer--AI-Data-Centers_JR2030345",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Technical-Trainer-and-Content-Developer--AI-Data-Centers_JR2030345",
+    "Bullet Fields": [
+      "JR2030345"
+    ],
+    "Requisition ID": "JR2030345",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029278",
+    "Title": "Software Engineer, Storage",
+    "Location": "Israel, Raanana",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineer--Storage_JR2029278",
+    "External Path": "/job/Israel-Raanana/Software-Engineer--Storage_JR2029278",
+    "Bullet Fields": [
+      "JR2029278"
+    ],
+    "Requisition ID": "JR2029278",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2030492-1",
+    "Title": "Senior CUDA Test Development Software Engineer, SDET",
+    "Location": "China, Shanghai",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-CUDA-Test-Development-Software-Engineer--SDET_JR2030492-1",
+    "External Path": "/job/China-Shanghai/Senior-CUDA-Test-Development-Software-Engineer--SDET_JR2030492-1",
+    "Bullet Fields": [
+      "JR2030492"
+    ],
+    "Requisition ID": "JR2030492",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2030129",
+    "Title": "Senior Technical Trainer and Content Developer, AI Networking",
+    "Location": "2 Locations",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Remote/Senior-Technical-Trainer-and-Content-Developer--AI-Networking_JR2030129",
+    "External Path": "/job/Switzerland-Remote/Senior-Technical-Trainer-and-Content-Developer--AI-Networking_JR2030129",
+    "Bullet Fields": [
+      "JR2030129"
+    ],
+    "Requisition ID": "JR2030129",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2030495",
+    "Title": "Senior Software Engineer, Real-Time Data Platform",
+    "Location": "2 Locations",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Remote/Senior-Software-Engineer--Real-Time-Data-Platform_JR2030495",
+    "External Path": "/job/Switzerland-Remote/Senior-Software-Engineer--Real-Time-Data-Platform_JR2030495",
+    "Bullet Fields": [
+      "JR2030495"
+    ],
+    "Requisition ID": "JR2030495",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2029591-1",
+    "Title": "Senior Account Program Manager, EMEAI Creative Operations",
+    "Location": "2 Locations",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Remote/Senior-Account-Program-Manager--EMEAI-Creative-Operations_JR2029591-1",
+    "External Path": "/job/India-Remote/Senior-Account-Program-Manager--EMEAI-Creative-Operations_JR2029591-1",
+    "Bullet Fields": [
+      "JR2029591"
+    ],
+    "Requisition ID": "JR2029591",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2022964",
+    "Title": "Senior Global Capacity Planner",
+    "Location": "Israel, Yokneam",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Global-Capacity-Planner_JR2022964",
+    "External Path": "/job/Israel-Yokneam/Senior-Global-Capacity-Planner_JR2022964",
+    "Bullet Fields": [
+      "JR2022964"
+    ],
+    "Requisition ID": "JR2022964",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2030490",
+    "Title": "Senior Physical Design Engineer",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Physical-Design-Engineer_JR2030490",
+    "External Path": "/job/India-Bengaluru/Senior-Physical-Design-Engineer_JR2030490",
+    "Bullet Fields": [
+      "JR2030490"
+    ],
+    "Requisition ID": "JR2030490",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2030486",
+    "Title": "Physical Design Engineer",
+    "Location": "India, Bengaluru",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Physical-Design-Engineer_JR2030486",
+    "External Path": "/job/India-Bengaluru/Physical-Design-Engineer_JR2030486",
+    "Bullet Fields": [
+      "JR2030486"
+    ],
+    "Requisition ID": "JR2030486",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "2030242",
+    "Title": "Senior Software Safety Engineer - Halos Solutions",
+    "Location": "3 Locations",
+    "Posted Date": "2026-11-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Safety-Engineer---Halos-Solutions_JR2030242",
+    "External Path": "/job/US-CA-Santa-Clara/Senior-Software-Safety-Engineer---Halos-Solutions_JR2030242",
+    "Bullet Fields": [
+      "JR2030242"
+    ],
+    "Requisition ID": "JR2030242",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2030213",
+    "Title": "Director, DSX and DGX Cloud Business Development",
+    "Location": "US, CA, Santa Clara",
+    "Posted Date": "2026-11-23T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--DSX-and-DGX-Cloud-Business-Development_JR2030213",
+    "External Path": "/job/US-CA-Santa-Clara/Director--DSX-and-DGX-Cloud-Business-Development_JR2030213",
+    "Bullet Fields": [
+      "JR2030213"
+    ],
+    "Requisition ID": "JR2030213",
+    "Scraped At": "2026-11-24T16:57:00Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "2030537",
+    "Title": "Mixed Signal Circuit Designer (RDSS Intern)",
+    "Location": "2 Locations",
+    "Posted Date": "2026-11-24T00:00:00Z",
+    "Job URL": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Mixed-Signal-Circuit-Designer--RDSS-Intern-_JR2030537",
+    "External Path": "/job/Taiwan-Taipei/Mixed-Signal-Circuit-Designer--RDSS-Intern-_JR2030537",
+    "Bullet Fields": [
+      "JR2030537"
+    ],
+    "Requisition ID": "JR2030537",
+    "Scraped At": "2026-11-24T16:57:00Z",
     "Posted Date Original": "Posted Today"
   }
 ]
