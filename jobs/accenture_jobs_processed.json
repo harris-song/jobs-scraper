@@ -1,48 +1,123 @@
 [
   {
-    "Job ID": "00364333",
-    "Title": "Fraud Investigations Specialist",
+    "Job ID": "00277027",
+    "Title": "IT Projektleiter Öffentliche Verwaltung (all genders)",
+    "Location": "",
+    "Posted Date": "2026-11-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg/IT-Projektleiter-ffentliche-Verwaltung--all-genders-_R00277027",
+    "External Path": "/job/Kronberg/IT-Projektleiter-ffentliche-Verwaltung--all-genders-_R00277027",
+    "Bullet Fields": [
+      "R00277027",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00277027",
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00375135",
+    "Title": "HR Opportunities with Greek",
+    "Location": "",
+    "Posted Date": "2026-11-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bucharest/HR-Opportunities-with-Greek_R00375135",
+    "External Path": "/job/Bucharest/HR-Opportunities-with-Greek_R00375135",
+    "Bullet Fields": [
+      "R00375135",
+      "Bucharest"
+    ],
+    "Requisition ID": "R00375135",
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00294077",
+    "Title": "AI Delivery Tech Lead, Song Service",
+    "Location": "",
+    "Posted Date": "2026-11-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Customer-Platforms-Manager_R00294077",
+    "External Path": "/job/London/Customer-Platforms-Manager_R00294077",
+    "Bullet Fields": [
+      "R00294077",
+      "London"
+    ],
+    "Requisition ID": "R00294077",
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00375148",
+    "Title": "UKG Pro WFM Consultant",
+    "Location": "",
+    "Posted Date": "2026-11-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lisbon/UKG-Pro-WFM-Consultant_R00375148",
+    "External Path": "/job/Lisbon/UKG-Pro-WFM-Consultant_R00375148",
+    "Bullet Fields": [
+      "R00375148",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00375148",
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00372105",
+    "Title": "Graduate 2027 | Supply Chain & Engineering",
+    "Location": "",
+    "Posted Date": "2026-11-26T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Oslo/Graduate-2027---Supply-Chain---Engineering_R00372105",
+    "External Path": "/job/Oslo/Graduate-2027---Supply-Chain---Engineering_R00372105",
+    "Bullet Fields": [
+      "R00372105",
+      "Oslo"
+    ],
+    "Requisition ID": "R00372105",
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Today"
+  },
+  {
+    "Job ID": "00375065",
+    "Title": "Academia SAP Funcional 2027.1",
     "Location": "",
     "Posted Date": "2026-11-25T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Fraud-Investigations-Specialist_R00364333",
-    "External Path": "/job/Buenos-Aires/Fraud-Investigations-Specialist_R00364333",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Academia-SAP-Funcional-20271_R00375065",
+    "External Path": "/job/Sao-Paulo-Torre-Paineira/Academia-SAP-Funcional-20271_R00375065",
     "Bullet Fields": [
-      "R00364333",
+      "R00375065",
+      "Location Negotiable"
+    ],
+    "Requisition ID": "R00375065",
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00375058",
+    "Title": "Representante de Vendas B2B - Analista Pleno | Espanhol | Exclusiva PCD",
+    "Location": "",
+    "Posted Date": "2026-11-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/So-Paulo---Barueri/Representante-de-Vendas-B2B---Analista-Pleno---Espanhol---Exclusiva-PCD_R00375058",
+    "External Path": "/job/So-Paulo---Barueri/Representante-de-Vendas-B2B---Analista-Pleno---Espanhol---Exclusiva-PCD_R00375058",
+    "Bullet Fields": [
+      "R00375058",
+      "São Paulo - Barueri"
+    ],
+    "Requisition ID": "R00375058",
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "",
+    "Title": "",
+    "Location": "",
+    "Posted Date": "",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers",
+    "External Path": "",
+    "Bullet Fields": [
+      "R00355008",
       "Buenos Aires"
     ],
-    "Requisition ID": "R00364333",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00368671",
-    "Title": "S&C GN - Tech Strategy & Transformation - TO VRO - Senior Manager",
-    "Location": "",
-    "Posted Date": "2026-11-25T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram-DDC1A-NonSTPI/S-C-GN---Tech-Strategy---Transformation---TO-VRO---Senior-Manager_R00368671",
-    "External Path": "/job/Gurugram-DDC1A-NonSTPI/S-C-GN---Tech-Strategy---Transformation---TO-VRO---Senior-Manager_R00368671",
-    "Bullet Fields": [
-      "R00368671",
-      "Gurugram, Ddc1A, Nonstpi"
-    ],
-    "Requisition ID": "R00368671",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00348868",
-    "Title": "Data Architect",
-    "Location": "",
-    "Posted Date": "2026-11-25T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/Associate-Data-Architect_R00348868",
-    "External Path": "/job/Ebene/Associate-Data-Architect_R00348868",
-    "Bullet Fields": [
-      "R00348868",
-      "Ebene"
-    ],
-    "Requisition ID": "R00348868",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
+    "Requisition ID": "R00355008",
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": ""
   },
   {
     "Job ID": "00361621",
@@ -56,8 +131,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00361621",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00369268",
@@ -71,8 +146,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00369268",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00369256",
@@ -86,8 +161,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00369256",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00369261",
@@ -101,8 +176,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00369261",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00369259",
@@ -116,8 +191,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00369259",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00369664",
@@ -131,8 +206,8 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00369664",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00367975",
@@ -146,8 +221,8 @@
       "Bucharest"
     ],
     "Requisition ID": "R00367975",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00352619",
@@ -161,8 +236,8 @@
       "Amsterdam"
     ],
     "Requisition ID": "R00352619",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00358662",
@@ -176,8 +251,8 @@
       "London"
     ],
     "Requisition ID": "R00358662",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00340995",
@@ -191,8 +266,23 @@
       "Location Negotiable"
     ],
     "Requisition ID": "R00340995",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
+  },
+  {
+    "Job ID": "00323181",
+    "Title": "Trust & Safety Specialist (Content Moderator) with English and Polish (Night Shift: 23-7)",
+    "Location": "",
+    "Posted Date": "2026-11-25T00:00:00Z",
+    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow/Content-Moderator-with-English-and-Polish--Night-Shift--23--7-_R00323181",
+    "External Path": "/job/Krakow/Content-Moderator-with-English-and-Polish--Night-Shift--23--7-_R00323181",
+    "Bullet Fields": [
+      "R00323181",
+      "Krakow"
+    ],
+    "Requisition ID": "R00323181",
+    "Scraped At": "2026-11-26T16:27:58Z",
+    "Posted Date Original": "Posted Yesterday"
   },
   {
     "Job ID": "00210396",
@@ -206,97 +296,7 @@
       "Ho Chiminh"
     ],
     "Requisition ID": "R00210396",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "/job/Canberra-Brindabella-Business-Park/Data---AI-Consultant_14328924",
-    "Title": "Data & AI Consultant",
-    "Location": "",
-    "Posted Date": "2026-11-25T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Canberra-Brindabella-Business-Park/Data---AI-Consultant_14328924",
-    "External Path": "/job/Canberra-Brindabella-Business-Park/Data---AI-Consultant_14328924",
-    "Bullet Fields": [
-      "14328924",
-      "Canberra, Brindabella Business Park"
-    ],
-    "Requisition ID": "14328924",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Today"
-  },
-  {
-    "Job ID": "00360666",
-    "Title": "Geographic Legal Counsel Specialist",
-    "Location": "",
-    "Posted Date": "2026-11-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Geographic-Legal-Counsel-Specialist_R00360666",
-    "External Path": "/job/Sao-Paulo-Torre-Paineira/Geographic-Legal-Counsel-Specialist_R00360666",
-    "Bullet Fields": [
-      "R00360666",
-      "Sao Paulo, Torre Paineira"
-    ],
-    "Requisition ID": "R00360666",
-    "Scraped At": "2026-11-25T16:45:56Z",
+    "Scraped At": "2026-11-26T16:27:58Z",
     "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00351721",
-    "Title": "Technical Lead - Threat Research",
-    "Location": "",
-    "Posted Date": "2026-11-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Threat-Intelligence-Production-Lead_R00351721",
-    "External Path": "/job/London/Threat-Intelligence-Production-Lead_R00351721",
-    "Bullet Fields": [
-      "R00351721",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00351721",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00343543-1",
-    "Title": "Security Operations Center Technology Associate Manager",
-    "Location": "",
-    "Posted Date": "2026-11-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dublin/Security-Operations-Center-Technology-Associate-Manager_R00343543-1",
-    "External Path": "/job/Dublin/Security-Operations-Center-Technology-Associate-Manager_R00343543-1",
-    "Bullet Fields": [
-      "R00343543",
-      "Dublin"
-    ],
-    "Requisition ID": "R00343543",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00371706",
-    "Title": "Procurement Practice Senior Analyst",
-    "Location": "",
-    "Posted Date": "2026-11-24T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Procurement-Practice-Senior-Analyst_R00371706",
-    "External Path": "/job/Buenos-Aires/Procurement-Practice-Senior-Analyst_R00371706",
-    "Bullet Fields": [
-      "R00371706",
-      "Location Negotiable"
-    ],
-    "Requisition ID": "R00371706",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted Yesterday"
-  },
-  {
-    "Job ID": "00374419",
-    "Title": "Desenvolvedor Salesforce Marketing Cloud Pleno",
-    "Location": "",
-    "Posted Date": "2026-11-23T00:00:00Z",
-    "Job URL": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/So-Paulo---Barueri/Desenvolvedor-Salesforce-Pleno_R00374419",
-    "External Path": "/job/So-Paulo---Barueri/Desenvolvedor-Salesforce-Pleno_R00374419",
-    "Bullet Fields": [
-      "R00374419",
-      "São Paulo - Barueri"
-    ],
-    "Requisition ID": "R00374419",
-    "Scraped At": "2026-11-25T16:45:56Z",
-    "Posted Date Original": "Posted 2 Days Ago"
   }
 ]
